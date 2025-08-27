@@ -1,0 +1,23 @@
+DynamicRadio_CN = {
+--[[Voiced Radio and TVs]]
+AEBS_Intro = "<噗滋> 五零二. <呜滋> 自动广播系统. <噗滋>[cdt=3.68]",
+AEBS_Choppah = "检测到空中活动.[cdt=2.96]",
+AEBS_Power_1 = "诺克斯电网：检测到电力波动.[cdt=6.80]",
+AEBS_Power_2 = "诺克斯电网：系统出现故障.电网受损.[cdt=18.42]",
+AEBS_Power_3 = "诺克斯电网：供电中断.[cdt=20.81]",
+AEBS_Pre_today = "今天,[cdt=16.75]",
+AEBS_Pre_tomorrow = "明天,[cdt=16.75]",
+AEBS_Pre_dayafter = "后天,[cdt=16.75]",
+AEBS_wind_0 = "预计有 %s, 风向为 %s. 最大风力 %s. %s[cdt=11.38]",
+AEBS_fog_0 = "轻雾.[cdt=2.91]",
+AEBS_fog_1 = "大雾.[cdt=2.91]",
+AEBS_fog_2 = "浓雾.[cdt=2.91]",
+AEBS_weather_0_a = "警报：预测的天气将于 %s 开始... [cdt=10.00]",
+AEBS_weather_0_b = "天气将会持续一整天... [cdt=10.00]",
+AEBS_weather_0_c = "预测的天气将在 %s 结束... [cdt=10.00]",
+AEBS_weather_warning = "恶劣天气警报. %s 即将到来.预计 %s 天后抵达...[cdt=10.00]",
+AEBS_random_0 = "全体人员. %s 隔离区的临时通信发生故障... 扇区 %i, %i, %i 和 %i[cdt=7.00]",
+AEBS_random_1 = "查理 <滋> 印度 - 阿尔法小队, <噗滋> 指定区域 <噗滋> 扇区 %i <呜滋>[cdt=7.00]",
+AEBS_random_2 = "全体人员 <噗滋> 命令 <滋> %i 已下达 <呜滋>[cdt=7.00]",
+AEBS_random_3 = "...%s <滋> 扇区 %i 发生活动 <呜滋>[cdt=7.00]",
+}

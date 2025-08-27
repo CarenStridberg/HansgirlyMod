@@ -1,0 +1,2 @@
+<CENTRE> <SIZE:medium> 房 车 开 局, 流 浪 生 存 <LINE> (Vanvival Start, Nomad Survival)  <LINE> <LINE>
+<LEFT> <SIZE:small> 你 将 随 机 出 生 在 某 个 地 点 <LINE> 开 启 属 于 自 己 的 流 浪 生 存 之 旅 . <LINE> 准 备 好 杀 出 重 围 了 吗 ? <LINE> 还 是 最 终 成 为 僵 尸 的 猎 物 ?

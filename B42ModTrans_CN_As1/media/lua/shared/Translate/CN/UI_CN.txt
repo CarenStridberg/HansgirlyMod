@@ -1,0 +1,21 @@
+UI_CN = {
+	UI_ChestHair = "体毛"
+    UI_Muscle = "肌肉",
+    UI_BodyHairGrowth = "体毛生长",
+    UI_characreation_face = "面部",
+    UI_characreation_bodydetail = "细节",
+    UI_characreation_charapanel = "自定义外观",
+    UI_characreation_appearance = "外观",
+    UI_characreation_shave = "剃须",
+
+    UI_characreation_facedisabled = "无法更改面部",
+    UI_characreation_detailsdisabled = "无法更改细节",
+    
+    UI_shave_stubble_beard = "剃胡须",
+    UI_shave_stubble_head = "剃头部胡茬",
+    UI_shave_stubble_body = "剃体毛",
+    
+    UI_debug_add_stubble_beard = "(调试) 添加胡茬",
+    UI_debug_add_stubble_head = "(调试) 添加头部胡茬",
+    UI_debug_add_stubble_body = "(调试) 添加体毛",
+}

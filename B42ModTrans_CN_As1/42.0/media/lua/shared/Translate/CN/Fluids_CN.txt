@@ -1,0 +1,21 @@
+Fluids_CN = {
+--[[Herbalist]]
+Fluid_Name_RiceMilk = "米浆",
+Fluid_Name_Ginseng = "人参药剂",
+Fluid_Name_Lemongrass = "柠檬草药剂",
+Fluid_Name_Mallow = "锦葵草本茶",
+--[[Functional Appliances 2]]
+Fluid_Name_FABubBeer = "巴布啤酒",
+Fluid_Name_FABubLiteBeer = "巴布轻啤",
+Fluid_Name_FASwillerBeer = "斯威勒啤酒",
+Fluid_Name_FASwillerLiteBeer = "斯威勒轻啤",
+Fluid_Name_FAHomeBrewBeer = "家酿啤酒",
+Fluid_Name_FAMixedBerries = "混合莓果苏打",
+Fluid_Name_FALemonLime = "柠檬青柠苏打",
+Fluid_Name_FARootBeer = "根汁啤酒",
+Fluid_Name_FAKYCola = "肯塔基可乐",
+Fluid_Name_FADrPeppa = "胡椒博士",
+Fluid_Container_BeerMug = "啤酒杯",
+--[[Farming Expansion B42]]
+Fluid_Container_FermentationPot = "发酵罐",
+}

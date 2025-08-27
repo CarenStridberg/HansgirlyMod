@@ -1,0 +1,33 @@
+Moveables_CN = {
+--[[Lifestyle: Hobbies]]
+Disco_Ball = "迪斯科球",
+DJ_Booth = "DJ台",
+Easel_Painting = "画架",
+EaselCanvas_Painting = "画架(画布)",
+--[[Light Switch Plus(B42)]]
+Switch1_Outdoor_Lamp = "新开关（左）", 
+Switch2_Outdoor_Lamp = "新开关（右）", 
+Ko_OL_0_Outdoor_Lamp = "改进圆形户外灯", 
+Ko_OL_1_Outdoor_Lamp = "改进复古户外灯", 
+Ko_OL_2_Outdoor_Lamp = "改进现代户外灯", 
+Ko_OL_3_Outdoor_Lamp = "改进精致户外灯", 
+Ko_OL_4_Outdoor_Lamp = "改进椭圆形户外灯", 
+Ko_OL_5_Sign = "改进霓虹招牌（开启）", 
+Ko_OL_6_Lights = "改进聚光灯" 
+--[[[OUTDATED] Support Corps [B42] Sweet-release Update]]
+PortableElectricStove = "便携式电炉", 
+PortableFuelStove = "便携式燃料炉", 
+PortableGenerator = "便携式发电机", 
+FuelLantern = "燃油灯", 
+CampingShower = "露营淋浴器", 
+
+--------------------[B42] Water Pipes (aka Plumbing)(3546314080)--------------------
+    Water_Pump = "水泵",
+    Water_Pipe = "水管",
+    Water_Valve = "水阀",
+    Water_Flowmeter = "水流量计",
+    Water_Sprinkler = "喷洒器",
+
+--------------------台锯[B42](3540297822)--------------------
+    Metal_TableSaw = "台锯",
+}
