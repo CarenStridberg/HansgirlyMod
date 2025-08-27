@@ -1,2 +1,4 @@
 v1.0 2025.08.27
 初始化模组。
+Workshop ID: 3556540080
+Mod ID: B42ModTrans_CN
