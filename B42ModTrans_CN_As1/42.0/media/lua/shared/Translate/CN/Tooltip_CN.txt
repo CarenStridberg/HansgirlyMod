@@ -481,4 +481,101 @@ Tooltip_CCUpgrade_Tier8 = "可将容器容量提升至10000的升级套件"
     
     Tooltip_item_AppearanceChanger = "持有此斯皮福可让你改变外观。请查看信息面板"
     Tooltip_item_AppearanceUnlocker = "持有此熊可解锁管理员锁定的自定义选项"
+
+--------------------Bath Towels Overhaul（3416208765）--------------------
+    Tooltip_BathTowelsOverhaulTowel = "用于在潮湿时擦干自己。",
+    Tooltip_BathTowelsOverhaulTowel_DustCloth = "用它来清洁污垢，需配合清洁液。",
+    Tooltip_Recipe_RipTowel = "将毛巾撕裂成碎布片。",
+
+    Tooltip_Recipe_SewDustCloth = "缝制抹布用于清洁。",
+    Tooltip_Recipe_RipDustCloth = "将抹布撕裂成碎布片。",
+
+    Tooltip_BathTowelsOverhaulTowelWearable = "一条浴巾，可包裹身体。",
+--------------------KI5车辆合集--------------------
+    ------that DAMN Library------
+        /* runFlat */
+        Tooltip_item_runFlatTire = "军用级轮胎，永远不会爆胎，但在损耗严重时会失去抓地力。",
+
+        /* damnCraft */
+        Tooltip_item_damnSteelRim = "用于制作轮胎的基础轮辋类型。",
+        Tooltip_item_damnTireRubber = "轮胎橡胶用于制作轮胎。橡胶的损耗程度会影响制作出轮胎的损耗状态。",
+        Tooltip_item_damnTireMount = "橡胶轮胎支架可在存放橡胶时节省空间。",
+        Tooltip_item_damnGlassPane = "玻璃板需配合手术刀制作车辆车窗。",
+        Tooltip_item_damnHandle = "把手用于制作车辆车门。",
+        Tooltip_item_damnHinge = "铰链用于制作车辆车门。",
+        Tooltip_item_damnRubberStrip = "橡胶条用于制作挡风玻璃和车辆车门。",
+        Tooltip_item_damnSeatFabric = "座椅面料用于制作车辆座椅。",
+        Tooltip_item_damnSeatFoam = "座椅泡沫用于制作车辆座椅。",
+        Tooltip_item_damnSeatFrame = "座椅框架用于制作车辆座椅。",
+
+        Tooltip_item_damnTireRepairKit = "便携式轮胎维修工具套装。",
+        Tooltip_item_damnTireRepairTools = "轮胎维修套装的核心工具，需配合橡胶溶液和修补条修补轮胎。",
+        Tooltip_item_damnTireRepairSolution = "轮胎维修套装三大组件之一，需配合维修工具和修补条修补轮胎。",
+        Tooltip_item_damnTireRepairStrips = "轮胎维修套装三大组件之一，需配合维修工具和橡胶溶液修补轮胎。",
+
+        Tooltip_item_damnPlasticWeldingKit = "便携式塑料部件维修工具套装。",
+        Tooltip_item_damnPlasticWeldingGun = "塑料焊接套装的核心工具，需配合电池和焊接钉使用。",
+        Tooltip_item_damnPlasticWeldingStaples = "塑料焊接套装的两大组件之一，需配合电池驱动的焊接枪维修塑料部件。",
+
+        Tooltip_item_damnmoldBox = "用于制作石膏模具的木箱。",
+        Tooltip_item_damngenericMold = "内含浸入石膏的塑料部件的木箱。",
+        Tooltip_item_damngenericNegativeMold = "可用于配合泡沫糊制作新塑料部件的石膏阴模。",
+        Tooltip_item_damngenericFilledMold = "填充了泡沫糊的石膏模具。",
+        Tooltip_item_damnacetone = "丙酮容器，用于制作泡沫糊。",
+        Tooltip_item_damnstyrofoam = "泡沫塑料需配合丙酮制作泡沫糊。",
+        Tooltip_item_damnstyrofoamPaste = "泡沫糊容器，用于在模具中制作新塑料部件。",
+
+        /* USMIL */
+        /* Vehicle */
+        Tooltip_item_damnAutoManual = "包含特定车辆制作图纸的手册",
+        Tooltip_item_damnSideArmor = "保护侧窗的装甲组件",
+        Tooltip_item_damnWindshieldFrontArmor = "保护前挡风玻璃的装甲组件",
+        Tooltip_item_damnWindshieldRearArmor = "保护后挡风玻璃的装甲组件",
+        Tooltip_item_damnBumperFront = "为基础大灯、引擎盖和引擎提供防护",
+        Tooltip_item_damnBullbarFront = "为大灯、引擎盖和引擎提供强力防护",
+        Tooltip_item_damnBumperRear = "为基础尾灯、后备箱盖和后备箱储物区提供防护",
+        Tooltip_item_damnBullbarRear = "为尾灯、后备箱盖和后备箱储物区提供强力防护",
+	------'84 Mercedes Benz W460------
+        Tooltip_item_W460onlyMilitary = "该配件仅可安装于军用型号！",
+--------------------Frockin Wiseguys!(3538760023)--------------------
+    Tooltip_item_TonySoprano = "给你，托恩。",
+--------------------Baby Animal Food(3422249642)--------------------
+	Tooltip_Recipe_MakeFeedForSmallAnimals = "这种饲料将帮助您拯救<br>在这个残酷的僵尸世界中失去母亲的幼崽。",
+--------------------My So-Called Toy(3540268758)--------------------
+    Tooltip_P4MySoCalledToy_SoldOut = "售罄",
+    Tooltip_P4MySoCalledToy_NeedMoney = "旋转胶囊玩具机需要金钱。",
+    Tooltip_Recipe_P4ShuffleSlidingPuzzle = "需要完成滑动拼图才能继续。",
+    Tooltip_Recipe_P4FurtherInflateBalloon = "气球可能会爆裂。",
+    Tooltip_Recipe_P4AttachCarabiner = "连接到登山扣后，可以将其系在腰带上。",
+--------------------KATTAJ1 Clothes Core [B41/B42](3470422050)--------------------
+    Tooltip_KATTAJ1_TacticalFlashlight = "KATTAJ1工业制造的战术手电筒。在完全黑暗的环境中提供照明。坚固耐用且性能可靠。可安装在部分KATTAJ1头盔上",
+--------------------[B42] Water Pipes (aka Plumbing)(3546314080)--------------------
+    Tooltip_WP_ThePumpWornHazard = "水泵状态不良，可能引发火灾！",
+    Tooltip_WP_ThePumpIsWornOut = "水泵已完全老化",
+    Tooltip_WP_NeedsPowerToOperate = "需要电力驱动",
+    Tooltip_WP_NeedsCharcoal = "需要木炭",
+    Tooltip_WP_NeedsScrapMetal = "需要金属废料",
+    Tooltip_WP_craft_pipeDesc = "用于建造输水管道",
+    Tooltip_WP_craft_pumpDesc = "将水泵入管道系统",
+    Tooltip_WP_craft_sprinklerDesc = "为农作物提供喷灌",
+    Tooltip_WP_craft_valveDesc = "控制管道水流开闭",
+    Tooltip_WP_craft_flowmeterDesc = "测量管道水流量",
+--------------------Vehicle Repair Overhaul(2757712197)--------------------
+        ------Vehicle Repair Overhaul------
+            Tooltip_FixAFlat = "修理车辆轮胎。",
+            Tooltip_EHR_NewCondition = "全新状态",
+            Tooltip_ELR_NewCondition = "全新状态",        
+        ------Vehicle Repair Overhaul - Vehicle Salvage Overhaul------
+            Tooltip_SalvageVehicle = "使用焊工面罩和丙烷喷灯回收车辆可清除道路障碍。车辆回收耗时比拆除残骸更长、消耗丙烷更多，但能获得额外物资及更高经验值。<LINE>金工技能越高，可回收的可用材料越多。<LINE>*提示：请先拆卸车辆部件并清空后备箱。",
+--------------------PertsPartyTiles(2837923608)--------------------
+    Tooltip_OverlookAxe = "强尼来啦！",
+    Tooltip_BoringBook = "93年修订版无聊之书",
+    Tooltip_Trophy = "授予......以表彰其成就......——不仅用于展示！",
+--------------------Tow Truck [B42](3446203945)--------------------
+    Tooltip_item_RhinoBullbar = "安装在拖车前部，保护引擎盖和车灯。",
+    Tooltip_item_WSArmor = "覆盖挡风玻璃安装，提供玻璃防护。",
+    Tooltip_item_DoorArmor = "焊接在车门上，提供门窗防护。",
+    Tooltip_TowBar_TowMod = "用于两车间刚性牵引连接。",
+--------------------[B42] Ogrim Mod's - My Own Well(3549290115)--------------------
+    Tooltip_WellsConstruction = "长期储水设施",
 }

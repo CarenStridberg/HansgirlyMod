@@ -500,8 +500,8 @@ UI_TheStar_ProgressBar_Tooltip = "使用进度条作为物品槽的背景来显�
 UI_TheStar_ProgressBar_Orientation = "进度条方向",
 UI_TheStar_ProgressBar_Horizontal = "水平",
 UI_TheStar_ProgressBar_Vertical = "垂直",
-UI_TheStar_ProgressBar_Opacity = "进度条透明度（快捷栏）",
-UI_TheStar_ProgressBar_OpacityEquipped = "进度条透明度（装备物品）",
+UI_TheStar_ProgressBar_Opacity = "进度条透明度 (快捷栏)",
+UI_TheStar_ProgressBar_OpacityEquipped = "进度条透明度 (装备物品)",
 UI_TheStar_ProgressBar_Opacity_Tooltip = "背景的透明度.值越高透明度越低.",
 UI_TheStar_ProgressBar_Multicolor = "多色进度条",
 UI_TheStar_ProgressBar_Multicolor_Tooltip = "进度条的颜色会根据物品的状态变化：<br>绿色 - 良好,<br>黄色 - 中等,<br>红色 - 差.",
@@ -855,4 +855,143 @@ UI_options_NepHB_glowWhenHBOff_tooltip = "允许同时使用行驶头灯和普�
     UI_debug_add_stubble_beard = "(调试) 添加胡茬",
     UI_debug_add_stubble_head = "(调试) 添加头部胡茬",
     UI_debug_add_stubble_body = "(调试) 添加体毛",
+
+--------------------Bath Towels Overhaul(3416208765)--------------------
+
+    UI_WipeMyself_DirtyTowel = "呃... 毛巾发臭了。",
+    UI_WipeMyself_TooWetTowel = "啊... 毛巾湿透了！",
+
+    UI_BathTowelsOverhaul_WipeMySelfMode = "擦身模式",
+    UI_BathTowelsOverhaul_WipeMySelfMode_tooltip = "在此模式下，即使身体不湿，如果有污垢或血迹，\"擦干自己\" 将可用。<LINE> *当使用\"擦干自己\"时，会尽可能多地擦除身体的湿润度、污垢和血迹。<LINE> (通常，一次只能擦除身体上最多20%的污垢。)<LINE> *如果显示\"擦干自己上下文提示\"，玩家的污垢和血迹状态也会显示。<BR> *在原版游戏中，身体污垢和血迹没有太多负面影响，但其他模组可能导致它们引起健康问题或吸引僵尸，因此在此类情况下很有用。<LINE> 然而，你需要更频繁地清洗毛巾。",
+    UI_BathTowelsOverhaul_DrySelfContextTooltip = "擦干自己上下文菜单提示",
+    UI_BathTowelsOverhaul_DrySelfContextIcon = "擦干自己上下文菜单图标",
+    UI_BathTowelsOverhaul_IconTexture = "图标纹理",
+    UI_BathTowelsOverhaul_DrySelfNotAfterSay = "擦干自己后不说话",
+    UI_BathTowelsOverhaul_DrySelfNotAfterSay_tooltip = "如果为False，使用\"擦干自己\"后，角色会说出毛巾是否太湿或太脏。",
+    UI_BathTowelsOverhaul_TowelAbsorbencyOnTooltip = "毛巾吸水性在提示上",
+    UI_BathTowelsOverhaul_TowelAbsorbencyOnTooltip_tooltip = "如果可能，在毛巾物品的提示框中显示吸水值。\n(此功能需要Starlit Lib模组。)",
+
+    UI_BathTowelsOverhaul_option_Undisplay = "不显示",
+    UI_BathTowelsOverhaul_option_DisplayText = "显示 (值为文本)",
+    UI_BathTowelsOverhaul_option_DisplayNumber = "显示 (值为数字)",
+    UI_BathTowelsOverhaul_option_DisplayBar = "显示 (值为条状)",
+    UI_BathTowelsOverhaul_option_AllowableOnly = "仅在允许时",
+    UI_BathTowelsOverhaul_option_Always = "总是",
+    UI_BathTowelsOverhaul_option_Never = "从不",
+    UI_BathTowelsOverhaul_option_UIIcon = "UI图标",
+    UI_BathTowelsOverhaul_option_ItemIcon = "物品图标",
+--------------------Frockin Shirts & Ties!(3453676250)--------------------
+
+    UI_ClothingType_FSShirt = "衬衫*",
+--------------------Frockin Splendor! Vol.2(3411888105)--------------------
+
+    UI_ClothingType_KIU3 = "KinkItUp! 槽位3",
+    UI_ClothingType_KIU2 = "KinkItUp! 槽位2",
+    UI_ClothingType_KIU1 = "KinkItUp! 槽位1",
+    UI_ClothingType_KIU0 = "KinkItUp! 槽位0"
+
+    UI_ClothingType_KIUA = "KinkItUp! 槽位A",
+    UI_ClothingType_KIUB = "KinkItUp! 槽位B",
+    UI_ClothingType_KIUC = "KinkItUp! 槽位C",
+
+    UI_ClothingType_KIUX = "KinkItUp! 槽位X",
+--------------------Frockin Splendor! Vol.3(3431256608)--------------------
+
+    UI_ClothingType_LeftLeg = "左腿",
+    UI_ClothingType_RightLeg = "右腿",
+--------------------Frockin Wiseguys!(3538760023)--------------------
+
+	UI_ClothingType_JacketSuitSlim = "修身西装夹克*",
+	UI_ClothingType_BathRobeCoat = "浴袍式外套*",
+--------------------My So-Called Toy(3540268758)--------------------
+    UI_P4MySoCalledToy_Title_P4MovCapsuleToy01 = "胶囊玩具 (斯皮福的滑动拼图)",
+    UI_P4MySoCalledToy_Title_P4MovCapsuleToy02 = "胶囊玩具 (Pump Pury Vol.1)",
+    UI_P4MySoCalledToy_Title_P4MovCapsuleToy03 = "胶囊玩具 (Pump Pury Vol.2)",
+    UI_P4MySoCalledToy_Title_P4MovCapsuleToy04 = "胶囊玩具 (毛绒气球)",
+    UI_P4MySoCalledToy_Title_P4MovCapsuleToy05 = "胶囊玩具 (斯皮福的登山扣)",
+    UI_P4MySoCalledToy_Title_P4MovCapsuleToy06 = "胶囊玩具 (晴天娃娃)",
+    UI_P4MySoCalledToy_NewRecord = "新纪录！",
+    UI_P4MySoCalledToy_MissingCapsule = "咦...？胶囊没出来...",
+    UI_P4MySoCalledToy_ExtraCapsule = "咦...？出来两个胶囊！",
+    UI_P4MySoCalledToy_FurtherInflateSuccess = "哇！它变得更大了！！",
+    UI_P4MySoCalledToy_FurtherInflateFail = "哦不！它爆了！！",
+--------------------Restore Engine Quality [B42](3543612325)--------------------
+    UI_options_REQ_title = "修复引擎品质",
+    UI_options_REQ_enginePartsPerIteration = "引擎零件消耗倍数",
+    UI_options_REQ_enginePartsPerIteration_tooltip = "每次修复迭代消耗的备用引擎零件数量。<br>值越低，修复越容易（所需材料更少）；值越高，修复越困难（所需材料更多）。范围：1-5，默认值：2"
+--------------------Vehicle Repair Overhaul(2757712197)--------------------
+        ------Vehicle Repair Overhaul------
+            UI_VRO_Options_Title = "载具维修大修",
+            UI_VRO_ELR_Options = "启用原版警灯维修选项",
+            UI_VRO_ELR_Options_Tooltip = "启用原版警灯维修选项. 如果您安装了其他修改警灯右键菜单的模组，此选项会很有用.",
+
+        ------Vehicle Repair Overhaul - Vehicle Salvage Overhaul------
+--------------------Tow Truck [B42](3446203945)--------------------
+    UI_Text_Towing_noAviableVehicles = "无可牵引车辆<br>或无法牵引",
+    UI_Text_Towing_attach = "连接",
+    UI_Text_Towing_detach = "断开连接",
+    UI_Text_Towing_flip = "翻转车辆",
+    UI_Text_Towing_byHook = "挂钩牵引",
+    UI_Text_Towing_trailer = "拖车模式",
+    UI_Text_Towing_heightmenu = "牵引高度调节",
+    UI_Text_Towing_heightup = "升高牵引高度",
+    UI_Text_Towing_heightdown = "降低牵引高度",
+    UI_Text_Towing_heightmin = "牵引高度已达最低",
+    UI_Text_Towing_heightmax = "牵引高度已达最高",
+    UI_Text_Towbar_detach = "从车辆断开拖车杠",
+    UI_Text_Towbar_attach = "连接拖车杠至车辆",
+--------------------[B42] Ogrim Mod's - Universal Custom Firearm(3551139118)--------------------
+    UI_MyCustomFirearm_UPGRADE_INFO_Damage = "伤害",
+    UI_MyCustomFirearm_UPGRADE_INFO_Range = "射程",
+    UI_MyCustomFirearm_UPGRADE_INFO_CriticalChance = "暴击率",
+    UI_MyCustomFirearm_UPGRADE_INFO_CriticalDamage = "暴击伤害",
+    UI_MyCustomFirearm_UPGRADE_INFO_MaxCondition = "最大耐久",
+    UI_MyCustomFirearm_UPGRADE_INFO_Accuracy = "精准度",
+    UI_MyCustomFirearm_UPGRADE_INFO_AimSpeed = "瞄准速度",
+    UI_MyCustomFirearm_UPGRADE_INFO_ReloadSpeed = "换弹速度",
+    UI_MyCustomFirearm_UPGRADE_INFO_RecoilTime = "后坐恢复",
+    UI_MyCustomFirearm_UPGRADE_INFO_NoiseRadius = "噪音范围",
+    UI_MyCustomFirearm_UPGRADE_INFO_NoiseVolume = "噪音强度",
+    UI_MyCustomFirearm_UPGRADE_INFO_MaxHitCount = "最大穿透数",
+
+    UI_MyCustomFirearm_UnknownItem = "未知物品",
+    UI_MyCustomFirearm_UnknownPart = "未知部件",
+    UI_MyCustomFirearm_UnknownAmmo = "未知弹药",
+
+    UI_MyCustomFirearm_UpgradedWeapon_Sulfix = "（已改装+%d级）",
+
+    UI_MyCustomFirearm_MSG_ToolDamaged = "%s损坏！",
+
+    UI_MyCustomFirearm_MSG_Disassembly_Success = "完成拆解%s！获得%d个武器零件，保养经验+%.2f",
+    UI_MyCustomFirearm_MSG_Disassembly_Fail = "%s拆解失败！保养经验+%.2f",
+
+    UI_MyCustomFirearm_MSG_Assembly_Success = "完成组装%s！保养经验+%.2f",
+
+    UI_MyCustomFirearm_MSG_Upgrade_Success = "完成%s改装！保养经验+%.2f",
+
+    UI_MyCustomFirearm_MSG_Repair_Success = "完成维修%s！保养经验+%.2f",
+
+    UI_MyCustomFirearm_MENU_Root = "定制枪械",
+
+    UI_MyCustomFirearm_MENU_Dismantle = "拆解（%.2f%%）",
+
+    UI_MyCustomFirearm_MENU_Repair_Ok = "维修%s（%s）[需%d零件]",
+    UI_MyCustomFirearm_MENU_Repair_NoParts = "零件不足无法维修%s（%s）[拥有%d/%d零件]",
+
+    UI_MyCustomFirearm_MENU_Upgrade_MaxReach = "改装%s：已达上限[%d/%d]",
+    UI_MyCustomFirearm_MENU_Upgrade_Ok = "改装%s：%d[+1]→%d级[需%d零件]",
+    UI_MyCustomFirearm_MENU_Upgrade_NoParts = "改装%s：%d[+1]→%d级[零件不足 - 拥有%d/%d零件]",
+
+    UI_MyCustomFirearm_MENU_NeedTool = "需要完好的螺丝刀（耐久≥20%）",
+
+    UI_MyCustomFirearm_MENU_Assemble_Ok = "组装%s（%s）[需%d零件]",
+    UI_MyCustomFirearm_MENU_Assemble_NoParts = "零件不足无法组装%s（%s）[拥有%d/%d零件]",
+
+    UI_MyCustomFirearm_MENU_UnknownWeapon = "未知武器或弹药类型！（%s - %s）",
+
+    UI_MyCustomFirearm_MENU_NeedInventory = "需置于玩家主物品栏！",
+
+    UI_MyCustomFirearm_MENU_FixUpgrades = "修正改装数据",
+--------------------[B42] Ogrim Mod's - My Own Well(3549290115)--------------------
+    UI_MSG_MyOwnWell_Abort_NewWell = "无法在此层修建水井，必须建造在地面层！",
 }

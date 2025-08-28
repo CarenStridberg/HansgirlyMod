@@ -2489,4 +2489,1405 @@ IGUI_ContainerTitle_securityterminal = "终端机",
     IGUI_Detail_BurnBody = "身体烧伤",
 
     IGUI_Detail_MissingEye = "缺失的眼睛",
+
+    ------模组UI补充------
+
+        IGUI_RecipeCategory_Plumbing = "管道工程",
+        IGUI_RecipeCategory_Akashi = "沙皇-改装部件",
+        IGUI_RecipeCategory_Armoring = "KI5-车辆防护",
+        IGUI_RecipeCategory_Armyprovisions = "MRE军粮",
+        IGUI_RecipeCategory_ATA = "沙皇-车辆配件",
+        IGUI_RecipeCategory_AuthenticZ = "AuthenticZ",
+        IGUI_RecipeCategory_Autotsar = "沙皇-拆解部件",
+        IGUI_RecipeCategory_Chinesecuisine = "舌尖上的中国",
+        IGUI_RecipeCategory_Collections = "蒂基镇",
+        IGUI_RecipeCategory_Daisy = "雏菊镇",
+        IGUI_RecipeCategory_FrockinSplendor = "华丽服装",
+        IGUI_RecipeCategory_Mechanical = "KI5-车辆部件",
+        IGUI_RecipeCategory_Recycling = "KI5-拆解部件",
+        IGUI_RecipeCategory_ResidentEvil = "浣熊市",
+        IGUI_RecipeCategory_Salvage = "回收车辆部件",
+        IGUI_RecipeCategory_SapphCooking = "Sapph烹饪",
+        IGUI_RecipeCategory_Sector-7 Breach = "七号沦陷区",
+        IGUI_RecipeCategory_Skill Journal = "技能日志",
+        IGUI_RecipeCategory_Survivalist = "刀鞘",
+        IGUI_RecipeCategory_Willowbrook Bastion = "柳溪镇",
+
+--------------------Bath Towels Overhaul(3416208765)--------------------
+
+    IGUI_TowelQuality_Poor = "粗糙的 ",
+    IGUI_TowelQuality_Fine = "精细的 ",
+    IGUI_TowelQuality_Luxury = "豪华的 ",
+
+    IGUI_BathTowelsOverhaul_Absorbency = "吸水率",
+    IGUI_BathTowelsOverhaul_Normal = "正常",
+    IGUI_BathTowelsOverhaul_NotGood = "不好",
+    IGUI_BathTowelsOverhaul_Good = "好",
+    IGUI_BathTowelsOverhaul_Great = "很好",
+    IGUI_BathTowelsOverhaul_BodyWetness = "身体湿润度",
+    IGUI_BathTowelsOverhaul_TowelWetness = "毛巾湿润度",
+    IGUI_BathTowelsOverhaul_Dry = "干燥",
+    IGUI_BathTowelsOverhaul_Slightly = "轻微湿润",
+    IGUI_BathTowelsOverhaul_Moist = "湿润",
+    IGUI_BathTowelsOverhaul_Wet = "潮湿",
+    IGUI_BathTowelsOverhaul_Soaked = "湿透",
+
+    IGUI_BathTowelsOverhaul_Clean = "干净",
+    IGUI_BathTowelsOverhaul_Slightly = "轻微脏污",
+    IGUI_BathTowelsOverhaul_Dirty = "脏的",
+    IGUI_BathTowelsOverhaul_Filthy = "污秽的",
+    IGUI_BathTowelsOverhaul_Grubby = "油腻的",
+
+    IGUI_BathTowelsOverhaul_NotWetness = "不够湿来擦干自己！",
+    IGUI_BathTowelsOverhaul_TowelTooWet = "太湿了无法使用！",
+    IGUI_BathTowelsOverhaul_TowelTooDirty = "太脏了无法使用！",
+    IGUI_BathTowelsOverhaul_TowelTooBlood = "太血腥了无法使用！",
+    IGUI_BathTowelsOverhaul_TowelBroken = "这条毛巾破破烂烂了！",
+--------------------Farming Wiki(3473886171)--------------------
+
+    IGUI_ImprovedFarmingInfoWindow_IsCursed = "诅咒作物",
+--------------------Frockin Splendor!(3307376332)--------------------
+
+    IGUI_ItemCat_FrockinDresses = "Frockin连衣裙",
+--------------------Frockin Shirts & Ties!(3453676250)--------------------
+
+    IGUI_ItemCat_FrockinShirts = "Frockin衬衫",
+--------------------Frockin Splendor! Vol.2(3411888105)--------------------
+
+    IGUI_ItemCat_FrockinCottons = "Frockin棉质服饰",
+    IGUI_ItemCat_FrockinDenim = "Frockin牛仔装",
+    IGUI_ItemCat_FrockinFishnets = "Frockin渔网袜",
+    IGUI_ItemCat_FrockinNylon = "Frockin尼龙装",
+--------------------Frockin Splendor! Vol.3(3431256608)--------------------
+
+        IGUI_ItemCat_FrockinLeather = "Frockin皮革装",
+        IGUI_ItemCat_FrockinFootwear = "Frockin鞋履",
+--------------------Frockin Splendor! Vol.4(3475347500)--------------------
+
+        IGUI_ItemCat_FrockinLace = "Frockin蕾丝装",
+--------------------Frockin Wiseguys!(3538760023)--------------------
+
+        IGUI_ItemCat_FrockinFineClothes = "Frockin精品服饰",
+--------------------Farming Wiki(3473886171)--------------------
+
+        IGUI_FarmingWikiUI_Title = "农耕百科",
+
+	IGUI_FarmingWiki_waterLvl = "最低需水量",
+	IGUI_FarmingWiki_waterLvlMax = "最高蓄水量",
+	IGUI_FarmingWiki_waterNeeded = "生长必需水量",
+	IGUI_FarmingWiki_timeToGrow = "单阶段生长耗时",
+	IGUI_FarmingWiki_HarvestableCount = "可收获次数",
+	IGUI_FarmingWiki_Name = "作物名称",
+	IGUI_FarmingWiki_vegetableName = "作物ID",
+	IGUI_FarmingWiki_produceExtra = "额外产物ID",
+	IGUI_FarmingWiki_seedName = "种子名称",
+	IGUI_FarmingWiki_seedTypes = "可用作种子的物品",
+	IGUI_FarmingWiki_badMonth = "禁播月份",
+	IGUI_FarmingWiki_sowMonth = "适播月份",
+	IGUI_FarmingWiki_bestMonth = "丰收月份(低病害)",
+	IGUI_FarmingWiki_riskMonth = "诅咒风险期",
+	IGUI_FarmingWiki_harvestLevel = "可收获阶段",
+	IGUI_FarmingWiki_fullGrown = "完全成熟阶段",
+	IGUI_FarmingWiki_scytheHarvest = "镰刀收割",
+	IGUI_FarmingWiki_coldHardy = "抗寒性",
+	IGUI_FarmingWiki_rotTime = "成熟后腐坏倒计时",
+	IGUI_FarmingWiki_badMonthHardyLevel = "逆境存活阶段",
+	IGUI_FarmingWiki_growBack = "再生阶段",
+	IGUI_FarmingWiki_isFlower = "花卉特性(收获时缓解忧郁/厌烦/压力)",
+
+	IGUI_FarmingWiki_aphidsBane = "蚜虫免疫·周边防护",
+	IGUI_FarmingWiki_aphidsProof = "蚜虫免疫",
+	IGUI_FarmingWiki_slugsBane = "蛞蝓免疫·周边防护",
+	IGUI_FarmingWiki_slugsProof = "蛞蝓免疫",
+	IGUI_FarmingWiki_mothBane = "霉粉病免疫·周边防护",
+	IGUI_FarmingWiki_mothProof = "霉粉病免疫",
+	IGUI_FarmingWiki_fliesBane = "腐蝇免疫·周边防护",
+	IGUI_FarmingWiki_fliesProof = "腐蝇免疫",
+
+	IGUI_FarmingWiki_true = "是",
+	IGUI_FarmingWiki_false = "否",
+--------------------KI5车辆合集--------------------
+    ------that DAMN Library------
+        IGUI_VehiclePartWindowBackLeft = "左后车窗",
+        IGUI_VehiclePartWindowBackRight = "右后车窗",
+        IGUI_VehiclePartWindowMiddleLeft = "左中车窗",
+        IGUI_VehiclePartWindowMiddleRight = "右中车窗",
+
+        IGUI_VehiclePartSeatMiddleMiddle = "中排中座",
+        IGUI_VehiclePartSeatRearMiddle = "后排中座",
+        IGUI_VehiclePartSeatBackLeft = "左后座",
+        IGUI_VehiclePartSeatBackMiddle = "后中座",
+        IGUI_VehiclePartSeatBackRight = "右后座",
+
+        IGUI_VehiclePartDAMNSpareTire = "备胎",
+        IGUI_VehiclePartDAMNSpareTireRoof = "车顶备胎",
+        IGUI_VehiclePartDAMNSpareTireTrunk = "后备箱备胎",
+        IGUI_VehiclePartDAMNSpareTireBed = "货斗备胎",
+        IGUI_VehiclePartDAMNSpareTireFront = "前置备胎",
+
+        IGUI_VehiclePartDAMNSideSteps = "侧踏板",
+        IGUI_VehiclePartDAMNSunRoof = "天窗",
+        IGUI_VehiclePartDAMNRoofLights = "车顶灯",
+        IGUI_VehiclePartDAMNTent = "车顶帐篷",
+        IGUI_VehiclePartDAMNMudflaps = "挡泥板",
+        IGUI_VehiclePartDAMNSnorkel = "涉水喉",
+        IGUI_VehiclePartDAMNSpoiler = "尾翼",
+        IGUI_VehiclePartDAMNSpoilerRoof = "车顶尾翼",
+        IGUI_VehiclePartDAMNBarrier = "驾驶室隔板",
+        IGUI_VehiclePartDAMNTruckBedCover = "货斗盖",
+        IGUI_VehiclePartDAMNSunVisor = "遮阳板",
+        IGUI_VehiclePartDAMNSideskirts = "侧裙",
+        IGUI_VehiclePartDAMNSearchlight = "探照灯",
+
+        IGUI_VehiclePartDAMNTrunk = "后备箱",
+        IGUI_VehiclePartDAMNRoofrack = "车顶储物架",
+        IGUI_VehiclePartDAMNGunrack = "枪架",
+        IGUI_VehiclePartDAMNStretcher = "担架",
+
+        IGUI_VehiclePartDAMNBumperFront = "前保险杠",
+        IGUI_VehiclePartDAMNBumperRear = "后保险杠",
+
+        IGUI_VehiclePartDAMNWindshieldArmor = "挡风装甲",
+        IGUI_VehiclePartDAMNWindshieldRearArmor = "后挡风装甲",
+        IGUI_VehiclePartDAMNFrontLeftArmor = "左前车窗装甲",
+        IGUI_VehiclePartDAMNFrontRightArmor = "右前车窗装甲",
+        IGUI_VehiclePartDAMNRearLeftArmor = "左后车窗装甲",
+        IGUI_VehiclePartDAMNRearRightArmor = "右后车窗装甲",
+        IGUI_VehiclePartDAMNMiddleLeftArmor = "左中车窗装甲",
+        IGUI_VehiclePartDAMNMiddleRightArmor = "右中车窗装甲",
+        IGUI_VehiclePartDAMNBackLeftArmor = "左后车窗装甲",
+        IGUI_VehiclePartDAMNBackRightArmor = "右后车窗装甲",
+
+        IGUI_VehiclePartDAMNGasCanOne = "汽油罐",
+        IGUI_VehiclePartDAMNGasCanTwo = "汽油罐",
+        IGUI_VehiclePartDAMNGasCanThree = "汽油罐",
+        IGUI_VehiclePartDAMNPropaneTankOne = "丙烷罐",
+        IGUI_VehiclePartDAMNPropaneTankTwo = "丙烷罐",
+        IGUI_VehiclePartDAMNGenerator = "发电机",
+
+        IGUI_VehiclePartDAMNFenderFrontLeft = "左前翼子板",
+        IGUI_VehiclePartDAMNFenderFrontRight = "右前翼子板",
+        IGUI_VehiclePartDAMNFenderRearLeft = "左后翼子板",
+        IGUI_VehiclePartDAMNFenderRearRight = "右后翼子板",
+
+        IGUI_VehiclePartToolboxLidRight = "右侧工具箱盖",
+        IGUI_VehiclePartToolboxLidLeft = "左侧工具箱盖"
+    ------Trailers!------
+        IGUI_VehicleNameTrailerKI5utilityLarge = "大型工具拖车",
+        IGUI_VehicleNameTrailerKI5utilityMedium = "中型工具拖车",
+        IGUI_VehicleNameTrailerKI5utilitySmall = "小型工具拖车",
+
+        IGUI_VehiclePartKI5TRToolBox = "工具舱",
+        IGUI_VehiclePartKI5TRSpareTire = "备胎架",
+        IGUI_VehiclePartKI5TRTarp = "防水篷布",
+        IGUI_VehiclePartKI5TRMudflaps = "挡泥板",
+        IGUI_VehiclePartKI5TRTrunk = "拖车货柜（封闭式）",
+        IGUI_VehiclePartKI5TRCLTrunk = "拖车货柜（封闭式）",
+        IGUI_VehiclePartKI5TRCMTrunk = "拖车货柜（封闭式）",
+        IGUI_VehiclePartKI5TRCSTrunk = "拖车货柜（封闭式）",
+        IGUI_VehiclePartKI5TRGasCanLeft = "左侧油罐",
+        IGUI_VehiclePartKI5TRGasCanRight = "右侧油罐",
+
+        IGUI_VehicleNameTrailerKI5cargoLarge = "大型货运拖车",
+        IGUI_VehicleNameTrailerKI5cargoMedium = "中型货运拖车",
+        IGUI_VehicleNameTrailerKI5cargoSmall = "小型货运拖车",
+
+        IGUI_VehiclePartKI5TRCFlares = "侧边挡板"
+    ------'91 RANGE ROVER Classic------
+        IGUI_VehicleName91range = "'91款路虎揽胜 4门版",
+        IGUI_VehicleName91range2 = "'91款路虎揽胜 2门版",
+
+        IGUI_VehiclePartRR91Trunk = "后备箱",
+        IGUI_VehiclePartRR91Roofrack = "车顶储物架"
+    ------'93 Ford F-Series------
+        IGUI_VehicleName93fordF350 = "93款福特F-350双排座",
+        IGUI_VehicleName93fordF350dually = "93款福特F-350双排座双胎版",
+        IGUI_VehicleName93fordF350pd = "93款福特F-350双排座警用版",
+        IGUI_VehicleName93fordF350fd = "93款福特F-350双排座消防版",
+        IGUI_VehicleName93fordF350so = "93款福特F-350双排座治安版",
+        IGUI_VehicleName93fordF150 = "93款福特F-150单排座",
+        IGUI_VehicleName93fordF250 = "93款福特F-250单排座",
+        IGUI_VehicleName93fordF350utility = "93款福特F-350工具车",
+        IGUI_VehicleName93fordF350utilityDpw = "93款福特F-350公共工程工具车",
+        IGUI_VehicleName93fordF350utilityFd = "93款福特F-350消防工具车",
+
+        IGUI_VehiclePartF3502HeadacheRack = "防护架带工具箱",
+        IGUI_VehiclePartF3502TruckbedCover = "货斗盖板",
+        IGUI_VehiclePartF3502Trunk = "后斗储物箱",
+        IGUI_VehiclePartF3502Roofrack = "车顶储物架",
+
+        IGUI_VehiclePartF3502TrunkDoorLeft = "左侧储物箱盖",
+        IGUI_VehiclePartF3502TrunkDoorRight = "右侧储物箱盖",
+        IGUI_VehiclePartF3502SideStorageLT = "左侧顶部工具仓",
+        IGUI_VehiclePartF3502SideStorageLF = "左前工具仓",
+        IGUI_VehiclePartF3502SideStorageLM = "左侧中部工具仓",
+        IGUI_VehiclePartF3502SideStorageLR = "左后工具仓",
+        IGUI_VehiclePartF3502SideStorageRT = "右侧顶部工具仓",
+        IGUI_VehiclePartF3502SideStorageRF = "右前工具仓",
+        IGUI_VehiclePartF3502SideStorageRM = "右侧中部工具仓",
+        IGUI_VehiclePartF3502SideStorageRR = "右后工具仓"
+    ------'82 Porsche 911------
+        IGUI_VehicleName82porsche911turbo = "82款保时捷911 Turbo"
+        IGUI_VehicleName82porsche911rwb = "82款保时捷911 RWB"
+
+        IGUI_VehiclePartPRS82SeatRearLeft = "左后座椅",
+        IGUI_VehiclePartPRS82SeatRearRight = "右后座椅",
+        IGUI_VehiclePartPRS82Trunk = "后备箱",
+        IGUI_VehiclePartPRS82Roofrack = "车顶行李架",
+    ------'90 BMW 3 Series (E30)------
+        IGUI_VehicleName90bmwE30sedan2 = "90款宝马E30双门版",
+        IGUI_VehicleName90bmwE30sedan4 = "90款宝马E30四门版",
+        IGUI_VehicleName90bmwE30cabrio = "90款宝马E30敞篷版",
+        IGUI_VehicleName90bmwE30touring = "90款宝马E30旅行版",
+        IGUI_VehicleName90bmwE30m3 = "90款宝马E30 M3运动版",
+
+        IGUI_VehiclePartBMWE30TrunkS = "后备箱",
+        IGUI_VehiclePartBMWE30TrunkT = "后备箱",
+        IGUI_VehiclePartBMWE30Roofrack = "车顶行李架",
+
+        IGUI_VehiclePartBMWE30Roof = "可拆卸车顶",
+        IGUI_VehiclePartBMWE30RoofStorage = "可拆卸车顶储物空间",
+        IGUI_VehiclePartBMWE30RoofLid = "可拆卸车顶盖板",
+    ------'91 Ford LTD Crown Victoria / Country Squire------
+        IGUI_VehicleName91fordLTD = "'91款福特LTD维多利亚皇冠",
+        IGUI_VehicleName91fordLTDksp = "'91款福特LTD州警版",
+        IGUI_VehicleName91fordLTDksp2 = "'91款福特LTD州警版",
+        IGUI_VehicleName91fordLTDwagon = "'91款福特LTD乡村骑士旅行车",
+        IGUI_VehicleName91fordLTDpd = "'91款福特LTD警用版",
+        IGUI_VehicleName91fordLTDunmarked = "'91款福特LTD无标识版",
+        IGUI_VehicleName91fordLTDranger = "'91款福特LTD护林员版",
+        IGUI_VehicleName91fordLTDtaxi = "'91款福特LTD出租车版",
+
+        IGUI_VehiclePartLTD91Trunk = "后备箱",
+        IGUI_VehiclePartLTD91TrunkWagon = "后备箱",
+        IGUI_VehiclePartLTD91Roofrack = "车顶架"
+    ------'89 Dodge Caravan------
+        IGUI_VehicleName89dodgeCaravan = "'89款道奇Caravan",
+        IGUI_VehicleName89dodgeCaravanLE = "'89款道奇Caravan LE版",
+        IGUI_VehicleName89dodgeCaravanNomad = "'89款道奇Caravan游牧者版",
+
+        IGUI_VehiclePartDGC89Trunk = "后备箱",
+        IGUI_VehiclePartDGC89Roofrack = "车顶架"
+    ------'84 Jeep XJ Cherokee------
+        IGUI_VehicleName84jeepXJ2 = "'84款吉普切诺基XJ双门版",
+        IGUI_VehicleName84jeepXJ4 = "'84款吉普切诺基XJ四门版",
+        IGUI_VehicleName84jeepXJpd = "'84款吉普切诺基XJ警用版",
+        IGUI_VehicleName84jeepXJksp = "'84款吉普切诺基XJ州警版",
+        IGUI_VehicleName84jeepXJranger = "'84款吉普切诺基XJ护林员版",
+
+        IGUI_VehiclePartJP84Trunk = "后备箱",
+        IGUI_VehiclePartJP84Roofrack = "车顶储物架"
+    ------'63 Volkswagen 1300 Beetle------	
+        IGUI_VehicleName63beetle = "'63款大众1300甲壳虫"
+        IGUI_VehicleName63beetleHP = "'63款大众甲壳虫高性能版"
+        IGUI_VehicleName63beetleBuggy = "'63款大众甲壳虫沙丘越野车"
+
+        IGUI_VehiclePartBTL63Bodykit = "车身套件",
+        IGUI_VehiclePartBTL63SpareA = "备胎",
+        IGUI_VehiclePartBTL63SpareB = "备胎",
+        IGUI_VehiclePartBTL63SpareC = "备胎",
+        IGUI_VehiclePartBTL63SpareD = "备胎",
+        IGUI_VehiclePartBTL63Roof = "可拆卸车顶",
+
+        IGUI_VehiclePartBTL63Trunk = "后备箱",
+        IGUI_VehiclePartBTL63InnerTrunk = "后部储物空间",
+        IGUI_VehiclePartBTL63Roofrack = "车顶行李架"
+	------'76 Chevrolet K Series------
+        IGUI_VehicleName76chevyK10 = "'76款雪佛兰K10",
+        IGUI_VehicleName76chevyK10fd = "'76款雪佛兰K10消防版",
+        IGUI_VehicleName76chevyK10spirit = "'76款雪佛兰K10 76精神版",
+        IGUI_VehicleName76chevyK20 = "'76款雪佛兰K20",
+        IGUI_VehicleName76chevyK20BigRed = "'76款雪佛兰K20大红版",
+        IGUI_VehicleName76chevyK20utility = "'76款雪佛兰K20单排座工具卡车",
+        IGUI_VehicleName76chevyK20fd = "'76款雪佛兰K30单排座消防版",
+        IGUI_VehicleName76chevyK30CC = "'76款雪佛兰K30双排座",
+        IGUI_VehicleName76chevyK30CCutility = "'76款雪佛兰K30双排座工具卡车",
+        IGUI_VehicleName76chevyK30CCfd = "'76款雪佛兰K30双排座消防版",
+        IGUI_VehicleName76chevyK30CCdually = "'76款雪佛兰K30双排座双后轮版",
+        IGUI_VehicleName76chevyK30SCdually = "'76款雪佛兰K30单排座双后轮版",
+        IGUI_VehicleName76chevyC30SCwrecker = "76款雪佛兰C30单排座清障车",
+        IGUI_VehicleName76chevyC30CCwrecker = "76款雪佛兰C30双排座清障车",
+
+
+        IGUI_VehiclePartCH76Trunk = "后备箱",
+        IGUI_VehiclePartCH76Roofrack = "车顶行李架",
+
+        IGUI_VehiclePartCH76RoofLights = "车顶灯",
+        IGUI_VehiclePartCH76TruckBedExtras = "卡车货斗附加件",
+        IGUI_VehiclePartCH76TruckBedCover = "卡车货斗盖",
+
+        IGUI_VehiclePartCH76TrunkDoorLeft = "左侧储物箱盖",
+        IGUI_VehiclePartCH76TrunkDoorRight = "右侧储物箱盖",
+        IGUI_VehiclePartCH76SideStorageLT = "左上工具存储",
+        IGUI_VehiclePartCH76SideStorageLF = "左前工具存储",
+        IGUI_VehiclePartCH76SideStorageLM = "左中工具存储",
+        IGUI_VehiclePartCH76SideStorageLR = "左后工具存储",
+        IGUI_VehiclePartCH76SideStorageRT = "右上工具存储",
+        IGUI_VehiclePartCH76SideStorageRF = "右前工具存储",
+        IGUI_VehiclePartCH76SideStorageRM = "右中工具存储",
+        IGUI_VehiclePartCH76SideStorageRR = "右后工具存储",
+
+        IGUI_VehiclePartCH76FDTrunk = "后备箱",
+        IGUI_VehiclePartCH76FDSideStorageLF = "左前储物区",
+        IGUI_VehiclePartCH76FDSideStorageLR = "左后储物区",
+        IGUI_VehiclePartCH76FDSideStorageRF = "右前储物区",
+        IGUI_VehiclePartCH76FDSideStorageRR = "右后储物区",
+        IGUI_VehiclePartCH76Hoses = "消防水带",
+        IGUI_VehiclePartCH76Mudflaps = "挡泥板"
+
+        IGUI_VehiclePartCH76TrunkW = "后部储物箱",
+        IGUI_VehiclePartCH76wreckerSideStorage = "左侧储物箱",
+        IGUI_VehiclePartCH76LeftMounts = "左侧支架",
+        IGUI_VehiclePartCH76RightMounts = "右侧储物箱及支架",
+    ------'85 Pontiac Parisienne------
+        IGUI_VehicleName85pontiacParisienneSedan = "'85款庞蒂亚克巴黎人轿车",
+
+        IGUI_VehiclePartPAR85Trunk = "后备箱",
+        IGUI_VehiclePartGM85Roofrack = "车顶行李架",
+        IGUI_VehiclePartGM85VinylRoof = "乙烯车顶罩"
+    ------'85 Chevrolet Caprice / Impala------
+        IGUI_VehicleName85chevyCapriceSedan = "'85款雪佛兰Caprice轿车",
+        IGUI_VehicleName85chevyImpalaSedanAirport = "'85款雪佛兰Impala机场安保版",
+        IGUI_VehicleName85chevyImpalaSedanBCS = "'85款雪佛兰Impala县治安官版",
+        IGUI_VehicleName85chevyImpalaSedanCLPD = "'85款雪佛兰Impala路易斯维尔警局版",
+        IGUI_VehicleName85chevyImpalaSedanFD = "'85款雪佛兰Impala消防部门版",
+        IGUI_VehicleName85chevyImpalaSedanKSP = "'85款雪佛兰Impala肯塔基州警版",
+        IGUI_VehicleName85chevyImpalaSedanLCPD = "'85款雪佛兰Impala路易斯维尔警局版",
+        IGUI_VehicleName85chevyImpalaSedanMCS = "'85款雪佛兰Impala米德县警长版",
+        IGUI_VehicleName85chevyImpalaSedanMPD = "'85款雪佛兰Impala马尔德劳警局版",
+        IGUI_VehicleName85chevyImpalaSedanPD = "'85款雪佛兰Impala警用版",
+        IGUI_VehicleName85chevyImpalaSedanPDu = "'85款雪佛兰Impala便衣警用版",
+        IGUI_VehicleName85chevyImpalaSedanPrison = "'85款雪佛兰Impala监狱安保版",
+        IGUI_VehicleName85chevyImpalaSedanRanger = "'85款雪佛兰Impala护林员版",
+        IGUI_VehicleName85chevyImpalaSedanTaxi = "'85款雪佛兰Impala出租车版",
+        IGUI_VehicleName85chevyImpalaSedanWPPD = "'85款雪佛兰Impala西点警局版",
+
+        IGUI_VehiclePartCAP85Trunk = "后备箱",
+        IGUI_VehiclePartGM85Roofrack = "车顶行李架",
+        IGUI_VehiclePartGM85VinylRoof = "乙烯车顶罩"
+    ------'92 Jeep YJ Wrangler------	
+        IGUI_VehicleName92jeepYJs = "'92款吉普牧马人YJ",
+        IGUI_VehicleName92jeepYJse = "'92款吉普牧马人YJ",
+        IGUI_VehicleName92jeepYJjp = "'92款吉普牧马人YJ JP18版",
+        IGUI_VehicleName92jeepYJranger = "'92款吉普牧马人YJ护林员版",
+
+        IGUI_VehiclePartJP92Trunk = "后备箱",
+        IGUI_VehiclePartJP92Roofrack = "车顶行李架",
+        IGUI_VehiclePartJP92Bodykit = "车身套件",
+        IGUI_VehiclePartJP92Lightbar = "警示灯条",
+        IGUI_VehiclePartJP92RollBar = "防滚架",
+        IGUI_VehiclePartJP92SoftTop = "软质车顶",
+        IGUI_VehiclePartJP92HardTop = "硬质车顶",
+        IGUI_VehiclePartJP92Snorkel = "涉水喉",
+        IGUI_VehiclePartJP92Winch = "绞盘",
+        IGUI_VehiclePartJP92Jack = "千斤顶",
+
+        IGUI_VehiclePartJP92WindshieldFrame = "挡风玻璃框架",
+        IGUI_VehiclePartJP92WindowFrontLeftFrame = "左前车窗框架",
+        IGUI_VehiclePartJP92WindowFrontRightFrame = "右前车窗框架"
+	------Containers!------
+        IGUI_VehicleNameisoContainer2 = "ISO标准单门集装箱",
+        IGUI_VehicleNameisoContainer3tanker = "ISO标准油罐集装箱",
+        IGUI_VehicleNameisoContainer4 = "ISO标准双门集装箱",
+        IGUI_VehicleNameisoContainer5 = "破损ISO标准集装箱",
+
+        IGUI_VehiclePartISOTrunk1 = "集装箱存储区",
+        IGUI_VehiclePartISOTrunk2 = "集装箱存储区",
+        IGUI_VehiclePartISOTrunk3 = "油罐存储箱",
+        IGUI_VehiclePartISOTrunk4 = "破损集装箱存储区"
+    ------'87 Buick Regal------
+        IGUI_VehicleName87buickRegalTurboT = "'87款别克君威Turbo T",
+        IGUI_VehicleName87buickRegalTurboTfbi = "'87款别克君威Turbo T FBI版",
+        IGUI_VehicleName87buickRegalGNX = "'87款别克君威GNX",
+
+        IGUI_VehiclePartGNX87Trunk = "后备箱",
+        IGUI_VehiclePartGNX87Roofrack = "车顶行李架",
+
+        IGUI_VehiclePartGNX87FrontLip = "前唇扰流板"
+	------'85 Buick LeSabre------
+        IGUI_VehicleName85buickLeSabreSedan = "'85款别克LeSabre轿车",
+
+        IGUI_VehiclePartLES85Trunk = "后备箱",
+        IGUI_VehiclePartGM85Roofrack = "车顶行李架",
+        IGUI_VehiclePartGM85VinylRoof = "乙烯基车顶罩"
+	------'85 Oldsmobile Delta 88------
+        IGUI_VehicleName85oldsmobileDelta88Sedan = "'85款奥兹莫比尔Delta 88轿车",
+
+        IGUI_VehiclePartDEL85Trunk = "后备箱",
+        IGUI_VehiclePartGM85Roofrack = "车顶行李架",
+        IGUI_VehiclePartGM85VinylRoof = "乙烯基车顶罩"
+    ------'67 Cadillac Gage Commando------
+        IGUI_VehicleName67commando = "'67款M706凯迪拉克·盖奇突击队员"
+        IGUI_VehicleName67commandoPolice = "'67款M706凯迪拉克·盖奇警用突击队员"
+        IGUI_VehicleName67commandoT50 = "'67款M706凯迪拉克·盖奇突击队员T50型"
+        IGUI_VehicleName67commandoBurnt = "'67款M706凯迪拉克·盖奇突击队员（烧毁）"
+
+        IGUI_VehiclePartV100Toolbox = "工具箱",
+        IGUI_VehiclePartV100ToolboxLid = "工具箱盖板",
+        IGUI_VehiclePartV100LightGuards = "灯光防护架",
+
+        IGUI_VehiclePartV100Trunk = "地板储物舱"
+    ------'90 Pierce Arrow Pumper------
+        IGUI_VehicleName90pierceArrow = "'90款皮尔斯·箭头泵浦消防车"
+
+        IGUI_VehiclePartCatARRWlefttrunk = "左侧设备舱",
+        IGUI_VehiclePartTrunkDoorLeft = "左侧舱门盖板",
+        IGUI_VehiclePartARRWTrunkLTL = "左上设备舱",
+        IGUI_VehiclePartARRWTrunkLTR = "右上设备舱",
+        IGUI_VehiclePartARRWTrunkLBL = "左下设备舱",
+        IGUI_VehiclePartARRWTrunkLBR = "右下设备舱",
+
+        IGUI_VehiclePartCatARRWrighttrunk = "右侧设备舱",
+        IGUI_VehiclePartTrunkDoorRight = "右侧舱门盖板",
+        IGUI_VehiclePartARRWTrunkRL = "左设备舱",
+        IGUI_VehiclePartARRWTrunkRR = "右设备舱",
+
+        IGUI_VehiclePartTrunkDoorRear = "后设备舱门",
+        IGUI_VehiclePartARRWTrunk = "后部设备舱",
+
+        IGUI_VehiclePartARRWLadders = "消防云梯",
+        IGUI_VehiclePartARRWHoses = "消防水带",
+
+        IGUI_VehiclePart1500WaterTruckTank = "消防水罐"
+	------'69 Chevrolet Camaro------
+        IGUI_VehicleName69camaroRS = "'69款雪佛兰科迈罗SS/RS",
+        IGUI_VehicleName69camaroSS = "'69款雪佛兰科迈罗SS",
+
+        IGUI_VehiclePartCAM69Trunk = "后备箱",
+        IGUI_VehiclePartCAM69Roofrack = "车顶行李架",
+    ------'70 Plymouth Barracuda------
+        IGUI_VehicleName70barracuda = "'70款普利茅斯梭鱼",
+        IGUI_VehicleName70cuda = "'70款普利茅斯Cuda",
+        IGUI_VehicleName70barracudaAAR = "'70款普利茅斯梭鱼AAR",
+
+        IGUI_VehiclePartCUDATrunk = "后备箱",
+        IGUI_VehiclePartCUDARoofrack = "车顶行李架",
+    ------'70 Dodge Challenger------
+        IGUI_VehicleName70dodgeRT = "'70款道奇挑战者R/T",
+        IGUI_VehicleName70dodgeTA = "'70款道奇挑战者T/A",
+        IGUI_VehicleName70dodgePD = "'70款道奇挑战者警用版",
+        IGUI_VehicleName70dodgeOP = "'70款道奇挑战者O/P特别版",
+        IGUI_VehicleName70dodgeBG = "'70款道奇挑战者黑色幽灵",
+
+        IGUI_VehiclePartDG70RTRoof = "可拆卸硬顶",
+        IGUI_VehiclePartDG70Trunk = "后备箱",
+        IGUI_VehiclePartDG70Roofrack = "车顶行李架",
+	------'86 Chevrolet CUCVs + M101A2 Trailer------
+        IGUI_VehicleName86chevyK5blazer = "'86款雪佛兰K5开拓者",
+        IGUI_VehicleName86chevyK5pd = "'86款雪佛兰K5警用版",
+        IGUI_VehicleName86chevyK5ksp = "'86款雪佛兰K5州警版",
+        IGUI_VehicleName86chevyM1008 = "'86款雪佛兰M1008",
+        IGUI_VehicleName86chevyM1009 = "'86款雪佛兰M1009",
+        IGUI_VehicleName86chevyM1009mp = "'86款雪佛兰M1009宪兵版",
+        IGUI_VehicleName86chevyM1010 = "'86款雪佛兰M1010",
+        IGUI_VehicleName86chevyM1028 = "'86款雪佛兰M1028",
+        IGUI_VehicleName86chevyM1031 = "'86款雪佛兰M1031",
+
+        IGUI_VehiclePartCUCV86SpareTire = "备胎",
+        IGUI_VehiclePartCUCV86BedAddons = "货箱附加组件",
+
+        IGUI_VehiclePartM1008Trunk = "后部储物空间",
+        IGUI_VehiclePartM1009Trunk = "后部储物空间",
+        IGUI_VehiclePartM1010Trunk = "底部储物空间",
+        IGUI_VehiclePartM1028Trunk = "后部储物空间",
+
+        IGUI_VehiclePartM1031Trunk = "后部储物空间",
+        IGUI_VehiclePartM1031StorageFL = "左前储物舱",
+        IGUI_VehiclePartM1031StorageML = "左中储物舱",
+        IGUI_VehiclePartM1031StorageRL = "左后储物舱",
+        IGUI_VehiclePartM1031StorageBL = "左下储物舱",
+        IGUI_VehiclePartM1031StorageFR = "右前储物舱",
+        IGUI_VehiclePartM1031StorageMR = "右中储物舱",
+        IGUI_VehiclePartM1031StorageRR = "右后储物舱",
+        IGUI_VehiclePartM1031StorageBR = "右下储物舱",
+
+        IGUI_VehiclePartCUCVDoorFL = "左侧前舱门",
+        IGUI_VehiclePartCUCVDoorRL = "左侧后舱门",
+        IGUI_VehiclePartCUCVDoorFR = "右侧前舱门",
+        IGUI_VehiclePartCUCVDoorRR = "右侧后舱门",
+
+        IGUI_VehiclePartCUCV86Roofrack = "车顶行李架",
+
+        IGUI_VehiclePartDAMNStretcher = "担架",
+
+        IGUI_VehicleNameTrailerM101A2cargo = "'86款M101A2货运拖车",
+        IGUI_VehiclePartM101A2Tarp = "拖车防水篷布",
+        IGUI_VehiclePartM101A2Trunk = "拖车储物空间",
+	------'81 DeLorean DMC-12------
+        IGUI_VehicleName81deloreanDMC12 = "'81款德罗宁DMC-12",
+        IGUI_VehicleName81deloreanDMC12BTTF = "时光机",
+
+        IGUI_VehiclePartDMC12BumperFront = "前保险杠",
+        IGUI_VehiclePartDMC12BumperRear = "后保险杠",
+        IGUI_VehiclePartDMC12SpareTire = "备胎",
+
+        IGUI_VehiclePartDMC12WindshieldArmor = "挡风玻璃装甲",
+        IGUI_VehiclePartDMC12WindshieldRearArmor = "后挡风玻璃装甲",
+        IGUI_VehiclePartDMC12FrontLeftArmor = "左前车窗装甲",
+        IGUI_VehiclePartDMC12FrontRightArmor = "右前车窗装甲",
+        IGUI_VehiclePartDMC12RearLeftArmor = "左后车窗装甲",
+        IGUI_VehiclePartDMC12RearRightArmor = "右后车窗装甲",
+
+        IGUI_VehiclePartDMC12Trunk = "后备箱",
+        IGUI_VehiclePartDMC12RearStorage = "后置储物网兜",
+	------'92 NISSAN Skyline GT-R (R32)------
+        IGUI_VehicleName92nissanGTR = "'92款日产天际线GT-R (R32) 进口版",
+        IGUI_VehicleName92nissanGTRlhd = "'92款日产天际线GT-R (R32) 左舵改装版",
+
+        IGUI_VehiclePartR32Trunk = "后备箱",
+        IGUI_VehiclePartR32Muffler = "消音器",
+        IGUI_VehiclePartR32Bumper = "前保险杠",
+        IGUI_VehiclePartR32BumperRear = "后保险杠",
+        IGUI_VehiclePartR32Sideskirts = "侧裙",
+        IGUI_VehiclePartR32Spoiler = "扰流板",
+        IGUI_VehiclePartR32SpareTire = "备胎",
+        IGUI_VehiclePartR32Roofrack = "车顶行李架",
+
+        IGUI_VehiclePartR32DoorFrontLeftArmor = "左前车门装甲",
+        IGUI_VehiclePartR32DoorFrontRightArmor = "右前车门装甲",
+        IGUI_VehiclePartR32WindowRearLeftArmor = "左后车窗装甲",
+        IGUI_VehiclePartR32WindowRearRightArmor = "右后车窗装甲",
+
+        IGUI_VehiclePartR32WindshieldArmor = "挡风玻璃装甲",
+        IGUI_VehiclePartR32RearWindshieldArmor = "后挡风玻璃装甲",
+	------'92 AM General M998 + M101A3 Cargo trailer------
+        IGUI_VehicleName92amgeneralM998 = "'92款AM通用M998悍马",
+        IGUI_VehicleName92amgeneralM998Burnt = "'92款AM通用M998悍马烧毁版",
+        IGUI_VehicleNameTrailerM101A3cargo = "'92款M101A3货运拖车",
+
+        IGUI_VehiclePartM998Trunk = "后部储物空间",
+        IGUI_VehiclePartM998BackCover = "后舱盖",
+            
+        IGUI_VehiclePartM998Mudflaps = "挡泥板",
+        IGUI_VehiclePartM998Muffler = "消音器",
+        IGUI_VehiclePartM998TrunkBarrier = "储物舱隔板",
+        IGUI_VehiclePartM998Roofrack = "车顶储物架",
+
+        IGUI_VehiclePartTrunkDoorTwo = "顶部储物舱门",
+        IGUI_VehiclePartM101A3Cover = "拖车硬质顶盖",
+        IGUI_VehiclePartM101A3Tarp = "拖车防水篷布",
+        IGUI_VehiclePartM101A3Trunk = "拖车储物空间",
+	------'88 Toyota Hilux------
+        IGUI_VehicleName88toyotaHiluxSC = "'88款丰田海拉克斯",
+        IGUI_VehicleName88toyotaHiluxXC = "'88款丰田海拉克斯加长驾驶室版",
+        IGUI_VehicleName88toyotaHiluxXCS = "'88款丰田海拉克斯加长驾驶室特别版",
+
+        IGUI_VehiclePartHLX88Trunk = "货箱储物空间",
+        IGUI_VehiclePartHLX88TruckBedExtras = "货箱附加组件",
+        IGUI_VehiclePartHLX88Roofrack = "车顶行李架",
+	------'91 Geo Metro------
+        IGUI_VehicleName91geoMetro = "'91款吉优都市",
+
+        IGUI_VehiclePartGEO91Trunk = "后备箱",
+        IGUI_VehiclePartGEO91Roofrack = "车顶行李架",
+	------'66 Pontiac LeMans / GTO------
+        IGUI_VehicleName66pontiacLeMans = "'66款庞蒂亚克LeMans",
+        IGUI_VehicleName66pontiacLeMansConv = "'66款庞蒂亚克LeMans敞篷版",
+        IGUI_VehicleName66pontiacGTO = "'66款庞蒂亚克GTO",
+        IGUI_VehicleName66pontiacGTOconv = "'66款庞蒂亚克GTO敞篷版",
+
+        IGUI_VehiclePartGTO66Trunk = "后备箱",
+        IGUI_VehiclePartGTO66Roofrack = "车顶行李架",
+        IGUI_VehiclePartGTO66Roof = "可拆卸车顶",
+        IGUI_VehiclePartGTO66RoofStorage = "可拆卸车顶存放处",
+    ------'67 Shelby GT500 + Eleanor------
+        IGUI_VehicleName67gt500 = "'67款谢尔比GT500",
+        IGUI_VehicleName67gt500e = "'67款谢尔比GT500伊莲娜版",
+
+        IGUI_VehiclePartGT500Trunk = "后备箱",
+        IGUI_VehiclePartGT500Roofrack = "车顶行李架",
+        IGUI_VehiclePartGT500SpareTire = "备胎",
+	------'49 Dodge Power Wagon Crew Cab------
+        IGUI_VehicleName49powerWagon = "'49款道奇Power Wagon乘员舱版",
+        IGUI_VehicleName49powerWagonPD = "'49款道奇Power Wagon警用版",
+        IGUI_VehicleName49powerWagonMP = "'49款道奇Power Wagon宪兵版",
+        IGUI_VehicleName49powerWagonPA = "'49款道奇Power Wagon末日改装版",
+
+        IGUI_VehiclePartPWRTrunk = "货斗储物空间",
+        IGUI_VehiclePartTruckBedSeat = "货斗后座椅",
+	------'69 Mini Mk2------
+        IGUI_VehicleName69mini = "'69款Mini",
+        IGUI_VehicleName69miniUnionJack = "联合杰克Mini",
+        IGUI_VehicleName69miniMrB = "憨豆先生Mini",
+        IGUI_VehicleName69miniIJ = "意大利任务Mini",
+        IGUI_VehicleName69miniPS = "斗牛犬特别版Mini",
+
+        IGUI_VehiclePartMINI69Trunk = "后备箱",
+        IGUI_VehiclePartMINI69Roofrack = "车顶行李架",
+    ------'86 Ford Econoline E-150 + Pop Culture vans------
+        IGUI_VehicleName86fordE150 = "'86款福特Econoline E-150",
+        IGUI_VehicleName86fordE150pd = "'86款福特Econoline E-150逃生厢型车",
+        IGUI_VehicleName86fordE150dnd = "'86款福特Econoline E-150",
+        IGUI_VehicleName86fordE150mm = "神秘机器厢型车",
+        IGUI_VehicleName86fordE150slide = "'86款福特Econoline E-150滑门版",
+        IGUI_VehicleName86fordE150long = "'86款福特Econoline E-150加长版",
+        IGUI_VehicleName86fordE150slideSpiffo = "'86款福特Econoline E-150斯皮福版",
+        IGUI_VehicleName86fordE150mccoy = "'86款福特Econoline E-150麦考伊版",
+        IGUI_VehicleName86fordE150longW = "'86款福特Econoline E-150带车窗版",
+
+        IGUI_VehicleName86fordE150so = "'86款福特E-150诺克斯郡警车",
+        IGUI_VehicleName86fordE150ksp = "'86款福特E-150肯塔基州警车",
+        IGUI_VehicleName86fordE150med = "'86款福特E-150诺克斯郡法医车",
+
+        IGUI_VehiclePartE150Divider = "驾驶舱隔板",
+
+        IGUI_VehiclePartE150Trunk = "储物空间",
+
+        IGUI_VehiclePartCatfurvan = "狗狗剪毛车毛皮",
+
+        IGUI_VehiclePartE150FurBody = "底盘毛皮",
+        IGUI_VehiclePartE150FurHood = "引擎盖毛皮",
+        IGUI_VehiclePartE150FurLeftDoor = "左车门毛皮",
+        IGUI_VehiclePartE150FurRightDoor = "右车门毛皮",
+        IGUI_VehiclePartE150FurTrunkDoor = "尾门毛皮",
+        IGUI_VehiclePartE150FurRearLeg = "后腿毛皮",
+
+        IGUI_VehiclePartCatmysterymachine = "神秘机器",
+
+        IGUI_VehiclePartE150MMSpareTire = "前置备胎",
+        IGUI_VehiclePartE150MMRoofrack = "冲浪板车顶架",
+        IGUI_VehiclePartE150MMSurfboards = "冲浪板组",
+
+        IGUI_VehiclePartE150RearSeatOne = "第一排后座椅",
+        IGUI_VehiclePartE150RearSeatTwo = "第二排后座椅",
+        IGUI_VehiclePartE150RearSeatThree = "第三排后座椅",
+        IGUI_VehiclePartE150RearCabinet = "后舱储物柜",
+
+        IGUI_VehiclePartSeatMiddleMiddle = "中排中座椅",
+        IGUI_VehiclePartSeatBackLeft = "后排左座椅",
+        IGUI_VehiclePartSeatBackMiddle = "后排中座椅",
+        IGUI_VehiclePartSeatBackRight = "后排右座椅",
+
+        IGUI_VehicleName86fordE150LVairportShuttle = "'86款福特Econoline E-150路易斯维尔机场接驳车",
+        IGUI_VehicleName86fordE150LBMWradio = "'86款福特Econoline E-150路易斯维尔广播车",
+        IGUI_VehicleName86fordE150leatherwork = "'86款福特Econoline E-150皮具坊",
+        IGUI_VehicleName86fordE150brewster = "'86款福特Econoline E-150布鲁斯特版",
+        IGUI_VehicleName86fordE150deerValley = "'86款福特Econoline E-150鹿谷版",
+        IGUI_VehicleName86fordE150fossoil = "'86款福特Econoline E-150福索石油",
+        IGUI_VehicleName86fordE150locksmith = "'86款福特Econoline E-150锁匠服务",
+        IGUI_VehicleName86fordE150knobCreek = "'86款福特Econoline E-150诺布溪版",
+        IGUI_VehicleName86fordE150knoxDistilery = "'86款福特Econoline E-150诺克斯蒸馏厂",
+        IGUI_VehicleName86fordE150korshunovs = "'86款福特Econoline E-150科尔舒诺夫版",
+        IGUI_VehicleName86fordE150lvLandscaping = "'86款福特Econoline E-150路易斯维尔园艺",
+        IGUI_VehicleName86fordE150metalheads = "'86款福特Econoline E-150金属狂徒",
+        IGUI_VehicleName86fordE150michelesWoodshop = "'86款福特Econoline E-150米歇尔木工坊",
+        IGUI_VehicleName86fordE150mobileMechanics = "'86款福特Econoline E-150移动机修",
+        IGUI_VehicleName86fordE150oldMillWaterCompany = "'86款福特Econoline E-150老磨坊水务",
+        IGUI_VehicleName86fordE150blacksmith = "'86款福特Econoline E-150铁匠铺",
+        IGUI_VehicleName86fordE150pluggedInElectrics = "'86款福特Econoline E-150通电电气",
+        IGUI_VehicleName86fordE150postal = "'86款福特Econoline E-150邮政车",
+        IGUI_VehicleName86fordE150riversideFab = "'86款福特Econoline E-150河畔制造",
+        IGUI_VehicleName86fordE150rosewoodWorking = "'86款福特Econoline E-150玫瑰木工坊",
+        IGUI_VehicleName86fordE150schwab = "'86款福特Econoline E-150施瓦布版",
+        IGUI_VehicleName86fordE150stoneworksMasonry = "'86款福特Econoline E-150石匠工艺",
+        IGUI_VehicleName86fordE150tasteTheBrew = "'86款福特Econoline E-150品味佳酿",
+        IGUI_VehicleName86fordE150voltMojo = "'86款福特Econoline E-150伏特魔力",
+        IGUI_VehicleName86fordE150wpCarpentry = "'86款福特Econoline E-150WP木工",
+        IGUI_VehicleName86fordE150beckmansBuilding = "'86款福特Econoline E-150贝克曼建筑",
+        IGUI_VehicleName86fordE150brushAndClay = "'86款福特Econoline E-150画笔与黏土",
+        IGUI_VehicleName86fordE150bugWipers = "'86款福特Econoline E-150除虫专家",
+        IGUI_VehicleName86fordE150ccconstruction = "'86款福特Econoline E-150CC建筑公司",
+        IGUI_VehicleName86fordE150greenes = "'86款福特Econoline E-150格林斯版",
+        IGUI_VehicleName86fordE150jones = "'86款福特Econoline E-150琼斯版",
+        IGUI_VehicleName86fordE150kerrHomes = "'86款福特Econoline E-150科尔住宅",
+        IGUI_VehicleName86fordE150knoxTelecom = "'86款福特Econoline E-150诺克斯电信",
+        IGUI_VehicleName86fordE150kyTransit = "'86款福特Econoline E-150肯塔基运输",
+        IGUI_VehicleName86fordE150lectromax = "'86款福特Econoline E-150莱克创能",
+        IGUI_VehicleName86fordE150massGenfac = "'86款福特Econoline E-150马萨通用设备",
+        IGUI_VehicleName86fordE150McCoyWoodworking = "'86款福特Econoline E-150麦考伊木工",
+        IGUI_VehicleName86fordE150meltingPointMetal = "'86款福特Econoline E-150熔点金属",
+        IGUI_VehicleName86fordE150mooresMechanics = "'86款福特Econoline E-150穆尔机修",
+        IGUI_VehicleName86fordE150oVoFarms = "'86款福特Econoline E-150奥沃农场",
+        IGUI_VehicleName86fordE150pennSham = "'86款福特Econoline E-150宾恩火腿",
+        IGUI_VehicleName86fordE150perfick = "'86款福特Econoline E-150完美版",
+        IGUI_VehicleName86fordE150plattAutoRepair = "'86款福特Econoline E-150普拉特汽修",
+        IGUI_VehicleName86fordE150theGardenGods = "'86款福特Econoline E-150花园之神",
+        IGUI_VehicleName86fordE150treyBaines = "'86款福特Econoline E-150特雷·贝恩斯",
+        IGUI_VehicleName86fordE150uncloggers = "'86款福特Econoline E-150管道疏通",
+        IGUI_VehicleName86fordE150zenith = "'86款福特Econoline E-150顶点版",
+        IGUI_VehicleName86fordE150heritageTailors = "'86款福特Econoline E-150传统裁缝",
+        IGUI_VehicleName86fordE150creatureCruiser = "'86款福特Econoline E-150生物巡航者",
+        IGUI_VehicleName86fordE150theLadyDelighter = "'86款福特Econoline E-150淑女欢愉号",
+        IGUI_VehicleName86fordE150quantumVessel = "'86款福特Econoline E-150量子容器",
+        IGUI_VehicleName86fordE150valkyriesSpear = "'86款福特Econoline E-150女武神之矛",
+        IGUI_VehicleName86fordE150mesmerWagon = "'86款福特Econoline E-150催眠篷车",
+	------'89 Volvo 200 Series------
+        IGUI_VehicleName89volvo242turbo = "'89款沃尔沃242涡轮增压版",
+        IGUI_VehicleName89volvo244sedan = "'89款沃尔沃244轿车",
+        IGUI_VehicleName89volvo245wagon = "'89款沃尔沃245旅行车",
+
+        IGUI_VehiclePartVL200LipFront = "前唇扰流板",
+
+        IGUI_VehiclePartVL200TrunkS = "后备箱",
+        IGUI_VehiclePartVL200TrunkW = "后备箱",
+        IGUI_VehiclePartVL200Roofrack = "车顶行李架",
+	------'93 Ford CF8000 Elgin Street Sweeper------
+        IGUI_VehicleName93fordElgin = "'93款福特CF8000埃尔金扫街车",
+        IGUI_VehicleName93fordElginSpec = "'93款福特CF8000埃尔金专用扫街车",
+
+        IGUI_VehiclePartCF8KTrunk = "废物存储箱",
+        IGUI_VehiclePartCF8KBrushes = "清扫滚刷",
+
+        IGUI_StreetSweeper_TrunkFull = "存储空间已满",
+        IGUI_StreetSweeper_SpaceRemaining = "废物存储箱剩余空间：%1",
+        IGUI_StreetSweeper_AutoDeleteOn = "新物品将自动清除",
+        IGUI_StreetSweeper_AutoDeleteOff = "新物品将存入废物存储箱",
+        IGUI_StreetSweeper_ToggleAutoDelete = "切换自动清除功能",
+	------'86 Oshkosh P19A + Military Trailers------
+        IGUI_VehicleName86oshkoshUSMC = "'86款奥什科什P19A军用消防车",
+        IGUI_VehicleName86oshkoshKYFD = "'86款奥什科什P19A肯塔基消防车",
+        IGUI_VehicleName86oshkoshFRTR55 = "P19A FRTR55型消防车",
+        IGUI_VehicleName86oshkoshP19ABurnt = "焚毁的奥什科什P19A",
+
+        IGUI_VehicleNameTrailerM1082 = "M1082军用拖车",
+        IGUI_VehicleNameTrailerM1095 = "M1095军用拖车",
+            
+        IGUI_VehiclePartM10XXTarp = "货斗防雨布",
+        IGUI_VehiclePartM10XXToolboxLeft = "左侧工具箱",
+        IGUI_VehiclePartM10XXToolboxRight = "右侧工具箱",
+
+        IGUI_VehiclePartCatP19Arighttrunk = "右侧储物舱",
+        IGUI_VehiclePartCatP19Alefttrunk = "左侧储物舱",
+
+        IGUI_VehiclePartP19ABigTrunkCompartment0 = "顶部大型储物舱",
+        IGUI_VehiclePartP19ASmallTrunkCompartment1 = "左侧小型储物舱",
+        IGUI_VehiclePartP19ASmallTrunkCompartment2 = "中部小型储物舱",
+        IGUI_VehiclePartP19ASmallTrunkCompartment3 = "右侧小型储物舱",
+
+        IGUI_VehiclePartP19ABigTrunkCompartment0b = "顶部大型储物舱",
+        IGUI_VehiclePartP19ASmallTrunkCompartment1b = "左侧小型储物舱",
+        IGUI_VehiclePartP19ASmallTrunkCompartment3b = "右侧小型储物舱",
+
+        IGUI_VehiclePartP19Ahatch = "车顶检修舱口",
+        IGUI_VehiclePartP19ARoofrack = "车顶行李架",
+        IGUI_VehiclePartTrunkDoor1 = "右侧储物舱盖",
+        IGUI_VehiclePartTrunkDoor2 = "左侧储物舱盖",
+
+        IGUI_VehiclePartP19AFenderLeft = "左后轮挡泥板",
+        IGUI_VehiclePartP19AFenderRight = "右后轮挡泥板",
+
+        IGUI_VehiclePartP19ASpareMountLeft = "车尾备胎架",
+        IGUI_VehiclePartP19ASpareMountRear = "车顶备胎架",
+
+        IGUI_VehiclePartP19ASpareTireLeft = "车尾备胎",
+        IGUI_VehiclePartP19ASpareTireRear = "车顶备胎",
+    ------'92 Ford Crown Victoria------
+        IGUI_VehicleName92fordCVPI = "'92款福特皇冠维多利亚警用拦截车",
+        IGUI_VehicleName92fordCVPIunmarked = "'92款福特皇冠维多利亚无标识警车",
+        IGUI_VehicleName92fordCVPI2 = "'92款福特皇冠维多利亚警用拦截车",
+        IGUI_VehicleName92fordCVPI2ksp = "'92款福特皇冠维多利亚肯州警用拦截车",
+        IGUI_VehicleName92fordCVPI2kspst = "'92款福特皇冠维多利亚肯州警用拦截车",
+        IGUI_VehicleName92fordCVPItaxi = "'92款福特皇冠维多利亚出租车",
+        IGUI_VehicleName92fordCV = "'92款福特皇冠维多利亚",
+        IGUI_VehicleName92fordCVPI2so = "\"治安官\"特别版",
+        IGUI_VehicleName92fordCVPI2sup = "'92款福特皇冠维多利亚巡逻指挥车",
+        IGUI_VehicleName92fordCVPIfd = "'92款福特皇冠维多利亚消防指挥车",
+        IGUI_VehicleName92fordCVPIpdu = "'92款福特皇冠维多利亚便衣警车",
+
+        IGUI_VehiclePartCVPI92BumperFront = "前保险杠",
+        IGUI_VehiclePartCVPI92BumperRear = "后保险杠",
+        IGUI_VehiclePartCVPI92Barrier = "驾驶室隔离栅",
+        IGUI_VehiclePartCVPI92SpareTire = "备胎",
+
+        IGUI_VehiclePartCVPI92WindshieldArmor = "挡风玻璃装甲",
+        IGUI_VehiclePartCVPI92WindshieldRearArmor = "后挡风玻璃装甲",
+        IGUI_VehiclePartCVPI92WindowFrontLeftArmor = "前左窗装甲",
+        IGUI_VehiclePartCVPI92WindowFrontRightArmor = "前右窗装甲",
+        IGUI_VehiclePartCVPI92WindowRearLeftArmor = "后左窗装甲",
+        IGUI_VehiclePartCVPI92WindowRearRightArmor = "后右窗装甲",
+
+        IGUI_VehiclePartCVPI92Trunk = "后备箱",
+        IGUI_VehiclePartCVPI92Gunrack = "枪械架",
+	------'87 Chevrolet Suburban------
+        IGUI_VehicleName87chevySuburban = "'87款雪佛兰Suburban",
+        IGUI_VehicleName87chevySuburbanOP = "'87款雪佛兰Suburban越野套件版",
+        IGUI_VehicleName87chevySuburbanCUCV = "'87款雪佛兰Suburban军用多用途车",
+
+        IGUI_VehiclePartSUB87SideSteps = "侧踏板",
+        IGUI_VehiclePartSUB87RoofLights = "车顶警示灯",
+
+        IGUI_VehiclePartSUB87Trunk = "后备箱",
+        IGUI_VehiclePartSUB87Roofrack = "车顶行李架",
+        IGUI_VehiclePartSUB87SideStorage = "侧边储物箱",
+
+        IGUI_VehiclePartSUB87SideCan0 = "侧置油桶",
+        IGUI_VehiclePartSUB87SideCan1 = "侧置油桶",
+	------'68 Pontiac Firebird------
+        IGUI_VehicleName68firebird350 = "'68款庞蒂亚克火鸟350型",
+        IGUI_VehicleName68firebird400 = "'68款庞蒂亚克火鸟400型",
+        IGUI_VehicleName68firebirdRamAir = "'68款庞蒂亚克火鸟Ram Air版",
+        IGUI_VehicleName68firebirdRamAirCustom = "'68款庞蒂亚克火鸟Ram Air定制版",
+
+        IGUI_VehiclePartFRB68BumperFront = "前保险杠",
+        IGUI_VehiclePartFRB68BumperRear = "后保险杠",
+        IGUI_VehiclePartFRB68SpareTire = "备胎",
+
+        IGUI_VehiclePartFRB68WindshieldArmor = "挡风玻璃装甲",
+        IGUI_VehiclePartFRB68WindshieldRearArmor = "后挡风玻璃装甲",
+        IGUI_VehiclePartFRB68FrontLeftArmor = "前左窗装甲",
+        IGUI_VehiclePartFRB68FrontRightArmor = "前右窗装甲",
+        IGUI_VehiclePartFRB68RearLeftArmor = "后左窗装甲",
+        IGUI_VehiclePartFRB68RearRightArmor = "后右窗装甲",
+
+        IGUI_VehiclePartFRB68Trunk = "后备箱",
+        IGUI_VehiclePartFRB68Roofrack = "车顶行李架",
+        IGUI_VehiclePartFRB68Spoiler = "扰流板",
+        IGUI_VehiclePartFRB68FrontLip = "前唇",
+        IGUI_VehiclePartFRB68CenterConsole = "中控台",
+        IGUI_VehiclePartFRB68FoamSeal = "泡沫密封条",
+    ------'77 Pontiac Firebird------
+        IGUI_VehicleName77firebird = "'77款庞蒂亚克火鸟",
+        IGUI_VehicleName77firebirdES = "'77款庞蒂亚克火鸟Esprit版",
+        IGUI_VehicleName77firebirdFR = "'77款庞蒂亚克火鸟Formula版",
+        IGUI_VehicleName77firebirdTA = "'77款庞蒂亚克火鸟Trans Am版",
+
+        IGUI_VehiclePartFRB77BumperFront = "前保险杠",
+        IGUI_VehiclePartFRB77BumperRear = "后保险杠",
+        IGUI_VehiclePartFRB77SpareTire = "备胎",
+        IGUI_VehiclePartFRB77Spoiler = "扰流板",
+
+        IGUI_VehiclePartFRB77WindshieldArmor = "前挡风玻璃装甲",
+        IGUI_VehiclePartFRB77WindshieldRearArmor = "后挡风玻璃装甲",
+        IGUI_VehiclePartFRB77FrontLeftArmor = "前左窗装甲",
+        IGUI_VehiclePartFRB77FrontRightArmor = "前右窗装甲",
+
+        IGUI_VehiclePartFRB77Trunk = "后备箱",
+        IGUI_VehiclePartFRB77Roofrack = "车顶行李架",
+        IGUI_VehiclePartFRB77RoofPanels = "车顶面板",
+  	------'82 Pontiac Firebird------
+        IGUI_VehicleName82firebird = "'82款庞蒂亚克火鸟",
+        IGUI_VehicleName82firebirdSE = "'82款庞蒂亚克火鸟S/E版",
+        IGUI_VehicleName82firebirdTA = "'82款庞蒂亚克火鸟Trans Am版",
+        IGUI_VehicleName82firebirdKITT = "82款庞蒂亚克火鸟KITT版",
+        IGUI_VehicleName82firebirdKARR = "82款庞蒂亚克火鸟KARR版",
+
+        IGUI_VehiclePartFRB82BumperFront = "前保险杠",
+        IGUI_VehiclePartFRB82BumperRear = "后保险杠",
+        IGUI_VehiclePartFRB82SpareTire = "备胎",
+
+        IGUI_VehiclePartFRB82WindshieldArmor = "前挡风玻璃装甲",
+        IGUI_VehiclePartFRB82WindshieldRearArmor = "后挡风玻璃装甲",
+        IGUI_VehiclePartFRB82FrontLeftArmor = "前左窗装甲",
+        IGUI_VehiclePartFRB82FrontRightArmor = "前右窗装甲",
+
+        IGUI_VehiclePartFRB82Trunk = "后备箱",
+        IGUI_VehiclePartFRB82Roofrack = "车顶行李架",
+        IGUI_VehiclePartFRB82RoofPanels = "车顶面板",
+        IGUI_VehiclePartFRB82Spoiler = "扰流板",
+        IGUI_VehiclePartFRB82PopupLights = "弹出式车灯",
+	------'04 Volkswagen Touran------
+        IGUI_VehicleName04vwTouran = "'04款大众途安"
+
+        IGUI_VehiclePartTOU04Trunk = "后备箱",
+        IGUI_VehiclePartTOU04Roofrack = "车顶行李架",
+	------'90 Ford F350 Ambulance------
+        IGUI_VehicleName90fordF350ambulance = "'90款福特F350救护车"
+        IGUI_VehicleName90fordF350SWAT = "'90款福特F350特警版"
+
+        IGUI_VehiclePartTrunkDoorLeft = "左侧储物舱门",
+        IGUI_VehiclePartF350TallStorage = "左侧高位储物区",
+        IGUI_VehiclePartF350LowStorage = "左侧低位储物区",
+
+        IGUI_VehiclePartTrunkDoorCorner = "转角储物舱门",
+        IGUI_VehiclePartF350RearStorage = "转角顶部储物区",
+        IGUI_VehiclePartF350LowCornerStorage = "转角低位储物区",
+
+        IGUI_VehiclePartTrunkDoorRightA = "右侧储物舱门",
+        IGUI_VehiclePartF350RightStorage = "右侧储物区",
+
+        IGUI_VehiclePartF350InsideFrontStorage = "驾驶舱前储物区",
+        IGUI_VehiclePartF350InsideLeftStorage = "驾驶舱左侧储物区",
+        IGUI_VehiclePartF350InsideRightTopStorage = "驾驶舱右上方储物区",
+        IGUI_VehiclePartF350InsideRightBottomStorage = "驾驶舱右下方储物区",
+	------'93 Ford Mustang SSP------
+        IGUI_VehicleName93mustangSSP = "'93款福特野马SSP",
+        IGUI_VehicleName93mustangSSPpd = "'93款福特野马SSP警用版",
+        IGUI_VehicleName93mustangSSPksp = "'93款福特野马SSP肯塔基州警版",
+        IGUI_VehicleName93mustangSSPunmarked = "'93款福特野马SSP无标识版",
+        IGUI_VehicleName93mustangSSPkspCol = "'93款福特野马SSP上校特别版",
+
+        IGUI_VehiclePartSSP93Trunk = "后备箱",
+	------'87 Toyota MR2------
+        IGUI_VehicleName87toyotaMR2 = "'87款丰田MR2",
+        IGUI_VehicleName87toyotaMR2c = "'87款丰田MR2敞篷版",
+
+        IGUI_VehiclePartMR2BumperFront = "前保险杠",
+        IGUI_VehiclePartMR2BumperRear = "后保险杠",
+        IGUI_VehiclePartMR2SpareTire = "备用轮胎",
+        IGUI_VehiclePartMR2Spoiler = "后扰流板",
+        IGUI_VehiclePartMR2SpoilerRoof = "车顶扰流板",
+        IGUI_VehiclePartMR2Sideskirts = "侧裙",
+        IGUI_VehiclePartMR2Sunroof = "天窗",
+        IGUI_VehiclePartWindowRemovableRoof = "可拆卸车顶",
+        IGUI_VehiclePartMR2PopupLights = "跳灯",
+        IGUI_VehiclePartMR2Mudflaps = "挡泥板",
+
+        IGUI_VehiclePartMR2WindshieldArmor = "前挡风玻璃装甲",
+        IGUI_VehiclePartMR2WindshieldRearArmor = "后挡风玻璃装甲",
+        IGUI_VehiclePartMR2WindowLeftArmor = "左前窗装甲",
+        IGUI_VehiclePartMR2WindowRightArmor = "右前窗装甲",
+
+        IGUI_VehiclePartMR2Trunk = "后储物箱",
+        IGUI_VehiclePartMR2FrontTrunk = "前储物箱",
+        IGUI_VehiclePartMR2TrunkDoorFront = "前储物箱盖",
+        IGUI_VehiclePartMR2Roofrack = "车顶行李架",
+        IGUI_VehiclePartMR2CenterConsole = "中控台",
+	------'73 Ford Falcon------
+        IGUI_VehicleName73fordFalconXBGT = "73款福特猎鹰XB GT进口版",
+        IGUI_VehicleName73fordFalconPS = "73款福特猎鹰追击特仕版进口版",
+        IGUI_VehicleName73fordFalconXBGTlhd = "73款福特猎鹰XB GT改装版",
+        IGUI_VehicleName73fordFalconPSlhd = "73款福特猎鹰追击特仕版改装版",
+
+        IGUI_VehiclePartFLC73Trunk = "后备箱",
+        IGUI_VehiclePartFLC73Roofrack = "车顶行李架",
+        IGUI_VehiclePartFLC73Storage = "扩展储物箱",
+	------'84 Mercedes Benz W460------
+        IGUI_VehicleName84mercLWB2 = "84款奔驰W460双门长轴版",
+        IGUI_VehicleName84mercLWB4 = "84款奔驰W460四门长轴版",
+        IGUI_VehicleName84mercSWB = "84款奔驰W460短轴版",
+        IGUI_VehicleName84mercLWB4M = "84款军用奔驰W460",
+
+        IGUI_VehiclePartW460Bodykit = "车身套件",
+        IGUI_VehiclePartW460Snorkel = "涉水喉",
+        IGUI_VehiclePartW460Guards = "灯护板",
+        IGUI_VehiclePartW460Mudflaps = "挡泥板",
+        IGUI_VehiclePartW460Roofrack = "车顶行李架",
+        IGUI_VehiclePartW460Trunk = "后备箱",
+    ------'87 Ford B700/F700 Trucks------
+        IGUI_VehicleName87fordB700school = "87款福特B700校车",
+        IGUI_VehicleName87fordB700military = "87款福特B700军用巴士",
+        IGUI_VehicleName87fordB700prison = "87款福特B700监狱巴士",
+        IGUI_VehicleName87fordF700swat = "87款福特F700特警车",
+        IGUI_VehicleName87fordF700bank = "87款福特F700装甲卡车",
+        IGUI_VehicleName87fordF700box = "87款福特F700箱式卡车",
+
+        IGUI_VehiclePartWindows = "车窗",
+        IGUI_VehiclePartB700StopSign = "停车标志",
+        IGUI_VehiclePartB700RoofLights = "车顶灯",
+        IGUI_VehiclePartB700Mudflaps = "挡泥板",
+
+        IGUI_VehiclePartStorageLidLeft = "左侧储物盖",
+        IGUI_VehiclePartStorageLidRight = "右侧储物盖",
+
+        IGUI_VehiclePartB700TrunkLeft = "左侧储物箱",
+        IGUI_VehiclePartB700TrunkRight = "右侧储物箱",
+        IGUI_VehiclePartB700Trunk = "后备箱",
+
+        IGUI_VehiclePartB700BumperFront = "前保险杠",
+        IGUI_VehiclePartB700BumperRear = "后保险杠",
+
+        IGUI_VehiclePartB700RearArmor = "后部装甲",
+
+        IGUI_VehiclePartB700DoorFrontRightArmor = "右前车门装甲",
+
+        IGUI_VehiclePartB700SideLeftArmor = "左侧装甲",
+        IGUI_VehiclePartB700SideRightArmor = "右侧装甲",
+
+        IGUI_VehiclePartB700Roofrack = "车顶行李架",
+        IGUI_VehiclePartB700Generator = "发电机",
+        IGUI_VehiclePartB700SpareTireOne = "备胎",
+        IGUI_VehiclePartB700SpareTireTwo = "备胎",
+
+        IGUI_VehiclePartSeatP1 = "座椅1",
+        IGUI_VehiclePartSeatP2 = "座椅2",
+        IGUI_VehiclePartSeatP3 = "座椅3",
+        IGUI_VehiclePartSeatP4 = "座椅4",
+        IGUI_VehiclePartSeatP5 = "座椅5",
+        IGUI_VehiclePartSeatP6 = "座椅6",
+        IGUI_VehiclePartSeatP7 = "座椅7",
+        IGUI_VehiclePartSeatP8 = "座椅8",
+        IGUI_VehiclePartSeatP9 = "座椅9",
+        IGUI_VehiclePartSeatP10 = "座椅10",
+        IGUI_VehiclePartSeatP11 = "座椅11",
+        IGUI_VehiclePartSeatP12 = "座椅12",
+        IGUI_VehiclePartSeatP13 = "座椅13",
+        IGUI_VehiclePartSeatP14 = "座椅14",
+
+        IGUI_VehiclePartF700TrunkBX = "后备箱",
+        IGUI_VehiclePartF700TrunkLeftBX = "左侧储物箱",
+        IGUI_VehiclePartF700TrunkSW = "后备箱",
+        IGUI_VehiclePartF700TrunkSWGunrack = "枪架",
+        IGUI_VehiclePartF700TrunkSWGuncabinet = "枪柜",
+        IGUI_VehiclePartF700TrunkBN = "后备箱",
+    ------'91 Nissan 240SX------
+        IGUI_VehicleName91nissan240sx = "91款日产240SX",
+        IGUI_VehicleName91nissan240sx2 = "91款日产240SX",
+
+        IGUI_VehiclePartN240Trunk = "后备箱",
+        IGUI_VehiclePartN240Roofrack = "车顶架",
+        IGUI_VehiclePartN240PrivacyCover = "后备箱隐私盖板",
+        IGUI_VehiclePartN240PopupLights = "弹出式车灯",
+        IGUI_VehiclePartN240TaillightsMod = "尾灯改装件",
+        IGUI_VehiclePartN240Sunroof = "天窗", 
+    ------'91 Ford Ranger------
+        IGUI_VehicleName91fordRangerSC = "'91款福特Ranger",
+        IGUI_VehicleName91fordRangerSClong = "'91款福特Ranger长货箱",
+        IGUI_VehicleName91fordRangerXC = "'91款福特Ranger超级驾驶室",
+        IGUI_VehicleName91fordRangerXClong = "'91款福特Ranger超级驾驶室长货箱",
+        IGUI_VehicleName91fordRangerPD = "'91款福特Ranger警用版",
+
+        IGUI_VehiclePartRNG91Trunk = "后备箱",
+        IGUI_VehiclePartRNG91Storage = "内部储物空间",
+        IGUI_VehiclePartRNG91TruckBedExtras = "货箱附加件",
+    ------'89 Isuzu Trooper------
+        IGUI_VehicleName89trooper = "'89款五十铃骑兵",
+        IGUI_VehicleName89trooperOP = "'89款五十铃骑兵越野套装",
+        IGUI_VehicleName89trooperRS = "'89款五十铃骑兵RS版",
+
+        IGUI_VehiclePartISZ89Trunk = "后备箱",
+        IGUI_VehiclePartISZ89Roofrack = "车顶行李架",
+    ------'93 Chevrolet Suburban / Silverado------
+        ---Suburban---
+                IGUI_VehicleName93chevySuburban = "'93款雪佛兰萨博班",
+                IGUI_VehicleName93chevySuburbanpd = "'93款雪佛兰萨博班警用版",
+                IGUI_VehicleName93chevySuburbanksp = "'93款雪佛兰萨博班KSP版",
+                IGUI_VehicleName93chevySuburbanfd = "'93款雪佛兰萨博班消防指挥车",
+                IGUI_VehicleName93chevySuburbanfbi = "'93款雪佛兰萨博班FBI版",
+                IGUI_VehicleName93chevySuburbanpdu = "'93款雪佛兰萨博班便衣警车",
+                IGUI_VehicleName93chevySuburbanDually = "'93款雪佛兰萨博班双后轮版",
+
+                IGUI_VehicleName93chevySilveradoSC = "'93款雪佛兰索罗德单排座",
+                IGUI_VehicleName93chevySilveradoSClong = "'93款雪佛兰索罗德单排长货箱",
+                IGUI_VehicleName93chevySilveradoSClongFossoil = "'93款雪佛兰索罗德福索石油版",
+                IGUI_VehicleName93chevySilveradoXC = "'93款雪佛兰索罗德加长驾驶室",
+                IGUI_VehicleName93chevySilveradoXClong = "'93款雪佛兰索罗德加长驾驶室长货箱",
+                IGUI_VehicleName93chevySilveradoXClongMcCoy = "'93款雪佛兰索罗德麦考伊版",
+                IGUI_VehicleName93chevySilveradoXCdually = "'93款雪佛兰索罗德加长驾驶室双后轮",
+                IGUI_VehicleName93chevySilveradoCC = "'93款雪佛兰索罗德双排座",
+                IGUI_VehicleName93chevySilveradoCClong = "'93款雪佛兰索罗德双排长货箱",
+                IGUI_VehicleName93chevySilveradoCClongfd = "'93款雪佛兰索罗德消防部门版",
+                IGUI_VehicleName93chevySilveradoCCdually = "'93款雪佛兰索罗德双排座双后轮",
+                IGUI_VehicleName93chevySilveradoSCdually = "'93款雪佛兰索罗德单排座双后轮",
+                IGUI_VehicleName93chevySilveradoXClongRanger = "'93款雪佛兰索罗德护林员版",
+
+                IGUI_VehicleName93chevySilveradoK3500flatbed = "'93款雪佛兰K3500平板车",
+                IGUI_VehicleName93chevySilveradoK3500wrecker = "'93款雪佛兰K3500救援车",
+
+                IGUI_VehiclePartSUB93BugGuard = "防虫网",
+
+                IGUI_VehiclePartSUB93Trunk1 = "后备箱",
+                IGUI_VehiclePartSUB93Trunk2 = "后备箱",
+                IGUI_VehiclePartSIL93Trunk3 = "货箱储物空间",
+                IGUI_VehiclePartSIL93Trunk4 = "平板车储物空间",
+                IGUI_VehiclePartSIL93Trunk5 = "工具存放处",
+
+                IGUI_VehiclePartSUB93Roofrack = "车顶行李架",
+                IGUI_VehiclePartSUB93RollbarToolbox = "防滚架/工具箱",
+                IGUI_VehiclePartSUB93Roofrack = "车顶储物架",
+                IGUI_VehiclePartSUB93Tent = "车顶帐篷",
+                IGUI_VehiclePartSIL93ToolboxFlat = "右侧工具箱",
+                IGUI_VehiclePartSIL93Toolbox = "左侧工具箱",
+                IGUI_VehiclePartSIL93ToolboxTwo = "右侧工具箱",
+
+                IGUI_VehiclePartSIL93Tarp = "货箱防水布",
+                IGUI_VehiclePartSIL93BedStakes = "货箱围栏",
+        ---SuburbanExpanded---
+                IGUI_VehicleName93chevySuburbanPoliceMPD = "'93款雪佛兰萨博班 马尔德劳警局",
+                IGUI_VehicleName93chevySuburbanPoliceWPPD = "'93款雪佛兰萨博班 西点警局",
+                IGUI_VehicleName93chevySuburbanPoliceCLPD = "'93款雪佛兰萨博班 路易斯维尔市警局",
+                IGUI_VehicleName93chevySuburbanPoliceLCPD = "'93款雪佛兰萨博班 路易斯维尔县警局",
+                IGUI_VehicleName93chevySuburbanPoliceMCS = "'93款雪佛兰萨博班 米德县警长办公室",
+                IGUI_VehicleName93chevySuburbanPoliceBCS = "'93款雪佛兰萨博班 布告县警长办公室",
+                IGUI_VehicleName93chevySuburbanPrison = "'93款雪佛兰萨博班 监狱安保",
+                IGUI_VehicleName93chevySuburbanAirportSec = "'93款雪佛兰萨博班 机场安保",
+
+                IGUI_VehicleName93chevySilveradoAirport = "'93款雪佛兰索罗德 机场服务",
+                IGUI_VehicleName93chevySilveradoPoliceMCS = "'93款雪佛兰索罗德 米德县警长办公室",
+                IGUI_VehicleName93chevySilveradoPoliceBCS = "'93款雪佛兰索罗德 布告县警长办公室",
+                IGUI_VehicleName93chevySilveradoVoltMojo = "'93款雪佛兰索罗德 Volt Mojo公司",
+                IGUI_VehicleName93chevySilveradoPennSham = "'93款雪佛兰索罗德 Penn S Ham公司",
+                IGUI_VehicleName93chevySilveradoRiversideFab = "'93款雪佛兰索罗德 罗斯伍德 Fab公司",
+                IGUI_VehicleName93chevySilveradoStoneworksMasonry = "'93款雪佛兰索罗德 Stoneworks石艺公司",
+                IGUI_VehicleName93chevySilveradoWpCarpentry = "'93款雪佛兰索罗德 WP木工公司",
+                IGUI_VehicleName93chevySilveradoMcCoyWoodworking = "'93款雪佛兰索罗德 McCoy木工公司",
+                IGUI_VehicleName93chevySilveradoUncloggers = "'93款雪佛兰索罗德 管道疏通公司",
+
+                IGUI_VehicleName93chevySilveradoK3500mechanic = "'93款雪佛兰索罗德 机械维修",
+                IGUI_VehicleName93chevySilveradoK3500lvLandscaping = "'93款雪佛兰索罗德 景观绿化",
+    ------'93 Lincoln Town Car + Limo------
+        IGUI_VehicleName93townCar = "'93款林肯城市轿车",
+        IGUI_VehicleName93townCarLimo = "'93款林肯城市轿车加长版",
+
+        IGUI_VehiclePartWindowMiddleLeft = "左中部车窗",
+        IGUI_VehiclePartWindowMiddleRight = "右中部车窗",
+        IGUI_VehiclePartWindowSunroof = "天窗",
+
+        IGUI_VehiclePartLIN93Trunk = "后备箱",
+        IGUI_VehiclePartLIN93Floor = "地板储物格",
+        IGUI_VehiclePartLIN93Minibar = "迷你吧台",
+        IGUI_VehiclePartLIN93Trunkrack = "后备箱行李架",
+    ------'59 Cadillac Miller-Meteor + ECTO-1------
+        IGUI_VehicleNameECTO1 = "59款凯迪拉克米勒-流星ECTO-1",
+        IGUI_VehicleName59meteor = "59款凯迪拉克米勒-流星",
+        IGUI_VehicleName59ambulance = "59款凯迪拉克米勒-流星救护车",
+        IGUI_VehicleNameECTO1Burnt = "59款凯迪拉克米勒-流星ECTO-1烧毁版",
+
+        IGUI_VehiclePartECTO1Trunk = "后备箱",
+        IGUI_VehiclePartECTO1Equipment = "ECTO-1专用设备",
+        IGUI_VehiclePartECTO1Roofrack = "车顶行李架",
+    ------'93 Ford Taurus------
+        IGUI_VehicleName93fordTaurus = "'93款福特金牛座",
+        IGUI_VehicleName93fordTaurusWagon = "'93款福特金牛座旅行版",
+        IGUI_VehicleName93fordTaurusSHO = "'93款福特金牛座SHO版",
+
+        IGUI_VehiclePartTAU93TrunkS = "后备箱",
+        IGUI_VehiclePartTAU93TrunkW = "后备箱",
+        IGUI_VehiclePartTAU93Roofrack = "车顶行李架",
+    ------'75 Pontiac Grand Prix------
+        IGUI_VehicleName75grandPrixSJ = "75款庞蒂亚克大奖赛SJ版",
+        IGUI_VehicleName75grandPrixLJ = "75款庞蒂亚克大奖赛LJ版",
+        IGUI_VehicleName75grandPrixHurst = "75款庞蒂亚克大奖赛赫斯特特别版",
+
+        IGUI_VehiclePartPRX75BumperFront = "前保险杠",
+        IGUI_VehiclePartPRX75BumperRear = "后保险杠",
+        IGUI_VehiclePartPRX75SpareTire = "备用轮胎",
+
+        IGUI_VehiclePartPRX75WindshieldArmor = "前挡风玻璃装甲",
+        IGUI_VehiclePartPRX75WindshieldRearArmor = "后挡风玻璃装甲",
+        IGUI_VehiclePartPRX75FrontLeftArmor = "左前窗装甲",
+        IGUI_VehiclePartPRX75FrontRightArmor = "右前窗装甲",
+        IGUI_VehiclePartPRX75RearLeftArmor = "左后窗装甲",
+        IGUI_VehiclePartPRX75RearRightArmor = "右后窗装甲",
+
+        IGUI_VehiclePartPRX75Trunk = "后备箱",
+        IGUI_VehiclePartPRX75Roofrack = "车顶行李架",
+        IGUI_VehiclePartPRX75CenterConsole = "中控台储物箱",
+        IGUI_VehiclePartPRX75CordovaTop = "科尔多瓦车顶",
+    ------'63 Volkswagen Type 2 Van------
+        IGUI_VehicleName63Type2Van = "63款大众Type 2厢式货车"
+        IGUI_VehicleName63Type2VanMilitary = "63款大众Type 2军用货车"
+        IGUI_VehicleName63Type2VanApocalypse = "63款大众Type 2末日货车"
+        IGUI_VehicleName63Type2VanHippie = "63款大众Type 2嬉皮货车"
+
+        IGUI_VehiclePartVAN63Trunk = "前部储物区",
+        IGUI_VehiclePartVAN63InnerTrunk = "后部储物区",
+        IGUI_VehiclePartVAN63Roofrack = "车顶行李架",
+        IGUI_VehiclePartVAN63WeldedRoofrack = "焊接式车顶架",
+        IGUI_VehiclePartVAN63ToolBoxLeft = "左侧工具箱",
+        IGUI_VehiclePartVAN63ToolBoxRight = "右侧工具箱",
+        IGUI_VehiclePartVAN63UnderMiddleLeftSeat  = "中排左座下方",
+        IGUI_VehiclePartVAN63UnderMiddleRightSeat  = "中排右座下方",
+        IGUI_VehiclePartVAN63UnderRearLeftSeat  = "后排左座下方",
+        IGUI_VehiclePartVAN63UnderRearRightSeat  = "后排右座下方",
+        IGUI_VehiclePartVAN63TarpCover = "防水篷布罩",
+
+        IGUI_VehiclePartVAN63HeadlightGuardLeft = "左侧大灯护网",
+        IGUI_VehiclePartVAN63HeadlightGuardRight = "右侧大灯护网",
+    ------'99 Ford Crown Victoria Police Interceptor------
+        IGUI_VehicleName99fordCVPI = "99款福特皇冠维多利亚警用拦截车",
+        IGUI_VehicleName99fordCVPIunmarked = "99款福特皇冠维多利亚无标识版",
+
+        IGUI_VehiclePartCVPI99Barrier = "驾驶舱隔离栏",
+        IGUI_VehiclePartCVPI99Trunk = "后备箱",
+    ------'98 Nissan Stagea 260RS Autech------
+        IGUI_VehicleName98stagea260RS = "98款日产Stagea 260RS Autech进口版",
+        IGUI_VehicleName98stagea260RSlhd = "98款日产Stagea 260RS Autech改装版",
+
+        IGUI_VehiclePartSTAGEABumperFront = "前保险杠",
+        IGUI_VehiclePartSTAGEABumperRear = "后保险杠",
+        IGUI_VehiclePartSTAGEASpareTire = "备胎",
+
+        IGUI_VehiclePartSTAGEAWindshieldArmor = "前挡风玻璃装甲",
+        IGUI_VehiclePartSTAGEAWindshieldRearArmor = "后挡风玻璃装甲",
+        IGUI_VehiclePartSTAGEAFrontLeftArmor = "左前窗装甲",
+        IGUI_VehiclePartSTAGEAFrontRightArmor = "右前窗装甲",
+        IGUI_VehiclePartSTAGEARearLeftArmor = "左后窗装甲",
+        IGUI_VehiclePartSTAGEARearRightArmor = "右后窗装甲",
+        IGUI_VehiclePartSTAGEABackLeftArmor = "左后部窗装甲",
+        IGUI_VehiclePartSTAGEABackRightArmor = "右后部窗装甲",
+
+        IGUI_VehiclePartSTAGEATrunk = "后备箱",
+        IGUI_VehiclePartSTAGEARoofrack = "车顶行李架",
+        IGUI_VehiclePartSTAGEASpoiler = "尾翼",
+        IGUI_VehiclePartSTAGEASideskirts = "侧裙",
+    ------'82 Jeep J10------
+        IGUI_VehicleName82jeepJ10 = "82款吉普J10",
+        IGUI_VehicleName82jeepJ10t = "82款吉普J10柔和黄特别版",
+        IGUI_VehicleName82jeepJ10pd = "82款吉普J10警用版",
+        IGUI_VehicleName82jeepJ10ranger = "82款吉普J10巡逻版",
+
+        IGUI_VehiclePartJP82Dorothy = "多萝西探测仪",
+        IGUI_VehiclePartJP82Windy = "风速计",
+
+        IGUI_VehiclePartJP82Rollbar = "防滚架",
+        IGUI_VehiclePartJP82Roofrack = "车顶行李架",
+        IGUI_VehiclePartJP82BedCover = "货斗盖",
+        IGUI_VehiclePartJP82TrunkDoorTop = "货斗盖板",
+        IGUI_VehiclePartJP82Trunk = "货斗储物区",
+        IGUI_VehiclePartJP82Trunkt = "小型货斗储物区",
+    ------'88 Chevrolet S10------
+        IGUI_VehicleName88chevyS10 = "88款雪佛兰S10",
+
+        IGUI_VehiclePartCH88Rollbar = "防滚架",
+        IGUI_VehiclePartCH88Roofrack = "车顶行李架",
+        IGUI_VehiclePartCH88BedCover = "货斗盖",
+        IGUI_VehiclePartCH88TrunkDoorTop = "货斗盖板",
+        IGUI_VehiclePartCH88Trunk = "货斗储物区",
+    ------'89 Ford Bronco------
+        IGUI_VehicleName89fordBronco = "89款福特Bronco",
+        IGUI_VehicleName89fordBroncoPD = "89款福特Bronco警用版",
+        IGUI_VehicleName89fordBroncoRanger = "89款福特Bronco巡逻版",
+
+        IGUI_VehiclePartBR89Rollbar = "防滚架",
+        IGUI_VehiclePartBR89Roofrack = "车顶行李架",
+        IGUI_VehiclePartBR89BedCover = "货斗盖",
+        IGUI_VehiclePartBR89Barrier = "货斗隔离栏",
+        IGUI_VehiclePartBR89Trunk = "货斗储物区",
+
+        IGUI_VehiclePartBR89FrontBumper = "前保险杠",
+        IGUI_VehiclePartBR89RearBumper = "后保险杠",
+
+        IGUI_VehiclePartBR89SpareTireRoof = "车顶备胎",
+        IGUI_VehiclePartBR89SpareTireRear = "后部备胎",
+
+        IGUI_VehiclePartBR89WindshieldArmor = "前挡风玻璃装甲",
+        IGUI_VehiclePartBR89WindowFrontLeftArmor = "左前窗装甲",
+        IGUI_VehiclePartBR89WindowFrontRightArmor = "右前窗装甲",
+        IGUI_VehiclePartBR89WindowRearLeftArmor = "左后窗装甲",
+        IGUI_VehiclePartBR89WindowRearRightArmor = "右后窗装甲",
+    ------'83 AM General M923------
+        IGUI_VehicleName83amgeneralM923 = "83款AM通用M923乡巴佬卡车",
+        IGUI_VehiclePartM923SpareMount = "备胎架",
+        IGUI_VehiclePartM923Stakes = "货厢栏板",
+        IGUI_VehiclePartM923Trunk = "货厢储物区",
+        IGUI_VehiclePartM923Storage = "侧面储物箱",
+        IGUI_VehiclePartM923StorageDoor = "侧面储物箱盖",
+        IGUI_VehiclePartM923CabCovers = "驾驶室顶盖",
+        IGUI_VehiclePartM923GuntruckArmor = "武装卡车装甲",
+    ------'78 AM General M35 Series Trucks------
+        IGUI_VehicleName78amgeneralM35A2 = "78款AM通用M35A2军用卡车",
+        IGUI_VehicleName78amgeneralM49A2C = "78款AM通用M49A2C油罐车",
+        IGUI_VehicleName78amgeneralM50A3 = "78款AM通用M50A3水罐车",
+        IGUI_VehicleName78amgeneralM62 = "78款AM通用M62清障车",
+        IGUI_VehicleName78amgeneralM35A2Burnt = "78款AM通用M35A2焚毁版",
+        IGUI_VehiclePartM35A2Tarp = "货斗篷布",
+        IGUI_VehiclePartM35A2CabCovers = "驾驶室护罩",
+        IGUI_VehiclePartM35A2Bumper = "保险杠",
+        IGUI_VehiclePartM35A2BumperRear = "后保险杠组",
+        IGUI_VehiclePartM35A2Grille = "前格栅",
+        IGUI_VehiclePartM35A2Mudflaps = "挡泥板",
+        IGUI_VehiclePartM35A2SpareTire = "备胎",
+        IGUI_VehiclePartM62SpareTire = "备胎",
+        IGUI_VehiclePartM35A2Trunk = "货斗储物箱",
+        IGUI_VehiclePartM49A2CTrunk = "泵舱储物箱",
+        IGUI_VehiclePartM35A2Muffler = "消音器",
+        IGUI_VehiclePartM35A2WindshieldArmor = "挡风玻璃装甲",
+        IGUI_VehiclePartM35A2DoorLeftArmor = "左前门装甲",
+        IGUI_VehiclePartM35A2DoorRightArmor = "右前门装甲",
+--------------------KATTAJ1 Clothes Core [B41/B42](3470422050)--------------------
+        IGUI_HotbarAttachment_KATTAJ1HelmetWithMount = "KATTAJ1头盔支架"
+        IGUI_HotbarAttachment_KATTAJ1hipLeftHolster = "左侧胯部枪套",
+        IGUI_HotbarAttachment_KATTAJ1hipArmorLeftHolster = "左侧装甲胯部枪套",
+        IGUI_HotbarAttachment_KATTAJ1beltLeftHolster = "左侧腰带枪套",
+        IGUI_HotbarAttachment_KATTAJ1hipRightHolster = "右侧胯部枪套",
+        IGUI_HotbarAttachment_KATTAJ1hipArmorRightHolster = "右侧装甲胯部枪套",
+        IGUI_HotbarAttachment_KATTAJ1beltRightHolster = "右侧腰带枪套",
+
+        IGUI_HotbarAttachment_KATTAJ1hipLeftSheath = "左侧胯部刀鞘",
+    	IGUI_HotbarAttachment_KATTAJ1hipArmorLeftSheath = "左侧装甲胯部刀鞘",
+    	IGUI_HotbarAttachment_KATTAJ1beltLeftSheath = "左侧腰带刀鞘",
+    	IGUI_HotbarAttachment_KATTAJ1hipRightSheath = "右侧胯部刀鞘",
+    	IGUI_HotbarAttachment_KATTAJ1hipArmorRightSheath = "右侧装甲胯部刀鞘",
+    	IGUI_HotbarAttachment_KATTAJ1beltRightSheath = "右侧腰带刀鞘",
+    	IGUI_HotbarAttachment_KATTAJ1BackSheath = "背部刀鞘",
+
+        IGUI_ItemCat_KATTAJ1_BulletproofVest = "防弹背心",
+        IGUI_ItemCat_KATTAJ1_ArmsProtectionUpper = "上臂护甲",
+        IGUI_ItemCat_KATTAJ1_ArmsProtectionLower = "前臂护甲",
+        IGUI_ItemCat_KATTAJ1_LegsProtectionUpper = "大腿护甲",
+        IGUI_ItemCat_KATTAJ1_LegsProtectionLower = "小腿护甲",
+--------------------[B42] Water Pipes (aka Plumbing)(3546314080)--------------------
+        IGUI_WP_Status = "状态",
+        IGUI_WP_Active = "运行中",
+        IGUI_WP_Inactive = "已停用",
+        IGUI_WP_Electricity = "电力",
+        IGUI_WP_Available = "可用",
+        IGUI_WP_Unavailable = "不可用",
+        IGUI_WP_ConnectedSource = "连接源",
+        IGUI_WP_Water = "水",
+        IGUI_WP_Gas = "汽油",
+        IGUI_WP_None = "无",
+        IGUI_WP_Efficiency = "效率",
+        IGUI_WP_Filter = "滤芯",
+        IGUI_WP_NA = "不适用",
+        IGUI_WP_PumpInfoText = "水泵效率将随时间下降。老化水泵会停止工作或引发火灾！添加木炭可过滤污染水源。",
+--------------------Restore Engine Quality [B42](3543612325)--------------------
+        IGUI_REQ_Restore = "修复",
+        IGUI_REQ_RestorationPreview = "详情",
+        IGUI_REQ_Efficiency = "效率",
+--------------------Vehicle Repair Overhaul(2757712197)--------------------
+        ------Vehicle Repair Overhaul------
+        IGUI_EER_RebuildEngine = "修复引擎",
+        ------Vehicle Repair Overhaul - Vehicle Salvage Overhaul------
+        	IGUI_CraftCategory_Salvage = "回收拆解",
+--------------------True Music Jukebox B42(3398874593)--------------------
+    	IGUI_ContainerTitle_jukebox = "自动点唱机",
+--------------------PertsPartyTiles(2837923608)--------------------
+    IGUI_ContainerTitle_TrophyCase = "奖杯陈列柜",
+    IGUI_ContainerTitle_Tent = "露营帐篷",
+    IGUI_ContainerTitle_EmergencyAxe = "应急斧",
+    IGUI_ContainerTitle_SpongeShelf = "海绵置物架",
+    IGUI_ContainerTitle_LegalShelf = "法律文书架",
+--------------------[B42] Tatra 815(3404869345)--------------------
+    IGUI_VehicleNameTatra8156X6 = "太脱拉815 6X6军用卡车",
+    IGUI_VehicleNameTatra8156X6Civil = "太脱拉815 6X6民用卡车",
+    IGUI_VehicleNameTatra815 = "太脱拉815 8X8军用卡车",
+    IGUI_VehicleNameTatra8156X6FD = "太脱拉815 6X6消防卡车",
+--------------------[B42] Tatrapan(3402789975)--------------------
+    IGUI_VehicleNameTatrapanApocalypto = "太脱拉潘·末日战车",
+    IGUI_VehicleNameTatrapan = "太脱拉潘T1/Z1装甲车",
+    IGUI_VehicleNameTatrapanAmbulance = "太脱拉潘装甲救护车",
+
+    IGUI_VehiclePart_FrontProtection = "前部防护",
+    IGUI_VehiclePart_CargoCover = "货厢盖",
+    IGUI_VehiclePart_RoofStorage = "车顶储物架",
+    IGUI_VehiclePart_SpareShovel = "备用铁锹",
+    IGUI_VehiclePart_SpareAxe = "备用斧头",
+    IGUI_VehiclePart_SpareTire1 = "备用轮胎1",
+    IGUI_VehiclePart_SpareTire2 = "备用轮胎2",
+--------------------Tow Truck [B42](3446203945)--------------------
+    IGUI_VehicleNameChevalier_Rhino_TowTruck = "骑士 犀牛",
+    IGUI_VehiclePartChevalier_Rhino_ArmorBullBar = "牛栏保险杠",
+    IGUI_VehiclePartChevalier_Rhino_WindSArmor = "挡风玻璃装甲",
+    IGUI_VehiclePartChevalier_Rhino_LeftDoorArmor = "左侧车门装甲",
+    IGUI_VehiclePartChevalier_Rhino_RightDoorArmor = "右侧车门装甲",
+--------------------[B42/41] Automatic Stove Shutoff(3526968739)--------------------
+    IGUI_AutomaticStoveShutoff_Say1 = "你已超出目标烤箱的有效范围。<br>烤箱追踪功能已停用。<br>请立刻返回关闭烤箱！",
+	IGUI_AutomaticStoveShutoff_Say2 = "微波炉内含有金属物品",
+	IGUI_AutomaticStoveShutoff_Say3 = "内部存在烧焦食物残留",
+--------------------Military Tool Kit(2705406713)--------------------
+    IGUI_Fuid_Container_MilitaryGasCan20L = "军用油桶 20L",
+    IGUI_VehiclePartTrack_1 = "左侧履带",
+    IGUI_VehiclePartTrack_2 = "右侧履带",
+    IGUI_VehiclePartCatTurrent = "炮塔",
+    IGUI_VehiclePartCatArmor = "装甲",
+    IGUI_VehiclePartArmor = "装甲",
+    IGUI_VehiclePartBrowning_M2 = "勃朗宁M2HB重机枪",
+    IGUI_VehiclePartTurrent = "炮塔",
+--------------------U.S. M113 APC by Papa_Chad(2705655822)--------------------
+    IGUI_VehicleNameM113_APC = "M113装甲运兵车",
+    IGUI_VehicleNameM113_Police = "M113装甲运兵车特警版", 
+    IGUI_VehicleNameM113_Medic = "M113装甲运兵车医疗版",
+--------------------U.S. M548 Cargo Carrier by Papa_Chad(3424497614)--------------------
+    IGUI_VehicleNameM548 = "M548履带式运输车",
+    IGUI_VehicleNameM548_Camo = "M548履带式运输车迷彩版",
+
+    IGUI_VehiclePartBack_Cage = "货舱护栏",
+    IGUI_VehiclePartBack_Cage_Protection = "货舱护栏篷布",
+    IGUI_VehiclePartFront_Cage = "车顶护栏", 
+    IGUI_VehiclePartFront_Cage_Protection = "车顶护栏篷布",
+--------------------U.S. M998 Humvee by Papa_Chad(3554424111)--------------------
+    IGUI_VehicleNameM998_Humvee = "M998悍马",
+
+    IGUI_VehiclePartCataddons = "附加组件",
+    IGUI_VehiclePartAntenna = "左天线",
+    IGUI_VehiclePartAntenna2 = "右天线", 
+    IGUI_VehiclePartTurret_Armor = "炮塔装甲",
+    IGUI_VehiclePartM2_Armor = "M2装甲",
+    IGUI_VehiclePartSeatGunner = "机枪手座椅",
+    IGUI_VehiclePartTrunk_Lid_Cover = "后备箱盖护罩",
+    IGUI_VehiclePartSpare_Tire_Carrier = "备胎架",
+    IGUI_VehiclePartSpare_Tire = "备胎",
+    IGUI_VehiclePartExtra_GasCan = "附加油桶",
+    IGUI_VehiclePartBull_Bar = "前防撞栏",
 }

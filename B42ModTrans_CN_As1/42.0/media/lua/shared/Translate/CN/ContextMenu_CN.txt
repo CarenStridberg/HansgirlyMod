@@ -989,4 +989,110 @@ ContextMenu_NoVisualAid = "关闭视觉辅助工具",
 ContextMenu_HighBeams = "切换远光灯"
 ContextMenu_HighBeamsTurnOn = "开启远光灯"
 ContextMenu_HighBeamsTurnOff = "关闭远光灯"
+
+--------------------Frockin Splendor!(3307376332)--------------------
+
+	ContextMenu_MoreSkin = "露出更多皮肤",
+	ContextMenu_LessSkin = "露出更少皮肤",
+--------------------Frockin Shirts & Ties!(3453676250)--------------------
+
+	ContextMenu_RollUp = "卷起袖子",
+	ContextMenu_RollDown = "放下袖子",
+
+	ContextMenu_BelowCollar = "拉下衣领",
+	ContextMenu_AboveCollar = "拉上衣领",
+--------------------Frockin Splendor! Vol.2(3411888105)--------------------
+
+	ContextMenu_WearOutside = "穿在外面",
+	ContextMenu_WearInside = "穿在里面",
+
+	ContextMenu_BothLegs = "双腿都穿上",
+	ContextMenu_OneLeg = "只穿一条腿",
+
+	ContextMenu_BothArms = "两个胳膊都穿上",
+	ContextMenu_OneArm = "只穿一个胳膊",
+
+	ContextMenu_YesSuspender = "系上吊带",
+	ContextMenu_NoSuspender = "解开吊带",
+
+	ContextMenu_YesBelt = "系上腰带",
+	ContextMenu_NoBelt = "解开腰带",
+
+	ContextMenu_Open = "拉开夹克",
+	ContextMenu_Close = "合上夹克",
+
+	ContextMenu_Longer = "穿长一些",
+	ContextMenu_Shorter = "穿短一些",
+
+	ContextMenu_Higher = "穿高一些",
+	ContextMenu_Lower = "穿低一些",
+--------------------Frockin Splendor! Vol.3(3431256608)--------------------
+
+	ContextMenu_OtherSide = "穿到另一边",
+--------------------Frockin Splendor! Vol.4(3475347500)--------------------
+
+	ContextMenu_Holes = "挖几个洞！",
+--------------------Farming Wiki(3473886171)--------------------
+
+	ContextMenu_OpenFarmingWiki = "打开农业Wiki",
+--------------------My So-Called Toy(3540268758)--------------------
+	ContextMenu_P4MySoCalledToy_LookCapsuleToy = "查看胶囊玩具",
+	ContextMenu_P4MySoCalledToy_SpinCapsuleToy = "旋转胶囊玩具",
+	ContextMenu_P4MySoCalledToy_LookMiniBook = "查看",
+	ContextMenu_P4MySoCalledToy_PlaySlidingPuzzle = "玩",
+--------------------KATTAJ1 Clothes Core [B41/B42](3470422050)--------------------
+	ContextMenu_AttachHolsterToHipLeft = "装备到左胯部",
+    ContextMenu_AttachHolsterToHipArmorLeft = "装备到左胯装甲",
+    ContextMenu_AttachHolsterToBeltLeft = "装备到左侧腰带",
+    ContextMenu_AttachHolsterToHipRight = "装备到右胯部",
+    ContextMenu_AttachHolsterToHipArmorRight = "装备到右胯装甲",
+    ContextMenu_AttachHolsterToBeltRight = "装备到右侧腰带",
+
+    ContextMenu_AttachPouchToHipLeft = "装备到左侧",
+    ContextMenu_AttachPouchToHipRight = "装备到右侧",
+    ContextMenu_AttachPouchToHipLeftOnArmor = "装备到装甲左侧",
+    ContextMenu_AttachPouchToHipRightOnArmor = "装备到装甲右侧",
+
+    ContextMenu_AttachSheathToHipLeft = "装备到左胯部",
+    ContextMenu_AttachSheathToHipArmorLeft = "装备到左胯装甲",
+    ContextMenu_AttachSheathToBeltLeft = "装备到左侧腰带",
+    ContextMenu_AttachSheathToHipRight = "装备到右胯部",
+    ContextMenu_AttachSheathToHipArmorRight = "装备到右胯装甲",
+    ContextMenu_AttachSheathToBeltRight = "装备到右侧腰带",
+    ContextMenu_AttachSheathToBack = "装备到背部",
+
+    ContextMenu_NoBelts = "无腰带",
+    ContextMenu_WithBelts = "有腰带",
+
+    ContextMenu_ShirtMan = "男款",
+    ContextMenu_ShirtFemale = "女款",
+
+    ContextMenu_PutOn = "穿上",
+    ContextMenu_Tight = "收紧",
+
+    ContextMenu_JacketOpen = "敞开",
+    ContextMenu_JacketOpenRolledUpSleeves = "敞开卷袖",
+    ContextMenu_JacketRolledUpSleeves = "卷起袖子",
+    ContextMenu_DownHoodieOpen = "放下兜帽敞开",
+    ContextMenu_UpHoodieOpen = "竖起兜帽敞开",
+
+    ContextMenu_RollUpPants = "卷起裤腿",
+    ContextMenu_TuckPants = "塞进靴子",
+--------------------[B42] Water Pipes (aka Plumbing)(3546314080)--------------------
+	ContextMenu_WP_AddCharcoal = "添加木炭滤芯",
+	ContextMenu_WP_PumpInfo = "水泵信息",
+	ContextMenu_WP_ValveOpen = "开启阀门",
+	ContextMenu_WP_ValveClose = "关闭阀门",
+	ContextMenu_WP_FlowmeterInfo = "流量计信息",
+	ContextMenu_WP_Type = "类型",
+	ContextMenu_WP_Flow = "流量",
+	ContextMenu_WP_FixPump = "修理水泵",
+	ContextMenu_WP_FixPumpPerfect = "水泵无需维修",
+	ContextMenu_WP_FixPumpNoMaterial = "需要金属废料",
+	ContextMenu_WP_FixPumpTurnOn = "需关闭水泵电源",
+--------------------Vehicle Repair Overhaul(2757712197)--------------------
+        ------Vehicle Repair Overhaul------
+
+        ------Vehicle Repair Overhaul - Vehicle Salvage Overhaul------
+			ContextMenu_SalvageVehicle = "拆解载具",
 }

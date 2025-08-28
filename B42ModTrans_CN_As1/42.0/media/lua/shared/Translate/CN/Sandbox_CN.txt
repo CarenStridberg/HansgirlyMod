@@ -1721,4 +1721,298 @@ Sandbox_TrailerSpawnToggle_tooltip = "禁用后将完全不会生成初始拖车
   
   Sandbox_SPNCharCustom_WashMakeup = "化妆会被洗掉",
   Sandbox_SPNCharCustom_WashMakeup_tooltip = "在原版游戏中，清洗自己也会洗掉化妆",
+
+
+--------------------Bath Towels Overhaul(3416208765)--------------------
+
+    Sandbox_BathTowelsOverhaul = "浴室毛巾大修",
+
+    Sandbox_BathTowelsOverhaul_WetnessIncrease = "潮湿增幅提升",
+    Sandbox_BathTowelsOverhaul_WetnessIncrease_tooltip = "增加角色因雨水或汗水而潮湿的速度倍率。开启=0.025，关闭=0.015（原版）",
+
+    Sandbox_BathTowelsOverhaul_WetnessDecrease = "自然干燥减弱",
+    Sandbox_BathTowelsOverhaul_WetnessDecrease_tooltip = "降低角色自然干燥的速度倍率。开启=0.005，关闭=0.01（原版）",
+
+    Sandbox_BathTowelsOverhaul_RandomBathTowelQuality = "随机毛巾品质",
+    Sandbox_BathTowelsOverhaul_RandomBathTowelQuality_tooltip = "是否在生成浴巾时随机赋予吸水值。若关闭，所有浴巾吸水性固定为30。",
+
+    Sandbox_BathTowelsOverhaul_MoreRandomAbsorbency = "强化吸水性随机",
+    Sandbox_BathTowelsOverhaul_MoreRandomAbsorbency_tooltip = "浴巾吸水性将进一步随机化。（仅当开启随机毛巾品质时生效）",
+
+    Sandbox_BathTowelsOverhaul_RandomBathTowelQualityName = "显示品质名称",
+    Sandbox_BathTowelsOverhaul_RandomBathTowelQualityName_tooltip = "是否根据浴巾吸水性覆盖其显示名称。（仅当开启随机毛巾品质时生效）",
+
+    Sandbox_BathTowelsOverhaul_WipesBloodAndDirt = "清除血迹污垢",
+    Sandbox_BathTowelsOverhaul_WipesBloodAndDirt_tooltip = "执行擦干动作时，毛巾是否吸收身上的血迹和污垢。",
+
+    Sandbox_BathTowelsOverhaul_AvailableEvenIfTooDirt = "脏污时仍可使用",
+    Sandbox_BathTowelsOverhaul_AvailableEvenIfTooDirt_tooltip = "开启后，即使毛巾脏污仍可执行擦干动作。关闭后，毛巾过脏时将无法使用。警告：使用脏毛巾会加剧污损程度并增加角色不悦值。",
+
+    Sandbox_BathTowelsOverhaul_TowelConditionMayDeteriorate = "启用毛巾损耗",
+    Sandbox_BathTowelsOverhaul_TowelConditionMayDeteriorate_tooltip = "毛巾使用后是否可能出现损耗。（损耗概率与速率极低）",
+
+    Sandbox_BathTowelsOverhaul_HandTowelsSpawn = "生成手巾",
+    Sandbox_BathTowelsOverhaul_HandTowelsSpawn_tooltip = "是否在世界中生成手巾。其生成位置与浴巾相同。",
+
+    Sandbox_BathTowelsOverhaul_HandTowelsSpawnProbabilty = "手巾生成概率",
+    Sandbox_BathTowelsOverhaul_HandTowelsSpawnProbabilty_tooltip = "此值为浴巾生成概率的除数：1表示与浴巾同概率，2表示概率减半。",
+
+    Sandbox_BathTowelsOverhaul_DustClothSpawn = "生成抹布",
+    Sandbox_BathTowelsOverhaul_DustClothSpawn_tooltip = "是否在世界中生成抹布。其生成位置与海绵相同。",
+
+    Sandbox_BathTowelsOverhaul_DustClothSpawnProbabilty = "抹布生成概率",
+    Sandbox_BathTowelsOverhaul_DustClothSpawnProbabilty_tooltip = "此值为海绵生成概率的除数：1表示与海绵同概率，2表示概率减半。",
+--------------------Auto Exercise 2(3435613327)--------------------
+
+    Sandbox_AutoFitness = "自动健身",
+
+	Sandbox_AutoFitness_ShowExtraInfo = "显示当前规律性",
+	Sandbox_AutoFitness_ShowExtraInfo_tooltip = "此功能仅在原版调试模式下可用",
+	Sandbox_AutoFitness_EnduranceLevelTreshold = "耐力等级阈值",
+	Sandbox_AutoFitness_EnduranceLevelTreshold_tooltip = "原版固定为2级",
+	Sandbox_AutoFitness_KeepContainerItems = "保留容器物品",
+	Sandbox_AutoFitness_KeepContainerItems_tooltip = "禁用此项可防止角色解除背包等储物容器的装备",
+
+	Sandbox_AutoFitness_ActionDuration = "健身动作时长",
+	Sandbox_AutoFitness_ActionDuration_tooltip = "原版固定为5000000毫秒",
+	Sandbox_AutoFitness_CaloriesModifier = "热量消耗系数",
+	Sandbox_AutoFitness_CaloriesModifier_tooltip = "原版固定为3倍",
+--------------------Bath Towels Overhaul(3416208765)--------------------
+
+    Sandbox_ImprovedFarmingInfoWindow = "改良农耕信息窗口",
+    Sandbox_ImprovedFarmingInfoWindow_CheckPlantHealth = "检查作物健康状况（红色方块）",
+    Sandbox_ImprovedFarmingInfoWindow_CheckPlantDisease = "检查作物病害（橙色方块）",
+    Sandbox_ImprovedFarmingInfoWindow_CheckPlantNeedWater = "检查作物水分含量（蓝色方块）",
+    Sandbox_ImprovedFarmingInfoWindow_CheckReadyForHarvest = "检查可收获作物（绿色方块）",
+    Sandbox_ImprovedFarmingInfoWindow_CheckSeedBearing = "检查结籽作物（绿色方块）",
+    Sandbox_ImprovedFarmingInfoWindow_CheckSeedBearing_tooltip = "启用此选项后，作物将在最终可收获阶段被标记。",
+--------------------KI5车辆合集--------------------
+    ------that DAMN Library------
+        Sandbox_DAMN_Options = "damnlib | 选项",
+        Sandbox_DAMN_AllowVanillaVehicleDismantling = "允许原版车辆部件回收",
+        Sandbox_DAMN_AllowVanillaWorldItemDismantling = "允许原版房屋窗户和镜子回收",
+        Sandbox_DAMN_Spawns = "KI5 | 预设生成点",
+    ------'81 DeLorean DMC-12------	
+        Sandbox_DAMN_Spawns = "KI5 | 固定生成点",
+        Sandbox_DAMN_AllowGreatScottSpawns = "启用预设的81款德罗宁DMC-12生成",
+    ------'49 Dodge Power Wagon Crew Cab------
+        Sandbox_DAMN_Spawns = "KI5 | 固定生成点",
+        Sandbox_DAMN_AllowPowerChadSpawns = "启用预设的49款道奇Power Wagon生成",
+    ------'93 Ford CF8000 Elgin Street Sweeper------
+        Sandbox_StreetSweeper = "KI5 | 93款福特CF-8000埃尔金扫地车",
+        Sandbox_StreetSweeper_AllowItems = "清扫物品",
+        Sandbox_StreetSweeper_AllowCorpses = "清扫尸体",
+        Sandbox_StreetSweeper_AllowTiles = "清除白名单内格子",
+        Sandbox_StreetSweeper_SpriteWhitelist = "格子清除白名单 (格式：a;b;c)",
+        Sandbox_StreetSweeper_SpriteWhitelist_tooltip = "你可以列出确切的物品名称或图块包的开头部分，用逗号分隔它们。",
+        Sandbox_StreetSweeper_AllowBlood = "清理血迹",
+        Sandbox_StreetSweeper_AllowAshes = "清扫灰烬",
+        Sandbox_StreetSweeper_AllowGrime = "清除污垢",
+    ------'87 Ford B700/F700 Trucks------
+        Sandbox_DAMN_AllowMrBusSpawns = "启用预设 '87 福特B700校车生成",
+        Sandbox_DAMN_AllowChonkerSpawns = "启用预设 '87 福特F700特警车生成",
+        Sandbox_DAMN_AllowCashcowSpawns = "启用预设 '87 福特F700装甲卡车生成",
+        Sandbox_DAMN_AllowMcBoxySpawns = "启用预设 '87 福特F700箱式卡车生成",    
+	------'76 Chevrolet K Series------
+        Sandbox_DAMN_AllowWreckyMcChevySpawns = "启用预设的76款雪佛兰C30清障车刷新点",
+--------------------[J&G] Black Multicam Uniform(3315302991)--------------------
+    Sandbox_JordanalSpawns = "Jordanal's 生成设置"
+        
+    Sandbox_JordanalSpawns.Black_Camo_UnitChance = "军事区域黑色迷彩部队生成概率"
+    Sandbox_JordanalSpawns.Black_Camo_UnitChance_tooltip = "此概率会与其他服装共享生成权重，设为100%时该服装僵尸仍不会独占刷新"
+
+    Sandbox_JordanalSpawns.Black_Camo_UnitChance_General = "普通区域黑色迷彩部队生成概率"
+    Sandbox_JordanalSpawns.Black_Camo_UnitChance_General_tooltip = "此概率会与其他服装共享生成权重，设为100%时该服装僵尸仍不会独占刷新"
+--------------------[J&G] Caution Pack(3369825662)--------------------
+    Sandbox_JordanalSpawns.Caution_UnitChance = "医疗区域警戒单位生成概率",
+    Sandbox_JordanalSpawns.Caution_UnitChance_tooltip = "此概率会与其他服装共享生成权重，设为100%时该服装僵尸仍不会独占刷新",
+
+    Sandbox_JordanalSpawns.Caution_UnitChance_General = "普通区域警戒单位生成概率",
+    Sandbox_JordanalSpawns.Caution_UnitChance_General_tooltip = "此概率会与其他服装共享生成权重，设为100%时该服装僵尸仍不会独占刷新",
+
+    Sandbox_JordanalSpawns.Caution_UnitChance_Army = "军事区域警戒单位生成概率",
+    Sandbox_JordanalSpawns.Caution_UnitChance_Army_tooltip = "此概率会与其他服装共享生成权重，设为100%时该服装僵尸仍不会独占刷新"
+--------------------[J&G] Flecktarn Uniform(3206579556)--------------------
+    Sandbox_JordanalSpawns.Flecktarn_UnitChance = "军事区域斑点迷彩部队生成概率",
+    Sandbox_JordanalSpawns.Flecktarn_UnitChance_tooltip = "此概率会与其他服装共享生成权重，设为100%时该服装僵尸仍不会独占刷新",
+
+    Sandbox_JordanalSpawns.Flecktarn_UnitChance_General = "常规区域斑点迷彩部队生成概率",
+    Sandbox_JordanalSpawns.Flecktarn_UnitChance_General_tooltip = "此概率会与其他服装共享生成权重，设为100%时该服装僵尸仍不会独占刷新"
+--------------------[B42] Pack Mule v2(3540903327)--------------------
+    Sandbox_Pack_Mule = "驮运大师",
+	--
+	Sandbox_PackMule_SlingsAndSatchels = "挎包槽位",
+	Sandbox_PackMule_SlingsAndSatchels_tooltip = "可搭配背包使用",
+	Sandbox_PackMule_WalletsAndPouches = "腰包槽位",
+	Sandbox_PackMule_WalletsAndPouches_tooltip = "可装备使用，并提供50%重量减免",
+	Sandbox_PackMule_Canteen = "水壶槽位",
+	Sandbox_PackMule_Canteen_tooltip = "可搭配弹药带使用",
+	Sandbox_PackMule_Watch = "腕表槽位",
+	Sandbox_PackMule_Watch_tooltip = "可搭配手镯（启用手镯槽位时）及前臂护甲使用",
+	Sandbox_PackMule_Bracelet = "手镯槽位",
+	Sandbox_PackMule_Bracelet_tooltip = "可搭配腕表（启用腕表槽位时）及前臂护甲使用",
+	Sandbox_PackMule_EarProtectors = "护耳器槽位",
+	Sandbox_PackMule_EarProtectors_tooltip = "可搭配帽子使用",
+	--
+	Sandbox_PackMule_RepairVest = "可修复狩猎马甲",
+	Sandbox_PackMule_RepairVest_tooltip = "可修复工头马甲和狩猎马甲的破损",
+	Sandbox_PackMule_BoilerSuits = "外套内穿工装",
+	Sandbox_PackMule_BoilerSuits_tooltip = "工装裤与连体工作服可搭配外套穿着",
+	Sandbox_PackMule_Lantern = "提灯挂腰带",
+	Sandbox_PackMule_Lantern_tooltip = "可悬挂于腰带槽位",
+	Sandbox_PackMule_Penlight = "笔灯挂织带",
+	Sandbox_PackMule_Penlight_tooltip = "可悬挂于织带槽位",
+	Sandbox_PackMule_BlowTorch = "焊枪背载",
+	Sandbox_PackMule_BlowTorch_tooltip = "可装备于背部槽位",
+	Sandbox_PackMule_MagazineArmor = "杂志护甲可研发",
+	Sandbox_PackMule_MagazineArmor_tooltip = "可通过填字游戏和找词杂志研发",
+	--
+	Sandbox_Mule_Bags = "驮运大师：包具",
+	--
+	Sandbox_MuleBags_GolfBags = "高尔夫球包槽位",
+	Sandbox_MuleBags_GolfBags_tooltip = "可搭配背包使用（与行李袋槽位同时启用时互斥）",
+	Sandbox_MuleBags_DuffelBags = "行李袋槽位",
+	Sandbox_MuleBags_DuffelBags_tooltip = "可搭配背包使用（与高尔夫球包槽位同时启用时互斥）",
+	Sandbox_MuleBags_RifleCases = "枪械箱槽位",
+	Sandbox_MuleBags_RifleCases_tooltip = "可搭配背包使用",
+	--
+	Sandbox_MuleBags_MilitaryWebbing = "军用背包织带",
+	Sandbox_MuleBags_MilitaryWebbing_tooltip = "为军用背包增加织带槽位",
+	Sandbox_MuleBags_HikingWebbing = "登山包织带",
+	Sandbox_MuleBags_HikingWebbing_tooltip = "为登山背包增加织带槽位",
+	Sandbox_MuleBags_SchoolWebbing = "小型背包织带",
+	Sandbox_MuleBags_SchoolWebbing_tooltip = "为书包等小型背包增加织带槽位",
+	Sandbox_MuleBags_SmallCraftedWebbing = "手工小包织带",
+	Sandbox_MuleBags_SmallCraftedWebbing_tooltip = "为小皮包等手工小背包增加织带槽位",
+	Sandbox_MuleBags_LargeCraftedWebbing = "手工大包织带",
+	Sandbox_MuleBags_LargeCraftedWebbing_tooltip = "为框架包等手工大背包增加织带槽位",
+	--
+	Sandbox_Mule_Vests = "驮运大师：马甲",
+	--
+	Sandbox_MuleVests_HuntingVests = "狩猎马甲容量",
+	Sandbox_MuleVests_HuntingVests_tooltip = "赋予猎装马甲和工头马甲实用口袋，将其转变为可穿戴容器（同时失去修复功能）",
+	Sandbox_MuleVests_VestProtection = "马甲防护强化",
+	Sandbox_MuleVests_VestProtection_tooltip = "使猎装马甲和工头马甲不会破损（建议与「猎装马甲容量」选项同时启用）",
+	Sandbox_MuleVests_VestAttachments = "马甲扩展挂点",
+	Sandbox_MuleVests_VestAttachments_tooltip = "为所有马甲新增2个扩展槽位，可悬挂无线电、刀具、剪刀、螺丝刀、枪械弹匣及CD播放器",
+	--
+--------------------[B42] Water Pipes (aka Plumbing)(3546314080)--------------------
+    Sandbox_Plumbing = "管道工程",
+    Sandbox_Plumbing.PumpFilterUsage = "水泵滤芯消耗率%",
+    Sandbox_Plumbing.PumpFilterUsage_tooltip = "每分钟消耗的水泵滤芯百分比",
+    Sandbox_Plumbing.PumpEfficiencyLoss = "水泵效率衰减率%",
+    Sandbox_Plumbing.PumpEfficiencyLoss_tooltip = "每分钟损失的水泵效率百分比",
+    Sandbox_Plumbing.PumpMaxWater = "水泵单次出水量",
+    Sandbox_Plumbing.PumpMaxWater_tooltip = "100%效率水泵每分钟输送的水量单位",
+--------------------Vehicle Heater Sound System [B42] + Cabin Muffling(3543941897)--------------------
+    Sandbox_VehicleHeaterSound = "车辆暖风音效设置",
+
+    Sandbox_VehicleHeaterSound_EnableMuffling = "启用车内隔音效果",
+    Sandbox_VehicleHeaterSound_EnableMuffling_tooltip = "根据车辆密封质量，在密闭车厢内降低全局音量。",
+
+    Sandbox_VehicleHeaterSound_SealedMasterPct = "密封主音量%",
+    Sandbox_VehicleHeaterSound_SealedMasterPct_tooltip = "车厢完全密封时的主音量比例 (0–1)。",
+
+    Sandbox_VehicleHeaterSound_SealedAmbientPct = "密封环境音量%",
+    Sandbox_VehicleHeaterSound_SealedAmbientPct_tooltip = "车厢完全密封时的环境音量比例 (0–1)。",
+
+    Sandbox_VehicleHeaterSound_SealedEnginePct = "密封引擎音量%",
+    Sandbox_VehicleHeaterSound_SealedEnginePct_tooltip = "车厢完全密封时的引擎音量比例 (0–1)。",
+
+    Sandbox_VehicleHeaterSound_Gamma = "密封曲线指数",
+    Sandbox_VehicleHeaterSound_Gamma_tooltip = "曲线指数：>1时对小缝隙的降噪效果更明显。",
+
+    Sandbox_VehicleHeaterSound_NoMuffleEps = "隔音失效阈值",
+    Sandbox_VehicleHeaterSound_NoMuffleEps_tooltip = "低于此密封值时，禁用隔音效果并恢复原始音量。",
+
+    Sandbox_VehicleHeaterSound_MuffleDebug = "隔音调试模式",
+    Sandbox_VehicleHeaterSound_MuffleDebug_tooltip = "打印隔音效果调试信息。",
+
+    Sandbox_VehicleHeaterSound_EnableHeater = "启用暖风音效",
+    Sandbox_VehicleHeaterSound_EnableHeater_tooltip = "根据玩家内外位置播放暖风音效。",
+
+    Sandbox_VehicleHeaterSound_VolumeInside = "车内基础音量",
+    Sandbox_VehicleHeaterSound_VolumeInside_tooltip = "玩家在车内时的基准音量（乘数系数）。",
+
+    Sandbox_VehicleHeaterSound_VolumeOutside = "车外基础音量",
+    Sandbox_VehicleHeaterSound_VolumeOutside_tooltip = "玩家在车外时的基准音量（乘数系数）。",
+
+    Sandbox_VehicleHeaterSound_OutsideWindowMuffleFactor = "车外车窗隔音",
+    Sandbox_VehicleHeaterSound_OutsideWindowMuffleFactor_tooltip = "车窗全关时额外的外部音量衰减系数。",
+
+    Sandbox_VehicleHeaterSound_BaseFadeStep = "渐变步进值",
+    Sandbox_VehicleHeaterSound_BaseFadeStep_tooltip = "每tick音量/音调的插值强度。",
+
+    Sandbox_VehicleHeaterSound_BaseFadeDelay = "渐变tick间隔",
+    Sandbox_VehicleHeaterSound_BaseFadeDelay_tooltip = "渐变步进间隔时间（秒）。",
+
+    Sandbox_VehicleHeaterSound_MinVolume = "最小音量",
+    Sandbox_VehicleHeaterSound_MinVolume_tooltip = "可听见的最小音量阈值。",
+
+    Sandbox_VehicleHeaterSound_EnablePitch = "启用音调变化",
+    Sandbox_VehicleHeaterSound_EnablePitch_tooltip = "允许音调动态变化（例如温度越低音调越高）。",
+
+    Sandbox_VehicleHeaterSound_ColdPitchTarget = "低温音调目标值",
+    Sandbox_VehicleHeaterSound_ColdPitchTarget_tooltip = "制冷模式下的目标音调（低温侧）。",
+
+    Sandbox_VehicleHeaterSound_CoolingVolumeMin = "制冷最小音量",
+    Sandbox_VehicleHeaterSound_CoolingVolumeMin_tooltip = "最大低温时的制冷模式音量系数。",
+
+    Sandbox_VehicleHeaterSound_CoolingVolumeMax = "制冷最大音量",
+    Sandbox_VehicleHeaterSound_CoolingVolumeMax_tooltip = "接近常温时的制冷模式音量系数。",
+
+    Sandbox_VehicleHeaterSound_HeaterWeight = "暖风状态权重",
+    Sandbox_VehicleHeaterSound_HeaterWeight_tooltip = "综合效果中暖风与引擎状态的权重比（引擎权重=1−当前值）。",
+
+    Sandbox_VehicleHeaterSound_EngineMinPct = "引擎音量下限%",
+    Sandbox_VehicleHeaterSound_EngineMinPct_tooltip = "引擎通道的最小音量乘数，防止隔音时音频循环中断。",
+
+    Sandbox_VehicleHeaterSound_HeaterDebug = "暖风调试模式",
+    Sandbox_VehicleHeaterSound_HeaterDebug_tooltip = "打印暖风音效调试信息。"
+--------------------[B42] Ogrim Mod's - Universal Custom Firearm(3551139118)--------------------
+    Sandbox_MyCustomFirearm = "通用定制枪械",
+
+    Sandbox_MaxUpgradesMultiplier = "最大改装倍率",
+    Sandbox_MaxUpgradesMultiplier_tooltip = "调整每支枪械可用的最大改装槽位数量",
+
+    Sandbox_UpgradeCostMultiplier = "改装成本倍率",
+    Sandbox_UpgradeCostMultiplier_tooltip = "调整每次改装所需的零件数量/成本",
+
+    Sandbox_ActionTimeMultiplier = "操作耗时倍率",
+    Sandbox_ActionTimeMultiplier_tooltip = "调整拆解/维修/改装操作的耗时",
+
+    Sandbox_BaseChangeToDamageTool = "工具损坏基础概率(%)",
+    Sandbox_BaseChangeToDamageTool_tooltip = "拆解/维修时工具损坏的基础百分比概率（计算修正前）",
+
+    Sandbox_ToolDamageMultiplier = "工具损耗倍率",
+    Sandbox_ToolDamageMultiplier_tooltip = "调整本模组使用工具时的耐久损耗速度",
+
+    Sandbox_MaintenanceEffectMultiplier = "保养效果倍率",
+    Sandbox_MaintenanceEffectMultiplier_tooltip = "调整保养技能降低工具损耗和故障概率的效果强度",
+
+    Sandbox_AmingEffectMultiplier = "瞄准效果倍率",
+    Sandbox_AmingEffectMultiplier_tooltip = "调整瞄准技能对改装成功率和精准度加成的效果强度",
+
+    Sandbox_BaseChangeToGetParts = "零件获取基础概率(%)",
+    Sandbox_BaseChangeToGetParts_tooltip = "拆解枪械时获取零件的基础百分比概率（计算修正前）",
+
+    Sandbox_MaintenanceXpMultiplier = "保养经验倍率",
+    Sandbox_MaintenanceXpMultiplier_tooltip = "调整拆解/维修/改装操作获得的保养技能经验值",
+--------------------[B42] Ogrim Mod's - My Own Well(3549290115)--------------------
+    Sandbox_MyOwnWell = "我的专属水井",
+
+    Sandbox_MinWellWaterPerCycle = "每小时最低补水量",
+    Sandbox_MinWellWaterPerCycle_tooltip = "水井每小时至少产出的水量。",
+
+    Sandbox_MaxWellWaterPerCycle = "每小时最高补水量",
+    Sandbox_MaxWellWaterPerCycle_tooltip = "水井每小时最多产出的水量。",
+
+    Sandbox_WellWaterPerCycleMultiplier = "水源补充倍率",
+    Sandbox_WellWaterPerCycleMultiplier_tooltip = "水井补充速率的倍率系数。数值越高，每小时生成的总水量越多。",
+
+    Sandbox_WellMinBetweenDistanceToFullRefil = "水井间最小补充距离",
+    Sandbox_WellMinBetweenDistanceToFullRefil_tooltip = "水井之间需要保持的最小格数距离才能完全补充。防止为获取资源而过度密集建造水井。",
+
+    Sandbox_AllowUndergroundWell = "允许地下放置水井",
+    Sandbox_AllowUndergroundWell_tooltip = "启用后，玩家可在地下建造/放置水井。禁用则限制水井只能建于地面层。",
 }
