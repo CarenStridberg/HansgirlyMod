@@ -2389,34 +2389,6 @@ IGUI_ContainerTitle_halfcrate = "半高板条箱",
 	IGUI_VehicleName73Winnebago = "'73 温尼贝格 房车",
 
 
---------------------自用模组制作栏--------------------        
-
-        IGUI_RecipeCategory_Barricades = "路障",
-        IGUI_RecipeCategory_Debug = "调试模式",
-        IGUI_RecipeCategory_Cooking = "烹饪",
-
-        IGUI_RecipeCategory_Plumbing = "管道工程",
-        IGUI_RecipeCategory_Armoring = "KI5-车辆防护",
-        IGUI_RecipeCategory_Armyprovisions = "军粮拓展",
-        IGUI_RecipeCategory_ATA = "沙皇-车辆配件",
-        IGUI_RecipeCategory_AuthenticZ = "僵尸多样化-AZ",
-         IGUI_RecipeCategory_Autotsar = "沙皇-拆解部件",
-        IGUI_RecipeCategory_Chinesecuisine = "中式烹饪",
-        IGUI_RecipeCategory_Collections = "收藏品",
-        IGUI_RecipeCategory_Daisy = "雏菊镇",
-        IGUI_RecipeCategory_FrockinSplendor = "回收Frockin服装",
-        IGUI_RecipeCategory_Mechanical = "KI5-车辆部件",
-        IGUI_RecipeCategory_Recycling = "KI5-拆解部件",
-        IGUI_RecipeCategory_ResidentEvil = "生化皮卡",
-        IGUI_RecipeCategory_Salvage = "回收车辆部件",
-        IGUI_RecipeCategory_SapphCooking = "Sapph烹饪",
-        IGUI_RecipeCategory_Sector-7 Breach = "七号沦陷区",
-        IGUI_RecipeCategory_Skill Journal = "技能日志",
-        IGUI_RecipeCategory_Survivalist = "刀鞘",
-        IGUI_RecipeCategory_Mygoshop = "MyGO商店",
-        IGUI_RecipeCategory_White Wolf Ridge = "白狼岭",
-        IGUI_RecipeCategory_Tuning = "摩托载具",
-
 ----------------True Music Radio（3100475013）----------------
 
 IGUI_ContainerTitle_securityterminal = "终端机",

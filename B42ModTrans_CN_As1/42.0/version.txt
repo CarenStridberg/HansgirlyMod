@@ -5,3 +5,6 @@ Mod ID: B42ModTrans_CN
 
 v1.1 2025.08.28
 补充了更多翻译项。
+
+v1.2 2025.08.30
+将IGUI_RecipeCategory_修改为UI_CraftCat_。
