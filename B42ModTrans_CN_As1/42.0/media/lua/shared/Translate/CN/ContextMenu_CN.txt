@@ -2,17 +2,21 @@ ContextMenu_CN = {
 --[[Has Been Read]]
 ContextMenu_P4HasBeenRead_ToDoAutoMark = "启用自动标记",
 ContextMenu_P4HasBeenRead_ToDoNotAutoMark = "禁用自动标记",
+
 --[[Vehicle Repair Overhaul]]
 ContextMenu_SalvageVehicle = "回收车辆",
+
 --[[Tidy Up Meister]]
 ContextMenu_P4TidyUpMeister_ToDoReequip = "启用重新装备",
 ContextMenu_P4TidyUpMeister_ToDoNotReequip = "禁用重新装备",
+
 --[[常识]]
 ContextMenu_Pry_open = "撬开",
 ContextMenu_WashEquippedOnly = "仅已装备",
 ContextMenu_WashUnequippedOnly = "仅未装备",
 ContextMenu_WashWeaponsOnly = "仅武器",
 ContextMenu_CS_Equip = "装备",
+
 --[[Filibuster Rhymes' Used Cars! - Animation Alpha]]
 ContextMenu_FR_ConvertClose = "关闭敞篷车顶",
 ContextMenu_FR_ConvertOpen = "打开敞篷车顶",
@@ -1026,20 +1030,22 @@ ContextMenu_HighBeamsTurnOff = "关闭远光灯"
 
 	ContextMenu_Higher = "穿高一些",
 	ContextMenu_Lower = "穿低一些",
+
 --------------------Frockin Splendor! Vol.3(3431256608)--------------------
-
 	ContextMenu_OtherSide = "穿到另一边",
+
 --------------------Frockin Splendor! Vol.4(3475347500)--------------------
-
 	ContextMenu_Holes = "挖几个洞！",
---------------------Farming Wiki(3473886171)--------------------
 
+--------------------Farming Wiki(3473886171)--------------------
 	ContextMenu_OpenFarmingWiki = "打开农业Wiki",
+
 --------------------My So-Called Toy(3540268758)--------------------
 	ContextMenu_P4MySoCalledToy_LookCapsuleToy = "查看胶囊玩具",
 	ContextMenu_P4MySoCalledToy_SpinCapsuleToy = "旋转胶囊玩具",
 	ContextMenu_P4MySoCalledToy_LookMiniBook = "查看",
 	ContextMenu_P4MySoCalledToy_PlaySlidingPuzzle = "玩",
+
 --------------------KATTAJ1 Clothes Core [B41/B42](3470422050)--------------------
 	ContextMenu_AttachHolsterToHipLeft = "装备到左胯部",
     ContextMenu_AttachHolsterToHipArmorLeft = "装备到左胯装甲",
@@ -1090,9 +1096,7 @@ ContextMenu_HighBeamsTurnOff = "关闭远光灯"
 	ContextMenu_WP_FixPumpPerfect = "水泵无需维修",
 	ContextMenu_WP_FixPumpNoMaterial = "需要金属废料",
 	ContextMenu_WP_FixPumpTurnOn = "需关闭水泵电源",
---------------------Vehicle Repair Overhaul(2757712197)--------------------
-        ------Vehicle Repair Overhaul------
 
-        ------Vehicle Repair Overhaul - Vehicle Salvage Overhaul------
-			ContextMenu_SalvageVehicle = "拆解载具",
+--[[Vehicle Repair Overhaul (2757712197)]]
+    ContextMenu_SalvageVehicle = "拆解载具",
 }

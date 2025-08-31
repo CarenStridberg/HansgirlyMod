@@ -49,10 +49,12 @@ Tooltip_PHOff = "停用管道助手",
 Tooltip_PHOffDesc = "停用管道助手以避免界面混乱.<br><br>可以通过右键点击管钳重新激活.",
 Tooltip_PHOn = "激活管道助手",
 Tooltip_PHOnDesc = "激活管道助手的上下文菜单选项.",
+
 --[[They Knew [B42]]]
-Tooltip_Zomboxolone = "可治疗僵尸病毒,但无法治愈.为你提供更多变异前的时间.",
-Tooltip_Zomboxivir = "玻璃管中的吸入式蒸汽,可治愈僵尸病毒感染.",
-Tooltip_Zomboxycycline = "在24小时内预防僵尸病毒感染.",
+Tooltip_Zomboxolone = "可延缓僵尸病毒发作, 但无法彻底治愈. 为你提供更多变异前的时间.",
+Tooltip_Zomboxivir = "细颈瓶中的吸入式蒸汽, 可治愈僵尸病毒感染.",
+Tooltip_Zomboxycycline = "在 24 小时内预防僵尸病毒感染.",
+
 --[[B42 Rain's Firearms & Gun Parts]]
 Tooltip_BerettaM92F = "9mm 半自动手枪",
 Tooltip_ColtM1911 = ".45 半自动手枪",

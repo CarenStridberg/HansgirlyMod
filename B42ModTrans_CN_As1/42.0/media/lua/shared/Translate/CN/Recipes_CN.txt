@@ -1,9 +1,11 @@
 Recipe_CN = {
 --[[Skill Recovery Journal]]
 Recipe_BindSkillRecoveryJournal = "装订技能恢复日记",
+
 --[[Ladders!?]]
 Recipe_Make_Steel_Ladder = "制作钢梯" ,
 Recipe_Make_Wooden_Ladder = "制作木梯" ,
+
 --[[Vehicle Repair Overhaul]]
 Recipe_Salvage_Vehicle_Doors = "回收车辆车门",
 Recipe_Salvage_Vehicle_Hoods = "回收车辆引擎盖",
@@ -138,9 +140,11 @@ Recipe_GTMGracefulTrait = "身轻如燕特性",
 Recipe_GTMDextrousTrait = "眼疾手快特性",
 Recipe_GTMInconspicuousTrait = "毫不起眼特性",
 Recipe_GTMKeenHearingTrait = "听觉灵敏特性",
+
 --[[They Knew [B42]]]
-Recipe_GetAZomboxolone = "获得一颗僵尸奥洛酮药片",
-Recipe_GetAZomboxycycline = "获得一颗僵尸氧环素药片",
+Recipe_GetAZomboxolone = "拿取一片僵尸化延缓剂",
+Recipe_GetAZomboxycycline = "拿取一片僵尸化阻断剂",
+
 --[[B42 Rain's Firearms & Gun Parts]]
 craftRecipe_Gather_Gunpowder_7.62x51 = "收集火药",
 craftRecipe_Gather_Gunpowder_7.62x39 = "收集火药",

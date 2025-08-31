@@ -580,8 +580,10 @@ IGUI_ContainerTitle_largeBulletinBoard = "大型公告板",
 IGUI_ContainerTitle_pegBoard = "钉板",
 IGUI_ContainerTitle_poolCueStand = "台球杆架",
 IGUI_ContainerTitle_slurpNBurp = "咕噜咕噜",
---[[True Music Radio]]
-IGUI_ContainerTitle_securityterminal = "终端",
+
+--[[True Music Radio (3100475013)]]
+IGUI_ContainerTitle_securityterminal = "终端机",
+
 --[[[B42/B41] PZK VLC (Vanilla look-like car pack)]]
 IGUI_VehicleNamepzkVanCamper = "富兰克林 瓦卢林",
 IGUI_VehicleNamepzkVanBrig = "富兰克林 瓦卢林 准将",
@@ -2387,11 +2389,6 @@ IGUI_ContainerTitle_halfcrate = "半高板条箱",
 
 --------------------[B42/1] '73 Winnebago Chieftain（3488174689）--------------------
 	IGUI_VehicleName73Winnebago = "'73 温尼贝格 房车",
-
-
-----------------True Music Radio（3100475013）----------------
-
-IGUI_ContainerTitle_securityterminal = "终端机",
 
 ----------------[B42] Water Pipes (aka Plumbing)（3546314080）----------------
     IGUI_CraftCategory_Plumbing = "管道系统",

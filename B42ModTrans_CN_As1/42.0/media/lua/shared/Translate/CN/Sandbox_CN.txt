@@ -543,16 +543,18 @@ Sandbox_Utilities = "显示公共设施状态",
 Sandbox_Utilities_tooltip = "在管道助手工具提示上显示水开关状态. <br><br>非 OP,但有点不够沉浸,所以是可选的.",
 Sandbox_WelcomeSeparator = "感谢使用管道助手 PLUS",
 Sandbox_WelcomeSeparator_tooltip = "此选项仅用于翻译致谢.它没有实际功能. <br><br>如果你听过这个就打断我. <br><br>12 个僵尸走进浴室...",
+
 --[[They Knew [B42]]]
 Sandbox_TheyKnew = "他们知道", 
 Sandbox_TheyKnew_HazmatSpawnChance = "防护服僵尸生成频率", 
 Sandbox_TheyKnew_HazmatSpawnChance_tooltip = "防护服僵尸生成频率", 
-Sandbox_TheyKnew_ZomboxoloneLootChance = "盒装僵尸奥洛酮掉落率", 
+Sandbox_TheyKnew_ZomboxoloneLootChance = "盒装僵尸化延缓剂掉落率", 
 Sandbox_TheyKnew_ZomboxoloneLootChance_tooltip = "百分之一的掉落几率", 
-Sandbox_TheyKnew_ZomboxycyclineLootChance = "盒装僵尸氧环素掉落率", 
+Sandbox_TheyKnew_ZomboxycyclineLootChance = "盒装僵尸化阻断剂掉落率", 
 Sandbox_TheyKnew_ZomboxycyclineLootChance_tooltip = "百分之一的掉落几率", 
-Sandbox_TheyKnew_ZomboxivirLootChance = "僵尸抗病安瓿掉落率", 
+Sandbox_TheyKnew_ZomboxivirLootChance = "僵尸化疫苗掉落率", 
 Sandbox_TheyKnew_ZomboxivirLootChance_tooltip = "百分之一的掉落几率", 
+
 --[[B42 Rain's Firearms & Gun Parts]]
 Sandbox_SuppRate = "消音器生成率",
 Sandbox_SuppInGunstore_SuppRate = "枪支商店",
