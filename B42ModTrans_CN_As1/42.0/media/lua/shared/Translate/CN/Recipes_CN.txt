@@ -153,8 +153,8 @@ Recipe_CN = {
 	Recipe_GTMKeenHearingTrait = "听觉灵敏特性",
 
 	--They Knew [B42]
-	Recipe_GetAZomboxolone = "拿取一片僵尸化延缓剂",
-	Recipe_GetAZomboxycycline = "拿取一片僵尸化阻断剂",
+	Recipe_GetAZomboxolone = "拿取一片病毒延缓剂",
+	Recipe_GetAZomboxycycline = "拿取一片病毒阻断剂",
 
 	--B42 Rain's Firearms & Gun Parts
 	craftRecipe_Gather_Gunpowder_7.62x51 = "收集火药",

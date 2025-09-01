@@ -62,8 +62,8 @@ Tooltip_CN = {
 	Tooltip_PHOnDesc = "激活管道助手的上下文菜单选项.",
 
 	--They Knew [B42]
-	Tooltip_Zomboxolone = "可延缓僵尸病毒发作, 但无法彻底治愈. 为你提供更多变异前的时间.",
-	Tooltip_Zomboxivir = "细颈瓶中的吸入式蒸汽, 可治愈僵尸病毒感染.",
+	Tooltip_Zomboxolone = "可延缓僵尸病毒发作, 但无法彻底治愈. 为你在变异之前争取一些时间.",
+	Tooltip_Zomboxivir = "安瓿中的吸入式蒸汽, 可治愈僵尸病毒感染.",
 	Tooltip_Zomboxycycline = "在 24 小时内预防僵尸病毒感染.",
 
 	--B42 Rain's Firearms & Gun Parts

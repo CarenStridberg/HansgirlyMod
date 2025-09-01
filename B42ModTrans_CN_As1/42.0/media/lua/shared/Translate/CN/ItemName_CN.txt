@@ -416,13 +416,13 @@
 	ItemName_Base.KeenHearingMag = "特质杂志 - 听觉灵敏",
 
 	--They Knew [B42]
-	ItemName_TheyKnew.MysteriousHazmat = "神秘防护服",
+	ItemName_TheyKnew.MysteriousHazmat = "秘密生化防护服",
 	ItemName_TheyKnew.MysteriousSatchel = "战术背包",
-	ItemName_TheyKnew.Zomboxivir = "僵尸化疫苗",
-	ItemName_TheyKnew.Zomboxycycline = "盒装僵尸化阻断剂",
-	ItemName_TheyKnew.ZomboxycyclinePill = "僵尸化阻断剂片",
-	ItemName_TheyKnew.Zomboxolone = "盒装僵尸化延缓剂",
-	ItemName_TheyKnew.ZomboxolonePill = "僵尸化延缓剂片",
+	ItemName_TheyKnew.Zomboxivir = "疫苗安瓿",
+	ItemName_TheyKnew.Zomboxycycline = "盒装病毒阻断剂",
+	ItemName_TheyKnew.ZomboxycyclinePill = "病毒阻断剂",
+	ItemName_TheyKnew.Zomboxolone = "盒装病毒延缓剂",
+	ItemName_TheyKnew.ZomboxolonePill = "病毒延缓剂",
 
 	--B42 Rain's Firearms & Gun Parts
 	ItemName_Base.Glock17 = "格洛克 17",
