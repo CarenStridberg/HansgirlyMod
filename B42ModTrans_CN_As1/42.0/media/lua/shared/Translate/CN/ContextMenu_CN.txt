@@ -1,20 +1,21 @@
 ContextMenu_CN = {
-	--[[Has Been Read]]
+
+	--Has Been Read
 	ContextMenu_P4HasBeenRead_ToDoAutoMark = "启用自动标记",
 	ContextMenu_P4HasBeenRead_ToDoNotAutoMark = "禁用自动标记",
 
-	--[[Tidy Up Meister]]
+	--Tidy Up Meister
 	ContextMenu_P4TidyUpMeister_ToDoReequip = "启用重新装备",
 	ContextMenu_P4TidyUpMeister_ToDoNotReequip = "禁用重新装备",
 
-	--[[常识]]
+	--常识
 	ContextMenu_Pry_open = "撬开",
 	ContextMenu_WashEquippedOnly = "仅已装备",
 	ContextMenu_WashUnequippedOnly = "仅未装备",
 	ContextMenu_WashWeaponsOnly = "仅武器",
 	ContextMenu_CS_Equip = "装备",
 
-	--[[Filibuster Rhymes' Used Cars! - Animation Alpha]]
+	--Filibuster Rhymes' Used Cars! - Animation Alpha
 	ContextMenu_FR_ConvertClose = "关闭敞篷车顶",
 	ContextMenu_FR_ConvertOpen = "打开敞篷车顶",
 	ContextMenu_FR_StopSignClose = "出发！",
@@ -47,7 +48,8 @@ ContextMenu_CN = {
 	ContextMenu_FR_ShovelMountEquipItem = "装备铲子以安装.",
 	ContextMenu_FR_GasMountEquipItem = "装备汽油罐以安装.",
 	ContextMenu_FR_SpareTireMountEquipItem = "装备轮胎以安装.",
-	--[[Wallpapers and More Paint Options]]
+
+	--Wallpapers and More Paint Options
 	ContextMenu_WPaint = "设置壁纸",
 	ContextMenu_ApplySiding = "安装外墙板",
 	ContextMenu_RemoveSiding = "移除外墙板",
@@ -158,15 +160,15 @@ ContextMenu_CN = {
 	ContextMenu_Wooden = "浅木",
 	ContextMenu_DarkWooden = "深木",
 
-	--[[Decoholic]]
-	ContextMenu_P4Decoholic_ChangeOverlay = "更改家具显示", 
-	ContextMenu_P4Decoholic_AdjustPosition = "调整物品位置", 
+	--Decoholic
+	ContextMenu_P4Decoholic_ChangeOverlay = "更改家具显示",
+	ContextMenu_P4Decoholic_AdjustPosition = "调整物品位置",
 
-	--[[Functional Clothesline]]
+	--Functional Clothesline
 	ContextMenu_AddLine = "添加晾衣绳",
 	ContextMenu_RemoveLine = "移除晾衣绳",
 
-	--[[B42 Rain's Firearms & Gun Parts]]
+	--B42 Rain's Firearms & Gun Parts
 	ContextMenu_InsertBulletsInMagazine = "装填 %1 发子弹到弹匣",
 	ContextMenu_Bag_Ammopack1Front = "穿",
 	ContextMenu_Bag_Ammopack2Front = "穿",
@@ -184,14 +186,17 @@ ContextMenu_CN = {
 	ContextMenu_FireMode_UZIAuto = "全自动",
 	ContextMenu_FireMode_UZISingle = "半自动",
 	ContextMenu_FireMode_DoubleBarrel = "双管",
-	--[[AutoMechanics]]
-	ContextMenu_AutoMechanics = "训练技工", 
-	ContextMenu_AutoMechanics_UninstallAll = "全部卸下", 
-	--[[Auto Cook]]
+
+	--AutoMechanics
+	ContextMenu_AutoMechanics = "训练技工",
+	ContextMenu_AutoMechanics_UninstallAll = "全部卸下",
+
+	--Auto Cook
 	ContextMenu_AutoCook_From_Category = "自动烹饪 %1",
 	ContextMenu_AutoCook_Tooltip = "使用附近合适的食材根据配置的饮食进行烹饪 %2.",
 	ContextMenu_AutoCook_Tooltip_No_Mats = "附近没有合适的食材...",
-	--[[Random Clothing [B42]]]
+
+	--Random Clothing [B42]
 	ContextMenu_Face = "戴在脸上",
 	ContextMenu_Side = "穿在侧边",
 	ContextMenu_Left = "穿在左侧",
@@ -203,7 +208,8 @@ ContextMenu_CN = {
 	ContextMenu_LeftThigh = "穿在左大腿",
 	ContextMenu_Female = "女性专用",
 	ContextMenu_Male = "男性专用",
-	--[[Lifestyle: Hobbies]]
+
+	--Lifestyle: Hobbies
 	ContextMenu_Teller_Activate = "询问未来",
 	ContextMenu_GFClock_Display = "当前时间",
 	ContextMenu_GFClock_Wind = "上发条",
@@ -693,7 +699,7 @@ ContextMenu_CN = {
 	ContextMenu_Play_Duet_Harmonica = "集体表演...",
 	ContextMenu_Training_Harmonica = "开始练习",
 
-	--[[Sapph's Cooking [B42+]]]
+	--Sapph's Cooking [B42+]
 	ContextMenu_EvolvedRecipe_SapphCooking.CoffeeThermosEvolved = "保温瓶 (咖啡)",
 	ContextMenu_EvolvedRecipe_SapphCooking.SaladTakeout = "沙拉",
 	ContextMenu_EvolvedRecipe_SapphCooking.MacaronBlue = "马卡龙 (蓝)",
@@ -842,28 +848,29 @@ ContextMenu_CN = {
 	ContextMenu_EvolvedRecipe_SapphCooking.SaucepanStewEvolved = "平底煮锅 (炖菜)",
 	ContextMenu_EvolvedRecipe_SapphCooking.ChickenChurry = "鸡肉咖喱",
 
-	--[[Alarm Syndrome]]
-	ContextMenu_P4AlarmSyndrome_UnsetAlarm = "取消闹钟", 
+	--Alarm Syndrome
+	ContextMenu_P4AlarmSyndrome_UnsetAlarm = "取消闹钟",
 	ContextMenu_P4AlarmSyndrome_UnsetAllAlarm = "全部取消",
-	--[[[OUTDATED] Support Corps [B42] Sweet-release Update]]
+
+	--[OUTDATED] Support Corps [B42] Sweet-release Update
 	ContextMenu_Left = "左臂",
 	ContextMenu_Right = "右臂",
 
-	--[[Guitar Wall Hanger [b42]]]
+	--Guitar Wall Hanger [b42]
 	ContextMenu_Mount_Instrument = "安装乐器",
 	ContextMenu_Remove_Instrument = "移除乐器",
 
-	--[[More Damaged Objects [B42/41]]]
+	--More Damaged Objects [B42/41]
 	ContextMenu_SetUpright = "直立放置",
 
-	--[[[B42] Water Filter Straw]]
-	ContextMenu_DrinkFromFilterStraw = "使用滤水吸管饮用", 
-	ContextMenu_UseFilterStraw = "使用滤水吸管", 
+	--[B42] Water Filter Straw
+	ContextMenu_DrinkFromFilterStraw = "使用滤水吸管饮用",
+	ContextMenu_UseFilterStraw = "使用滤水吸管",
 
-	--[[Dismantle Any Car]]
+	--Dismantle Any Car
 	ContextMenu_NepRemoveIntactVehicle = "拆解车辆",
 
-	--[[[B42] Frockin Splendor! Vol.3 (3431256608)]]
+	--[B42] Frockin Splendor! Vol.3 (3431256608)
 	ContextMenu_MoreSkin = "更多皮肤",
 	ContextMenu_LessSkin = "更少皮肤",
 	ContextMenu_WearOutside = "穿在外面",
@@ -886,13 +893,13 @@ ContextMenu_CN = {
 	ContextMenu_Lower = "穿低点",
 	ContextMenu_OtherSide = "换边",
 
-	--[[Support Goods Mega Mod [B42.4] - Blizzard Update - SEMI-STABLE]]
+	--Support Goods Mega Mod [B42.4] - Blizzard Update - SEMI-STABLE
 	ContextMenu_Left = "左臂",
 	ContextMenu_Right = "右臂",
 	ContextMenu_TVOnTheGround = "将电视放在地上",
 	ContextMenu_Use = "使用",
 
-	--[[Spongie's Open Jackets (2812326159)]]
+	--Spongie's Open Jackets (2812326159)
 	ContextMenu_OpenJacket = "敞开衣服",
 	ContextMenu_CloseJacket = "扣起衣服"
 	ContextMenu_TuckIn = "塞入裤腿",
@@ -903,7 +910,7 @@ ContextMenu_CN = {
 	ContextMenu_WearUp = "竖起"
 	ContextMenu_WearDown = "翻下"
 
-	--[[Spongie's Clothing (2684285534)]]
+	--Spongie's Clothing (2684285534)
 	ContextMenu_OpenJacket = "敞开衣服",
 	ContextMenu_CloseJacket = "扣起衣服"
 	ContextMenu_OpenHoodUp = "敞开并戴上兜帽",
@@ -920,20 +927,20 @@ ContextMenu_CN = {
 	ContextMenu_CloseRollDown = "扣起并放下"
 	ContextMenu_TieOnWaist = "系在腰间"
 
-	--[[AutoTailoring (3388183573)]]
+	--AutoTailoring (3388183573)
 	ContextMenu_AutoTailoring = "练习缝纫",
 
-	--[[[B42] Tactical Sheaths (3389805754)]]
+	--[B42] Tactical Sheaths (3389805754)
 	ContextMenu_KnifeSheath_WearBack = "佩戴 (背部)",
 	ContextMenu_KnifeSheath_WearLeg = "佩戴 (腿部)",
 	ContextMenu_KatanaSheath_WearHip = "佩戴 (腰部)",
 	ContextMenu_KatanaSheath_WearBack = "佩戴 (背部)",
 
-	--[[The Survivalist's Gear (3404876149)]]
+	--The Survivalist's Gear (3404876149)
 	ContextMenu_ReverseRuggedCap = "反戴帽子?",
 	ContextMenu_FlipRuggedCapForward = "正戴帽子?",
 
-	--[[The Division Equipment [B42] (3479867929)]]
+	--The Division Equipment [B42] (3479867929)
 	ContextMenu_LeftWristOn = "左手腕 (开启)",
 	ContextMenu_BeltOn = "腰带 (开启)",
 	ContextMenu_BackpackStrapOn = "背包带 (开启)",
@@ -946,7 +953,6 @@ ContextMenu_CN = {
 	ContextMenu_LeftWristRogue = "左手腕 (异常)",
 	ContextMenu_BeltRogue = "腰带 (异常)",
 	ContextMenu_BackpackStrapRogue = "背包带 (叛变)",
-
 	ContextMenu_LeftBeltOn = "左侧腰带 (开启)",
 	ContextMenu_LeftBeltOff = "左侧腰带 (关闭)",
 	ContextMenu_LeftBeltRogue = "左侧腰带 (叛变)",
@@ -962,7 +968,6 @@ ContextMenu_CN = {
 	ContextMenu_ChestOn = "胸部 (开启)",
 	ContextMenu_ChestOff = "胸部 (关闭)",
 	ContextMenu_ChestRogue = "胸部 (叛变)",
-
 	ContextMenu_SHDAntenaOffChest = "胸部 (关闭)",
 	ContextMenu_SHDAntenaRogueChest = "胸部 (叛变)",
 	ContextMenu_RightBeltOFF =  "右侧腰带 (关闭)",
@@ -970,20 +975,18 @@ ContextMenu_CN = {
 	ContextMenu_LeftBackpackStrap = "左侧背包带",
 	ContextMenu_ChestOffF = "胸部 (关闭)",
 	ContextMenu_ChestON = "胸部 (开启)",
-
 	ContextMenu_VisualAid = "开启视觉辅助工具",
 	ContextMenu_NoVisualAid = "关闭视觉辅助工具",
 
-	--[[Lethal Stealth (3531611692)]]
-
+	--Lethal Stealth (3531611692)
 	ContextMenu_ProneAction = "卧倒",
 	ContextMenu_ProneAction_GetUp = "起身",
 	ContextMenu_ProneVehicleCrawlAction = "爬过车底",
 
-	--[[Moats (3550032314)]]
+	--Moats (3550032314)
 	ContextMenu_DigMoats = "挖护城河",
 
-	--[[[B42] Water Pipes (aka Plumbing) (3546314080)]]
+	--[B42] Water Pipes (aka Plumbing) (3546314080)
 	ContextMenu_WP_AddCharcoal = "添加木炭过滤器",
 	ContextMenu_WP_PumpInfo = "水泵信息",
 	ContextMenu_WP_ValveOpen = "打开阀门",
@@ -996,22 +999,22 @@ ContextMenu_CN = {
 	ContextMenu_WP_FixPumpNoMaterial = "需要金属废料",
 	ContextMenu_WP_FixPumpTurnOn = "水泵必须处于关闭状态",
 
-	--[[Nepenthe's High Beams (3438126404)]]
+	--Nepenthe's High Beams (3438126404)
 	ContextMenu_HighBeams = "切换远光灯"
 	ContextMenu_HighBeamsTurnOn = "开启远光灯"
 	ContextMenu_HighBeamsTurnOff = "关闭远光灯"
 
-	--[[Frockin Splendor! (3307376332)]]
+	--Frockin Splendor! (3307376332)
 	ContextMenu_MoreSkin = "露出更多皮肤",
 	ContextMenu_LessSkin = "露出更少皮肤",
 
-	--[[Frockin Shirts & Ties! (3453676250)]]
+	--Frockin Shirts & Ties! (3453676250)
 	ContextMenu_RollUp = "卷起袖子",
 	ContextMenu_RollDown = "放下袖子",
 	ContextMenu_BelowCollar = "拉下衣领",
 	ContextMenu_AboveCollar = "拉上衣领",
 
-	--[[Frockin Splendor! Vol.2 (3411888105)]]
+	--Frockin Splendor! Vol.2 (3411888105)
 	ContextMenu_WearOutside = "穿在外面",
 	ContextMenu_WearInside = "穿在里面",
 	ContextMenu_BothLegs = "双腿都穿上",
@@ -1029,19 +1032,19 @@ ContextMenu_CN = {
 	ContextMenu_Higher = "穿高一些",
 	ContextMenu_Lower = "穿低一些",
 
-	--[[Frockin Splendor! Vol.4 (3475347500)]]
+	--Frockin Splendor! Vol.4 (3475347500)
 	ContextMenu_Holes = "挖几个洞！",
 
-	--[[Farming Wiki (3473886171)]]
+	--Farming Wiki (3473886171)
 	ContextMenu_OpenFarmingWiki = "打开农业Wiki",
 
-	--[[My So-Called Toy (3540268758)]]
+	--My So-Called Toy (3540268758)
 	ContextMenu_P4MySoCalledToy_LookCapsuleToy = "查看胶囊玩具",
 	ContextMenu_P4MySoCalledToy_SpinCapsuleToy = "旋转胶囊玩具",
 	ContextMenu_P4MySoCalledToy_LookMiniBook = "查看",
 	ContextMenu_P4MySoCalledToy_PlaySlidingPuzzle = "玩",
 
-	--[[KATTAJ1 Clothes Core [B41/B42] (3470422050)]]
+	--KATTAJ1 Clothes Core [B41/B42] (3470422050)
 	ContextMenu_AttachHolsterToHipLeft = "装备到左胯部",
 	ContextMenu_AttachHolsterToHipArmorLeft = "装备到左胯装甲",
 	ContextMenu_AttachHolsterToBeltLeft = "装备到左侧腰带",
@@ -1073,6 +1076,6 @@ ContextMenu_CN = {
 	ContextMenu_RollUpPants = "卷起裤腿",
 	ContextMenu_TuckPants = "塞进靴子",
 
-	--[[Vehicle Repair Overhaul (2757712197)]]
+	--Vehicle Repair Overhaul (2757712197)
 	ContextMenu_SalvageVehicle = "拆解载具",
 }

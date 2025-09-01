@@ -2,6 +2,132 @@ B42 mod translation/localization for zh-Hans (Mandarin/Chinese).
 
 Mod list:
 
+'04 Volkswagen Touran
+
+'49 Dodge Power Wagon Crew Cab
+
+'59 Cadillac Miller-Meteor + ECTO-1
+
+'63 Volkswagen 1300 Beetle
+
+'63 Volkswagen Type 2 Van
+
+'66 Pontiac LeMans / GTO
+
+'67 Cadillac Gage Commando
+
+'67 Shelby GT500 + Eleanor
+
+'68 Pontiac Firebird
+
+'69 Chevrolet Camaro
+
+'69 Mini Mk2
+
+'70 Dodge Challenger
+
+'70 Plymouth Barracuda
+
+'73 Ford Falcon
+
+'75 Pontiac Grand Prix
+
+'76 Chevrolet K Series
+
+'77 Hayosiko Pace [B41/B42]（3459200930）
+
+'77 Pontiac Firebird
+
+'78 AM General M35 Series Trucks
+
+'81 DeLorean DMC-12
+
+'82 Jeep J10
+
+'82 Pontiac Firebird
+
+'82 Porsche 911
+
+'83 AM General M923
+
+'84 Jeep XJ Cherokee
+
+'84 Mercedes Benz W460
+
+'85 Buick LeSabre
+
+'85 Chevrolet Caprice / Impala
+
+'85 Oldsmobile Delta 88
+
+'85 Pontiac Parisienne
+
+'86 Chevrolet CUCVs + M101A2 Trailer
+
+'86 Ford Econoline E-150 + Pop Culture vans
+
+'86 Oshkosh P19A + Military Trailers
+
+'87 Buick Regal
+
+'87 Chevrolet Suburban
+
+'87 Ford B700/F700 Trucks
+
+'87 Toyota MR2
+
+'88 Chevrolet S10
+
+'88 Toyota Hilux
+
+'89 Dodge Caravan
+
+'89 Ford Bronco
+
+'89 Isuzu Trooper
+
+'89 Volvo 200 Series
+
+'90 BMW 3 Series (E30)
+
+'90 Ford F350 Ambulance
+
+'90 Pierce Arrow Pumper
+
+'91 Ford LTD Crown Victoria / Country Squire
+
+'91 Ford Ranger
+
+'91 Geo Metro
+
+'91 Nissan 240SX
+
+'91 RANGE ROVER Classic
+
+'92 AM General M998 + M101A3 Cargo trailer
+
+'92 Ford Crown Victoria
+
+'92 Jeep YJ Wrangler
+
+'92 NISSAN Skyline GT-R (R32)
+
+'93 Chevrolet Suburban / Silverado
+
+'93 Ford CF8000 Elgin Street Sweeper
+
+'93 Ford F-Series
+
+'93 Ford Mustang SSP
+
+'93 Ford Taurus
+
+'93 Lincoln Town Car + Limo
+
+'98 Nissan Stagea 260RS Autech
+
+'99 Ford Crown Victoria Police Interceptor
+
 ATA系列
 
 Alarm Syndrome (3409527910)
