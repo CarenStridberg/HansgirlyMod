@@ -1851,16 +1851,7 @@ ItemName_=CN = {
     --[[Ratchat's Outdoor Tiles]]
     ItemName_Base.BucketConcreteFull = "铁桶 (混凝土)", 
     ItemName_Base.BucketCarvedConcreteFull = "木桶 (混凝土)",
-    --[[[B42] Frockin Splendor! Vol.3]]
-    ItemName_Base.Leather_UBCorset = "皮革下胸束腰",
-    ItemName_Base.Leather_UBCorset_OuterLayer = "皮革下胸束腰 (外层面)",
-    ItemName_Base.Leather_Corset = "皮革束腰",
-    ItemName_Base.Leather_Corset_OuterLayer = "皮革束腰 (外层面)",
-    ItemName_Base.Leather_Stirrup_Stockings1 = "皮革镫带长袜 No.1",
-    ItemName_Base.Leather_Stirrup_Stockings2 = "皮革镫带长袜 No.2",
-    ItemName_Base.Leather_Stirrup_Stockings3 = "皮革镫带长袜 No.3",
-    ItemName_Base.Leather_Stirrup_Stockings4 = "皮革镫带长袜 No.4",
-    ItemName_Base.Leather_Stirrup_Stockings5 = "皮革镫带长袜 No.5",
+    
     --[[Combine Large Tools]]
     ItemName_Base.RescueAxe = "救援斧",
     --[[Mandarin's Bedding]]
@@ -1972,15 +1963,7 @@ ItemName_=CN = {
     ItemName_Lucille.VBaseballBatWired = "露希尔", 
 
     --[[Nodachi Mod (2166396868)]]
-
     ItemName_NodachiMod.NodachiMod = "大太刀",
-
-    --[[Military Tool Kit (2705406713)]]
-    ItemName_Base.127x99mmClip = "12.7×99毫米 (.50 BMG)弹药箱",
-    ItemName_Base.127x99mmCarton = "12.7×99毫米 (.50 BMG)弹药包装箱",
-    ItemName_Base.127x99mm = "12.7×99毫米 (.50 BMG)子弹",
-    ItemName_Base.127x99mmClip = "12.7×99毫米 (.50 BMG)弹药箱",
-    ItemName_Base.Browning_M22= "勃朗宁M2HB重机枪",
 
     --[[U.S. M113 APC by Papa_Chad (2705655822)]]
     ItemName_Base.M548_Back_Cage2 = "M548 后笼",
@@ -1993,8 +1976,16 @@ ItemName_=CN = {
     ItemName_Base.M548_Muffer2 = "M548 消音器",
     ItemName_Base.M548_Seat_Front2 = "M548 前座椅",
     ItemName_Base.M548_Windshield2 = "M548 挡风玻璃",
-
-
+    ItemName_Base.M113_FrontHatch2 = "M113 前舱门",
+    ItemName_Base.M113_TurrentHatch2 = "M113 炮塔舱门",
+    ItemName_Base.M113_MiddleHatch2 = "M113 中舱门",
+    ItemName_Base.M113_TurrentProtection = "M113 炮塔防护",
+    ItemName_Base.M113_TrunkDoor2 = "M113 储物舱门",
+    ItemName_Base.M113_EngineDoor2 = "M113 引擎舱门",
+    ItemName_Base.M113_Track_Shoe = "M113 履带板",
+    ItemName_Base.M113_Seat = "M113 座椅",
+    ItemName_Base.M113_Seat1 = "M113 座椅",
+    ItemName_Base.M113_Seat2 = "M113 座椅",
 
     --[[Hand Crank Flashlights [41.78 and 42] (2897115343)]]
     ItemName_CTorch.CrankTorch1 = "绿色手摇手电筒",
@@ -2402,7 +2393,7 @@ ItemName_=CN = {
     ItemName_Base.HoodieDOWN_WhiteTINTOPEN = "卫衣",
     ItemName_Base.Hoodie_WhiteTINTTIED = "卫衣",
 
-    --------Spongie's Clothing (2684285534)------
+    --[[Spongie's Clothing (2684285534)------
 
     ItemName_Spongie.Jacket_SheepWool = "冬季夹克",
     ItemName_Spongie.Jacket_SheepWoolOPEN = "冬季夹克",
@@ -2504,10 +2495,10 @@ ItemName_=CN = {
     --[[Vehicle Repair Overhaul (2757712197)]]
     ItemName_Base.FixAFlat= "补胎易",
 
-    --------Use Belt as Weapon [B42/41] (3339423397)--------
+    --[[Use Belt as Weapon [B42/41] (3339423397)]]
     ItemName_Base.BeltInHand = "皮带 (武器)",
 
-    --------B42 Rain's Pack Your Loot (3490159683)--------
+    --[[B42 Rain's Pack Your Loot (3490159683)]]
     ItemName_Base.PackOfMatches = "箱装火柴",
     ItemName_Base.PackOfLighters = "箱装打火机",
     ItemName_Base.PackOfAlcoholWipes = "箱装酒精湿巾",
@@ -2637,12 +2628,12 @@ ItemName_=CN = {
     ItemName_Spongie.AppearanceUnlocker = "外观解锁-熊",
 
 
-    --------Bath Towels Overhaul (3416208765)--------
+    --[[Bath Towels Overhaul (3416208765)]]
 
     ItemName_Base.HandTowel = "手巾",
     ItemName_Base.DustCloth = "抹布",
     ItemName_Base.BathTowel_Crafted = "手工浴巾",
-    --------Metal Spears (2927603127)--------
+    --[[Metal Spears (2927603127)]]
 
     ItemName_MetalSpears.MetalSpearLargeKnife = "金属矛 (大刀)",
     ItemName_MetalSpears.MetalSpearHandFork = "金属矛 (单手叉)",
@@ -2650,7 +2641,7 @@ ItemName_=CN = {
     ItemName_MetalSpears.MetalSpearMachete = "金属矛 (大砍刀)",
     ItemName_MetalSpears.MetalSpearScissors = "金属矛 (剪刀)",
     ItemName_MetalSpears.MetalSpearFightingKnife = "金属矛 (格斗刀)",
-    --------Frockin Splendor! (3307376332)--------
+    --[[Frockin Splendor! (3307376332)]]
 
     ItemName_Base.Bag_FrockinSplendor_Box = "华丽礼盒",
     ItemName_Base.Bag_FrockinSplendor_Box_Fancy = "华丽礼盒",
@@ -2688,7 +2679,7 @@ ItemName_=CN = {
     ItemName_Base.Leather_Dress = "皮革晚礼服",
     ItemName_Base.Leather_Dress_HS = "皮革晚礼服 (高开衩)",
     ItemName_Base.Leather_Dress_LS = "皮革晚礼服 (低开衩)",
-    --------Frockin Shirts & Ties! (3453676250)--------
+    --[[Frockin Shirts & Ties! (3453676250)]]
 
     容器类
     ItemName_Base.Bag_FrockinShirts_BoxofShirts = "奢华衬衫礼盒",
@@ -2846,7 +2837,7 @@ ItemName_=CN = {
     ItemName_Base.Tie_BowTieWorn = "蝴蝶领结 夹式",
     ItemName_Base.Tie_Worn = "领带 夹式",
     ItemName_Base.Tie_Worn_Spiffo = "领带 Spiffo夹式",
-    --------Frockin Splendor! Vol.2 (3411888105)--------
+    --[[Frockin Splendor! Vol.2 (3411888105)]]
 
     棉质紧身裤类
     ItemName_Base.Knitted_Cotton_Tights_1 = "针织棉质紧身裤 踩脚款",
@@ -2983,7 +2974,7 @@ ItemName_=CN = {
     ItemName_Base.Fitness_Leggings_Yel = "健身紧身裤 (黄色)",
     ItemName_Base.Fitness_Leggings_Yel_HW = "健身紧身裤 (黄色高腰)",
 
-    --------Frockin Splendor! Vol.3 (3431256608)--------
+    --[[Frockin Splendor! Vol.3 (3431256608)]]
 
     --容器类
     ItemName_Base.Bag_Courier_Leather = "皮革邮差包",
@@ -5036,7 +5027,7 @@ ItemName_=CN = {
     ItemName_Base.M35A2DoorArmor1 = "78款AM通用M35A2车门装甲",
     ItemName_Base.M35A2Mudflaps1 = "78款AM通用M35A2挡泥板",
     ItemName_Base.M49PumpDoor2 = "78款AM通用M49/M50泵门",
-    --------TrueMusic addon : 8090一些歌曲 (3444726475)--------
+    --[[TrueMusic addon : 8090一些歌曲 (3444726475)]]
     ItemName_Tsarcraft.Cassetteaizhuanjiao = "磁带《爱转角》",
     ItemName_Tsarcraft.Cassettebieshuowodeyanleiniwusuowei = "磁带《别说我的眼泪你无所谓》",
     ItemName_Tsarcraft.Cassettebudebuai = "磁带《不得不爱》",
@@ -5111,12 +5102,12 @@ ItemName_=CN = {
     ItemName_Tsarcraft.Vinylyuyizhixia = "黑胶唱片《雨一直下》",
     ItemName_Tsarcraft.Vinylyuelaingredehuo = "黑胶唱片《月亮惹的祸》",
     ItemName_Tsarcraft.Vinylyueliangredehuo = "黑胶唱片《月亮惹的祸》",
-    --------Baby Animal Food (3422249642)--------
+    --[[Baby Animal Food (3422249642)]]
     ItemName_Base.FeedForPiglet = "猪仔饲料",
     ItemName_Base.FeedForRabkitten = "小兔饲料",
     ItemName_Base.FeedForCowcalf = "牛犊饲料",
     ItemName_Base.FeedForLamb = "羊羔饲料",
-    --------My So-Called Toy (3540268758)--------
+    --[[My So-Called Toy (3540268758)]]
     ItemName_P4MySoCalledToy.P4MovCapsuleToy01 = "胶囊玩具（斯皮福的滑动拼图）",
     ItemName_P4MySoCalledToy.P4MovCapsuleToy02 = "胶囊玩具（Pump Pury系列 Vol.1）",
     ItemName_P4MySoCalledToy.P4MovCapsuleToy03 = "胶囊玩具（Pump Pury系列 Vol.2）",
@@ -5191,7 +5182,7 @@ ItemName_=CN = {
     ItemName_P4MySoCalledToy.P4MovFureFureMeister = "福瑞大师",
     ItemName_P4MySoCalledToy.P4MovFureFureFallenAngel = "福瑞堕落天使",
 
-    --------[J&G] Black Multicam Uniform (3315302991)--------
+    --[[[J&G] Black Multicam Uniform (3315302991)]]
     ItemName_Base.Black_Camo_Helmet_Rook_FaceShield = "黑色迷彩头盔[堡垒]"
     ItemName_Base.Black_Camo_Helmet_Rook_FaceShieldUp = "黑色迷彩头盔[堡垒]"
     ItemName_Base.Black_Camo_Helmet = "黑色迷彩头盔[防御者]"
@@ -5217,7 +5208,8 @@ ItemName_=CN = {
     ItemName_Base.Black_Camo_Boots = "黑色迷彩军靴"
     ItemName_Base.Black_Camo_TacBoots = "黑色迷彩战术鞋"
     ItemName_Base.Black_Camo_Backpack_Ranger_Tight = "黑色迷彩战术背包"
-    --------[J&G] Caution Pack (3369825662)--------
+    
+    --[[[J&G] Caution Pack (3369825662)]]
     ItemName_Base.Caution_Helmet_Rook_FaceShield = "警戒头盔 [防护面罩]",
     ItemName_Base.Caution_Helmet_Rook_FaceShieldUp = "警戒头盔 [面罩抬起]",
     ItemName_Base.Caution_Cap = "警戒帽",
@@ -5239,7 +5231,8 @@ ItemName_=CN = {
     ItemName_Base.Caution_Backpack_Radio = "警戒无线电背包",
     ItemName_Base.Caution_DarkZoneCanister_BeltLeft = "警戒污染隔离罐 [左]",
     ItemName_Base.Caution_DarkZoneCanister_BeltRight = "警戒污染隔离罐 [右]",
-    --------[J&G] Flecktarn Uniform (3206579556)--------
+
+    --[[[J&G] Flecktarn Uniform (3206579556)]]
     ItemName_Base.Flecktarn_Camo_Helmet = "斑点迷彩头盔",
     ItemName_Base.Flecktarn_Camo_Helmet_NoBelts = "斑点迷彩头盔[无绑带]",
     ItemName_Base.Flecktarn_Camo_Hat = "斑点迷彩帽",
@@ -5256,16 +5249,15 @@ ItemName_=CN = {
     ItemName_Base.Flecktarn_Camo_Knee_Pads = "斑点迷彩护膝",
     ItemName_Base.Flecktarn_Camo_Boots = "斑点迷彩军靴",
     ItemName_Base.Flecktarn_Camo_TacBoots = "斑点迷彩战术鞋"
-    --------[B42] Pack Mule v2 (3540903327)--------
+
+    --[[[B42] Pack Mule v2 (3540903327)]]
     ItemName_Base.Holster_DuctTapeAnkle = "胶带枪套 - 脚踝型",
-    --------Vehicle Repair Overhaul (2757712197)--------
-    --Vehicle Repair Overhaul--
-    ItemName_FixAFlat.FixAFlat = "补胎易",
-    --Vehicle Repair Overhaul - Vehicle Salvage Overhaul--
-    --------True Music Jukebox B42 (3398874593)--------
+    
+    --[[True Music Jukebox B42 (3398874593)]]
     ItemName_TrueMusicJukebox.InstructionManual = "自动点唱机使用说明书",
     ItemName_TrueMusicJukebox.StarterKit = "自动点唱机入门套件",
-    --------PertsPartyTiles (2837923608)--------
+
+    --[[PertsPartyTiles (2837923608)]]
     ItemName_Perts.LegalBook = "法律书籍",
     ItemName_Perts.OverlookFireAxe = "远眺消防斧",
     ItemName_Perts.BatLeth = "蝙蝠刀",
@@ -5276,7 +5268,8 @@ ItemName_=CN = {
     ItemName_Perts.UmbrellaSword = "伞中剑",
     ItemName_Perts.AZZK_pistol = "AZZK手枪",
     ItemName_Perts.Pert_BulletBelt = "弹药腰带",
-    --------Tow Truck [B42] (3446203945)--------
+
+    --[[Tow Truck [B42] (3446203945)]]
     ItemName_TowMod.TowBar = "拖车杠",
     ItemName_Base.RhinoArmor_BullBar_Item2 = "骑士犀牛 牛栏保险杠",
     ItemName_Base.RhinoEngineDoor2 = "骑士犀牛 引擎盖",
@@ -5284,14 +5277,16 @@ ItemName_=CN = {
     ItemName_Base.RhinoWindshield2 = "骑士犀牛 挡风玻璃",
     ItemName_Base.RhinoRearWindshield2 = "骑士犀牛 后挡风玻璃",
     ItemName_Base.RhinoFrontWindow2 = "骑士犀牛 侧窗",
-    --------[B42] Ogrim Mod's - Universal Custom Firearm (3551139118)--------
+
+    --[[[B42] Ogrim Mod's - Universal Custom Firearm (3551139118)]]
     ItemName_Base.WeaponParts = "武器零件",
-    --------Military Tool Kit (2705406713)--------
+
+    --[[Military Tool Kit (2705406713)]]
     ItemName_Base.Browning_M22= "勃朗宁M2HB重机枪",
     ItemName_Base.127x99mm = "12.7×99毫米（.50 BMG）子弹",
-    ItemName_Base.127x99mmHE = " (NOT USED)12.7×99毫米高爆弹（.50 BMG HE）",
+    ItemName_Base.127x99mmHE = "(NOT USED) 12.7×99毫米高爆弹（.50 BMG HE）",
     ItemName_Base.20x102mm = "20毫米弹药",
-    ItemName_Base.20x102mmHE = " (NOT USED)20毫米高爆弹药",
+    ItemName_Base.20x102mmHE = "(NOT USED) 20毫米高爆弹药",
     ItemName_Base.127x99mmClip = "12.7×99毫米（.50 BMG）弹链箱",
     ItemName_Base.127x99mmCarton = "箱装12.7×99毫米（.50 BMG）弹药",
     ItemName_Base.Tire_Military_8_Lugs = "军用轮胎-8螺栓式",
@@ -5299,18 +5294,8 @@ ItemName_=CN = {
     ItemName_Base.Military_Vehicle_Antenna = "军用车辆天线",
     ItemName_Base.Military_Vehicle_Antenna2 = "军用车辆天线",
     ItemName_Base.Military_PetrolCan_20L2 = "军用汽油罐20升",
-    --------U.S. M113 APC by Papa_Chad (2705655822)--------
-    ItemName_Base.M113_FrontHatch2 = "M113前舱门",
-    ItemName_Base.M113_TurrentHatch2 = "M113炮塔舱门",
-    ItemName_Base.M113_MiddleHatch2 = "M113中舱门",
-    ItemName_Base.M113_TurrentProtection = "M113炮塔防护",
-    ItemName_Base.M113_TrunkDoor2 = "M113储物舱门",
-    ItemName_Base.M113_EngineDoor2 = "M113引擎舱门",
-    ItemName_Base.M113_Track_Shoe = "M113履带板",
-    ItemName_Base.M113_Seat = "M113座椅",
-    ItemName_Base.M113_Seat1 = "M113座椅",
-    ItemName_Base.M113_Seat2 = "M113座椅",
-    --------U.S. M548 Cargo Carrier by Papa_Chad (3424497614)--------
+
+    --[[U.S. M548 Cargo Carrier by Papa_Chad (3424497614)]]
     ItemName_Base.M548_Front_Door2 = "M548前车门",
     ItemName_Base.M548_Front_Wind2 = "M548前车窗",
     ItemName_Base.M548_Windshield2 = "M548挡风玻璃",
@@ -5321,7 +5306,7 @@ ItemName_=CN = {
     ItemName_Base.M548_Front_Cage_Protection2 = "M548车顶护栏篷布",
     ItemName_Base.M548_Back_Cage_Protection2 = "M548货舱护栏篷布",
     ItemName_Base.M548_Seat_Front2 = "M548前排座椅",
-    --------U.S. M998 Humvee by Papa_Chad (3554424111)--------
+    --[[U.S. M998 Humvee by Papa_Chad (3554424111)]]
     ItemName_Base.M998_Hood_Green2 = "M998引擎盖-绿色",
     ItemName_Base.M998_Hood_Camo2 = "M998引擎盖-迷彩",
     ItemName_Base.M998_Hood_Desert2 = "M998引擎盖-沙漠色",
