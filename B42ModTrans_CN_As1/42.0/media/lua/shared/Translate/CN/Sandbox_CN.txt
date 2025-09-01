@@ -1811,4 +1811,8 @@ Sandbox_CN = {
 	Sandbox_WellMinBetweenDistanceToFullRefil_tooltip = "水井之间需要保持的最小格数距离才能完全补充. 防止为获取资源而过度密集建造水井.",
 	Sandbox_AllowUndergroundWell = "允许地下放置水井",
 	Sandbox_AllowUndergroundWell_tooltip = "启用后, 玩家可在地下建造/放置水井. 禁用则限制水井只能建于地面层.",
+
+	--'80 MAN KAT1--
+	Sandbox_DAMN_Spawns = "KI5 | 固定刷新点",
+	Sandbox_DAMN_AllowManlyMANSpawns = "启用预设的80款MAN KAT1刷新点",
 }

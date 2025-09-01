@@ -5381,4 +5381,23 @@
 	ItemName_Base.M998_MufflerB2 = "M998加长消音器",
 	ItemName_Base.M998_Seat2 = "M998座椅",
 	ItemName_Base.M998_Spare_Tire_Carrier2 = "M998备胎架",
+
+	--'80 MAN KAT1
+	ItemName_Base.80manKat1Magazine = "80款MAN KAT1汽车手册",
+	ItemName_Base.80manKat1Roofrack2 = "80款MAN KAT1车顶架",
+	ItemName_Base.80manKat1FrontDoor2 = "80款MAN KAT1前车门",
+	ItemName_Base.80manKat1FrontWindowArmor = "80款MAN KAT1前窗装甲",
+	ItemName_Base.80manKat1WindshieldArmor = "80款MAN KAT1挡风玻璃装甲",
+	ItemName_Base.80manKat1EngineDoor2 = "80款MAN KAT1引擎盖",
+	ItemName_Base.80manKat1TrunkDoor2 = "80款MAN KAT1储物箱门",
+	ItemName_Base.80manKat1StorageDoor2 = "80款MAN KAT1储物箱盖",
+	ItemName_Base.80manKat1BumperFront0 = "80款MAN KAT1前保险杠",
+	ItemName_Base.80manKat1BumperFrontA = "80款MAN KAT1加固保险杠",
+	ItemName_Base.80manKat1BullbarFrontA = "80款MAN KAT1前防撞栏",
+	ItemName_Base.80manKat1Windshield2 = "80款MAN KAT1挡风玻璃",
+	ItemName_Base.80manKat1FrontSideWindow2 = "80款MAN KAT1前侧窗",
+	ItemName_Base.80manKat1Muffler2 = "80款MAN KAT1消音器",
+	ItemName_Base.80manKat1LightGuards2 = "80款MAN KAT1大灯护罩",
+	ItemName_Base.80manKat1Mudflaps2 = "80款MAN KAT1挡泥板",
+	ItemName_Base.80manKat1Tarp2 = "80款MAN KAT1防雨布",
 }

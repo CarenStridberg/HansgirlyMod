@@ -1,5 +1,4 @@
-Items_CN =
-	{
+Items_CN = {
 
 	--------------------[B42] Tactical Sheaths（3389805754）--------------------
 	DisplayNameTactical_Knife = "战术刀",

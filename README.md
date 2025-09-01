@@ -40,6 +40,8 @@ Mod list:
 
 '78 AM General M35 Series Trucks
 
+'80 MAN KAT1
+
 '81 DeLorean DMC-12
 
 '82 Jeep J10
@@ -489,6 +491,8 @@ that DAMN Library (3171167894)
 柳溪镇 (3479667649)
 
 楼梯警报 (3044807092)
+
+浅草湖镇 (3482962418)
 
 模组UI补充
 

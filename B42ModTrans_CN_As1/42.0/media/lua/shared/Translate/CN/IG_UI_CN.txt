@@ -1,4 +1,4 @@
-	IGUI_EN = {
+IGUI_CN = {
 
 	--Skill Recovery Journal
 	IGUI_PlayerText_NothingWritten = "这里没有写任何东西.",
@@ -3664,4 +3664,16 @@
 	IGUI_VehiclePartSpare_Tire = "备胎",
 	IGUI_VehiclePartExtra_GasCan = "附加油桶",
 	IGUI_VehiclePartBull_Bar = "前防撞栏",
+
+	--'80 MAN KAT1--
+	IGUI_VehicleName80manKat1 = "80款MAN KAT1",
+	IGUI_VehiclePartMAN80Trunk = "车载储物箱",
+	IGUI_VehiclePartMAN80Roofrack = "车顶储物架",
+	IGUI_VehiclePartMAN80LeftStorage = "左侧储物箱",
+	IGUI_VehiclePartMAN80RightStorage = "右侧储物箱",
+	IGUI_VehiclePartMAN80LightGuards = "大灯护罩",
+	IGUI_VehiclePartMAN80Tarp = "平板防雨布",
+	IGUI_VehiclePartTrunkLeftStorageDoor = "左侧储物箱盖",
+	IGUI_VehiclePartTrunkRightStorageDoor = "右侧储物箱盖",
+	IGUI_VehiclePartMAN80GasCan0 = "油桶",
 }

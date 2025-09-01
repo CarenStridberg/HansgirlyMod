@@ -3337,4 +3337,22 @@ Recipe_CN = {
 
 	--[B42] Ogrim Mod's - My Own Well (3549290115)
 	WellsConstructionDisplay = "建造水井",
+
+	--'80 MAN KAT1
+	Recipe_80manKat1.MakeHood = "制作80款MAN KAT1引擎盖",
+	Recipe_80manKat1.MakeFrontDoor = "制作80款MAN KAT1前车门",
+	Recipe_80manKat1.MakeTailgate = "制作80款MAN KAT1尾门",
+	Recipe_80manKat1.MakeStorageLid = "制作80款MAN KAT1储物箱盖",
+	Recipe_80manKat1.MakeFrontWindshield = "制作80款MAN KAT1前挡风玻璃",
+	Recipe_80manKat1.MakeFrontSideWindow = "制作80款MAN KAT1前侧窗",
+	Recipe_80manKat1.MakeFrontWindshieldArmor = "制作80款MAN KAT1前挡风玻璃装甲",
+	Recipe_80manKat1.MakeFrontWindowArmor = "制作80款MAN KAT1前窗装甲",
+	Recipe_80manKat1.MakeFrontBumper = "制作80款MAN KAT1前保险杠",
+	Recipe_80manKat1.MakeFrontBullbar = "制作80款MAN KAT1前防撞栏",
+	Recipe_80manKat1.MakeReinforcedFrontBumper = "制作80款MAN KAT1加固前保险杠",
+	Recipe_80manKat1.MakeMudflaps = "制作80款MAN KAT1挡泥板",
+	Recipe_80manKat1.MakeBedTarp = "制作80款MAN KAT1货斗防雨布",
+	Recipe_80manKat1.MakeMuffler = "制作80款MAN KAT1消音器",
+	Recipe_80manKat1.MakeLightGuards = "制作80款MAN KAT1大灯护罩",
+	Recipe_80manKat1.MakeRoofrack = "制作80款MAN KAT1车顶架",
 }

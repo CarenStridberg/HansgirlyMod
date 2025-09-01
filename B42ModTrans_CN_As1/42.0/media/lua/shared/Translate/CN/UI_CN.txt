@@ -1,4 +1,4 @@
-	UI_EN = {
+UI_CN = {
 
 	--Has Been Read
 	UI_P4HasBeenRead_Marked_Book = "标记这本书",
