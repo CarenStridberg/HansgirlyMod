@@ -2374,7 +2374,7 @@
 	ItemName_Base.HoodieDOWN_WhiteTINTOPEN = "卫衣",
 	ItemName_Base.Hoodie_WhiteTINTTIED = "卫衣",
 
-	--Spongie's Clothing (2684285534)------
+	--Spongie's Clothing (2684285534)
 	ItemName_Spongie.Jacket_SheepWool = "冬季夹克",
 	ItemName_Spongie.Jacket_SheepWoolOPEN = "冬季夹克",
 	ItemName_Spongie.Jacket_SheepWoolROLL = "冬季夹克",
@@ -3278,7 +3278,7 @@
 
 	--KI5车辆合集
 
-	--that DAMN Library--
+	--that DAMN Library
 	/* USMIL */
 	ItemName_USMIL.Seat0 = "军用载具座椅 ST1型",
 	ItemName_USMIL.Seat1front = "军用载具座椅 ST2型",
@@ -3464,7 +3464,7 @@
 	ItemName_Base.M101TrunkDoor2 = "M101拖车尾门",
 	ItemName_Base.KI5trailersTarp2 = "小型拖车防水布"
 
-	--Trailers!--
+	--Trailers!
 	ItemName_Base.KI5trailersMagazine = "货运/工具拖车手册",
 	ItemName_Base.KI5trailersToolBox2 = "工具拖车工具箱",
 	ItemName_Base.KI5trailersTrunkDoor2 = "工具拖车尾门",
@@ -3476,7 +3476,7 @@
 	ItemName_Base.KI5trailersSideFlaresMedium2 = "中型货运拖车侧挡板",
 	ItemName_Base.KI5trailersSideFlaresSmall2 = "小型货运拖车侧挡板",
 
-	--'91 RANGE ROVER Classic--
+	--'91 RANGE ROVER Classic
 	ItemName_Base.91rangeMagazine = "91款路虎揽胜汽车手册",
 	ItemName_Base.91rangeTire2 = "91款路虎揽胜轮胎",
 	ItemName_Base.91rangeRoofrack2 = "91款路虎揽胜车顶架",
@@ -3504,7 +3504,7 @@
 	ItemName_Base.91rangeSideSteps2 = "91款路虎揽胜侧踏板",
 	ItemName_Base.91rangeSnorkel2 = "91款路虎揽胜涉水喉",
 
-	--'93 Ford F-Series--
+	--'93 Ford F-Series
 	ItemName_Base.93fordF350Magazine = "93款福特F系列汽车手册",
 	ItemName_Base.93fordF350Tire2 = "93款福特F系列轮胎",
 	ItemName_Base.93fordF350DoubleTires2 = "93款福特F系列双胎系统",
@@ -3539,7 +3539,7 @@
 	ItemName_Base.93fordF350RoofLights2 = "93款福特F系列车顶灯",
 	ItemName_Base.93fordF350BedCover2 = "93款福特F系列货斗盖板",
 
-	--'82 Porsche 911--
+	--'82 Porsche 911
 	ItemName_Base.82porsche911Magazine = "82款保时捷911汽车手册",
 	ItemName_Base.82porsche911TurboTire = "82款保时捷911 Turbo轮胎",
 	ItemName_Base.82porsche911RWBTire = "82款保时捷911 RWB轮胎",
@@ -3565,7 +3565,7 @@
 	ItemName_Base.82porsche911WindshieldRear3 = "82款保时捷911后挡风玻璃",
 	ItemName_Base.82porsche911RWBSpoiler0 = "82款保时捷911 RWB尾翼"
 
-	--'90 BMW 3 Series (E30)--
+	--'90 BMW 3 Series (E30)
 	ItemName_Base.90bmwE30Magazine = "90款宝马E30汽车手册",
 	ItemName_Base.90bmwE30Tire3 = "90款宝马E30轮胎",
 	ItemName_Base.90bmwE30mTire3 = "90款宝马M系列轮胎",
@@ -3607,7 +3607,7 @@
 	ItemName_Base.90bmwE30sedanSpoilerMT3 = "90款宝马E30轿车MT2尾翼",
 	ItemName_Base.90bmwE30CabrioRoof3 = "90款宝马E30敞篷车顶"
 
-	--'91 Ford LTD Crown Victoria / Country Squire--
+	--'91 Ford LTD Crown Victoria / Country Squire
 	ItemName_Base.91fordLTDMagazine = "91款福特LTD汽车手册",
 	ItemName_Base.91fordLTDTire1 = "91款福特LTD维多利亚皇冠轮胎",
 	ItemName_Base.91fordLTDRoofrack1 = "91款福特LTD车顶架",
@@ -3632,7 +3632,7 @@
 	ItemName_Base.91fordLTDWagonBackWindowArmor = "91款福特LTD乡村骑士旅行车尾部侧窗装甲",
 	ItemName_Base.91fordLTDWagonWindshieldRearArmor = "91款福特LTD乡村骑士旅行车后挡风装甲"
 
-	--'89 Dodge Caravan--
+	--'89 Dodge Caravan
 	ItemName_Base.89dodgeCaravanMagazine = "89款道奇Caravan汽车手册",
 	ItemName_Base.89dodgeCaravanTire1 = "89款道奇Caravan轮胎",
 	ItemName_Base.89dodgeCaravanTireOffroad2 = "89款道奇Caravan越野轮胎",
@@ -3658,7 +3658,7 @@
 	ItemName_Base.89dodgeCaravanWindshieldRear1 = "89款道奇Caravan后挡风玻璃",
 	ItemName_Base.89dodgeCaravanMudflaps0 = "89款道奇Caravan挡泥板"
 
-	--'84 Jeep XJ Cherokee--
+	--'84 Jeep XJ Cherokee
 	ItemName_Base.84jeepXJMagazine = "84款吉普切诺基XJ汽车手册",
 	ItemName_Base.84jeepXJRoofrack2 = "84款吉普切诺基XJ车顶架",
 	ItemName_Base.84jeepXJFrontDoor2 = "84款吉普切诺基XJ前车门",
@@ -3682,7 +3682,7 @@
 	ItemName_Base.84jeepXJBackSideWindow2 = "84款吉普切诺基XJ尾部侧窗",
 	ItemName_Base.84jeepXJRearWindshield2 = "84款吉普切诺基XJ后挡风玻璃"
 
-	--'63 Volkswagen 1300 Beetle--
+	--'63 Volkswagen 1300 Beetle
 	ItemName_Base.63beetleMagazine = "63款大众甲壳虫汽车手册",
 	ItemName_Base.63beetleTireOffroad2 = "63款大众甲壳虫越野轮胎",
 	ItemName_Base.63beetleTireSlick3 = "63款大众甲壳虫光面轮胎",
@@ -3711,7 +3711,7 @@
 	ItemName_Base.63beetleBuggySpoiler0 = "63款大众甲壳虫沙地车尾翼",
 	ItemName_Base.63beetleSmallSpoiler0 = "63款大众甲壳虫尾翼",
 
-	--'76 Chevrolet K Series--
+	--'76 Chevrolet K Series
 	ItemName_Base.76chevyKseriesMagazine = "76款雪佛兰K系列汽车手册",
 	ItemName_Base.76chevyKseriesDoubleTires2 = "76款雪佛兰K系列双后轮",
 	ItemName_Base.76chevyKseriesRoofrack2 = "76款雪佛兰K系列车顶行李架",
@@ -3754,7 +3754,7 @@
 	ItemName_Base.76chevyCseriesWreckerLid2 = "76款雪佛兰C系列清障车侧面盖板",
 	ItemName_Base.76chevyCseriesBullbarFrontC = "76款雪佛兰C系列清障车前防撞栏",
 
-	--'85 Pontiac Parisienne--
+	--'85 Pontiac Parisienne
 	ItemName_Base.85pontiacParisienneMagazine = "85款庞蒂亚克巴黎人汽车手册",
 	ItemName_Base.85pontiacParisienneEngineDoor1 = "85款庞蒂亚克巴黎人引擎盖",
 	ItemName_Base.85pontiacParisienneTrunkDoor1 = "85款庞蒂亚克巴黎人后备箱盖",
@@ -3764,7 +3764,7 @@
 	ItemName_Base.85pontiacParisienneBumperFrontA = "85款庞蒂亚克巴黎人加强型保险杠",
 	ItemName_Base.85pontiacParisienneBumperRear0 = "85款庞蒂亚克巴黎人后保险杠"
 
-	--'85 Chevrolet Caprice / Impala--
+	--'85 Chevrolet Caprice / Impala
 	ItemName_Base.85chevyCapriceMagazine = "85款雪佛兰Caprice/Impala汽车手册",
 	ItemName_Base.85chevyCapriceEngineDoor1 = "85款雪佛兰Caprice/Impala引擎盖",
 	ItemName_Base.85chevyCapriceTrunkDoor1 = "85款雪佛兰Caprice/Impala后备箱盖",
@@ -3777,7 +3777,7 @@
 	ItemName_Base.85chevyCapriceBumperRearB = "85款雪佛兰Caprice/Impala后推撞保险杠",
 	ItemName_Base.85chevyCapriceCabBarrier1 = "85款雪佛兰Caprice/Impala驾驶室隔离栏"
 
-	--'92 Jeep YJ Wrangler--
+	--'92 Jeep YJ Wrangler
 	ItemName_Base.92jeepYJMagazine = "92款吉普牧马人YJ汽车手册",
 	ItemName_Base.92jeepYJRoofrack2 = "92款吉普牧马人YJ车顶行李架",
 	ItemName_Base.92jeepYJFrontDoor2 = "92款吉普牧马人YJ前车门",
@@ -3810,12 +3810,12 @@
 	ItemName_Base.92jeepYJBodykitB2 = "92款吉普牧马人YJ车身套件B型",
 	ItemName_Base.92jeepYJLightbar2 = "92款吉普牧马人YJ警示灯条"
 
-	--Containers!--
+	--Containers!
 	ItemName_Base.IsoContainerTrunkDoor2 = "集装箱单门",
 	ItemName_Base.IsoContainerDoubleTrunkDoor2 = "集装箱双门",
 	ItemName_Base.IsoContainerTankerTrunkDoor2 = "集装箱油罐盖"
 
-	--'87 Buick Regal--
+	--'87 Buick Regal
 	ItemName_Base.87buickRegalMagazine = "87款别克君威汽车手册",
 	ItemName_Base.87buickRegalTire1 = "87款别克君威轮胎",
 	ItemName_Base.87buickRegalGNXTire3 = "87款别克君威GNX轮胎",
@@ -3841,7 +3841,7 @@
 	ItemName_Base.87buickRegalFrontLip3 = "87款别克君威前唇扰流板",
 	ItemName_Base.87buickRegalFrontSplitLip3 = "87款别克君威分体式前唇扰流板"
 
-	--'85 Buick LeSabre--
+	--'85 Buick LeSabre
 	ItemName_Base.85buickLeSabreMagazine = "85款别克LeSabre汽车手册",
 	ItemName_Base.85buickLeSabreEngineDoor1 = "85款别克LeSabre引擎盖",
 	ItemName_Base.85buickLeSabreTrunkDoor1 = "85款别克LeSabre后备箱盖",
@@ -3851,7 +3851,7 @@
 	ItemName_Base.85buickLeSabreBumperFrontA = "85款别克LeSabre加强型前保险杠",
 	ItemName_Base.85buickLeSabreBumperRear0 = "85款别克LeSabre后保险杠"
 
-	--'85 Oldsmobile Delta 88--
+	--'85 Oldsmobile Delta 88
 	ItemName_Base.85oldsmobileDelta88Magazine = "85款奥兹莫比尔Delta 88汽车手册",
 	ItemName_Base.85oldsmobileDelta88EngineDoor1 = "85款奥兹莫比尔Delta 88引擎盖",
 	ItemName_Base.85oldsmobileDelta88TrunkDoor1 = "85款奥兹莫比尔Delta 88后备箱盖",
@@ -3861,7 +3861,7 @@
 	ItemName_Base.85oldsmobileDelta88BumperFrontA = "85款奥兹莫比尔Delta 88加强型前保险杠",
 	ItemName_Base.85oldsmobileDelta88BumperRear0 = "85款奥兹莫比尔Delta 88后保险杠"
 
-	--'67 Cadillac Gage Commando--
+	--'67 Cadillac Gage Commando
 	ItemName_Base.67commandoMagazine = "67款M706突击队员汽车手册",
 	ItemName_Base.67commandoFrontDoor2 = "67款M706突击队员前车门",
 	ItemName_Base.67commandoRearDoor2 = "67款M706突击队员后车门",
@@ -3869,7 +3869,7 @@
 	ItemName_Base.67commandoToolboxLid2 = "67款M706突击队员工具箱盖板",
 	ItemName_Base.67commandoLightGuards2 = "67款M706突击队员灯光防护架"
 
-	--'90 Pierce Arrow Pumper--
+	--'90 Pierce Arrow Pumper
 	ItemName_Base.90pierceArrowMagazine = "90款皮尔斯·箭头汽车手册",
 	ItemName_Base.90pierceArrowTire2 = "90款皮尔斯·箭头轮胎",
 	ItemName_Base.90pierceArrowDoubleTires2 = "90款皮尔斯·箭头双联轮胎",
@@ -3893,7 +3893,7 @@
 	ItemName_Base.90pierceArrowHoses = "消防水带",
 	ItemName_Base.90pierceArrowWaterTank2 = "消防水罐"
 
-	--'69 Chevrolet Camaro--
+	--'69 Chevrolet Camaro
 	ItemName_Base.69camaroMagazine = "69款雪佛兰科迈罗汽车手册",
 	ItemName_Base.69camaroFrontSeat3 = "69款雪佛兰科迈罗前座椅",
 	ItemName_Base.69camaroRearSeat3 = "69款雪佛兰科迈罗后座椅",
@@ -3916,7 +3916,7 @@
 	ItemName_Base.69camaroWindowArmor = "69款雪佛兰科迈罗车窗装甲",
 	ItemName_Base.69camaroSpoiler0 = "69款雪佛兰科迈罗扰流板类型1"
 
-	--'70 Plymouth Barracuda--
+	--'70 Plymouth Barracuda
 	ItemName_Base.CUDAMagazine = "70款普利茅斯梭鱼汽车手册",
 	ItemName_Base.CUDAFrontSeat3 = "70款普利茅斯梭鱼前座椅",
 	ItemName_Base.CUDARearSeat3 = "70款普利茅斯梭鱼后座椅",
@@ -3940,7 +3940,7 @@
 	ItemName_Base.CUDASpoiler0 = "70款普利茅斯梭鱼扰流板类型1",
 	ItemName_Base.CUDASpoiler1 = "70款普利茅斯梭鱼扰流板类型2"
 
-	--'70 Dodge Challenger--
+	--'70 Dodge Challenger
 	ItemName_Base.DodgeMagazine = "70款道奇挑战者汽车手册",
 	ItemName_Base.DodgeFrontSeat3 = "70款道奇挑战者前座椅",
 	ItemName_Base.DodgeRearSeat3 = "70款道奇挑战者后座椅",
@@ -3969,7 +3969,7 @@
 	ItemName_Base.DG70Spoiler1 = "70款道奇挑战者2型扰流板",
 	ItemName_Base.DG70RTRoof0 = "70款道奇挑战者RT车顶"
 
-	--'86 Chevrolet CUCVs + M101A2 Trailer--
+	--'86 Chevrolet CUCVs + M101A2 Trailer
 	ItemName_Base.86chevyCUCVMagazine = "86款雪佛兰CUCV汽车手册",
 	ItemName_Base.86chevyCUCVEngineDoor2 = "86款雪佛兰CUCV引擎盖",
 	ItemName_Base.86chevyCUCVFrontWindowArmor = "86款雪佛兰CUCV前窗装甲",
@@ -3995,7 +3995,7 @@
 	ItemName_Base.86chevyCUCVBedPlanks2 = "86款雪佛兰CUCV货箱木板",
 	ItemName_Base.86chevy1028Mudflaps2 = "86款雪佛兰M1028挡泥板"
 
-	--'81 DeLorean DMC-12--
+	--'81 DeLorean DMC-12
 	ItemName_Base.81deloreanDMC12Magazine = "81款德罗宁DMC-12汽车手册",
 	ItemName_Base.81deloreanDMC12Tire3 = "81款德罗宁DMC-12轮胎",
 	ItemName_Base.81deloreanDMC12FrontDoor3 = "81款德罗宁DMC-12前车门",
@@ -4015,7 +4015,7 @@
 	ItemName_Base.81deloreanDMC12RearSideWindow3 = "81款德罗宁DMC-12后侧窗",
 	ItemName_Base.81deloreanDMC12RearWindshield3 = "81款德罗宁DMC-12后挡风玻璃"
 
-	--'92 NISSAN Skyline GT-R (R32)--
+	--'92 NISSAN Skyline GT-R (R32)
 	ItemName_Base.R32Magazine = "92款日产天际线R32汽车手册",
 	ItemName_Base.R32Tire0 = "92款日产天际线R32原厂轮胎",
 	ItemName_Base.R32Tire1 = "92款日产天际线R32高性能轮胎",
@@ -4055,7 +4055,7 @@
 	ItemName_Base.R32WindshieldArmor = "92款日产天际线R32临时挡风玻璃装甲",
 	ItemName_Base.R32WindshieldRearArmor = "92款日产天际线R32临时后挡风玻璃装甲"
 
-	--'92 AM General M998 + M101A3 Cargo trailer--
+	--'92 AM General M998 + M101A3 Cargo trailer
 	ItemName_Base.92amgeneralM998Magazine = "92款AM通用M998汽车手册",
 	ItemName_Base.92amgeneralM998Roofrack = "92款AM通用M998车顶架",
 	ItemName_Base.92amgeneralM998TrunkBarrier1 = "92款AM通用M998网状储物舱隔板",
@@ -4079,7 +4079,7 @@
 	ItemName_Base.M101A3Cover2 = "M101A3硬质顶盖",
 	ItemName_Base.M101A3TrunkDoorTwo2 = "M101A3硬质顶盖舱门"
 
-	--'88 Toyota Hilux--
+	--'88 Toyota Hilux
 	ItemName_Base.88toyotaHiluxMagazine = "88款丰田海拉克斯汽车手册",
 	ItemName_Base.88toyotaHiluxTire2 = "88款丰田海拉克斯轮胎",
 	ItemName_Base.88toyotaHiluxRoofrack2 = "88款丰田海拉克斯车顶行李架",
@@ -4105,7 +4105,7 @@
 	ItemName_Base.88toyotaHiluxSideSteps2 = "88款丰田海拉克斯脚踏板",
 	ItemName_Base.88toyotaHiluxMudflaps2 = "88款丰田海拉克斯挡泥板"
 
-	--'91 Geo Metro--
+	--'91 Geo Metro
 	ItemName_Base.91geoMetroMagazine = "91款吉优都市汽车手册",
 	ItemName_Base.91geoMetroTire1 = "91款吉优都市轮胎",
 	ItemName_Base.91geoMetroRoofrack0 = "91款吉优都市木质车顶行李架",
@@ -4127,7 +4127,7 @@
 	ItemName_Base.91geoMetroRearSideWindow1 = "91款吉优都市后侧窗",
 	ItemName_Base.91geoMetroRearWindshield1 = "91款吉优都市后挡风玻璃"
 
-	--'66 Pontiac LeMans / GTO--
+	--'66 Pontiac LeMans / GTO
 	ItemName_Base.66pontiacLeMansMagazine = "66款庞蒂亚克LeMans/GTO汽车手册",
 	ItemName_Base.66pontiacLeMansFrontDoor3 = "66款庞蒂亚克LeMans/GTO前车门",
 	ItemName_Base.66pontiacLeMansWindshieldArmor = "66款庞蒂亚克LeMans/GTO挡风玻璃装甲",
@@ -4147,7 +4147,7 @@
 	ItemName_Base.66pontiacLeMansRearWindshield3 = "66款庞蒂亚克LeMans/GTO后挡风玻璃",
 	ItemName_Base.66pontiacLeMansRoof0 = "66款庞蒂亚克LeMans/GTO车顶"
 
-	--'67 Shelby GT500 + Eleanor--
+	--'67 Shelby GT500 + Eleanor
 	ItemName_Base.67gt500Magazine = "67款谢尔比GT500汽车手册",
 	ItemName_Base.67gt500Tire3 = "67款谢尔比GT500轮胎",
 	ItemName_Base.67gt500eTire3 = "67款谢尔比GT500伊莲娜版轮胎",
@@ -4173,7 +4173,7 @@
 	ItemName_Base.67gt500WindshieldRearArmor = "67款谢尔比GT500后挡风玻璃装甲",
 	ItemName_Base.67gt500WindowArmor = "67款谢尔比GT500车窗装甲"
 
-	--'49 Dodge Power Wagon Crew Cab--
+	--'49 Dodge Power Wagon Crew Cab
 	ItemName_Base.49powerWagonMagazine = "49款道奇Power Wagon汽车手册",
 	ItemName_Base.49powerWagonTire = "49款道奇Power Wagon轮胎",
 	ItemName_Base.49powerWagonApocalypseTire = "49款道奇Power Wagon末日改装版轮胎",
@@ -4200,7 +4200,7 @@
 	ItemName_Base.49powerWagonFrontFenderMakeshift = "49款道奇Power Wagon临时前挡泥板",
 	ItemName_Base.49powerWagonRearFenderMakeshift = "49款道奇Power Wagon临时后挡泥板"
 
-	--'69 Mini Mk2--
+	--'69 Mini Mk2
 	ItemName_Base.69miniMagazine = "69款Mini汽车手册",
 	ItemName_Base.69miniTire1 = "69款Mini轮胎",
 	ItemName_Base.69miniTirePS1 = "69款Mini斗牛犬特别版轮胎",
@@ -4234,7 +4234,7 @@
 	ItemName_Base.69miniTeaCrate = "茶叶板条箱",
 	ItemName_Base.69miniCrateOfTea = "板条箱装茶叶"
 
-	--'86 Ford Econoline E-150 + Pop Culture vans--
+	--'86 Ford Econoline E-150 + Pop Culture vans
 	ItemName_Base.E150Magazine = "86款福特E-150汽车手册",
 	ItemName_Base.E150Tire2 = "86款福特E-150轮胎",
 	ItemName_Base.E150CarFrontDoor2 = "86款福特E-150车门",
@@ -4264,7 +4264,7 @@
 	ItemName_Base.E150MysteryMachineRoofrack2 = "神秘机器车顶架",
 	ItemName_Base.E150MysteryMachineSurfboards2 = "神秘机器冲浪板组"
 
-	--'89 Volvo 200 Series--
+	--'89 Volvo 200 Series
 	ItemName_Base.89volvo200Magazine = "89款沃尔沃200系列汽车手册",
 	ItemName_Base.89volvo200Tire0 = "89款沃尔沃200系列原厂轮胎",
 	ItemName_Base.89volvo200Tire1 = "89款沃尔沃200系列运动轮胎",
@@ -4314,7 +4314,7 @@
 	ItemName_Base.89volvo240Louver1 = "89款沃尔沃240系列后窗百叶板",
 	ItemName_Base.89volvo240Mudflaps1 = "89款沃尔沃200系列挡泥板"
 
-	--'93 Ford CF8000 Elgin Street Sweeper--
+	--'93 Ford CF8000 Elgin Street Sweeper
 	ItemName_Base.93fordCF8000Magazine = "93款福特CF8000汽车手册",
 	ItemName_Base.93fordCF8000Tire2 = "93款福特CF8000轮胎",
 	ItemName_Base.93fordCF8000DoubleTires2 = "93款福特CF8000双联轮胎",
@@ -4332,7 +4332,7 @@
 	ItemName_Base.93fordCF8000FrontWindowArmor = "93款福特CF8000前窗装甲",
 	ItemName_Base.93fordCF8000WindshieldRearArmor = "93款福特CF8000后挡风玻璃装甲"
 
-	--'86 Oshkosh P19A + Military Trailers--
+	--'86 Oshkosh P19A + Military Trailers
 	ItemName_Base.P19AMagazine = "86款奥什科什P19A汽车手册",
 	ItemName_Base.P19ACarFrontDoor2 = "86款奥什科什P19A车门",
 	ItemName_Base.P19ARoofHatch2 = "86款奥什科什P19A车顶检修舱口",
@@ -4356,7 +4356,7 @@
 	ItemName_Base.M1082Mudflaps2 = "M1082/M1095挡泥板",
 	ItemName_Base.M1082Tarp2 = "M1082/M1095货斗防雨布"
 
-	--'92 Ford Crown Victoria--
+	--'92 Ford Crown Victoria
 	ItemName_Base.92fordCVPIMagazine = "92款福特警用拦截车汽车手册",
 	ItemName_Base.92fordCVPIFrontDoor1 = "92款福特警用拦截车前车门",
 	ItemName_Base.92fordCVPIRearDoor1 = "92款福特警用拦截车后车门",
@@ -4375,7 +4375,7 @@
 	ItemName_Base.92fordCVPIRearWindshield1 = "92款福特警用拦截车后挡风玻璃",
 	ItemName_Base.92fordCVPICabBarrier1 = "92款福特警用拦截车驾驶室隔离栅"
 
-	--'87 Chevrolet Suburban--
+	--'87 Chevrolet Suburban
 	ItemName_Base.87chevySuburbanMagazine = "87款雪佛兰Suburban汽车手册",
 	ItemName_Base.87chevySuburbanTire2 = "87款雪佛兰Suburban轮胎",
 	ItemName_Base.87chevySuburbanRoofrack2 = "87款雪佛兰Suburban车顶行李架",
@@ -4391,7 +4391,7 @@
 	ItemName_Base.87chevySuburbanSeatRear2 = "87款雪佛兰Suburban后排座椅",
 	ItemName_Base.87chevySuburbanRoofLights2 = "87款雪佛兰Suburban车顶警示灯"
 
-	--'68 Pontiac Firebird--
+	--'68 Pontiac Firebird
 	ItemName_Base.68firebirdMagazine = "68款庞蒂亚克火鸟汽车手册",
 	ItemName_Base.68firebirdFrontDoor3 = "68款庞蒂亚克火鸟前车门",
 	ItemName_Base.68firebirdWindshieldArmor = "68款庞蒂亚克火鸟挡风玻璃装甲",
@@ -4418,7 +4418,7 @@
 	ItemName_Base.68firebirdFoamSeal1 = "68款庞蒂亚克火鸟原厂泡沫密封条",
 	ItemName_Base.68firebirdFoamSeal3 = "68款庞蒂亚克火鸟高性能泡沫密封条"
 
-	--'77 Pontiac Firebird--
+	--'77 Pontiac Firebird
 	ItemName_Base.77firebirdMagazine = "77款庞蒂亚克火鸟汽车手册",
 	ItemName_Base.77firebirdTire3 = "77款庞蒂亚克火鸟轮胎",
 	ItemName_Base.77firebirdTATire3 = "77款庞蒂亚克火鸟Trans Am轮胎",
@@ -4442,7 +4442,7 @@
 	ItemName_Base.77firebirdRoofPanels3 = "77款庞蒂亚克火鸟车顶面板",
 	ItemName_Base.77firebirdSpoiler = "77款庞蒂亚克火鸟扰流板"
 
-	--'82 Pontiac Firebird--
+	--'82 Pontiac Firebird
 	ItemName_Base.82firebirdMagazine = "82款庞蒂亚克火鸟汽车手册",
 	ItemName_Base.82firebirdTire3 = "82款庞蒂亚克火鸟轮胎",
 	ItemName_Base.82firebirdFrontDoor3 = "82款庞蒂亚克火鸟前车门",
@@ -4465,7 +4465,7 @@
 	ItemName_Base.82firebirdSpoilerB = "82款庞蒂亚克火鸟B型扰流板",
 	ItemName_Base.82firebirdPopupLights3 = "82款庞蒂亚克火鸟弹出式车灯"
 
-	--'04 Volkswagen Touran--
+	--'04 Volkswagen Touran
 	ItemName_Base.04vwTouranMagazine = "04款大众途安汽车手册",
 	ItemName_Base.04vwTouranTire1 = "04款大众途安轮胎",
 	ItemName_Base.04vwTouranFrontDoor1 = "04款大众途安前车门",
@@ -4489,7 +4489,7 @@
 	ItemName_Base.04vwTouranBackSideWindow1 = "04款大众途安尾侧窗",
 	ItemName_Base.04vwTouranWindshieldRear1 = "04款大众途安后挡风玻璃"
 
-	--'90 Ford F350 Ambulance--
+	--'90 Ford F350 Ambulance
 	ItemName_Base.90fordF350Magazine = "90款福特F350救护车汽车手册",
 	ItemName_Base.90fordF350Tire2 = "90款福特F350轮胎",
 	ItemName_Base.90fordF350DoubleTires2 = "90款福特F350双轮胎",
@@ -4511,7 +4511,7 @@
 	ItemName_Base.90fordF350ambWindowsBack2 = "90款福特F350救护车后双窗",
 	ItemName_Base.90fordF350ambSidesteps2 = "90款福特F350救护车侧脚踏板"
 
-	--'93 Ford Mustang SSP--
+	--'93 Ford Mustang SSP
 	ItemName_Base.93mustangSSPMagazine = "93款福特野马SSP汽车手册",
 	ItemName_Base.93mustangSSPTire1 = "93款福特野马SSP轮胎",
 	ItemName_Base.93mustangSSPFrontDoor1 = "93款福特野马SSP前车门",
@@ -4531,7 +4531,7 @@
 	ItemName_Base.93mustangSSPRearSideWindow1 = "93款福特野马SSP后侧窗",
 	ItemName_Base.93mustangSSPRearWindshield1 = "93款福特野马SSP后挡风玻璃"
 
-	--'87 Toyota MR2--
+	--'87 Toyota MR2
 	ItemName_Base.87toyotaMR2Magazine = "87款丰田MR2汽车手册",
 	ItemName_Base.87toyotaMR2TireT13 = "87款丰田MR2 I型轮胎",
 	ItemName_Base.87toyotaMR2TireT23 = "87款丰田MR2 II型轮胎",
@@ -4560,7 +4560,7 @@
 	ItemName_Base.87toyotaMR2PopupLights3 = "87款丰田MR2跳灯",
 	ItemName_Base.87toyotaMR2Mudflaps3 = "87款丰田MR2挡泥板"
 
-	--'73 Ford Falcon--
+	--'73 Ford Falcon
 	ItemName_Base.73fordFalconMagazine = "73款福特猎鹰XB汽车手册",
 	ItemName_Base.73fordFalconTire3 = "73款福特猎鹰XB轮胎",
 	ItemName_Base.73fordFalconPSTire3 = "追击特仕版轮胎",
@@ -4589,7 +4589,7 @@
 	ItemName_Base.73fordFalconSpoiler0 = "73款福特猎鹰XB后扰流板",
 	ItemName_Base.73fordFalconSpoilerRoof1 = "73款福特猎鹰XB车顶扰流板"
 
-	--'84 Mercedes Benz W460--
+	--'84 Mercedes Benz W460
 	ItemName_Base.W460Magazine = "84款奔驰W460汽车手册",
 	ItemName_Base.W460NormalTire2 = "84款奔驰W460标准轮胎",
 	ItemName_Base.W460WideTire2 = "84款奔驰W460宽轮胎",
@@ -4625,7 +4625,7 @@
 	ItemName_Base.W460Mudflaps1 = "84款奔驰W460挡泥板",
 	ItemName_Base.W460SnorkelM = "84款奔驰W460军用涉水喉"
 
-	--'87 Ford B700/F700 Trucks--
+	--'87 Ford B700/F700 Trucks
 	ItemName_Base.87fordBF700Magazine = "87款福特B/F700维修手册",
 	ItemName_Base.87fordB700Tire2 = "87款福特B/F700轮胎",
 	ItemName_Base.87fordB700DoubleTires2 = "87款福特B/F700双轮胎",
@@ -4653,7 +4653,7 @@
 	ItemName_Base.87fordB700WindshieldRear2 = "87款福特B700后挡风玻璃",
 	ItemName_Base.87fordB700StopSign2 = "87款福特B700校车停车标志",
 
-	--'91 Nissan 240SX--
+	--'91 Nissan 240SX
 	ItemName_Base.91nissan240sxMagazine = "91款日产240SX汽车手册",
 	ItemName_Base.91nissan240sxOEM13 = "91款日产240SX原厂1型轮胎",
 	ItemName_Base.91nissan240sxOEM23 = "91款日产240SX原厂2型轮胎",
@@ -4693,7 +4693,7 @@
 	ItemName_Base.91nissan240sxSideskirts1 = "91款日产240SX Type2侧裙",
 	ItemName_Base.91nissan240sxPrivacyCover0 = "91款日产240SX隐私盖"
 
-	--'91 Ford Ranger--
+	--'91 Ford Ranger
 	ItemName_Base.91fordRangerMagazine = "91福特Ranger汽车手册",
 	ItemName_Base.91fordRangerTire2 = "91福特Ranger轮胎",
 	ItemName_Base.91fordRangerFrontDoor2 = "91福特Ranger前门",
@@ -4716,7 +4716,7 @@
 	ItemName_Base.91fordRangerBedCap2 = "91福特Ranger货箱盖",
 	ItemName_Base.91fordRangerMudflaps2 = "91福特Ranger挡泥板",
 
-	--'89 Isuzu Trooper--
+	--'89 Isuzu Trooper
 	ItemName_Base.89trooperMagazine = "89款五十铃骑兵维修手册"
 	ItemName_Base.89trooperTire2 = "89款五十铃骑兵轮胎"
 	ItemName_Base.89trooperRoofrack2 = "89款五十铃骑兵车顶架"
@@ -4741,9 +4741,9 @@
 	ItemName_Base.89trooperMudflaps2 = "89款五十铃骑兵挡泥板"
 	ItemName_Base.89trooperSideSteps2 = "89款五十铃骑兵侧踏板"
 
-	--'93 Chevrolet Suburban / Silverado--
+	--'93 Chevrolet Suburban / Silverado
 
-	---Suburban---
+	--Suburban
 	ItemName_Base.93chevySuburbanMagazine = "93款雪佛兰萨博班/索罗德汽车维修手册"
 	ItemName_Base.93chevySuburbanTire1 = "93款雪佛兰萨博班/索罗德轮胎"
 	ItemName_Base.93chevySuburbanTire2 = "93款雪佛兰萨博班/索罗德重载轮胎"
@@ -4792,9 +4792,9 @@
 	ItemName_Base.93chevySilveradoBedTarp2 = "93款雪佛兰索罗德货箱防水布"
 	ItemName_Base.93chevySilveradoStakes2 = "93款雪佛兰索罗德货箱围栏"
 
-	---SuburbanExpanded---
+	--SuburbanExpanded
 
-	--'93 Lincoln Town Car + Limo--
+	--'93 Lincoln Town Car + Limo
 	ItemName_Base.93townCarMagazine = "93款林肯城市轿车汽车手册",
 	ItemName_Base.93townCarTire1 = "93款林肯城市轿车轮胎",
 	ItemName_Base.93townCarLimoTire1 = "93款林肯城市轿车白壁轮胎",
@@ -4825,7 +4825,7 @@
 	ItemName_Base.93townCarSunRoof1 = "93款林肯城市轿车天窗",
 	ItemName_Base.BigBullHorns = "大型牛角喇叭"
 
-	--'59 Cadillac Miller-Meteor + ECTO-1--
+	--'59 Cadillac Miller-Meteor + ECTO-1
 	ItemName_Base.ECTO1Magazine = "59款凯迪拉克米勒-流星汽车手册",
 	ItemName_Base.ECTO1tire1 = "59款凯迪拉克米勒-流星轮胎",
 	ItemName_Base.ECTO1tire2 = "59款凯迪拉克米勒-流星加固轮胎",
@@ -4850,7 +4850,7 @@
 	ItemName_Base.ECTO1RearWindshield1 = "59款凯迪拉克米勒-流星后挡风玻璃",
 	ItemName_Base.ECTO1SideWindow1 = "59款凯迪拉克米勒-流星侧窗"
 
-	--'93 Ford Taurus--
+	--'93 Ford Taurus
 	ItemName_Base.93fordTaurusMagazine = "93款福特金牛座汽车手册",
 	ItemName_Base.93fordTaurusTire1 = "93款福特金牛座轮胎",
 	ItemName_Base.93fordTaurusSHOTire3 = "93款福特金牛座SHO版轮胎",
@@ -4885,7 +4885,7 @@
 	ItemName_Base.93fordTaurusWagonRearWindshield1 = "93款福特金牛座旅行版后挡风玻璃",
 	ItemName_Base.93fordTaurusSHOSpoiler1 = "93款福特金牛座SHO版扰流板"
 
-	--'75 Pontiac Grand Prix--
+	--'75 Pontiac Grand Prix
 	ItemName_Base.75grandPrixMagazine = "75款庞蒂亚克大奖赛汽车手册",
 	ItemName_Base.75grandPrixH17Tire3 = "75款庞蒂亚克大奖赛H17轮胎",
 	ItemName_Base.75grandPrixRoofrack3 = "75款庞蒂亚克大奖赛车顶行李架",
@@ -4909,7 +4909,7 @@
 	ItemName_Base.75grandPrixCordovaTypeA3 = "75款庞蒂亚克大奖赛A型科尔多瓦车顶",
 	ItemName_Base.75grandPrixCordovaTypeB3 = "75款庞蒂亚克大奖赛B型科尔多瓦车顶"
 
-	--'63 Volkswagen Type 2 Van--
+	--'63 Volkswagen Type 2 Van
 	ItemName_Base.63Type2VanMagazine = "63款大众Type 2汽车手册",
 	ItemName_Base.63Type2VanTireOffroad2 = "63款大众Type 2加固越野胎",
 	ItemName_Base.63Type2VanRoofrackSmall1 = "63款大众Type 2小型车顶架",
@@ -4946,7 +4946,7 @@
 	ItemName_Base.dasBootEmpty = "靴形啤酒杯 (空)",
 	ItemName_Base.greenGoo = "绿色粘液"
 
-	--'99 Ford Crown Victoria Police Interceptor--
+	--'99 Ford Crown Victoria Police Interceptor
 	ItemName_Base.99fordCVPIMagazine = "99款福特CVPI汽车手册",
 	ItemName_Base.99fordCVPIFrontDoor1 = "99款福特CVPI前车门",
 	ItemName_Base.99fordCVPIRearDoor1 = "99款福特CVPI后车门",
@@ -4963,7 +4963,7 @@
 	ItemName_Base.99fordCVPIRearWindshield1 = "99款福特CVPI后挡风玻璃",
 	ItemName_Base.99fordCVPICabBarrier1 = "99款福特CVPI驾驶舱隔离栏",
 
-	--'98 Nissan Stagea 260RS Autech--
+	--'98 Nissan Stagea 260RS Autech
 	ItemName_Base.98stageaMagazine = "98款日产Stagea 260RS Autech汽车手册",
 	ItemName_Base.98stageaTire3 = "98款日产Stagea 260RS Autech轮胎",
 	ItemName_Base.98stageaFrontDoor3 = "98款日产Stagea前车门",
@@ -4989,7 +4989,7 @@
 	ItemName_Base.98stageaSpoiler3 = "98款日产Stagea 260RS Autech尾翼",
 	ItemName_Base.98stageaSideskirts3 = "98款日产Stagea 260RS Autech侧裙"
 
-	--'82 Jeep J10--
+	--'82 Jeep J10
 	ItemName_Base.82JeepJ10Magazine = "82款吉普J10汽车手册",
 	ItemName_Base.82JeepJ10CarFrontDoor2 = "82款吉普J10车门",
 	ItemName_Base.82JeepJ10EngineDoor2 = "82款吉普J10引擎盖",
@@ -5005,7 +5005,7 @@
 	ItemName_Base.82JeepJ10Dorothy = "82款吉普J10多萝西探测仪",
 	ItemName_Base.82JeepJ10DorothyAnemometer = "82款吉普J10多萝西风速计",
 
-	--'88 Chevrolet S10--
+	--'88 Chevrolet S10
 	ItemName_Base.88ChevyS10Magazine = "88款雪佛兰S10汽车手册",
 	ItemName_Base.88ChevyS10CarFrontDoor2 = "88款雪佛兰S10车门",
 	ItemName_Base.88ChevyS10EngineDoor2 = "88款雪佛兰S10引擎盖",
@@ -5019,7 +5019,7 @@
 	ItemName_Base.88ChevyS10WindshieldRear2 = "88款雪佛兰S10后挡风玻璃",
 	ItemName_Base.88ChevyS10BedCover = "88款雪佛兰S10货斗盖",
 
-	--'89 Ford Bronco--
+	--'89 Ford Bronco
 	ItemName_Base.89BroncoMagazine = "89款福特Bronco汽车手册",
 	ItemName_Base.89BroncoTrunkDoor2 = "89款福特Bronco货斗尾门",
 	ItemName_Base.89BroncoBumperFront = "89款福特Bronco前保险杠",
@@ -5030,7 +5030,7 @@
 	ItemName_Base.89BroncoBedCover = "89款福特Bronco货斗盖",
 	ItemName_Base.89BroncoBarrier = "89款福特Bronco货斗隔离栏",
 
-	--'83 AM General M923--
+	--'83 AM General M923
 	ItemName_Base.M923Magazine = "83款AM通用M923维修手册",
 	ItemName_Base.M923Muffler1 = "83款AM通用M923消音器",
 	ItemName_Base.M923EngineDoor2 = "83款AM通用M923引擎盖",
@@ -5050,7 +5050,7 @@
 	ItemName_Base.M923Mudflaps1 = "83款AM通用M923挡泥板",
 	ItemName_Base.M923SpareMount1 = "83款AM通用M923备胎架",
 
-	--'78 AM General M35 Series Trucks--
+	--'78 AM General M35 Series Trucks
 	ItemName_Base.M35A2Magazine = "78款AM通用M35A2汽车手册",
 	ItemName_Base.M35A2Muffler1 = "78款AM通用M35A2消音器",
 	ItemName_Base.M35A2EngineDoor2 = "78款AM通用M35A2引擎盖",

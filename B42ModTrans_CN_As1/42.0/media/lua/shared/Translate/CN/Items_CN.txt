@@ -1,6 +1,6 @@
 Items_CN = {
 
-	--------------------[B42] Tactical Sheaths（3389805754）--------------------
+	--[B42] Tactical Sheaths（3389805754）
 	DisplayNameTactical_Knife = "战术刀",
 	DisplayNameKnife_Sheath_Back = "刀鞘（背部）",
 	DisplayNameKnife_Sheath_Leg = "刀鞘（腿部）",

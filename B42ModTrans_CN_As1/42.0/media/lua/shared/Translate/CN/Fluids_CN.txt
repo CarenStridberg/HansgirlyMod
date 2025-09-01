@@ -22,9 +22,9 @@ Fluids_CN = {
 	--Farming Expansion B42
 	Fluid_Container_FermentationPot = "发酵罐",
 
-	--------------------KI5车辆合集--------------------
+	--KI5车辆合集
 
-	------that DAMN Library(3171167894)------
+	--that DAMN Library(3171167894)
 	Fluid_Container_MilitaryGasCan = "军用汽油罐",
 	Fluid_Container_MilitaryWaterCan = "军用水罐",
 }

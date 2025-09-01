@@ -1188,7 +1188,7 @@ Recipe_CN = {
 	Recipe_Make_Sugar = "制作糖",
 	Recipe_Make_Fermentation_Pot = "制作发酵罐",
 
-	--[B42] Tactical Sheaths（3389805754）--
+	--[B42] Tactical Sheaths（3389805754）
 	Recipe_Make_Knife_Sheath = "制作刀鞘",
 	Recipe_Make_Tactical_Knife_Sheath = "制作战术刀鞘",
 	Recipe_Make_Midnight_Knife_Sheath = "制作午夜刀鞘",
@@ -1210,12 +1210,12 @@ Recipe_CN = {
 	Recipe_Make_Katana = "制作武士刀",
 	Forge_Katana_Blade = "锻造武士刀刀片",
 
-	--Lucille Vampire Bat（3436159263）--
+	--Lucille Vampire Bat（3436159263）
 	Recipe_CrearLucilleVanilla = "制作露希尔"
 	Recipe_CrearLucilleCLEAR = "制作露希尔 浅色"
 	Recipe_CrearLucilleDARK = "制作露希尔 深色"
 
-	--Faster Cloth Ripping（3414409419）--
+	--Faster Cloth Ripping（3414409419）
 	Recipe_RipSLeatherItem 		= "切割钱包"
 	Recipe_RipShoesLeather 		= "切割皮鞋"
 	Recipe_RipShoesCloth 		= "切割布鞋"
@@ -1227,17 +1227,17 @@ Recipe_CN = {
 	Recipe_PickThread			= "抽取线材"
 	Recipe_RipClothingBra  		= "撕开胸罩"
 
-	--Hand Crank Flashlights [41.78 and 42]（2897115343）--
+	--Hand Crank Flashlights [41.78 and 42]（2897115343）
 	RepairCrankTorch = "修理手摇手电筒",
 	OpenTorchBox = "打开盒装手电筒",
 
-	--The Division Equipment [B42]（3479867929）--
+	--The Division Equipment [B42]（3479867929）
 	PutFilterOnSHDGasMask = "为国土战略局 防毒面具安装滤罐",
 	PutFilterOnSHDGasMask2 = "为国土战略局 防毒面具安装滤罐",
 	PutFilterOnWornSHDGasMask = "为已佩戴国土战略局 防毒面具安装滤罐",
 	PutFilterOnWornSHDGasMask2 = "为已佩戴国土战略局 防毒面具安装滤罐",
 
-	--Spongie's Open Jackets（2812326159）--
+	--Spongie's Open Jackets（2812326159）
 	Recipe_Make_Jacket_BlackVest = "移除袖子",
 	Recipe_Make_Jacket_LeatherWildRacoonsVest = "移除袖子",
 	Recipe_Make_Jacket_LeatherIronRodentVest = "移除袖子",
@@ -1245,14 +1245,14 @@ Recipe_CN = {
 	Recipe_Make_Shirt_LumberjackVest = "移除袖子",
 	Recipe_Make_Shirt_DenimVest = "移除袖子",
 
-	----------------Spongie's Clothing（2684285534）--------------
+	--Spongie's Clothing（2684285534）
 	Recipe_Make_Flight_Jacket_Vest = "移除袖子",
 
-	----------------Use Belt as Weapon [B42/41]（3339423397）----------------
+	--Use Belt as Weapon [B42/41]（3339423397）
 	UseBeltAsWeapon = "用皮带当武器",
 	NotUseBeltAsWeapon = "不用皮带当武器",
 
-	---------------- B42 Rain's Pack Your Loot（3490159683）--------------
+	-- B42 Rain's Pack Your Loot（3490159683）
 	MakePackOfMatches = "打包火柴",
 	OpenPackOfMatches = "拆包火柴",
 	MakePackOfLighters = "打包打火机",
@@ -1342,7 +1342,7 @@ Recipe_CN = {
 	MakePackOfShotgunShellCartons = "打包霰弹枪子弹",
 	OpenPackOfShotgunShellCartons = "拆包霰弹枪子弹",
 
-	---------------- Authentic Z（2335368829）--------------
+	-- Authentic Z（2335368829）
 	Recipe_Activate_Glowstick = "激活荧光棒",
 	Recipe_Make_Attachable_Item = "转换为可挂道具",
 	Recipe_Make_Attachable = "转为可挂道具"
@@ -1481,7 +1481,7 @@ Recipe_CN = {
 	Recipe_Upgrade_Walkers_Backpack_ (Tier_2) = "升级沃尔克的背包（2级）",
 	Recipe_Upgrade_Walkers_Backpack_ (Tier_3) = "升级沃尔克的背包（3级）",
 
-	----------------Escape From Tarkov Backpacks（3432928943）----------------
+	--Escape From Tarkov Backpacks（3432928943）
 	Recipe_SewSlingbag = "缝制小型战术单肩包",
 	Recipe_SewMBSS = "缝制「MBSS」背包",
 	Recipe_Sew3Daypack = "缝制「三日LBT-1476A」背包",
@@ -1550,9 +1550,9 @@ Recipe_CN = {
 	Recipe_RipNylonClothing = "拆解尼龙布料"
 	Recipe_RipWornNylonClothing = "拆解破旧尼龙布料"
 
-	--KI5车辆合集--
+	--KI5车辆合集
 
-	------that DAMN Library------
+	--that DAMN Library
 	/* USMIL */
 	Recipe_USMIL.MakeMilitaryVehicleSeatST1 = "制作军用载具座椅 ST1型",
 	Recipe_USMIL.MakeMilitaryVehicleSeatST2 = "制作军用载具座椅 ST2型",
@@ -1717,7 +1717,7 @@ Recipe_CN = {
 	Recipe_80sPickup.MakeRollbarB = "制造80年代皮卡B型防滚架",
 	Recipe_86chevyCUCV.MakeHood = "制作86款雪佛兰CUCV引擎盖",
 
-	------Trailers!------
+	--Trailers!
 	Recipe_KI5trailersUtility.MakeTrunkLid = "制作工具拖车尾门",
 	Recipe_KI5trailersUtility.MakeMudflaps = "制作工具拖车挡泥板",
 	Recipe_KI5trailersUtility.MakeTrailerToolbox = "制作工具拖车工具箱",
@@ -1729,7 +1729,7 @@ Recipe_CN = {
 	Recipe_KI5trailersCargo.MakeTrailerFlaresMedium = "制作中型货运拖车侧挡板",
 	Recipe_KI5trailersCargo.MakeTrailerFlaresSmall = "制作小型货运拖车侧挡板",
 
-	------'91 RANGE ROVER Classic------
+	--'91 RANGE ROVER Classic
 	Recipe_91range.MakeTire = "制造91款路虎揽胜轮胎",
 	Recipe_91range.MakeHood = "制造91款路虎揽胜引擎盖",
 	Recipe_91range.MakeFrontDoor = "制造91款路虎揽胜前车门",
@@ -1752,7 +1752,7 @@ Recipe_CN = {
 	Recipe_91range.MakeMudflaps = "制造91款路虎揽胜挡泥板",
 	Recipe_91range.MakeSidesteps = "制造91款路虎揽胜侧踏板"
 
-	------'93 Ford F-Series------
+	--'93 Ford F-Series
 	Recipe_93fordF350.MakeTire = "制造93款福特F系列轮胎",
 	Recipe_93fordF350.MakeDoubleTires = "制造93款福特F系列双轮胎",
 	Recipe_93fordF350.DismantleDoubleTires = "拆卸双轮胎",
@@ -1788,7 +1788,7 @@ Recipe_CN = {
 	Recipe_93fordF350.MakeBedCover = "制造93款福特F系列货箱盖板",
 	Recipe_93fordF350.MakeRoofrack = "制造93款福特F系列大型皮卡顶置行李架",
 
-	------'82 Porsche 911------
+	--'82 Porsche 911
 	Recipe_82porsche911Turbo.MakeTire = "制造82款保时捷911 Turbo轮胎",
 	Recipe_82porsche911RWB.MakeTire = "制造82款保时捷911 RWB轮胎",
 	Recipe_82porsche911Turbo.MakeHood = "制造82款保时捷911 Turbo引擎盖",
@@ -1809,7 +1809,7 @@ Recipe_CN = {
 	Recipe_82porsche911RWB.MakeReinforcedFrontBumper = "制造82款保时捷911 RWB加强型前保险杠",
 	Recipe_82porsche911.MakeRoofrack = "制造82款保时捷911车顶架",
 
-	------'90 BMW 3 Series (E30)------
+	--'90 BMW 3 Series (E30)
 	Recipe_90bmwE30.MakeTire = "制造90款宝马E30轮胎",
 	Recipe_90bmwE30m3.MakeTire = "制造90款宝马E30 M3轮胎",
 	Recipe_90bmwE30.MakeHood = "制造90款宝马E30引擎盖",
@@ -1841,7 +1841,7 @@ Recipe_CN = {
 	Recipe_90bmwE30.MakeReinforcedBumper = "制造90款宝马E30加强型保险杠",
 	Recipe_90bmwE30.MakeRoofrack = "制造90款宝马E30车顶架"
 
-	------'91 Ford LTD Crown Victoria / Country Squire------
+	--'91 Ford LTD Crown Victoria / Country Squire
 	Recipe_91fordLTD.MakeTire = "制造91款福特LTD轮胎",
 	Recipe_91fordLTDcvpi.MakeTire = "制造91款福特CVPI轮胎",
 	Recipe_91fordLTD.MakeHood = "制造91款福特LTD引擎盖",
@@ -1867,7 +1867,7 @@ Recipe_CN = {
 	Recipe_91fordLTD.MakeFrontPushBumper = "制造91款福特LTD推撞保险杠",
 	Recipe_91fordLTD.MakeRoofrack = "制造91款福特LTD车顶架"
 
-	------'89 Dodge Caravan------
+	--'89 Dodge Caravan
 	Recipe_89dodgeCaravan.MakeTire = "制造89款道奇Caravan轮胎",
 	Recipe_89dodgeCaravan.MakeOffroadTire = "制造89款道奇Caravan越野轮胎",
 	Recipe_89dodgeCaravan.MakeHood = "制造89款道奇Caravan发动机盖",
@@ -1892,7 +1892,7 @@ Recipe_CN = {
 	Recipe_89dodgeCaravan.MakeMudflaps = "制造89款道奇Caravan挡泥板",
 	Recipe_89dodgeCaravan.MakeSidesteps = "制造89款道奇Caravan侧踏板",
 
-	------'84 Jeep XJ Cherokee------
+	--'84 Jeep XJ Cherokee
 	Recipe_84jeepXJ.MakeTire = "制造84款吉普切诺基XJ轮胎",
 	Recipe_84jeepXJ.MakeHood = "制造84款吉普切诺基XJ发动机盖",
 	Recipe_84jeepXJ.MakeFrontDoor = "制造84款吉普切诺基XJ前车门",
@@ -1916,7 +1916,7 @@ Recipe_CN = {
 	Recipe_84jeepXJ.MakeRearBumper = "制造84款吉普切诺基XJ后保险杠",
 	Recipe_84jeepXJ.MakeRoofrack = "制造84款吉普切诺基XJ车顶行李架",
 
-	------'63 Volkswagen 1300 Beetle------
+	--'63 Volkswagen 1300 Beetle
 	Recipe_63beetle.MakeTire = "制造63款大众甲壳虫轮胎",
 	Recipe_63beetleBuggy.MakeTire = "制造63款大众甲壳虫越野轮胎",
 	Recipe_63beetleHP.MakeTire = "制造63款大众甲壳虫光面轮胎",
@@ -1941,7 +1941,7 @@ Recipe_CN = {
 	Recipe_63beetle.MakeSidesteps = "制造63款大众甲壳虫侧踏板",
 	Recipe_63beetle.MakeRoofrack = "制造63款大众甲壳虫车顶行李架",
 
-	------'76 Chevrolet K Series------
+	--'76 Chevrolet K Series
 	Recipe_76chevyKseries.MakeTire = "制造76款雪佛兰K系列轮胎",
 	Recipe_76chevyKseries.MakeDoubleTires = "制造76款雪佛兰K系列双轮胎",
 	Recipe_76chevyKseries.DismantleDoubleTires = "拆卸76款雪佛兰K系列双轮胎"
@@ -1984,7 +1984,7 @@ Recipe_CN = {
 	Recipe_76chevyCK.MakeSidesteps = "制造76款雪佛兰C/K系列侧踏板",
 	Recipe_76chevyCK.MakeSidestepsLong = "制造76款雪佛兰C/K系列加长侧踏板",
 
-	------'85 Pontiac Parisienne------
+	--'85 Pontiac Parisienne
 	Recipe_85pontiacParisienne.MakeHood = "制造85款庞蒂亚克巴黎人引擎盖",
 	Recipe_85pontiacParisienne.MakeTrunkLid = "制造85款庞蒂亚克巴黎人后备箱盖",
 	Recipe_85pontiacParisienne.MakeFrontSeat = "制造85款庞蒂亚克巴黎人前座椅",
@@ -1993,7 +1993,7 @@ Recipe_CN = {
 	Recipe_85pontiacParisienne.MakeReinforcedFrontBumper = "制造85款庞蒂亚克巴黎人加强型前保险杠",
 	Recipe_85pontiacParisienne.MakeRearBumper = "制造85款庞蒂亚克巴黎人后保险杠",
 
-	------'85 Chevrolet Caprice / Impala------
+	--'85 Chevrolet Caprice / Impala
 	Recipe_85chevyCaprice.MakeHood = "制造85款雪佛兰Caprice/Impala引擎盖",
 	Recipe_85chevyCaprice.MakeTrunkLid = "制造85款雪佛兰Caprice/Impala后备箱盖",
 	Recipe_85chevyCaprice.MakeFrontSeat = "制造85款雪佛兰Caprice/Impala前座椅",
@@ -2005,7 +2005,7 @@ Recipe_CN = {
 	Recipe_85chevyCaprice.MakeFrontPushBumper = "制造85款雪佛兰Caprice/Impala前推撞保险杠",
 	Recipe_85chevyCaprice.MakeRearPushBumper = "制造85款雪佛兰Caprice/Impala后推撞保险杠"
 
-	------'92 Jeep YJ Wrangler------
+	--'92 Jeep YJ Wrangler
 	Recipe_92jeepYJ.MakeTire = "制造92款吉普牧马人YJ轮胎",
 	Recipe_92jeepYJ.MakeHood = "制造92款吉普牧马人YJ引擎盖",
 	Recipe_92jeepYJ.MakeFrontDoor = "制造92款吉普牧马人YJ前车门",
@@ -2035,12 +2035,12 @@ Recipe_CN = {
 	Recipe_92jeepYJ.MakeLightbar = "制造92款吉普牧马人YJ警示灯条",
 	Recipe_92jeepYJ.MakeWinch = "制造92款吉普牧马人YJ绞盘"
 
-	------Containers!------
+	--Containers!
 	Recipe_ISO.MakeContainerDoor = "制造集装箱单门",
 	Recipe_ISO.MakeContainerDoubleDoor = "制造集装箱双门",
 	Recipe_ISO.MakeContainerTankerLid = "制造集装箱油罐盖"
 
-	------'87 Buick Regal------
+	--'87 Buick Regal
 	Recipe_87buickRegal.MakeTire = "制造87款别克君威轮胎",
 	Recipe_87buickRegalGNX.MakeTire = "制造87款别克君威GNX轮胎",
 	Recipe_87buickRegal.MakeHood = "制造87款别克君威引擎盖",
@@ -2060,7 +2060,7 @@ Recipe_CN = {
 	Recipe_87buickRegal.MakeRoofrack = "制造87款别克君威车顶行李架",
 	Recipe_87buickRegal.MakeReinforcedFrontBumper = "制造87款别克君威加强型前保险杠"
 
-	------'85 Buick LeSabre------
+	--'85 Buick LeSabre
 	Recipe_85buickLeSabre.MakeHood = "制造85款别克LeSabre引擎盖",
 	Recipe_85buickLeSabre.MakeTrunkLid = "制造85款别克LeSabre后备箱盖",
 	Recipe_85buickLeSabre.MakeFrontSeat = "制造85款别克LeSabre前座椅",
@@ -2069,7 +2069,7 @@ Recipe_CN = {
 	Recipe_85buickLeSabre.MakeReinforcedFrontBumper = "制造85款别克LeSabre加强型前保险杠",
 	Recipe_85buickLeSabre.MakeRearBumper = "制造85款别克LeSabre后保险杠"
 
-	------'85 Oldsmobile Delta 88------
+	--'85 Oldsmobile Delta 88
 	Recipe_85oldsmobileDelta88.MakeHood = "制造85款奥兹莫比尔Delta 88引擎盖",
 	Recipe_85oldsmobileDelta88.MakeTrunkLid = "制造85款奥兹莫比尔Delta 88后备箱盖",
 	Recipe_85oldsmobileDelta88.MakeFrontSeat = "制造85款奥兹莫比尔Delta 88前座椅",
@@ -2078,14 +2078,14 @@ Recipe_CN = {
 	Recipe_85oldsmobileDelta88.MakeReinforcedFrontBumper = "制造85款奥兹莫比尔Delta 88加强型前保险杠",
 	Recipe_85oldsmobileDelta88.MakeRearBumper = "制造85款奥兹莫比尔Delta 88后保险杠"
 
-	------'67 Cadillac Gage Commando------
+	--'67 Cadillac Gage Commando
 	Recipe_67commando.MakeFrontDoor = "制造67款M706突击队员前车门",
 	Recipe_67commando.MakeRearDoor = "制造67款M706突击队员后车门",
 	Recipe_67commando.MakeHood = "制造67款M706突击队员引擎盖",
 	Recipe_67commando.MakeToolboxLid = "制造67款M706突击队员工具箱盖板",
 	Recipe_67commando.MakeLightGuards = "制造67款M706突击队员灯光防护架"
 
-	------'90 Pierce Arrow Pumper------
+	--'90 Pierce Arrow Pumper
 	Recipe_90pierceArrow.MakeTire = "制造90款皮尔斯·箭头轮胎",
 	Recipe_90pierceArrow.MakeDoubleTires = "制造90款皮尔斯·箭头双联轮胎",
 	Recipe_90pierceArrow.DismantleDoubleTires = "拆卸90款皮尔斯·箭头双联轮胎",
@@ -2106,7 +2106,7 @@ Recipe_CN = {
 	Recipe_90pierceArrow.MakeReinforcedFrontBumper = "制造90款皮尔斯·箭头加强型前保险杠",
 	Recipe_90pierceArrow.MakeMudflaps = "制造90款皮尔斯·箭头挡泥板"
 
-	------'69 Chevrolet Camaro------
+	--'69 Chevrolet Camaro
 	Recipe_69camaro.MakeTire = "制造69款雪佛兰科迈罗轮胎",
 	Recipe_69camaroRS.MakeHood = "制造69款雪佛兰科迈罗RS引擎盖",
 	Recipe_69camaroSS.MakeHood = "制造69款雪佛兰科迈罗SS引擎盖",
@@ -2129,7 +2129,7 @@ Recipe_CN = {
 	Recipe_69camaro.MakeReinforcedRearBumper = "制造69款雪佛兰科迈罗加强型后保险杠",
 	Recipe_69camaro.MakeRoofrack = "制造69款雪佛兰科迈罗小型复古车顶行李架"
 
-	------'70 Plymouth Barracuda------
+	--'70 Plymouth Barracuda
 	Recipe_CUDA.MakeTire = "制造70款普利茅斯梭鱼轮胎",
 	Recipe_CUDAStock.MakeHood = "制造70款普利茅斯梭鱼引擎盖",
 	Recipe_CUDA.MakeHood = "制造70款普利茅斯Cuda引擎盖",
@@ -2152,7 +2152,7 @@ Recipe_CN = {
 	Recipe_CUDA.MakeRearBullbar = "制造70款普利茅斯梭鱼后防撞护栏",
 	Recipe_CUDA.MakeRoofrack = "制造70款普利茅斯梭鱼小型复古车顶行李架"
 
-	------'70 Dodge Challenger------
+	--'70 Dodge Challenger
 	Recipe_70dodge.MakeTire = "制造70款道奇挑战者轮胎",
 	Recipe_70dodgeRT.MakeHood = "制造70款道奇挑战者RT引擎盖",
 	Recipe_70dodgePD.MakeHood = "制造70款道奇挑战者警用引擎盖",
@@ -2178,7 +2178,7 @@ Recipe_CN = {
 	Recipe_70dodge.MakeRearBullbarC = "制造70款道奇挑战者3型后防撞护栏",
 	Recipe_70dodge.MakeRoofrack = "制造70款道奇挑战者小型复古车顶行李架"
 
-	------'86 Chevrolet CUCVs + M101A2 Trailer------
+	--'86 Chevrolet CUCVs + M101A2 Trailer
 	Recipe_80chevyCK.MakeHood = "制造80年代雪佛兰C/K引擎盖",
 	Recipe_86chevyM1008.MakeTrunkLid = "制造86款雪佛兰M1008尾门",
 	Recipe_80chevyM1010.MakeTrunkLid = "制造86款雪佛兰M1010尾门",
@@ -2204,7 +2204,7 @@ Recipe_CN = {
 	Recipe_M101A2.MakeTrunkLid = "制造M101拖车舱门",
 	Recipe_M101A2.MakeTarp = "制造M101拖车防水篷布"
 
-	------'81 DeLorean DMC-12------
+	--'81 DeLorean DMC-12
 	Recipe_81deloreanDMC12.MakeTire = "制造81款德罗宁DMC-12轮胎",
 	Recipe_81deloreanDMC12.MakeHood = "制造81款德罗宁DMC-12引擎盖",
 	Recipe_81deloreanDMC12.MakeFrontDoor = "制造81款德罗宁DMC-12前车门",
@@ -2220,7 +2220,7 @@ Recipe_CN = {
 	Recipe_81deloreanDMC12.MakeFrontBullbar = "制造81款德罗宁DMC-12前防撞护栏",
 	Recipe_81deloreanDMC12.MakeReinforcedBumper = "制造81款德罗宁DMC-12加强型保险杠"
 
-	------'92 NISSAN Skyline GT-R (R32)------
+	--'92 NISSAN Skyline GT-R (R32)
 	Recipe_R32.MakeHood = "制造92款日产天际线R32引擎盖",
 	Recipe_R32.MakeFrontDoor = "制造92款日产天际线R32前车门",
 	Recipe_R32.MakeTrunkLid = "制造92款日产天际线R32后备箱盖",
@@ -2241,7 +2241,7 @@ Recipe_CN = {
 	Recipe_R32.MakeArmoredSideskirts = "制造92款日产天际线R32装甲侧裙",
 	Recipe_R32.MakeRoofrack = "制造92款日产天际线小型现代车顶行李架"
 
-	------'92 AM General M998 + M101A3 Cargo trailer------
+	--'92 AM General M998 + M101A3 Cargo trailer
 	Recipe_92amgeneralM998.MakeRoofrack = "制造92款AM通用M998车顶架",
 	Recipe_92amgeneralM998.MakeHood = "制造92款AM通用M998引擎盖",
 	Recipe_92amgeneralM998.MakeFrontDoor = "制造92款AM通用M998前车门",
@@ -2266,7 +2266,7 @@ Recipe_CN = {
 	Recipe_M101A3.MakeTrunkLid = "制造M101拖车储物舱门",
 	Recipe_M101A3.MakeTarp = "制造M101拖车防水篷布"
 
-	------'88 Toyota Hilux------
+	--'88 Toyota Hilux
 	Recipe_88toyotaHilux.MakeTire = "制造88款丰田海拉克斯轮胎",
 	Recipe_88toyotaHilux.MakeHood = "制造88款丰田海拉克斯引擎盖",
 	Recipe_88toyotaHilux.MakeFrontDoor = "制造88款丰田海拉克斯前车门",
@@ -2291,7 +2291,7 @@ Recipe_CN = {
 	Recipe_88toyotaHilux.MakeBedCap = "制造88款丰田海拉克斯货箱盖",
 	Recipe_88toyotaHilux.MakeRoofrack = "制造88款丰田海拉克斯车顶行李架"
 
-	------'91 Geo Metro------
+	--'91 Geo Metro
 	Recipe_91geoMetro.MakeTire = "制造91款吉优都市轮胎",
 	Recipe_91geoMetro.MakeHood = "制造91款吉优都市引擎盖",
 	Recipe_91geoMetro.MakeFrontDoor = "制造91款吉优都市前车门",
@@ -2310,7 +2310,7 @@ Recipe_CN = {
 	Recipe_91geoMetro.MakeWoodenRoofrack = "制造91款吉优都市木质车顶行李架",
 	Recipe_91geoMetro.MakeMetalRoofrack = "制造91款吉优都市金属车顶行李架"
 
-	------'66 Pontiac LeMans / GTO------
+	--'66 Pontiac LeMans / GTO
 	Recipe_66pontiacLeMans217.MakeTire = "制造庞蒂亚克拉力II型R15轮胎",
 	Recipe_66pontiacLeMans215.MakeTire = "制造庞蒂亚克拉力II型R17轮胎",
 	Recipe_66pontiacLeMans.MakeHood = "制造66款庞蒂亚克LeMans引擎盖",
@@ -2331,7 +2331,7 @@ Recipe_CN = {
 	Recipe_66pontiacLeMans.MakeReinforcedFrontBumper = "制造66款庞蒂亚克LeMans/GTO强化前保险杠",
 	Recipe_66pontiacLeMans.MakeRoofrack = "制造66款庞蒂亚克小型复古车顶行李架"
 
-	------'67 Shelby GT500 + Eleanor------
+	--'67 Shelby GT500 + Eleanor
 	Recipe_67gt500.MakeTire = "制造67款谢尔比GT500轮胎",
 	Recipe_67gt500e.MakeTire = "制造67款谢尔比伊莲娜版轮胎",
 	Recipe_67gt500.MakeHood = "制造67款谢尔比GT500引擎盖",
@@ -2353,7 +2353,7 @@ Recipe_CN = {
 	Recipe_67gt500.MakeReinforcedRearBumper = "制造67款谢尔比GT500强化后保险杠",
 	Recipe_67gt500.MakeRoofrack = "制造67款谢尔比GT500车顶行李架"
 
-	------'49 Dodge Power Wagon Crew Cab------
+	--'49 Dodge Power Wagon Crew Cab
 	Recipe_49powerWagon.MakeTire = "制造49款道奇Power Wagon轮胎",
 	Recipe_49powerWagonPA.MakeTire = "制造49款道奇Power Wagon末日改装版轮胎",
 	Recipe_49powerWagon.MakeHood = "制造49款道奇Power Wagon引擎盖",
@@ -2379,7 +2379,7 @@ Recipe_CN = {
 	Recipe_49powerWagon.MakeSideskirts = "制造49款道奇Power Wagon侧裙",
 	Recipe_49powerWagon.MakeMakeshiftSideskirts = "制造49款道奇Power Wagon临时侧裙"
 
-	------'69 Mini Mk2------
+	--'69 Mini Mk2
 	Recipe_69mini.MakeTire = "制造69款Mini轮胎",
 	Recipe_69miniPS1.MakeTire = "制造69款Mini斗牛犬特别版轮胎",
 	Recipe_69mini.MakeHood = "制造69款Mini引擎盖",
@@ -2405,7 +2405,7 @@ Recipe_CN = {
 	Recipe_69mini.MakeRoofrack = "制造69款Mini车顶行李架",
 	Recipe_69mini.OpenCrate = "撬开茶叶板条箱"
 
-	------'86 Ford Econoline E-150 + Pop Culture vans------
+	--'86 Ford Econoline E-150 + Pop Culture vans
 	Recipe_86fordE150.MakeTire = "制造86款福特E-150轮胎",
 	Recipe_86fordE150.MakeHood = "制造86款福特E-150引擎盖",
 	Recipe_86fordE150.MakeFrontDoor = "制造86款福特E-150前车门",
@@ -2426,7 +2426,7 @@ Recipe_CN = {
 	Recipe_86fordE150.MakeReinforcedFrontBumper = "制造86款福特E-150强化前保险杠",
 	Recipe_86fordE150.MakeRearBumper = "制造86款福特E-150后保险杠"
 
-	------'89 Volvo 200 Series------
+	--'89 Volvo 200 Series
 	Recipe_89volvo200.MakeTire0 = "制造89款沃尔沃200系列原厂轮胎",
 	Recipe_89volvo200.MakeTire1 = "制造89款沃尔沃200系列运动轮胎",
 	Recipe_89volvo200.MakeTire2 = "制造89款沃尔沃200系列GT涡轮轮胎",
@@ -2466,7 +2466,7 @@ Recipe_CN = {
 	Recipe_89volvo245.MakeRoofrack = "制造89款沃尔沃200系列车顶行李架",
 	Recipe_89volvo200.MakeMudflaps = "制造89款沃尔沃200系列挡泥板"
 
-	------'93 Ford CF8000 Elgin Street Sweeper------
+	--'93 Ford CF8000 Elgin Street Sweeper
 	Recipe_93fordCF8000.MakeTire = "制造93款福特CF8000轮胎",
 	Recipe_93fordCF8000.MakeDoubleTires = "安装93款福特CF8000双联轮胎",
 	Recipe_93fordCF8000.DismantleDoubleTires = "拆卸93款福特CF8000双联轮胎",
@@ -2483,7 +2483,7 @@ Recipe_CN = {
 	Recipe_93fordCF8000.MakeRearWindshieldArmor = "制造93款福特CF8000后挡风玻璃装甲",
 	Recipe_93fordCF8000.MakeReinforcedFrontBumper = "制造93款福特CF8000强化前保险杠"
 
-	------'86 Oshkosh P19A + Military Trailers------
+	--'86 Oshkosh P19A + Military Trailers
 	Recipe_86oshkoshP19A.MakeHood = "制造86款奥什科什P19A引擎盖",
 	Recipe_86oshkoshP19A.MakeFrontDoor = "制造86款奥什科什P19A前车门",
 	Recipe_86oshkoshP19A.MakeRoofHatch = "制造86款奥什科什P19A车顶检修舱口",
@@ -2503,7 +2503,7 @@ Recipe_CN = {
 	Recipe_M1082.MakeMudflaps = "制造M1082/M1095挡泥板",
 	Recipe_M1082.MakeBedTarp = "制造M1082/M1095货斗防雨布"
 
-	------'92 Ford Crown Victoria------
+	--'92 Ford Crown Victoria
 	Recipe_92fordCVPI.MakeHood = "制造92款福特警用拦截车引擎盖",
 	Recipe_92fordCVPI.MakeFrontDoor = "制造92款福特警用拦截车前车门",
 	Recipe_92fordCVPI.MakeRearDoor = "制造92款福特警用拦截车后车门",
@@ -2519,7 +2519,7 @@ Recipe_CN = {
 	Recipe_92fordCVPI.MakePushBumper3 = "制造92款福特警用拦截车Mk3防撞杆",
 	Recipe_92fordCVPI.CabBarrier = "制造92款福特警用拦截车驾驶室隔离栅"
 
-	------'87 Chevrolet Suburban------
+	--'87 Chevrolet Suburban
 	Recipe_87chevySuburban.MakeTire = "制造87款雪佛兰Suburban轮胎",
 	Recipe_87chevySuburban.MakeHood = "制造87款雪佛兰Suburban引擎盖",
 	Recipe_87chevySuburban.MakeTrunkLid = "制造87款雪佛兰Suburban后备箱盖",
@@ -2533,7 +2533,7 @@ Recipe_CN = {
 	Recipe_87chevySuburban.MakeRoofrack = "制造87款雪佛兰Suburban车顶行李架",
 	Recipe_87chevySuburban.MakeSideStorage = "制造87款雪佛兰Suburban侧边储物箱"
 
-	------'68 Pontiac Firebird------
+	--'68 Pontiac Firebird
 	Recipe_xxpontiac.MakeTire1 = "制造庞蒂亚克Rally II R15轮胎",
 	Recipe_xxpontiac.MakeTire3 = "制造庞蒂亚克Rally II R17轮胎",
 	Recipe_68firebird.MakeHood1 = "制造68款庞蒂亚克火鸟引擎盖",
@@ -2558,7 +2558,7 @@ Recipe_CN = {
 	Recipe_68firebird.MakeFoamSeal1 = "制造68款庞蒂亚克火鸟原厂泡沫密封条",
 	Recipe_68firebird.MakeFoamSeal3 = "制造68款庞蒂亚克火鸟高性能泡沫密封条"
 
-	------'77 Pontiac Firebird------
+	--'77 Pontiac Firebird
 	Recipe_77firebird.MakeTire = "制造77款庞蒂亚克火鸟轮胎",
 	Recipe_77firebird.MakeHood1 = "制造77款庞蒂亚克火鸟引擎盖",
 	Recipe_77firebird.MakeHood2 = "制造77款庞蒂亚克火鸟Formula引擎盖",
@@ -2578,7 +2578,7 @@ Recipe_CN = {
 	Recipe_77firebird.MakeFrontBullbar = "制造77款庞蒂亚克火鸟前防撞杆",
 	Recipe_77firebird.MakeSmallVintageRoofrack = "制造77款庞蒂亚克火鸟小型复古车顶行李架"
 
-	------'82 Pontiac Firebird------
+	--'82 Pontiac Firebird
 	Recipe_82firebird.MakeTire = "制造82款庞蒂亚克火鸟轮胎",
 	Recipe_82firebird.MakeHood1 = "制造82款庞蒂亚克火鸟引擎盖",
 	Recipe_82firebird.MakeFrontDoor = "制造82款庞蒂亚克火鸟前车门",
@@ -2595,7 +2595,7 @@ Recipe_CN = {
 	Recipe_82firebird.MakeFrontBullbar = "制造82款庞蒂亚克火鸟前防撞杆",
 	Recipe_82firebird.MakeSmallVintageRoofrack = "制造82款庞蒂亚克火鸟小型复古车顶行李架"
 
-	------'04 Volkswagen Touran------
+	--'04 Volkswagen Touran
 	Recipe_04vwTouran.MakeTire = "制造04款大众途安轮胎",
 	Recipe_04vwTouran.MakeHood = "制造04款大众途安引擎盖",
 	Recipe_04vwTouran.MakeFrontDoor = "制造04款大众途安前车门",
@@ -2618,7 +2618,7 @@ Recipe_CN = {
 	Recipe_04vwTouran.MakeModernSmallRoofrack = "制造04款大众途安现代小型车顶行李架",
 	Recipe_04vwTouran.MakeModernLargeRoofrack = "制造04款大众途安现代大型车顶行李架"
 
-	------'90 Ford F350 Ambulance------
+	--'90 Ford F350 Ambulance
 	Recipe_90fordF350.MakeTire = "制造90款福特F350轮胎",
 	Recipe_90fordF350.MakeDoubleTires = "制造90款福特F350双轮胎",
 	Recipe_90fordF350.DismantleDoubleTires = "拆卸90款福特F350双轮胎",
@@ -2636,7 +2636,7 @@ Recipe_CN = {
 	Recipe_90fordF350.MakeRearBumper = "制造90款福特F350救护车后保险杠",
 	Recipe_90fordF350.MakeSidesteps = "制造90款福特F350救护车侧脚踏板"
 
-	------'93 Ford Mustang SSP------
+	--'93 Ford Mustang SSP
 	Recipe_93mustangSSP.MakeTire = "制造93款福特野马SSP轮胎",
 	Recipe_93mustangSSP.MakeHood = "制造93款福特野马SSP引擎盖",
 	Recipe_93mustangSSP.MakeFrontDoor = "制造93款福特野马SSP前车门",
@@ -2653,7 +2653,7 @@ Recipe_CN = {
 	Recipe_93mustangSSP.MakeRearWindshieldArmor = "制造93款福特野马SSP后挡风玻璃装甲",
 	Recipe_93mustangSSP.MakeFrontPushBumper = "制造93款福特野马SSP前推式保险杠"
 
-	------'87 Toyota MR2------
+	--'87 Toyota MR2
 	Recipe_87toyotaMR2.MakeTire = "制造87款丰田MR2 I型轮胎",
 	Recipe_87toyotaMR2.MakeTire2 = "制造87款丰田MR2 II型轮胎",
 	Recipe_87toyotaMR2.MakeHood = "制造87款丰田MR2引擎盖",
@@ -2673,7 +2673,7 @@ Recipe_CN = {
 	Recipe_87toyotaMR2.MakeFrontBullbar = "制造87款丰田MR2前防撞护栏",
 	Recipe_87toyotaMR2.MakeReinforcedBumper = "制造87款丰田MR2加固前保险杠"
 
-	------'73 Ford Falcon------
+	--'73 Ford Falcon
 	Recipe_73fordFalcon.MakeTire = "制造73款福特猎鹰XB轮胎",
 	Recipe_73fordFalcon.MakeTirePS = "制造73款福特猎鹰追击特仕版轮胎",
 	Recipe_73fordFalcon.MakeHood = "制造73款福特猎鹰XB引擎盖",
@@ -2700,7 +2700,7 @@ Recipe_CN = {
 	Recipe_73fordFalcon.MakeStoragePS = "制造73款福特猎鹰追击特仕版扩展储物箱",
 	Recipe_73fordFalcon.MakeMufflerPS = "制造73款福特猎鹰追击特仕版消声器"
 
-	------'84 Mercedes Benz W460------
+	--'84 Mercedes Benz W460
 	Recipe_84mercW460.MakeTire = "制造84款奔驰W460轮胎",
 	Recipe_84mercW460.MakeWideTire = "制造84款奔驰W460宽轮胎",
 	Recipe_84mercW460.MakeModernTire = "制造84款奔驰W460现代轮胎",
@@ -2728,7 +2728,7 @@ Recipe_CN = {
 	Recipe_84mercW460.MakeRoofrack = "制造84款奔驰W460车顶行李架",
 	Recipe_84mercW460.MakeMilitaryRoofrack = "制造84款奔驰W460军用车顶行李架"
 
-	------'87 Ford B700/F700 Trucks------
+	--'87 Ford B700/F700 Trucks
 	Recipe_87fordB700.MakeTire = "制造87款福特B/F700轮胎",
 	Recipe_87fordB700.MakeDoubleTires = "制造87款福特B/F700双轮胎",
 	Recipe_87fordB700.DismantleDoubleTires = "拆卸87年款福特B/F700双轮胎",
@@ -2776,7 +2776,7 @@ Recipe_CN = {
 	Recipe_87fordF700.MakeLargeMudflaps = "制造87款福特F700大型挡泥板",
 	Recipe_87fordB700.MakeGastank = "制造87款福特B/F700油箱",
 
-	------'91 Nissan 240SX------
+	--'91 Nissan 240SX
 	Recipe_91nissan240sx.MakeTire1 = "制造91款日产240SX 原厂轮胎1型",
 	Recipe_91nissan240sx.MakeTire2 = "制造91款日产240SX 原厂轮胎2型",
 	Recipe_91nissan240sx.MakeTire3 = "制造91款日产240SX Panasport G7 C5C轮胎",
@@ -2800,7 +2800,7 @@ Recipe_CN = {
 	Recipe_91nissan240sx.MakeFrontReinforcedBumper2 = "制造91款日产240SX 前强化保险杠2型",
 	Recipe_91nissan240sx.MakeSmallModernRoofrack = "制作91款日产240SX小型现代车顶架",
 
-	------'91 Ford Ranger------
+	--'91 Ford Ranger
 	Recipe_91fordRanger.MakeTire = "制造91款福特Ranger轮胎",
 	Recipe_91fordRanger.MakeHood = "制造91款福特Ranger引擎盖",
 	Recipe_91fordRanger.MakeFrontDoor = "制造91款福特Ranger前门",
@@ -2822,7 +2822,7 @@ Recipe_CN = {
 	Recipe_91fordRanger.MakeMudflaps = "制造91款福特Ranger挡泥板",
 	Recipe_91fordRanger.MakeBedCap = "制造91款福特Ranger货箱盖",
 
-	------'89 Isuzu Trooper------
+	--'89 Isuzu Trooper
 	Recipe_89trooper.MakeTire = "制作89款五十铃骑兵轮胎"
 	Recipe_89trooper.MakeHood = "制作89款五十铃骑兵引擎盖"
 	Recipe_89trooper.MakeFrontDoor = "制作89款五十铃骑兵前车门"
@@ -2844,9 +2844,9 @@ Recipe_CN = {
 	Recipe_89trooper.MakeMudflaps = "制作89款五十铃骑兵挡泥板"
 	Recipe_89trooper.MakeSidesteps = "制作89款五十铃骑兵侧踏板"
 
-	------'93 Chevrolet Suburban / Silverado------
+	--'93 Chevrolet Suburban / Silverado
 
-	---Suburban---
+	--Suburban
 	Recipe_93chevySuburban.MakeTire1 = "制作93款雪佛兰萨博班/西尔维拉多标准轮胎"
 	Recipe_93chevySuburban.MakeTire2 = "制作93款雪佛兰萨博班/西尔维拉多重载轮胎"
 	Recipe_93chevyK3500.MakeTire = "制作雪佛兰K3500轮胎"
@@ -2895,7 +2895,7 @@ Recipe_CN = {
 	Recipe_93chevySilverado.MakeBedTarp = "制作93款雪佛兰索罗德货箱防水布"
 	Recipe_93chevySilverado.MakeBedStakes = "制作93款雪佛兰索罗德货箱围栏"
 
-	------'93 Lincoln Town Car + Limo------
+	--'93 Lincoln Town Car + Limo
 	Recipe_93townCar.MakeTire = "制造93款林肯城市轿车轮胎",
 	Recipe_93townCar.MakeWhitewallTire = "制造93款林肯城市轿车白壁轮胎",
 	Recipe_93townCar.MakeHood = "制造93款林肯城市轿车引擎盖",
@@ -2922,7 +2922,7 @@ Recipe_CN = {
 	Recipe_93townCar.MakeReinforcedFrontBumperHorns = "制造93款林肯城市轿车带喇叭加固前保险杠",
 	Recipe_93townCar.MakeTrunkrack = "制造93款林肯城市轿车后备箱行李架"
 
-	------'59 Cadillac Miller-Meteor + ECTO-1------
+	--'59 Cadillac Miller-Meteor + ECTO-1
 	Recipe_59meteor.MakeTire = "制造59款凯迪拉克米勒-流星轮胎",
 	Recipe_59meteor.MakeReinforcedTire = "制造59款凯迪拉克米勒-流星加固轮胎",
 	Recipe_59meteor.MakeHood = "制造59款凯迪拉克米勒-流星引擎盖",
@@ -2945,7 +2945,7 @@ Recipe_CN = {
 	Recipe_59meteor.MakeRearBumper = "制造59款凯迪拉克米勒-流星后保险杠",
 	Recipe_59meteor.MakeRoofrack = "制造59款凯迪拉克米勒-流星车顶行李架"
 
-	------'93 Ford Taurus------
+	--'93 Ford Taurus
 	Recipe_93fordTaurus.MakeTire = "制造93款福特金牛座轮胎",
 	Recipe_93fordTaurusSHO.MakeTire = "制造93款福特金牛座SHO版轮胎",
 	Recipe_93fordTaurus.MakeHood = "制造93款福特金牛座引擎盖",
@@ -2973,7 +2973,7 @@ Recipe_CN = {
 	Recipe_93fordTaurus.MakeRoofrack = "制造93款福特金牛座车顶行李架",
 	Recipe_93fordTaurusWagon.MakeRoofrack = "制造93款福特金牛座旅行版简易车顶行李架"
 
-	------'75 Pontiac Grand Prix------
+	--'75 Pontiac Grand Prix
 	Recipe_75grandPrix.MakeTire0 = "制造75款庞蒂亚克大奖赛R15轮胎",
 	Recipe_75grandPrix.MakeTire1 = "制造75款庞蒂亚克大奖赛R17轮胎",
 	Recipe_75grandPrix.MakeTire2 = "制造75款庞蒂亚克大奖赛H17轮胎",
@@ -2996,7 +2996,7 @@ Recipe_CN = {
 	Recipe_75grandPrix.MakeRearBumper = "制造75款庞蒂亚克大奖赛后保险杠",
 	Recipe_75grandPrix.MakeRoofrack = "制造75款庞蒂亚克大奖赛车顶行李架"
 
-	------'63 Volkswagen Type 2 Van------
+	--'63 Volkswagen Type 2 Van
 	Recipe_63Type2Van.MakeTire1 = "制造63款大众Type 2轮胎",
 	Recipe_63Type2Van.MakeTire2 = "制造63款大众Type 2加固越野胎",
 	Recipe_63Type2Van.MakeHood = "制造63款大众Type 2引擎盖",
@@ -3030,7 +3030,7 @@ Recipe_CN = {
 	Recipe_63Type2Van.MakeBedCover = "制造63款大众Type 2货厢盖板",
 	Recipe_63Type2Van.MakeMudflaps = "制造63款大众Type 2挡泥板"
 
-	------'99 Ford Crown Victoria Police Interceptor------
+	--'99 Ford Crown Victoria Police Interceptor
 	Recipe_99fordCVPI.MakeHood = "制造99款福特CVPI引擎盖",
 	Recipe_99fordCVPI.MakeFrontDoor = "制造99款福特CVPI前车门",
 	Recipe_99fordCVPI.MakeRearDoor = "制造99款福特CVPI后车门",
@@ -3044,7 +3044,7 @@ Recipe_CN = {
 	Recipe_99fordCVPI.MakePushBumper1 = "制造99款福特CVPI防撞保险杠",
 	Recipe_99fordCVPI.CabBarrier = "制造99款福特CVPI驾驶舱隔离栏",
 
-	------'98 Nissan Stagea 260RS Autech------
+	--'98 Nissan Stagea 260RS Autech
 	Recipe_98stagea.MakeTire = "制造98款日产Stagea 260RS轮胎",
 	Recipe_98stagea.MakeHood = "制造98款日产Stagea 260RS引擎盖",
 	Recipe_98stagea.MakeFrontDoor = "制造98款日产Stagea 260RS前车门",
@@ -3067,7 +3067,7 @@ Recipe_CN = {
 	Recipe_98stagea.MakeModernSmallRoofrack = "制造98款日产Stagea 260RS现代小型车顶架",
 	Recipe_98stagea.MakeModernLargeRoofrack = "制造98款日产Stagea 260RS现代大型车顶架",
 
-	------'82 Jeep J10------
+	--'82 Jeep J10
 	Recipe_82jeepJ10.MakeHood = "制造82款吉普J10引擎盖",
 	Recipe_82jeepJ10.MakeFrontDoor = "制造82款吉普J10前车门",
 	Recipe_82jeepJ10.MakeTrunkLid = "制造82款吉普J10货斗尾门",
@@ -3080,7 +3080,7 @@ Recipe_CN = {
 	Recipe_82jeepJ10.MakeReinforcedFrontBumper = "制造82款吉普J10加固前保险杠",
 	Recipe_82jeepJ10.MakeBedCap = "制造82款吉普J10货斗防雨篷"
 
-	------'88 Chevrolet S10------
+	--'88 Chevrolet S10
 	Recipe_88ChevyS10.MakeHood = "制造88款雪佛兰S10引擎盖",
 	Recipe_88ChevyS10.MakeFrontDoor = "制造88款雪佛兰S10前车门",
 	Recipe_88ChevyS10.MakeTrunkLid = "制造88款雪佛兰S10货斗尾门",
@@ -3093,7 +3093,7 @@ Recipe_CN = {
 	Recipe_88ChevyS10.MakeReinforcedFrontBumper = "制造88款雪佛兰S10加固前保险杠",
 	Recipe_88ChevyS10.MakeBedCap = "制造88款雪佛兰S10货斗防雨篷",
 
-	------'89 Ford Bronco------
+	--'89 Ford Bronco
 	Recipe_89Bronco.MakeHood = "制造89款福特Bronco引擎盖",
 	Recipe_89Bronco.MakeFrontDoor = "制造89款福特Bronco前车门",
 	Recipe_89Bronco.MakeTrunkLid = "制造89款福特Bronco货斗尾门",
@@ -3107,7 +3107,7 @@ Recipe_CN = {
 	Recipe_89Bronco.MakeBedCap = "制造89款福特Bronco货斗防雨篷",
 	Recipe_89Bronco.MakeBedBarrier = "制造89款福特Bronco货斗隔离栏",
 
-	------'83 AM General M923------
+	--'83 AM General M923
 	Recipe_83amgeneralM923.MakeHood = "制造83款AM通用M923引擎盖",
 	Recipe_83amgeneralM923.MakeFrontDoor = "制造83款AM通用M923前车门",
 	Recipe_83amgeneralM923.MakeTailgate = "制造83款AM通用M923尾门",
@@ -3125,7 +3125,7 @@ Recipe_CN = {
 	Recipe_83amgeneralM923.MakeMuffler = "制造83款AM通用M923消音器",
 	Recipe_83amgeneralM923.MakeHardCover = "制造83款AM通用M923硬质顶盖",
 
-	------'78 AM General M35 Series Trucks------
+	--'78 AM General M35 Series Trucks
 	Recipe_78amgeneralM35A2.MakeHood = "制造78款AM通用M35A2引擎盖",
 	Recipe_78amgeneralM35A2.MakeFrontDoor = "制造78款AM通用M35A2前车门",
 	Recipe_78amgeneralM35A2.MakeTailgate = "制造78款AM通用M35A2尾门",
@@ -3144,7 +3144,7 @@ Recipe_CN = {
 	Recipe_78amgeneralM35A2.MakeHardCabCover = "制造78款AM通用M35A2硬质驾驶室护罩",
 	Recipe_78amgeneralM35A2.MakeSoftCabCover = "制造78款AM通用M35A2软质驾驶室护罩",
 
-	--ATA系列--
+	--ATA系列
 	Recipe_ATAJeepBumper = "切割吉普牧马人引擎盖",
 	Recipe_ATAMustangHoodItem = "切割福特野马引擎盖",
 	Recipe_ATASamaraHoodItem = "切割萨马拉骑士引擎盖",

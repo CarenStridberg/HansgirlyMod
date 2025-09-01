@@ -128,7 +128,7 @@ Moodles_CN {
 	Moodles_SmellGood_L1 = "散发喜悦",
 	Moodles_SmellGood_L1_desc = "这种香味让我充满了乐观情绪.",
 
-	--------------------Barefoot Moodle（3435936144）--------------------
+	--Barefoot Moodle（3435936144）
 	Moodles_TornShoe_Bad_lvl1 = "破损的鞋子",
 	Moodles_TornShoe_Bad_desc_lvl1 = "你的鞋子看起来有些磨损了。",
 	Moodles_TornShoe_Bad_lvl2 = "破损的鞋子",
@@ -140,7 +140,7 @@ Moodles_CN {
 	Moodles_Barefoot_Bad_lvl4 = "赤脚",
 	Moodles_Barefoot_Bad_desc_lvl4 = "你没有穿鞋！",
 
-	--------------------[B42] Moodle Descriptions Expanded（3389003300）--------------------
+	--[B42] Moodle Descriptions Expanded（3389003300）
 
 	-- Moodle type :
 

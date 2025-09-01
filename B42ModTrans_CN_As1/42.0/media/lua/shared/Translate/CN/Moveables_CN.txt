@@ -34,7 +34,7 @@ Moveables_CN = {
 	--台锯[B42](3540297822)
 	Metal_TableSaw = "台锯",
 
-	--------------------Erika's Furniture Store(3363546437)--------------------
+	--Erika's Furniture Store(3363546437)
 	Brown_Countertop_Modern_Corner_Counter = "棕色台面现代转角柜台",
 	Brown_Countertop_Modern_Counter = "棕色台面现代柜台",
 	Light_Countertop_Modern_Corner_Counter = "浅色台面现代转角柜台",
@@ -351,7 +351,7 @@ Moveables_CN = {
 	Dark_Fancy_Oak_Drawers = "深色精致橡木抽屉柜",
 	Deer_Trophy_Mounted = "鹿首战利品",
 
-	--浅草湖镇 (3482962418)--
+	--浅草湖镇 (3482962418)
 	Asakusa_bg1 = "浅草湖镇的冰柜(外观-冰淇淋)",
 	Asakusa_bg2 = "浅草湖镇的冰柜(小型-两格)",
 	Asakusa_bx = "浅草湖镇的冰箱(差分-蔬菜水果)",

@@ -351,7 +351,7 @@ Sandbox_CN = {
 	Sandbox_ETW_SleepMoodle = "睡眠系统心情状态",
 	Sandbox_ETW_SleepMoodle_tooltip = "如果禁用此选项,心情状态不会显示.对于单人游戏,请保持启用并通过模组选项更改心情状态.如果是服务器设置,玩家无法在客户端启用此心情状态",
 	Sandbox_ETW_SleepSystem = "睡眠系统",
-	Sandbox_ETW_SleepSystem_tooltip = "启用获得/失去与睡眠相关的特质,如精神抖擞和昏昏欲睡.<br>---概述---<br>模组会跟踪你喜欢的睡眠时间,只要你在这些时间范围内睡觉,就能强化健康的睡眠习惯.如果你在范围外睡觉,睡眠习惯的完整性会下降.超过 24 小时不睡觉也会损害睡眠习惯.模组通过检查你上一次睡眠的中点来跟踪你喜欢的睡眠时间,因此可以调整你的睡眠时间表.<br>---技术描述 (如果你不想过多地利用游戏机制,可以不读) ---<br>每次睡觉时,模组会跟踪睡眠的中点.例如,如果你在 23:00 至 05:30 之间睡觉,中点会是 03:45,这是你的最佳睡眠时间.如果你在此时间的 ±6 小时内睡觉,你会增加睡眠健康值,范围从 -200 到 200.每 10 分钟进行一次检查,如果睡觉时间正确,则增加 0.167,相当于每睡 1 小时增加 1.在范围外睡觉每 10 分钟减少 0.167.超过 24 小时不睡觉,每 10 分钟减少 0.167.如果健康值低于 -100,你会获得昏昏欲睡特质；如果高于 100,你会获得精神抖擞特质.初始选择任意特质会设置健康值的起始点: 精神抖擞为 +200,昏昏欲睡为 -200",
+	Sandbox_ETW_SleepSystem_tooltip = "启用获得/失去与睡眠相关的特质,如精神抖擞和昏昏欲睡.<br>--概述--<br>模组会跟踪你喜欢的睡眠时间,只要你在这些时间范围内睡觉,就能强化健康的睡眠习惯.如果你在范围外睡觉,睡眠习惯的完整性会下降.超过 24 小时不睡觉也会损害睡眠习惯.模组通过检查你上一次睡眠的中点来跟踪你喜欢的睡眠时间,因此可以调整你的睡眠时间表.<br>--技术描述 (如果你不想过多地利用游戏机制,可以不读) --<br>每次睡觉时,模组会跟踪睡眠的中点.例如,如果你在 23:00 至 05:30 之间睡觉,中点会是 03:45,这是你的最佳睡眠时间.如果你在此时间的 ±6 小时内睡觉,你会增加睡眠健康值,范围从 -200 到 200.每 10 分钟进行一次检查,如果睡觉时间正确,则增加 0.167,相当于每睡 1 小时增加 1.在范围外睡觉每 10 分钟减少 0.167.超过 24 小时不睡觉,每 10 分钟减少 0.167.如果健康值低于 -100,你会获得昏昏欲睡特质；如果高于 100,你会获得精神抖擞特质.初始选择任意特质会设置健康值的起始点: 精神抖擞为 +200,昏昏欲睡为 -200",
 	Sandbox_ETW_SleepSystemMultiplier = "睡眠系统倍率",
 	Sandbox_ETW_SleepSystemMultiplier_tooltip = "决定你增加/减少睡眠健康值 (决定是否失去/获得精神抖擞和昏昏欲睡特质) 的速度.值越高,增益和损失越快；值越低,增益和损失越慢",
 	Sandbox_ETW_Smoker = "视烟如命",
@@ -1627,21 +1627,21 @@ Sandbox_CN = {
 
 	--KI5车辆合集
 
-	------that DAMN Library------
+	--that DAMN Library
 	Sandbox_DAMN_Options = "damnlib | 选项",
 	Sandbox_DAMN_AllowVanillaVehicleDismantling = "允许原版车辆部件回收",
 	Sandbox_DAMN_AllowVanillaWorldItemDismantling = "允许原版房屋窗户和镜子回收",
 	Sandbox_DAMN_Spawns = "KI5 | 预设生成点",
 
-	------'81 DeLorean DMC-12------
+	--'81 DeLorean DMC-12
 	Sandbox_DAMN_Spawns = "KI5 | 固定生成点",
 	Sandbox_DAMN_AllowGreatScottSpawns = "启用预设的81款德罗宁DMC-12生成",
 
-	------'49 Dodge Power Wagon Crew Cab------
+	--'49 Dodge Power Wagon Crew Cab
 	Sandbox_DAMN_Spawns = "KI5 | 固定生成点",
 	Sandbox_DAMN_AllowPowerChadSpawns = "启用预设的49款道奇Power Wagon生成",
 
-	------'93 Ford CF8000 Elgin Street Sweeper------
+	--'93 Ford CF8000 Elgin Street Sweeper
 	Sandbox_StreetSweeper = "KI5 | 93款福特CF-8000埃尔金扫地车",
 	Sandbox_StreetSweeper_AllowItems = "清扫物品",
 	Sandbox_StreetSweeper_AllowCorpses = "清扫尸体",
@@ -1652,13 +1652,13 @@ Sandbox_CN = {
 	Sandbox_StreetSweeper_AllowAshes = "清扫灰烬",
 	Sandbox_StreetSweeper_AllowGrime = "清除污垢",
 
-	------'87 Ford B700/F700 Trucks------
+	--'87 Ford B700/F700 Trucks
 	Sandbox_DAMN_AllowMrBusSpawns = "启用预设 '87 福特B700校车生成",
 	Sandbox_DAMN_AllowChonkerSpawns = "启用预设 '87 福特F700特警车生成",
 	Sandbox_DAMN_AllowCashcowSpawns = "启用预设 '87 福特F700装甲卡车生成",
 	Sandbox_DAMN_AllowMcBoxySpawns = "启用预设 '87 福特F700箱式卡车生成",
 
-	------'76 Chevrolet K Series------
+	--'76 Chevrolet K Series
 	Sandbox_DAMN_AllowWreckyMcChevySpawns = "启用预设的76款雪佛兰C30清障车刷新点",
 
 	--[J&G] Black Multicam Uniform (3315302991)
@@ -1812,7 +1812,7 @@ Sandbox_CN = {
 	Sandbox_AllowUndergroundWell = "允许地下放置水井",
 	Sandbox_AllowUndergroundWell_tooltip = "启用后, 玩家可在地下建造/放置水井. 禁用则限制水井只能建于地面层.",
 
-	--'80 MAN KAT1--
+	--'80 MAN KAT1
 	Sandbox_DAMN_Spawns = "KI5 | 固定刷新点",
 	Sandbox_DAMN_AllowManlyMANSpawns = "启用预设的80款MAN KAT1刷新点",
 }

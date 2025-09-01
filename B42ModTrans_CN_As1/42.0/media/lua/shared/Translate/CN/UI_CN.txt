@@ -668,17 +668,17 @@ UI_CN = {
 	UI_ModOptions_ZuperCarts_ToggleKeybind = "装备/卸下购物车 (G)",
 	UI_ModOptions_ZuperCarts_ToggleKeybind_tooltip = "按 G 键装备最近的购物车/手推车,或卸下当前持有的购物车/手推车",
 
-	--Immersive Barricaded Start [b41 & 42] (3031475005)----
+	--Immersive Barricaded Start [b41 & 42] (3031475005)
 	UI_trait_barricaded = "已封锁",
 	UI_trait_barricadeddesc = "遵守了政府的自我隔离指令。<br>在一个被封锁的房屋中出生。",
 
-	--Hand Crank Flashlights [41.78 and 42] (2897115343)----
+	--Hand Crank Flashlights [41.78 and 42] (2897115343)
 	UI_CTTurnCrank = "手摇发电"
 	UI_optionscreen_binding_CRANK_HOTKEY = "手摇发电手电筒",
 	UI_CTOpenBox = "打开",
 	UI_CTNeedsRepair = "需要修理。"
 
-	--[B42] ZuperCarts - Carts & Trolleys (Forked) (3433203442)----
+	--[B42] ZuperCarts - Carts & Trolleys (Forked) (3433203442)
 	UI_ModOptions_ZuperCarts = "超级手推车",
 	UI_ModOptions_ZuperCarts_SpawnCart = "生成购物车",
 	UI_ModOptions_ZuperCarts_SpawnCart_tooltip = "在角色附近生成购物车",
@@ -918,7 +918,7 @@ UI_CN = {
 	UI_VRO_ELR_Options = "启用原版警灯维修选项",
 	UI_VRO_ELR_Options_Tooltip = "启用原版警灯维修选项. 如果您安装了其他修改警灯右键菜单的模组，此选项会很有用.",
 
-	------Vehicle Repair Overhaul - Vehicle Salvage Overhaul------
+	--Vehicle Repair Overhaul - Vehicle Salvage Overhaul
 
 	--Tow Truck [B42](3446203945)
 	UI_Text_Towing_noAviableVehicles = "无可牵引车辆<br>或无法牵引",
