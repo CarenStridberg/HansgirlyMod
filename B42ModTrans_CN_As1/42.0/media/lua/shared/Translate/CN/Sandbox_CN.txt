@@ -1,7 +1,7 @@
 Sandbox_CN = {
 
 	--Skill Recovery Journal
-	Sandbox_SkillRecoveryJournal = "技能恢复技能恢复日记",
+	Sandbox_SkillRecoveryJournal = "技能恢复日记",
 	Sandbox_SkillRecoveryJournalPercentage = "通用技能恢复百分比",
 	Sandbox_SkillRecoveryJournalPercentage_tooltip = "阅读装订技能恢复日记时恢复的经验值.<br>如果其他选项设置为 -1,则默认使用此值.",
 	Sandbox_SkillRecoveryJournalTranscribeSpeed = "技能恢复转录速度倍率",
@@ -25,11 +25,11 @@ Sandbox_CN = {
 	Sandbox_SkillRecoveryJournalRecoverRecipes = "恢复配方",
 	Sandbox_SkillRecoveryJournalRecoverRecipes_tooltip = "禁用后, 技能恢复日记将无法恢复/转录配方.",
 	Sandbox_SkillRecoveryJournalUsed = "技能恢复日记经验读取后消耗",
-	Sandbox_SkillRecoveryJournalUsed_tooltip = "通常,技能恢复日记可以无限次读取——启用此选项后,每个经验点只能恢复一次.你仍然可以向技能恢复日记添加内容,但每个经验点在每个技能恢复日记中只能恢复一次.注意: 技能恢复日记的提示将显示未使用经验点的分数.",
+	Sandbox_SkillRecoveryJournalUsed_tooltip = "通常, 技能恢复日记可以无限次读取——启用此选项后, 每个经验点只能恢复一次. 你仍然可以向技能恢复日记添加内容, 但每个经验点在每个技能恢复日记中只能恢复一次. 注意: 技能恢复日记的提示将显示未使用经验点的分数.",
 	Sandbox_SkillRecoveryJournalCraftRecipe = "技能恢复日记配方",
 	Sandbox_SkillRecoveryJournalCraftRecipe_tooltip = "将此值留空意味着技能恢复日记无法制作.\n\n语法遵循配方原料,如下: \n每个物品用 '|' 分隔.\n这些将直接输入到配方脚本的 input{} 中.",
 	Sandbox_SkillRecoveryJournalModDataTrack = "跟踪 ModData 值",
-	Sandbox_SkillRecoveryJournalModDataTrack_tooltip = "谨慎使用.\n\n示例语法: ModDataKey1|ModDataKey2\n转录将存储玩家 ModData 中对应表的副本.\n如果数据量较大,可能会导致严重问题.\n如果不确定,请忽略并留空.",
+	Sandbox_SkillRecoveryJournalModDataTrack_tooltip = "谨慎使用.\n\n示例语法: ModDataKey1|ModDataKey2\n转录将存储玩家 ModData 中对应表的副本.\n如果数据量较大, 可能会导致严重问题.\n如果不确定, 请忽略并留空.",
 	Sandbox_SkillRecoveryJournalKillsTrack = "僵尸/幸存者击杀恢复百分比",
 
 	--KillCount
@@ -39,22 +39,22 @@ Sandbox_CN = {
 	Sandbox_KillCount_includePostDeathUI = "死亡后UI",
 	Sandbox_KillCount_includePostDeathUI_tooltip = "将死亡后的所有击杀计入最终值的死亡漂浮文字中.",
 	Sandbox_KillCount_MaxUpdateDelay = "更新延迟",
-	Sandbox_KillCount_MaxUpdateDelay_tooltip = "多人游戏中两次更新之间的目标时间 (以毫秒为单位).较小的值提供响应性,较大的值减少网络使用和服务器负载.",
+	Sandbox_KillCount_MaxUpdateDelay_tooltip = "多人游戏中两次更新之间的目标时间 (以毫秒为单位). 较小的值提供响应性,较大的值减少网络使用和服务器负载.",
 	Sandbox_KillCount_shareOnServer = "共享击杀数",
-	Sandbox_KillCount_shareOnServer_tooltip = "每个客户端都可以看到每个角色的得分.在 (非常大的) 服务器上停用以减少全局MOD数据传输负载.",
+	Sandbox_KillCount_shareOnServer_tooltip = "每个客户端都可以看到每个角色的得分. 在 (非常大的) 服务器上停用以减少全局MOD数据传输负载.",
 	Sandbox_KillCount_keepTrackOfDead = "跟踪死亡得分",
-	Sandbox_KillCount_keepTrackOfDead_tooltip = "死亡角色会被保留并计入服务器击杀数.适用于从不重置的服务器.",
+	Sandbox_KillCount_keepTrackOfDead_tooltip = "死亡角色会被保留并计入服务器击杀数. 适用于从不重置的服务器.",
 
 	--[B42/B41]Surviving Through Seasons
 	Sandbox_sts = "生存四季",
 	Sandbox_sts_MaxDaysInMonthSpring = "春季 (三月 - 五月)每月有多少天？",
-	Sandbox_sts_MaxDaysInMonthSpring_tooltip = "设置为0以保持春季的正常月份长度.例如: 将所有季节设置为每月10天,将跳过每游玩一天的两天,创造120天的年份,仅通过人类游玩的日数模拟侵蚀, 农业等.",
+	Sandbox_sts_MaxDaysInMonthSpring_tooltip = "设置为 0 以保持春季的正常月份长度. 例如: 将所有季节设置为每月 10 天,将跳过每游玩一天的两天,创造 120 天的年份, 仅通过人类游玩的日数模拟侵蚀, 农业等.",
 	Sandbox_sts_MaxDaysInMonthSummer = "夏季 (六月 - 八月)每月有多少天？",
-	Sandbox_sts_MaxDaysInMonthSummer_tooltip = "设置为0以保持夏季的正常月份长度.例如: 将所有季节设置为每月10天,将跳过每游玩一天的两天,创造120天的年份,仅通过人类游玩的日数模拟侵蚀, 农业等.",
+	Sandbox_sts_MaxDaysInMonthSummer_tooltip = "设置为 0 以保持夏季的正常月份长度. 例如: 将所有季节设置为每月 10 天,将跳过每游玩一天的两天,创造 120 天的年份, 仅通过人类游玩的日数模拟侵蚀, 农业等.",
 	Sandbox_sts_MaxDaysInMonthFall = "秋季 (九月 - 十一月)每月有多少天？",
-	Sandbox_sts_MaxDaysInMonthFall_tooltip = "设置为0以保持秋季的正常月份长度.例如: 将所有季节设置为每月10天,将跳过每游玩一天的两天,创造120天的年份,仅通过人类游玩的日数模拟侵蚀, 农业等.",
+	Sandbox_sts_MaxDaysInMonthFall_tooltip = "设置为 0 以保持秋季的正常月份长度. 例如: 将所有季节设置为每月 10 天,将跳过每游玩一天的两天,创造 120 天的年份, 仅通过人类游玩的日数模拟侵蚀, 农业等.",
 	Sandbox_sts_MaxDaysInMonthWinter = "冬季 (十二月 - 二月)每月有多少天？",
-	Sandbox_sts_MaxDaysInMonthWinter_tooltip = "设置为0以保持冬季的正常月份长度.例如: 将所有季节设置为每月10天,将跳过每游玩一天的两天,创造120天的年份,仅通过人类游玩的日数模拟侵蚀, 农业等.",
+	Sandbox_sts_MaxDaysInMonthWinter_tooltip = "设置为 0 以保持冬季的正常月份长度. 例如: 将所有季节设置为每月 10 天,将跳过每游玩一天的两天,创造 120 天的年份, 仅通过人类游玩的日数模拟侵蚀, 农业等.",
 
 	--Vehicle Repair Overhaul
 	Sandbox_VehicleRepairOverhaul = "车辆维修大修模组",
