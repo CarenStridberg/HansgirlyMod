@@ -1,4 +1,4 @@
-	ItemName_=CN = {
+ItemName_CN = {
 
 	--Skill Recovery Journal
 	ItemName_Base.SkillRecoveryJournal = "技能恢复日记 (已损坏)",
