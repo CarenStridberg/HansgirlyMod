@@ -25,7 +25,6 @@ UI_CN = {
 	UI_CraftCat_Mygoshop = "MyGO商店",
 	UI_CraftCat_White Wolf Ridge = "白狼岭",
 	UI_CraftCat_Tuning = "摩托载具",
-    UI_CraftCat_Herbalist = "草药师",
 
 ---Has Been Read---(2544353492)---
     UI_P4HasBeenRead_Marked_Book = "标记这本书",
