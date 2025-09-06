@@ -1622,23 +1622,23 @@ Sandbox_CN = {
     Sandbox_ImprovedFarmingInfoWindow_CheckSeedBearing = "检查结籽作物（绿色方块）",
     Sandbox_ImprovedFarmingInfoWindow_CheckSeedBearing_tooltip = "启用此选项后，作物将在最终可收获阶段被标记。",
 
----KI5车辆合集---
+---KI5车辆合集---(3414495781)---
     
-    ---that DAMN Library---
+    ---that DAMN Library---(3171167894)---
         Sandbox_DAMN_Options = "damnlib | 选项",
         Sandbox_DAMN_AllowVanillaVehicleDismantling = "允许原版车辆部件回收",
         Sandbox_DAMN_AllowVanillaWorldItemDismantling = "允许原版房屋窗户和镜子回收",
         Sandbox_DAMN_Spawns = "KI5 | 预设生成点",
     
-    ---'81 DeLorean DMC-12---	
+    ---'81 DeLorean DMC-12---(3253385114)---	
         Sandbox_DAMN_Spawns = "KI5 | 固定生成点",
         Sandbox_DAMN_AllowGreatScottSpawns = "启用预设的81款德罗宁DMC-12生成",
     
-    ---'49 Dodge Power Wagon Crew Cab---
+    ---'49 Dodge Power Wagon Crew Cab---(2900580391)---
         Sandbox_DAMN_Spawns = "KI5 | 固定生成点",
         Sandbox_DAMN_AllowPowerChadSpawns = "启用预设的49款道奇Power Wagon生成",
     
-    ---'93 Ford CF8000 Elgin Street Sweeper---
+    ---'93 Ford CF8000 Elgin Street Sweeper---(2969343830)---
         Sandbox_StreetSweeper = "KI5 | 93款福特CF-8000埃尔金扫地车",
         Sandbox_StreetSweeper_AllowItems = "清扫物品",
         Sandbox_StreetSweeper_AllowCorpses = "清扫尸体",
@@ -1649,15 +1649,15 @@ Sandbox_CN = {
         Sandbox_StreetSweeper_AllowAshes = "清扫灰烬",
         Sandbox_StreetSweeper_AllowGrime = "清除污垢",
     
-    ---'87 Ford B700/F700 Trucks---
+    ---'87 Ford B700/F700 Trucks---(3110911330)---
         Sandbox_DAMN_AllowMrBusSpawns = "启用预设 '87 福特B700校车生成",
         Sandbox_DAMN_AllowChonkerSpawns = "启用预设 '87 福特F700特警车生成",
         Sandbox_DAMN_AllowCashcowSpawns = "启用预设 '87 福特F700装甲卡车生成",
         Sandbox_DAMN_AllowMcBoxySpawns = "启用预设 '87 福特F700箱式卡车生成",    
     
-    ---'76 Chevrolet K Series---
+    ---'76 Chevrolet K Series---(3161951724)---
         Sandbox_DAMN_AllowWreckyMcChevySpawns = "启用预设的76款雪佛兰C30清障车刷新点",
-	---'80 MAN KAT1---
+	---'80 MAN KAT1---(3248388837)---
         Sandbox_DAMN_Spawns = "KI5 | 固定刷新点",
         Sandbox_DAMN_AllowManlyMANSpawns = "启用预设的80款MAN KAT1刷新点",
 

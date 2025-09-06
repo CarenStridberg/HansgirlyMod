@@ -502,9 +502,9 @@ Tooltip_CN = {
     Tooltip_Recipe_RipDustCloth = "将抹布撕裂成碎布片。",
     Tooltip_BathTowelsOverhaulTowelWearable = "一条浴巾，可包裹身体。",
 
----KI5车辆合集---
+---KI5车辆合集---(3414495781)---
     
-    ---that DAMN Library---
+    ---that DAMN Library---(3171167894)---
         /* runFlat */
         Tooltip_item_runFlatTire = "军用级轮胎，永远不会爆胎，但在损耗严重时会失去抓地力。",
         /* damnCraft */
@@ -543,7 +543,7 @@ Tooltip_CN = {
         Tooltip_item_damnBumperRear = "为基础尾灯、后备箱盖和后备箱储物区提供防护",
         Tooltip_item_damnBullbarRear = "为尾灯、后备箱盖和后备箱储物区提供强力防护",
 	
-    ---'84 Mercedes Benz W460---
+    ---'84 Mercedes Benz W460---(2805630347)---
         Tooltip_item_W460onlyMilitary = "该配件仅可安装于军用型号！",
 
 ---Frockin Wiseguys!---(3538760023)---

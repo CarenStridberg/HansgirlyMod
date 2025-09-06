@@ -1,4 +1,6 @@
 MakeUp_CN = {
+
+---Tomb's Player Body - Goth Skin---(3531765630)---
 	MakeUpType_GothEyeShadowBlack = "哥特黑眼影",
 	MakeUpType_GothEyeShadowRed = "哥特红眼影",
 	MakeUpType_GothEyeShadowCrow = "哥特鸦羽眼影",
