@@ -1,10 +1,10 @@
 Farming_CN = {
 
-	--Support Goods Mega Mod [B42.4] - Blizzard Update - SEMI-STABLE
+---Support Goods Mega Mod [B42.4] - Blizzard Update - SEMI-STABLE---(3434464110)---
 	Farming_HoneyCombUnprocessed = "蜂巢 - 未加工",
 	Farming_BeeHiveApiary = "蜂箱养蜂场",
 
-	--Farming Expansion B42
+---Farming Expansion B42---(3444499190)---
 	Farming_GrapeSeed = "葡萄藤",
 	Farming_AppleTree = "苹果树",
 }

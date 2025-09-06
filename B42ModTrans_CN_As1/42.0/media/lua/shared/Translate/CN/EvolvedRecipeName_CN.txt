@@ -1,6 +1,6 @@
 EvolvedRecipeName_CN = {
 
-	--Sapph's Cooking [B42+]
+---Sapph's Cooking [B42+]---(3409143790)---
 	EvolvedRecipeName_SapphCooking.EnergyDrink = "能量饮料",
 	EvolvedRecipeName_SapphCooking.Grape = "葡萄",
 	EvolvedRecipeName_SapphCooking.BowlofJapaneseCurry = "日式咖喱鸡",

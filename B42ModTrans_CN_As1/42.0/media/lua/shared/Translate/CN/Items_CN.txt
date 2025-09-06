@@ -1,6 +1,6 @@
 Items_CN = {
 
-	--[B42] Tactical Sheaths（3389805754）
+---[B42] Tactical Sheaths---(3389805754)---
 	DisplayNameTactical_Knife = "战术刀",
 	DisplayNameKnife_Sheath_Back = "刀鞘（背部）",
 	DisplayNameKnife_Sheath_Leg = "刀鞘（腿部）",
@@ -33,6 +33,6 @@ Items_CN = {
 	DisplayNameKatana_Sheath_Hip_Pink = "武士刀鞘-粉色（腰部）",
 	DisplayNameKatana_Sheath_Hip_Hearts = "武士刀鞘-爱心（腰部）",
 	DisplayNameKatana_Sheath_Hip_Galaxy = "武士刀鞘-银河（腰部）",
-	DisplayNameKatana_Sheath_Hip_Enma = "武士刀鞘-阎魔（腰部）",
-	DisplayNameForging_For_Dummies_(Katana) = "锻造入门指南：武士刀篇",
+	DisplayNameKatana_Sheath_Hip_Enma = "武士刀鞘-阎魔（腰部）",	
+	DisplayNameForging_For_Dummies_(Katana) = "锻造入门指南：武士刀篇",	
 }

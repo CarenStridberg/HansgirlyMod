@@ -1,6 +1,6 @@
 DynamicRadio_CN = {
 
-	--Voiced Radio and TVs
+---Voiced Radio and TVs---(2950750587)---
 	AEBS_Intro = "<噗滋> 五零二. <呜滋> 自动广播系统. <噗滋>[cdt=3.68]",
 	AEBS_Choppah = "检测到空中活动.[cdt=2.96]",
 	AEBS_Power_1 = "诺克斯电网：检测到电力波动.[cdt=6.80]",
