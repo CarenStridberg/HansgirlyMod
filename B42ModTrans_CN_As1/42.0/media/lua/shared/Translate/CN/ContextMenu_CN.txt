@@ -1063,4 +1063,7 @@ ContextMenu_CN = {
 
     ---Vehicle Repair Overhaul - Vehicle Salvage Overhaul---
 		ContextMenu_SalvageVehicle = "拆解载具",
+
+---[B42] They Are Watching - Schizophrenia---(3559704439)---
+	ContextMenu_TAWInhaler = "使用吸入剂",
 }

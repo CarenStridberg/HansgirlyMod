@@ -922,4 +922,10 @@ UI_CN = {
 
 ---[B42] Ogrim Mod's - My Own Well---(3549290115)---
     UI_MSG_MyOwnWell_Abort_NewWell = "无法在此层修建水井，必须建造在地面层！",
+
+---[B42] They Are Watching - Schizophrenia---(3559704439)---
+    --Traits
+    UI_trait_Schizophrenic = "精神分裂症",
+    UI_trait_SchizophrenicDesc = "你有时会听到或看到不真实的事物.",
+
 }

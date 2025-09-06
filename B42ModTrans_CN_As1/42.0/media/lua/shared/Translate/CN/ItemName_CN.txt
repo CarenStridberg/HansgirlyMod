@@ -5360,4 +5360,9 @@ ItemName_CN = {
     ItemName_Base.M998_MufflerB2 = "M998加长消音器",
     ItemName_Base.M998_Seat2 = "M998座椅",
     ItemName_Base.M998_Spare_Tire_Carrier2 = "M998备胎架",
+
+---[B42] They Are Watching - Schizophrenia---(3559704439)---
+    ItemName_TheyAreWatching.TAWInhaler = "抗精神紊乱吸入剂",
+    ItemName_TheyAreWatching.EmptyTAWInhaler = "用尽的吸入剂",
+
 }

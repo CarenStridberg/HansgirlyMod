@@ -584,4 +584,9 @@ Tooltip_CN = {
 
 ---[B42] Ogrim Mod's - My Own Well---(3549290115)---
     Tooltip_WellsConstruction = "长期储水设施",
+
+---[B42] They Are Watching - Schizophrenia---(3559704439)---
+    Tooltip_item_TAWInhaler = "暂时缓解精神症状的吸入式治疗药剂.",
+    Tooltip_item_EmptyTAWInhaler = "只是个空的吸入剂瓶",
+
 }
