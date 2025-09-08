@@ -5,8 +5,6 @@ KI5系列模组
 
 Mod:that DAMN Library---ID:3171167894
 
-Mod:that DAMN Library---ID:3171167894
-
 Mod:Trailers!---ID:3330403100
 
 Mod:'91 RANGE ROVER Classic---ID:2409333430
@@ -507,3 +505,7 @@ Mod:Yaki's Hair Salon---ID:2761200458
 Mod:舌尖上的中国---ID:3412969115
 
 Mod: 浅草湖镇 ---ID:3482962418
+
+MOD:Red Days---ID:3516166810
+
+MOD:Random Airdrops [B41/B42]---ID:3282789883

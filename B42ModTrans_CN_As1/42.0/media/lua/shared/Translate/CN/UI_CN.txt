@@ -922,4 +922,14 @@ UI_CN = {
 
 ---[B42] Ogrim Mod's - My Own Well---(3549290115)---
     UI_MSG_MyOwnWell_Abort_NewWell = "无法在此层修建水井，必须建造在地面层！",
+
+---Red Day---(3516166810)---
+    UI_RedDays_Spotty = "(污迹)",
+	UI_RedDays_Bloody = "(轻微血迹)",
+    UI_RedDays_VeryBloody = "(明显血迹)",
+    UI_RedDays_Nearly Saturated = "(几乎浸湿)",
+	UI_RedDays_Saturated = "(完全浸湿)",
+    UI_RedDays_Dirty = "(玷污)",
+
+
 }

@@ -1063,4 +1063,8 @@ ContextMenu_CN = {
 
     ---Vehicle Repair Overhaul - Vehicle Salvage Overhaul---
 		ContextMenu_SalvageVehicle = "拆解载具",
+
+---Random Airdrops [B41/B42]---(3282789883)---
+   ContextMenu_RandomAirdrops_UseFlare = "使用信号弹",
+
 }

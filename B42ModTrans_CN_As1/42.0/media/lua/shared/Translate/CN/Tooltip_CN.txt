@@ -584,4 +584,15 @@ Tooltip_CN = {
 
 ---[B42] Ogrim Mod's - My Own Well---(3549290115)---
     Tooltip_WellsConstruction = "长期储水设施",
+
+---Red Day---(3516166810)---
+    Tooltip_RedDays_Panty_Liner = "主要用于非经期分泌物吸收（如排卵期白带增多）、月经前后微量出血或尿失禁防护，吸收量通常<5毫升。‌‌<br>‌‌吸收日常分泌物，防止弄脏内裤，适合非经期使用。",
+    Tooltip_RedDays_Sanitary_Pad = "主要用于月经期，非经期也亦可使用，吸收量通常>25毫升。<br>方便操作，无异物感，适用于吸收经血，防止侧漏，是经期的必备神器。",
+    Tooltip_RedDays_Tampon = "主要用于月经期，非经期也亦可使用，吸收量通常>25毫升。<br>‌‌不会侧漏，透气性好，适用于吸收经血，防止侧漏，是经期的必备神器。",
+
+    Tooltip_RedDays_PantyLinerBox = "适用于非经期分泌物吸收（如排卵期白带增多）、月经前后微量出血或尿失禁防护，吸收量通常<5毫升。",
+    Tooltip_RedDays_SanitaryPadBox = "适主要用于月经期，非经期也亦可使用，吸收量通常>25毫升",
+    Tooltip_RedDays_TamponBox = "主要用于月经期，非经期也亦可使用，吸收量通常>25毫升",
+
+
 }
