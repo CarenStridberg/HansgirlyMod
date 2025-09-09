@@ -1066,4 +1066,7 @@ ContextMenu_CN = {
 
 ---[B42] They Are Watching - Schizophrenia---(3559704439)---
 	ContextMenu_TAWInhaler = "使用吸入剂",
+---Random Airdrops [B41/B42]---(3282789883)---
+   ContextMenu_RandomAirdrops_UseFlare = "使用信号弹",
+
 }

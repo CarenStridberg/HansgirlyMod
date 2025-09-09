@@ -5364,5 +5364,18 @@ ItemName_CN = {
 ---[B42] They Are Watching - Schizophrenia---(3559704439)---
     ItemName_TheyAreWatching.TAWInhaler = "抗精神紊乱吸入剂",
     ItemName_TheyAreWatching.EmptyTAWInhaler = "用尽的吸入剂",
+    
+---Red Day---(3516166810)---
+	ItemName_RedDays.PantyLinerBox = "卫生护垫盒装",
+    ItemName_RedDays.SanitaryPadBox = "卫生巾盒装",
+    ItemName_RedDays.TamponBox = "卫生棉条盒装",
+    ItemName_RedDays.Panty_Liner = "卫生护垫",
+    ItemName_RedDays.Sanitary_Pad = "卫生巾",
+    ItemName_RedDays.Tampon = "卫生棉条",
+    ItemName_RedDays.Period_Tracker = "书籍-认识女性经期",
+
+---Random Airdrops [B41/B42]---(3282789883)---
+    ItemName_RandomAirdropsASV.SmokeFlare = "信号棒",
+
 
 }
