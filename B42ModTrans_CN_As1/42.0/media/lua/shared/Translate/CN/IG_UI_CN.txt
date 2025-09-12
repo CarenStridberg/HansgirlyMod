@@ -3873,5 +3873,26 @@ IGUI_CN = {
     IGUI_Airdrop_Direction_NorthWest = "西北方",
     IGUI_Airdrop_Plane_Seeing = "Wow！！！发现一架运输机正在飞往",
 
+---TchernoLib---(3389605231)---
+    IGUI_FakeBook_Open = "这不是本书, 是个盒子!",
+    IGUI_PlayerText_CalloutZ1New = "啊嗷嗷嗷嗷嗷!",
+    IGUI_PlayerText_CalloutZ1Sneak = "噗噗噗..",
+    IGUI_PlayerText_CalloutZ2New = "嘎啊啊啊啊啊啊!",
+    IGUI_PlayerText_CalloutZ2Sneak = "沙沙沙..",
+    IGUI_PlayerText_CalloutZ3New = "啊啊啊啊啊!",
+    IGUI_PlayerText_CalloutZ3Sneak = "吱吱吱..",
+    IGUI_Spawn_Investigate = "我找到了%1!",
+    IGUI_Spawn_InvestigateStart = "这玩意不应该出现在这儿的..",
+    IGUI_Spawn_Tooltip1 = "事有蹊跷..",
+    IGUI_Spawn_Tooltip2 = "怪事一桩?!",
+    IGUI_Spawn_Tooltip3 = "这可不常见!",
+
+---Driving Skill [B42]---(3407791878)---
+    IGUI_perks_Driving = "驾驶",
+    IGUI_perks_Driving_Description = "驾车, 操控, 加速, 以及在撞车时避免受伤的能力.",
+    IGUI_perks_Vehicle = "车辆",
+
+---Night Vision Googles [B41/B42]---(3470491629)---
+    IGUI_ItemCat_NVG = "夜视镜",
 
 }

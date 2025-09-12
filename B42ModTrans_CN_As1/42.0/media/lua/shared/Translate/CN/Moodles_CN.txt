@@ -436,4 +436,24 @@ Moodles_CN = {
     Moodles_NoxiousSmell_desc_lvl2 = "患病率缓慢上升",
     Moodles_NoxiousSmell_desc_lvl3 = "患病率中等上升",
     Moodles_NoxiousSmell_desc_lvl4 = "生命值缓慢下降，请远离尸体或毒气",
+
+---ProteinsMoodle---(2859304462)---
+	Moodles_Proteins_Bad_desc_lvl1 = "最近可以少吃一些富含蛋白质的食物.",
+	Moodles_Proteins_Bad_desc_lvl2 = "多吃点蛋白质.",
+	Moodles_Proteins_Bad_desc_lvl3 = "需要寻找能提供蛋白质的食物.",
+	Moodles_Proteins_Bad_desc_lvl4 = "你多长时间没摄入过蛋白质了?",
+	Moodles_Proteins_Bad_lvl1 = "蛋白质过剩",
+	Moodles_Proteins_Bad_lvl2 = "缺少能量",
+	Moodles_Proteins_Bad_lvl3 = "缺少能量",
+	Moodles_Proteins_Bad_lvl4 = "低蛋白血症",
+	Moodles_Proteins_Good_desc_lvl1 = "有稳定的蛋白质来源.",
+	Moodles_Proteins_Good_desc_lvl2 = "多吃个鸡蛋就行.",
+	Moodles_Proteins_Good_desc_lvl3 = "是健身的好时机.",
+	Moodles_Proteins_Good_desc_lvl4 = "巅峰状态. 不过别再多吃蛋白质了.",
+	Moodles_Proteins_Good_lvl1 = "做好了锻炼准备",
+	Moodles_Proteins_Good_lvl2 = "做好了锻炼准备",
+	Moodles_Proteins_Good_lvl3 = "做好了锻炼准备",
+	Moodles_Proteins_Good_lvl4 = "做好了锻炼准备",
+	Moodles_Proteins_Value = "<br>%1需要介于 50 和 300 之间.",
+
 }

@@ -1069,4 +1069,10 @@ ContextMenu_CN = {
 ---Random Airdrops [B41/B42]---(3282789883)---
    ContextMenu_RandomAirdrops_UseFlare = "使用信号弹",
 
+---Night Vision Googles [B41/B42]---(3470491629)---
+	ContextMenu_NVG_DOWN = "放下夜视镜",
+	ContextMenu_NVG_DOWN-HeadStrap = "放下夜视镜 (头带)",
+	ContextMenu_NVG_UP = "抬起夜视镜",
+	ContextMenu_NVG_UP-HeadStrap = "抬起夜视镜 (头带)",
+
 }

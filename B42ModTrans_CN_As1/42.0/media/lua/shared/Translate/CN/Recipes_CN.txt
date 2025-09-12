@@ -3347,16 +3347,32 @@ Recipe_CN = {
         Recipe_Daxialongque = "锻造 大夏龙雀",
 
 ---Military Tool Kit---(2705406713)---
-        Recipe_OpenCartonOf127x99mm = "打开箱装12.7x99mm弹药",
-        Recipe_Place127x99mmInCarton = "将12.7x99mm弹药装箱",
+    Recipe_OpenCartonOf127x99mm = "打开箱装12.7x99mm弹药",
+    Recipe_Place127x99mmInCarton = "将12.7x99mm弹药装箱",
 
 ---[B42] Ogrim Mod's - My Own Well---(3549290115)---
-        WellsConstructionDisplay = "建造水井",
+    WellsConstructionDisplay = "建造水井",
 
 ---Red Day---(3516166810)---
     Recipe_UnpackBoxOfPantyLiners = "打开卫生护垫盒装",
     Recipe_UnpackBoxOSantiaryPads = "打开卫生巾盒装",
     Recipe_UnpackBoxOfTampons = "打开卫生棉条盒装",
 
+---[B42] Bicycle!---(3461415167)---
+    Recipe_ConvertFrontWheel = "制作前轮",
+    Recipe_ConvertRearWheel = "制作后轮",
+    Recipe_MakeWoodenBicycleCrate = "制作能附在自行车上的木质分隔箱",
+    Recipe_ConvertFlashlightToLamp = "将手电筒改装为自行车灯",
+    Recipe_ConvertLampToFlashlight = "将自行车灯改装为手电筒",
+
+---Soul Filcher's Clearing Time---(1926311864)---
+    Recipe_Close_Umbrella = "收起雨伞",
+    Recipe_Open_Umbrella = "打开雨伞",
+
+---[B42] Make Charcoal in kilns---(3392674521)---
+    Recipe_MakeCharcoalLogKiln = "制作木炭原木窑",
+    Recipe_MakeCharcoalPlankKiln = "制作木炭木板窑",
+    MakeCharcoalLogKiln = "使用原木烧制木炭",
+    MakeCharcoalPlankKiln = "使用 3 个木板烧制木炭",
 
 }
