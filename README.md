@@ -534,3 +534,333 @@ Mod:Night Vision Googles [B41/B42]---ID:3470491629
 Mod:Night Vision [B.41/B.42]---ID:3383603346
 
 Mod:ProteinsMoodle---ID:2859304462
+
+Mod:(B42) Immersive Roleplay Professions and Traits---ID:3387474156
+
+Mod:Addicted To Weight---ID:2604943386
+
+Mod:Ammo Maker---ID:2788256295
+
+Mod:Anthro Traits---ID:3025679944
+
+Mod:Antibodies---ID:2392676812
+
+Mod:ArcherLib---ID:3408337281
+
+Mod:Ash & Mae's Hair Salon: New Frontier V6 [ B41 ]---ID:3026307069
+
+Mod:Ash's MK8 Trusty FireFighter Axe---ID:3400045232
+
+Mod:Auto Reload---ID:3389448389
+
+Mod:Axe's Recrafting---ID:2211423190
+
+Mod:BM Super Speed Settings---ID:3440221534
+
+Mod:BarricadesHurtZombies---ID:3402208866
+
+Mod:Birget's Head Collection---ID:3439783176
+
+Mod:Bloodlust Trait---ID:3027121498
+
+Mod:Bone Scavenger---ID:3399292171
+
+Mod:Bonus Exp---ID:3413610665
+
+Mod:Car Parts Repair---ID:3281301960
+
+Mod:Caster Plus Fishing Mod---ID:3457003463
+
+Mod:Cerberus Pack [B41/B42]---ID:3470478700
+
+Mod:Character Save---ID:2673317083
+
+Mod:Check Upstairs---ID:3300688173
+
+Mod:Combat Mastering Skill---ID:3435985650
+
+Mod:Combat Traits [B42 Compatible]---ID:3427091746
+
+Mod:Constown (B42)---ID:3480990544
+
+Mod:Dreams---ID:1945359259
+
+Mod:Dried Flower---ID:2949777636
+
+Mod:Drink Smart---ID:3447775367
+
+Mod:Ducks+---ID:3409153536
+
+Mod:Easy Laundry---ID:2925034918
+
+Mod:Eat Smart---ID:3456212729
+
+Mod:EfficiencySkillMod---ID:3374408921
+
+Mod:Excalibar---ID:2868777243
+
+Mod:Excalibolg---ID:3070446764
+
+Mod:Expanded Professions---ID:3440958051
+
+Mod:Extended Spices---ID:3522142755
+
+Mod:ExtraBombs---ID:3425787685
+
+Mod:ExtraMoney---ID:3462306255
+
+Mod:FactoryPieces---ID:3399263137
+
+Mod:Fallout - NCR Trooper Pack---ID:3508243687
+
+Mod:Fancy Lanterns---ID:3267733558
+
+Mod:Firearms---ID:2256623447
+
+Mod:Foldable Survival Rifle---ID:3491265315
+
+Mod:Food Brazil - Comida Brasil B42/B41---ID:3469279808
+
+Mod:Gauss Firearms---ID:3429953336
+
+Mod:Grendal P10---ID:3489603739
+
+Mod:H&K VP70---ID:2470321383
+
+Mod:Halo Marine Armor [B41/B42]---ID:3507919075
+
+Mod:Hephas Occupations and Traits---ID:3256482412
+
+Mod:HydeCo. Bees!---ID:3430224478
+
+Mod:HydeCo. Unlimited Cars [Extended Sandbox Options]---ID:3438759949
+
+Mod:Imperial Chops! (More Beards!)---ID:3465865657
+
+Mod:IndustrialRevolution---ID:3400131934
+
+Mod:IndustrialRevolutionGenericAddOn---ID:3359867059
+
+Mod:IndustrialRevolutionMiraAmmoMaker---ID:3441855577
+
+Mod:IndustrialRevolutionVehicleParts---ID:3404745035
+
+Mod:Infection Scanner---ID:3332296598
+
+Mod:Joke Customisation Pack---ID:3415451174
+
+Mod:Just Some Hair Styles [B41/B42]---ID:3116631797
+
+Mod:KelTec PR-57---ID:3487312468
+
+Mod:Know Your Calories!---ID:3257953004
+
+Mod:Legendary Katana---ID:3418366499
+
+Mod:Lock Interiors---ID:3435709471
+
+Mod:Long-standing Metal Constructions---ID:3199474685
+
+Mod:Love and Perfume---ID:2842359380
+
+Mod:Lynx Pack [B41/B42]---ID:3470485566
+
+Mod:Make Dried Fruit---ID:3417502641
+
+Mod:Manage Containers---ID:2650547917
+
+Mod:Map Mod Manager (41 and 42)---ID:3360392628
+
+Mod:Medical Meister---ID:3173649443
+
+Mod:Melee Weapon Upgrade---ID:3394923321
+
+Mod:Mexiox's - Mexican Firearm Weapons---ID:2882852956
+
+Mod:Military Ponchos: Reloaded---ID:3439247001
+
+Mod:Militek Clothing---ID:3269061047
+
+Mod:Mini Health Panel---ID:2866258937
+
+Mod:Mod Load Order Sorter [b42]---ID:3423660713
+
+Mod:Moodle Framework B41---ID:2859296947
+
+Mod:More Traits Antique Upgrade---ID:3397942493
+
+Mod:My Favorite Jobs - v2---ID:3508005481
+
+Mod:My So-Called Bag---ID:2823166698
+
+Mod:My So-Called Snack---ID:2877535263
+
+Mod:Mystic's Face Retexture for Spongie's Character Customisation---ID:3415470189
+
+Mod:N&C's Narcotics---ID:3404956403
+
+Mod:Nep Slower Discomfort---ID:3403721633
+
+Mod:No Stress From Tree Chopping---ID:3460704724
+
+Mod:On the Door---ID:3056481712
+
+Mod:PZLinux---ID:3414468585
+
+Mod:PaniqeurTrait---ID:3393305357
+
+Mod:Party System---ID:3395761583
+
+Mod:Picking Meister---ID:3422220305
+
+Mod:Pomp's Items - Just the Food---ID:2792348686
+
+Mod:Pomp's Items - My Little Pony---ID:2792387747
+
+Mod:Prism Power---ID:3235103558
+
+Mod:Project Fallout The Caravan Shotgun---ID:3400681835
+
+Mod:Project Fallout: GunRunner---ID:3434691822
+
+Mod:Project Fallout: Rob-Co Pip-Boy 3000 [B42]---ID:3461031530
+
+Mod:Pump Pury---ID:2890440427
+
+Mod:Rangers 7: [Operator] [Armor Pack]---ID:3452171674
+
+Mod:Reaper's Hair & Beard---ID:3450583954
+
+Mod:Rechargeable Batteries---ID:3385623534
+
+Mod:Repairable Windows---ID:3378304610
+
+Mod:RestoreUtilities---ID:3409422147
+
+Mod:Risky Unarmed---ID:3434796669
+
+Mod:S4 Economy[Shop]---ID:3480405054
+
+Mod:SafeLogin---ID:2876897619
+
+Mod:Seesaw Game---ID:3515515643
+
+Mod:Shield Mode (Secondary Hand Equip) (B41/B42)---ID:3383001527
+
+Mod:Show Sowing Season In Seed Tooltip---ID:3404461962
+
+Mod:Simple Overhaul: Traits and Occupations (SOTO)---ID:2840805724
+
+Mod:Simple Show XP---ID:2891170430
+
+Mod:Simple Skill Books---ID:3291799176
+
+Mod:Smart Hutch---ID:3556857572
+
+Mod:Sound Scouter---ID:3366600816
+
+Mod:Spear Traps---ID:2640351732
+
+Mod:Spear fishing | Рыбалка копьём---ID:3539114542
+
+Mod:Spongie's Character Customisation---ID:3414634809
+
+Mod:Spongie's Character Retexture---ID:3340255334
+
+Mod:Starving Zombies [B42]---ID:3396867685
+
+Mod:Stealth Camo---ID:2762398967
+
+Mod:Tactical Weapons---ID:2324223029
+
+Mod:Tariq's Beards B42---ID:3471821554
+
+Mod:Tetriz - Arcade Minigame---ID:3486780625
+
+Mod:The Last of Us: Factions & Gear [B41/B42]---ID:3348036710
+
+Mod:Thief Expansion---ID:2596620950
+
+Mod:Toppling Zombies [B42]---ID:3425038705
+
+Mod:Traits Purchase System---ID:3211693903
+
+Mod:US Military Pack (BUILD 41/42)---ID:612100872
+
+Mod:Universal Gun Repair---ID:2899457928
+
+Mod:VSMR Face for Spongie's Character Customisation---ID:3415572170
+
+Mod:Vanilla DuffelBag Tweak---ID:2959854619
+
+Mod:Vanilla MRE [B41/B42]---ID:3100032203
+
+Mod:Vanilla-Like Traits and Occupations---ID:3139034529
+
+Mod:Wandering Zombies---ID:2983905789
+
+Mod:Washing Menus Improved---ID:3460812542
+
+Mod:Wearable Towels---ID:3203159242
+
+Mod:Wild Fruits---ID:2618566294
+
+Mod:Woodcutting Skill [B42]---ID:3434440605
+
+Mod:Zombaroid---ID:3519916139
+
+Mod:[A&M] New Frontier: Hair Salon---ID:3387569160
+
+Mod:[B41/B42] Toughness Skill---ID:3545533939
+
+Mod:[B42/41] KATTAJ1 Military Pack---ID:3079948242
+
+Mod:[B42/41] Read Book Bypassing Level Restrictions---ID:3319538177
+
+Mod:[B42/41] Modern & Historical Firearms Bundle---ID:3383901556
+
+Mod:[B42] Bag Upgrade Ultra---ID:3407793320
+
+Mod:[B42] Extended Battery Life---ID:3387462212
+
+Mod:[B42] Functional Gutters---ID:3439305933
+
+Mod:[B42] HDCP Immersive Vehicle Paint---ID:3464606086
+
+Mod:[B42] Intuitive Crafting---ID:3486217110
+
+Mod:[B42] JunkFoodsPH (WIP)---ID:3390901679
+
+Mod:[B42] Kick Scooter!---ID:3453879909
+
+Mod:[B42] Knox Event Expanded NPC mod [alpha v0.2.24]---ID:3397396843
+
+Mod:[B42] More Item Information---ID:3494474677
+
+Mod:[B42] Nik's Hairstyles---ID:3401996053
+
+Mod:[B42] Pack Mule---ID:3418366421
+
+Mod:[B42] Post Apocalyptic Weapons---ID:3472334215
+
+Mod:[B42] Skateboard!---ID:3456675747
+
+Mod:[B42] The Defiler from DR2---ID:3492621786
+
+Mod:[B42]Pallontras Crossbows---ID:3400528439
+
+Mod:[J&G] Alpine Multicam Uniform---ID:3303746488
+
+Mod:[J&G] Desert Multicam Uniform---ID:3299457564
+
+Mod:[J&G] Forest Multicam Uniform---ID:3309971624
+
+Mod:[J&G] SWAT Uniform [B42/41]---ID:3457969588
+
+Mod:[J&G] Trauma Responder Uniform---ID:3443982326
+
+Mod:[J&G] XKU Uniform---ID:3276134387
+
+Mod:[Project Fallout] The Beginning---ID:3461117277
+
+Mod:darlak's H.E.C.U.---ID:3452711271

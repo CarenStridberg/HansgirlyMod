@@ -1,0 +1,25 @@
+Stash_CN = {
+---Stealth Camo---(2762398967)---
+    Stash_P4StealthCamoMap1_Text1 = "7月6日，Giga超市发生抢劫案。",
+    Stash_P4StealthCamoMap1_Text2 = "因嫌犯伸手去拿腰带上的装置，不得已开枪射击。",
+    Stash_P4StealthCamoMap1_Text3 = "左腿贯通伤较轻，已送往Rosewood监狱医疗科。",
+    Stash_P4StealthCamoMap1_Text4 = "嫌犯试图使用的装置详情不明，但接到政府紧急回收通知。",
+
+    Stash_P4StealthCamoMap2_Text1 = "关于昨日向您汇报的可疑信件一事。",
+    Stash_P4StealthCamoMap2_Text2 = "收件地址似乎是路易维尔Grand Ohio商场的药店。",
+    Stash_P4StealthCamoMap2_Text3 = "本想请示部长后联系警方，目前尚未通报。",
+    Stash_P4StealthCamoMap2_Text4 = "附言：这里的店长风评似乎不太好呢...",
+
+    Stash_P4StealthCamoMap3_Text1 = "钱已收到，货藏在Crossroads商场。",
+    Stash_P4StealthCamoMap3_Text2 = "所谓"藏木于林"，剩下的自己想办法。",
+    Stash_P4StealthCamoMap3_Text3 = "你这家伙品味真特别，小心别被条子逮到！",
+    Stash_P4StealthCamoMap3_Text4 = "- 您亲爱的商业伙伴 -",
+
+    Stash_P4StealthCamoMap4_Text1 = "在遥远的西部军事研究所，有某项最新技术的研发资料。",
+    Stash_P4StealthCamoMap4_Text2 = "只要得到它，区区低智商丧尸不足为惧。",
+    Stash_P4StealthCamoMap4_Text3 = "不论是谁，请替我给那些夺走我家人的丧尸一点颜色看看...",
+    Stash_P4StealthCamoMap4_Text4 = "1+1+1=3",
+    Stash_P4StealthCamoMap4_Text5 = "2+1=3",
+    Stash_P4StealthCamoMap4_Text6 = "3=Rcp",
+    Stash_P4StealthCamoMap4_Text7 = "Rcp(3+3)=∞",
+}

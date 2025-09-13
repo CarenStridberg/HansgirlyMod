@@ -19,4 +19,19 @@ MakeUp_CN = {
 	MakeUpType_FullFaceCorpsepaint2 = "尸脸彩绘·纹章",
 	MakeUpType_FullFaceCorpsepaint3 = "尸脸彩绘·经典",
 	MakeUpType_FullFacePaleskin = "苍白粉底",
+
+---Prism Power---(3235103558)---
+	MakeUpType_P4EyesShadowBlue = "眼影 PP蓝色",
+	MakeUpType_P4EyesShadowIndigo = "眼影 PP靛蓝",
+	MakeUpType_P4EyesShadowOrange = "眼影 PP橙色",
+	MakeUpType_P4EyesShadowRed = "眼影 PP红色",
+	MakeUpType_P4EyesShadowViolet = "眼影 PP紫罗兰",
+	MakeUpType_P4EyesShadowYellow = "眼影 PP黄色",
+	MakeUpType_P4LipsBlue = "唇膏 PP蓝色",
+	MakeUpType_P4LipsGreen = "唇膏 PP绿色",
+	MakeUpType_P4LipsIndigo = "唇膏 PP靛蓝",
+	MakeUpType_P4LipsOrange = "唇膏 PP橙色",
+	MakeUpType_P4LipsRed = "唇膏 PP红色",
+	MakeUpType_P4LipsViolet = "唇膏 PP紫罗兰",
+	MakeUpType_P4LipsYellow = "唇膏 PP黄色",
 }

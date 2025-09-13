@@ -1075,4 +1075,416 @@ ContextMenu_CN = {
 	ContextMenu_NVG_UP = "抬起夜视镜",
 	ContextMenu_NVG_UP-HeadStrap = "抬起夜视镜 (头带)",
 
+---Thief Expansion---(2596620950)---
+	ContextMenu_P4ThiefExpansion_Hide = "隐藏",
+	ContextMenu_P4ThiefExpansion_Steal = "偷窃",
+
+---Spear Traps---(2640351732)---
+	ContextMenu_AddSpearToGrave = "将长矛插进坑里",
+	ContextMenu_CS_Equip = "装备",
+	ContextMenu_Pry_open = "撬开",
+	ContextMenu_RemoveSpearFromGrave = "从坑里拔出长矛"
+	ContextMenu_WashEquippedOnly = "仅清洗已装备的装备 ",
+	ContextMenu_WashUnequippedOnly = "仅清洗未装备的装备 ",
+	ContextMenu_WashWeaponsOnly = "仅清洗武器 ",
+
+---Manage Containers---(2650547917)---
+	ContextMenu_Configure_Container = "配置容器"
+	ContextMenu_Put_Assigned_Containers = "放入指定容器",
+
+---Ammo Maker---(2788256295)---
+	ContextMenu_Ammo_Maker = "弹药制作台",
+	ContextMenu_Bird_Feeder = "鸟食投放器",
+	ContextMenu_Description_0 = "白天将种子转化为鸟类排泄物。这是静态版的觅食替代方案。",
+	ContextMenu_Description_1 = "所需材料："
+	ContextMenu_Description_10 = "/4"
+	ContextMenu_Description_2 = "木板"
+	ContextMenu_Description_3 = "/2"
+	ContextMenu_Description_4 = "钉子"
+	ContextMenu_Description_5 = "所需工具："
+	ContextMenu_Description_6 = "锤子"
+	ContextMenu_Description_7 = "锯子"
+	ContextMenu_Description_8 = "所需技能："
+	ContextMenu_Description_9 = "木工"
+	ContextMenu_Tooltip_0 = "按下"
+	ContextMenu_Tooltip_1 = "键可在建造时旋转"
+
+---Pomp's Items - Just the Food---(2792348686)---
+	ContextMenu_EvolvedRecipe_PIMacCheese = "通心粉和奶酪",
+	ContextMenu_EvolvedRecipe_PIPizza = "即食披萨",
+	ContextMenu_PlayWith = "玩耍",
+
+---Pomp's Items - My Little Pony---(2792387747)---
+	ContextMenu_PlayWith = "玩耍"
+
+---Love and Perfume---(2842359380)---
+	ContextMenu_P4LoveAndPerfume_FragranceCheck = "检查香味",
+	ContextMenu_P4LoveAndPerfume_UsePerfume = "使用香水",
+
+---Excalibar---(2868777243)---
+	ContextMenu_P4Excalibar_CheckBook = "拆封检查",
+	IGUI_ItemCat_Legendary = "传说",
+
+---My So-Called Snack---(2877535263)---
+	ContextMenu_P4Zomboidman_LookSticker = "查看贴纸",
+
+---Pump Pury---(2890440427)---
+	ContextMenu_P4PumpPury_Inflate = "给充气噗噗充气",
+	ContextMenu_P4PumpPury_LookPoster = "查看海报",
+
+---Easy Laundry---(2925034918)---
+	ContextMenu_ELLaundry = "洗衣服务",
+	ContextMenu_ELLoadAll = "都放进去",
+	ContextMenu_ELLoadCarried = "放入携带的衣物",
+	ContextMenu_ELLoadWorn = "放入穿着的衣物",
+	ContextMenu_ELUnload = "拿回衣物",
+	ContextMenu_ELUnloadWear = "拿回并穿上",
+
+---Vanilla DuffelBag Tweak---(2959854619)---
+	ContextMenu_LowerBack = "装备在下背部",
+	ContextMenu_OnBack = "装备在背部",
+
+---Excalibolg---(3070446764)---
+	ContextMenu_P4Excalibolg_CheckExcalibolg = "查看圣剑波尔格",
+
+---Fancy Lanterns---(3267733558)---
+	ContextMenu_SWRechargeable_Full = "无法为已满的电池充电",
+	ContextMenu_SWRechargeable_Recharge = "充电",
+
+---Check Upstairs---(3300688173)---
+	ContextMenu_CheckBehindDoor = "检查门后情况",
+	ContextMenu_CheckThroughWindow = "透过窗户查看",
+
+---[B42/41] Read Book Bypassing Level Restrictions---(3319538177)---
+	ContextMenu_ReadBookBypassing_CheckBoost = "重新应用经验值增益"
+	ContextMenu_ReadBookBypassing_Reset = "重置已读页数",
+	ContextMenu_ReadBookBypassing_tooltip1 = "已经全部读过的书籍",
+	ContextMenu_ReadBookBypassing_tooltip2 = "未阅读前置书籍，无法阅读",
+
+---Infection Scanner---(3332296598)---
+	ContextMenu_CodeCheck = "获取代码检查页面",
+	ContextMenu_CodeList = "获取所有代码列表",
+	ContextMenu_EnableKeycard = "启用门禁卡授权",
+	ContextMenu_InfectionScanner_ChangeMode = "当前模式: %1",
+	ContextMenu_InfectionScanner_InsertBattery = "装入电池",
+	ContextMenu_InfectionScanner_ModeScanning = "扫描模式",
+	ContextMenu_InfectionScanner_ModeSporeDetector = "孢子检测模式",
+	ContextMenu_InfectionScanner_RemoveBattery = "取出电池",
+	ContextMenu_InfectionScanner_ScanHuman = "扫描人类",
+	ContextMenu_InfectionScanner_ScanYourself = "扫描自己",
+	ContextMenu_InfectionScanner_SwapBattery = "更换电池",
+	ContextMenu_Inspect = "检查",
+	ContextMenu_PlayAlarm = "警报",
+	ContextMenu_TerminalID = "按终端ID搜索安全码",
+	ContextMenu_UseKeycard = "使用安全门禁卡",
+	ContextMenu_Use_injector = "使用注射器",
+	ContextMenu_UserID = "按用户ID搜索安全码",
+
+---The Last of Us: Factions & Gear [B41/B42]---(3348036710)---
+	ContextMenu_BackLeft = "穿戴于左后侧"
+	ContextMenu_Bigger = "放大",
+	ContextMenu_Bigger = "放大尺寸",
+	ContextMenu_LegsLeft = "穿戴于左腿",
+	ContextMenu_LegsRight = "穿戴于右腿",
+	ContextMenu_Smaller = "缩小"
+	ContextMenu_Smaller = "缩小尺寸",
+	ContextMenu_UpVisor = "面罩抬起",
+
+---Sound Scouter---(3366600816)---
+	ContextMenu_P4SoundScouter_CheckScouter = "查看音波探测器显示",
+	ContextMenu_P4SoundScouter_ObtainScouter = "获取音波探测器",
+	ContextMenu_P4SoundScouter_ObtainScouterTooltip = "每个角色仅可获取一次。",
+
+---[B42/B41] Modern & Historical Firearms Bundle---(3383901556)---
+	ContextMenu_FireMode_HandGunAuto = "自动",
+	ContextMenu_FireMode_MHAuto = "自动",
+
+---Auto Reload---(3389448389)---
+	ContextMenu_AutoReload = "练习装填技能",
+
+---[B42] Knox Event Expanded NPC mod [alpha v0.2.24]---(3397396843)---
+	ContextMenu_KnoxEvent_Barricade = "封堵门窗",
+	ContextMenu_KnoxEvent_ClaimFreehand = "手动划定安全屋范围",
+	ContextMenu_KnoxEvent_Clean = "清理",
+	ContextMenu_KnoxEvent_Contact = "联络幸存者",
+	ContextMenu_KnoxEvent_DumpCorpses = "丢弃尸体",
+	ContextMenu_KnoxEvent_DumpLoot = "丢弃物资",
+	ContextMenu_KnoxEvent_Farm = "耕作",
+	ContextMenu_KnoxEvent_Follow = "跟随",
+	ContextMenu_KnoxEvent_ForceUnstuck = "强制脱困",
+	ContextMenu_KnoxEvent_Guard = "警戒",
+	ContextMenu_KnoxEvent_KnockHome = "敲门",
+	ContextMenu_KnoxEvent_LootBuilding = "搜刮建筑",
+	ContextMenu_KnoxEvent_OpenInventory = "查看NPC背包",
+	ContextMenu_KnoxEvent_Organize = "整理",
+	ContextMenu_KnoxEvent_Read = "阅读",
+	ContextMenu_KnoxEvent_Rest = "休息",
+	ContextMenu_KnoxEvent_Scavenge = "搜寻区域",
+	ContextMenu_KnoxEvent_Scout = "侦查区域",
+	ContextMenu_KnoxEvent_SendToSafehouse = "派往安全屋",
+	ContextMenu_KnoxEvent_Settings = "设置",
+	ContextMenu_KnoxEvent_Speak = "对话",
+	ContextMenu_KnoxEvent_Stay = "待命",
+	ContextMenu_KnoxEvent_TeleportSafehouse = "传送至安全屋",
+	ContextMenu_KnoxEvent_Wash = "清洗",
+	ContextMenu_PreferredWeapon = "设置主武器",
+	ContextMenu_SafehouseAdjust = "调整安全区",
+	ContextMenu_SafehouseClaimFreehand = "手绘安全区",
+	ContextMenu_SafehouseSwitch = "切换安全屋",
+
+---Ash's MK8 Trusty FireFighter Axe---(3400045232)---
+	ContextMenu_FlipRuggedCapForward = "正戴棒球帽？"
+	ContextMenu_ReverseRuggedCap = "反戴棒球帽？",
+
+---N&C's Narcotics---(3404956403)---
+	ContextMenu_Snort = "吸食",
+	ContextMenu_Snort1Line = "吸食一条",
+	ContextMenu_TakePill = "服用一粒",
+
+---ArcherLib---(3408337281)---
+	ContextMenu_Sample = "示例文本",
+
+---RestoreUtilities---(3409422147)---
+	ContextMenu_RU_Admin = "[RU] 管理员菜单",
+	ContextMenu_RU_Admin_Add = "维修设施 %1 天",
+	ContextMenu_RU_Admin_AddOne = "维修设施一天",
+	ContextMenu_RU_Admin_AddPower = "在此启用电力维修",
+	ContextMenu_RU_Admin_AddWater = "在此启用供水维修",
+	ContextMenu_RU_Admin_PowerSettings = "修改电力设施",
+	ContextMenu_RU_Admin_RemoveSpot = "在此禁用维修",
+	ContextMenu_RU_Admin_ShutDownUtility = "关闭设施",
+	ContextMenu_RU_Admin_WaterSettings = "修改供水设施",
+	ContextMenu_RU_BlackoutInProgressInfo = "<RGB:1,0.33,0>正在进行轮流停电 <RGB:1,1,1><LINE><LINE>",
+	ContextMenu_RU_BlackoutInProgressRepairs = "<RGB:1,0.33,0>正在进行轮流停电，维修暂时不可用 <RGB:1,1,1><LINE><LINE>",
+	ContextMenu_RU_ElecSkillRequired = "电气技能：%1/%2 <LINE>",
+	ContextMenu_RU_ElecSkillRequiredWithOffset = "电气技能：%1/%2 (+%3) <LINE>",
+	ContextMenu_RU_Elec_ContextName = "电网",
+	ContextMenu_RU_Elec_InfoTextOne = "当前电网状态：<LINE> <LINE> ",
+	ContextMenu_RU_FailChanceAccurate = " <LINE> <LINE> 维修成功几率：%1%",
+	ContextMenu_RU_FailChanceHigh = " <LINE> <LINE> <RGB:1,0.25,0> 维修失败的可能性非常高！",
+	ContextMenu_RU_FailChanceLow = " <LINE> <LINE> <RGB:0.5,1,0> 维修失败的可能性较低。",
+	ContextMenu_RU_FailChanceMid = " <LINE> <LINE> <RGB:1,1,0> 维修失败的可能性中等！",
+	ContextMenu_RU_FailChanceNone = " <LINE> <LINE> <RGB:0,1,0> 维修不可能失败！",
+	ContextMenu_RU_Failure1 = "进展不太顺利...",
+	ContextMenu_RU_Failure2 = "该死！",
+	ContextMenu_RU_Failure3 = "本可以做得更好...",
+	ContextMenu_RU_Failure4 = "这不对劲...",
+	ContextMenu_RU_Failure5 = "该死的！",
+	ContextMenu_RU_FuseCoilT1 = " %1 新线圈 (一级/二级) <LINE> %3 减少50%维修引起的噪音，并提高25%维修速度",
+	ContextMenu_RU_FuseCoilT2 = " %2 油浸线圈 (二级/二级) <LINE> %3 完全消除维修引起的噪音，并提高50%维修速度",
+	ContextMenu_RU_FuseInverterT1 = " %1 逆变器保险丝 (一级/二级) <LINE> %3 降低50%维修效率，但以25%效率修复相反的设施",
+	ContextMenu_RU_FuseInverterT2 = " %2 高级逆变器保险丝 (二级/二级) <LINE> %3 以50%效率修复相反的设施，不会降低维修效率",
+	ContextMenu_RU_FuseMarkedCompsT1 = " %1 粗略标记的组件 (一级/二级) <LINE> %3 减少50%维修失败几率，并提高1点有效电气技能",
+	ContextMenu_RU_FuseMarkedCompsT2 = " %2 精细标记的组件 (二级/二级) <LINE> %3 完全消除维修失败几率，并提高2点有效电气技能",
+	ContextMenu_RU_FuseNotesT1 = " %1 潦草的笔记 (一级/二级) <LINE> %3 增加10%维修经验值，并提供维修成功率的粗略估计",
+	ContextMenu_RU_FuseNotesT2 = " %2 详细的笔记 (二级/二级) <LINE> %3 增加20%维修经验值，并提供维修恢复服务天数的精确计数",
+	ContextMenu_RU_FuseRubberWiresT1 = " %1 绝缘电线 (一级/二级) <LINE> %3 移除维修所需的发电机知识，减少50%受伤几率",
+	ContextMenu_RU_FuseRubberWiresT2 = " %2 双层绝缘电线 (二级/二级) <LINE> %3 移除维修所需的发电机知识，并完全消除受伤几率",
+	ContextMenu_RU_FuseSparePartsT1 = " %1 备用零件 (一级/二级) <LINE> %3 提高25%维修效率，并减少25%维修成本",
+	ContextMenu_RU_FuseSparePartsT2 = " %2 全新零件 (二级/二级) <LINE> %3 提高50%维修效率，并减少50%维修成本",
+	ContextMenu_RU_FusesBuffs = " <LINE> <LINE> <RGB:1,1,1> 以下保险丝将被消耗：",
+	ContextMenu_RU_GenKnowledgeBypassed = " <RGB:0,1,0>使用绝缘电线",
+	ContextMenu_RU_GenKnowledgeNeeded = " <RGB:1,0,0>需要发电机知识",
+	ContextMenu_RU_HaveGenKnowledge = " <RGB:0,1,0>已掌握发电机知识",
+	ContextMenu_RU_InjuryChanceAccurate = " <LINE> 受伤几率：%1%",
+	ContextMenu_RU_InjuryChanceHigh = " <LINE> <RGB:1,0.25,0> 严重受伤的可能性非常高！",
+	ContextMenu_RU_InjuryChanceLow = " <LINE> <RGB:0.5,1,0> 轻微受伤的可能性较低。",
+	ContextMenu_RU_InjuryChanceMid = " <LINE> <RGB:1,1,0> 中度受伤的可能性较高！",
+	ContextMenu_RU_InjuryChanceNone = " <LINE> <RGB:0,1,0> 无受伤风险！",
+	ContextMenu_RU_NoFuses = " <LINE> <LINE> <RGB:1,1,1> 背包中没有保险丝！",
+	ContextMenu_RU_PlaceSpot = "放置维修点",
+	ContextMenu_RU_ScrapRequired = "电子零件：%1/%2 <LINE>",
+	ContextMenu_RU_SkillTooLow = "我的电气技能太低，无法理解这些！",
+	ContextMenu_RU_Success1 = "成功了！",
+	ContextMenu_RU_Success2 = "看起来运行正常！",
+	ContextMenu_RU_Success3 = "成功！",
+	ContextMenu_RU_Success4 = "太棒了！",
+	ContextMenu_RU_Success5 = "完美完成！",
+	ContextMenu_RU_UnableToRepairTime = "目前不需要维修。<LINE> <LINE> ",
+	ContextMenu_RU_UtilityDaysRemainingOne = "此系统将在约 %1 天内崩溃",
+	ContextMenu_RU_UtilityInfo = "信息",
+	ContextMenu_RU_UtilityOneDayLeft = "此系统很可能在接下来的24小时内崩溃 ",
+	ContextMenu_RU_UtilityRepair = "维修",
+	ContextMenu_RU_UtilityShutdownThisWeek = "此系统将在本周内崩溃",
+	ContextMenu_RU_UtilityStatusBad = "<RGB:1,0.3,0>系统故障即将发生 ",
+	ContextMenu_RU_UtilityStatusGood = "<RGB:0,1,0>完全正常运行 ",
+	ContextMenu_RU_UtilityStatusOff = "<RGB:1,0,0>离线 ",
+	ContextMenu_RU_UtilityStatusOkay = "<RGB:0.7,1,0>可能出现系统故障 ",
+	ContextMenu_RU_UtilityStatusWeak = "<RGB:1,1,0>系统故障可能性高 ",
+	ContextMenu_RU_UtilityWeeksRemainingMultiWeeksLeft = "此系统将在约 %1 周内崩溃",
+	ContextMenu_RU_UtilityWeeksRemainingSingleWeekLeft = "此系统将在约 %1 周内崩溃",
+	ContextMenu_RU_Water_ContextName = "供水网络",
+	ContextMenu_RU_Water_InfoTextOne = "当前供水网络状态：<LINE> <LINE> ",
+
+---[B42] Pack Mule---(3418366421)---
+	ContextMenu_WearAnkle = "脚踝",
+	ContextMenu_WearHip = "臀部",
+	ContextMenu_WristL2 = "左手腕",
+	ContextMenu_WristR = "右手腕",
+	ContextMenu_WristR2 = "右手腕",
+
+---Picking Meister---(3422220305)---
+	ContextMenu_P4PickingMeister_GrabAll = "拿取全部",
+	ContextMenu_P4PickingMeister_GrabContents = "拿取内容物",
+	ContextMenu_P4PickingMeister_GrabHalf = "拿取一半",
+	ContextMenu_P4PickingMeister_GrabOne = "拿取一个",
+	ContextMenu_P4PickingMeister_OpenBottleOfBeerAndDrink = "打开一瓶啤酒并饮用",
+	ContextMenu_P4PickingMeister_OpenBottleOfChampagneAndDrink = "打开一瓶香槟并饮用",
+	ContextMenu_P4PickingMeister_OpenBottleOfWineAndDrink = "打开一瓶葡萄酒并饮用",
+	ContextMenu_P4PickingMeister_OpenCanOfBeverageAndDrink = "打开一罐饮料并饮用",
+	ContextMenu_P4PickingMeister_OpenCannedFoodAndEat = "打开罐头并食用",
+	ContextMenu_P4PickingMeister_OpenCannedFoodWithBladeAndEat = "用刀打开罐头并食用",
+	ContextMenu_P4PickingMeister_OpenRingpullCannedFoodAndEat = "打开拉环罐头食品并食用",
+	ContextMenu_P4PickingMeister_RetrieveAllAmmo = "取出所有弹药",
+	ContextMenu_P4PickingMeister_TakeCigaretteAndSmoke = "拿一根香烟抽",
+
+---Gauss Firearms---(3429953336)---
+	Bag_Camelbak = "Camelbak三开背包",
+	Bag_CamelbakLeftHand = "Camelbak背包(左手)",
+	Bag_CamelbakRightHand = "Camelbak背包(右手)",
+	Bag_Paratus = "3V Gear战备背包",
+	Bag_ParatusRightHand = "3V背包(右手)",
+	Bag_Slingbag = "战术胸挂包",
+	Bag_SlingbagFront = "前挂战术胸包",
+	Bag_SlingbagLeftHand = "战术胸包(左手)",
+	Bag_SlingbagRightHand = "战术胸包(右手)"
+	ContextMenu_Gauss_ChargeBattery = "充电电池",
+	ContextMenu_Gauss_FullBattery = "电池已充满",
+	ContextMenu_Gauss_NoBattery = "物品栏中没有电池",
+	ContextMenu_Gauss_NoCharger = "物品栏中没有电池充电器",
+	ContextMenu_Gauss_Recharging = "正在充电中"
+	Sew3Daypack = "缝制LBT-1476A三日背包",
+	SewBerkutBackpack = "缝制Berkut战术背包",
+	SewBeta2 = "缝制Beta 2背包",
+	SewCamelbak = "缝制Camelbak三开背包",
+	SewMechanismBag = "缝制Oakley机械背包",
+	SewParatus = "缝制3V Gear战备背包",
+	SewPatrolpack = "缝制RK-PT-25巡逻背包",
+	SewPillbox = "缝制药盒背包",
+	SewRaidbag = "缝制6sh118突袭背包",
+	SewRush100bag = "缝制RUSH100突击背包",
+	SewSlingbag = "缝制小型战术挎包",
+
+---Lock Interiors---(3435709471)---
+	ContextMenu_LockWindow = "锁定窗口",
+	ContextMenu_PermaLockWindow = "用挂锁锁定窗口",
+	ContextMenu_UnlockWindow = "解锁窗口",
+
+---Military Ponchos: Reloaded---(3439247001)---
+	ContextMenu_DownHoodieS = "放下斗篷帽子",
+	ContextMenu_UpHoodieS = "拉起斗篷帽子",
+
+---Rangers 7: [Operator] [Armor Pack]---(3452171674)---
+	ContextMenu_AttachTacPouchToHipRight = "挂载至右侧",
+	ContextMenu_ChestMountDT = "DTC胸挂枪套",
+	ContextMenu_DeltaLeftSideSwap = "切换Delta枪套位置？[左侧]",
+	ContextMenu_DeltaRightSideSwap = "切换Delta枪套位置？[右侧]",
+	ContextMenu_Down3 = "翻转夜视仪？",
+	ContextMenu_Down4 = "翻转夜视仪？",
+	ContextMenu_Down5 = "翻转夜视仪？",
+	ContextMenu_Down6 = "翻转夜视仪？",
+	ContextMenu_FoldBoonie = "卷起奔尼帽？",
+	ContextMenu_Holster_visibleStyle = "佩戴枪套",
+	ContextMenu_Holster_visibleStyle1 = "佩戴枪套",
+	ContextMenu_JSOCDown = "翻转夜视仪？",
+	ContextMenu_JSOCUp = "翻转夜视仪？",
+	ContextMenu_PVS31Down = "展开双镜：[PVS31]夜视仪？",
+	ContextMenu_PVS31DownLeft = "展开左镜：[PVS31]夜视仪",
+	ContextMenu_PVS31DownRestPos = "收起镜筒：[PVS31]夜视仪？",
+	ContextMenu_PVS31DownRight = "展开右镜：[PVS31]夜视仪",
+	ContextMenu_PVS31Up = "收起至待命位置：[PVS31]夜视仪",
+	ContextMenu_RangerBagAtlas = "调整背包位置？[背部]",
+	ContextMenu_RangerBagAtlasDown = "调整背包位置？[备用]",
+	ContextMenu_T7High = "耳机佩戴模式？"
+	ContextMenu_UnFoldBoonie = "展开奔尼帽？",
+	ContextMenu_Up2 = "翻转夜视仪？",
+	ContextMenu_Up3 = "翻转夜视仪？",
+	ContextMenu_Up5 = "翻转夜视仪？",
+	ContextMenu_Up6 = "翻转夜视仪？",
+	ContextMenu_VPOff = "关闭V-PU",
+	ContextMenu_VPUon = "开启V-PU",
+
+---Eat Smart---(3456212729)---
+	ContextMenu_EatSmart = "智能进食 - 标准子菜单",
+	ContextMenu_EatSmartInt = "智能进食 - 整合模式",
+
+---Washing Menus Improved---(3460812542)---
+	ContextMenu_EatSmart = "智能进食 - 标准子菜单",
+
+---[Project Fallout] The Beginning---(3461117277)---
+	ContextMenu_PFO_VaultTec_Briefcase = "关闭避难所科技公文包"
+	ContextMenu_StartTriggerNuke = "启动避难所科技核弹发射器",
+	ContextMenu_StartTriggerNuke = "避难所科技：核打击程序"
+
+---[B42] HDCP Immersive Vehicle Paint---(3464606086)---
+	ContextMenu_IVP_ImmersiveVehiclePaint.AmethystAutomotiveSprayPaint = "紫水晶色",
+	ContextMenu_IVP_ImmersiveVehiclePaint.BlackAutomotiveSprayPaint = "黑色",
+	ContextMenu_IVP_ImmersiveVehiclePaint.BurgundyAutomotiveSprayPaint = "酒红色",
+	ContextMenu_IVP_ImmersiveVehiclePaint.CherryAutomotiveSprayPaint = "樱桃红",
+	ContextMenu_IVP_ImmersiveVehiclePaint.CoffeeAutomotiveSprayPaint = "咖啡色",
+	ContextMenu_IVP_ImmersiveVehiclePaint.GraphiteAutomotiveSprayPaint = "石墨灰",
+	ContextMenu_IVP_ImmersiveVehiclePaint.HazelAutomotiveSprayPaint = "榛子色",
+	ContextMenu_IVP_ImmersiveVehiclePaint.HotPinkAutomotiveSprayPaint = "艳粉色",
+	ContextMenu_IVP_ImmersiveVehiclePaint.HunterGreenAutomotiveSprayPaint = "猎户绿",
+	ContextMenu_IVP_ImmersiveVehiclePaint.LimeGreenAutomotiveSprayPaint = "酸橙色",
+	ContextMenu_IVP_ImmersiveVehiclePaint.MustardAutomotiveSprayPaint = "芥末黄",
+	ContextMenu_IVP_ImmersiveVehiclePaint.PearlWhiteAutomotiveSprayPaint = "珍珠白",
+	ContextMenu_IVP_ImmersiveVehiclePaint.SapphireAutomotiveSprayPaint = "蓝宝石色",
+	ContextMenu_IVP_ImmersiveVehiclePaint.SilverAutomotiveSprayPaint = "银色",
+	ContextMenu_IVP_ImmersiveVehiclePaint.SkyBlueAutomotiveSprayPaint = "天蓝色",
+	ContextMenu_IVP_ImmersiveVehiclePaint.TangerineAutomotiveSprayPaint = "橘红色",
+	ContextMenu_IVP_ImmersiveVehiclePaint.VioletAutomotiveSprayPaint = "紫罗兰色",
+	ContextMenu_IVP_ImmersiveVehiclePaint.WhiteAutomotiveSprayPaint = "白色",
+	ContextMenu_IVP_Paint = "喷涂车辆",
+	ContextMenu_IVP_Prime = "底漆处理",
+	ContextMenu_IVP_Sand = "打磨车辆",
+
+---Cerberus Pack [B41/B42]---(3470478700)---
+	ContextMenu_DownJacketOpen = "放下兜帽并敞开",
+	ContextMenu_DownJacketOpenRolledUpSleeves = "放下兜帽、敞开并卷起袖子",
+	ContextMenu_DownJacketRolledUpSleeves = "放下兜帽并卷起袖子",
+	ContextMenu_FaceShield_DOWN = "放下面罩",
+	ContextMenu_FaceShield_UP = "掀开面罩",
+	ContextMenu_HeadsetsHelmet = "戴在头盔下",
+	ContextMenu_HipLeft = "左侧臀部",
+	ContextMenu_HipLeftArmor = "左侧臀部装甲",
+	ContextMenu_HipRight = "右侧臀部",
+	ContextMenu_HipRightArmor = "右侧臀部装甲",
+	ContextMenu_JacketOpen = "敞开",
+	ContextMenu_JacketRolledUpSleeves = "卷起袖子",
+	ContextMenu_NoBelts = "无绑带",
+	ContextMenu_PutOn = "穿上",
+	ContextMenu_RollUpPants = "卷起裤腿",
+	ContextMenu_Tight = "收紧",
+	ContextMenu_TuckPants = "扎进裤子",
+	ContextMenu_UpJacketOpen = "竖起兜帽并敞开",
+	ContextMenu_UpJacketOpenRolledUpSleeves = "竖起兜帽、敞开并卷起袖子",
+	ContextMenu_UpJacketRolledUpSleeves = "竖起兜帽并卷起袖子",
+
+---S4 Economy[Shop]---(3480405054)---
+	ContextMenu_S4_ATM_Use = "使用ATM",
+	ContextMenu_S4_BuyBox_Open = "打开收货箱",
+	ContextMenu_S4_Cash_Check = "检查现金",
+	ContextMenu_S4_Cash_Check_All = "检查全部现金",
+	ContextMenu_S4_Com_On = "启动电脑",
+	ContextMenu_S4_Com_PowerBar_Install = "安装电脑电源条",
+	ContextMenu_S4_Com_Satellite_Install = "连接卫星天线",
+	ContextMenu_S4_Com_Use = "使用电脑",
+	ContextMenu_S4_PostBox_Sell = "放入寄售箱",
+	ContextMenu_S4_Signal_Install = "安装信号器",
+
+---Spear fishing | Рыбалка копьём---(3539114542)---
+	ContextMenu_InventoryFull = "背包已满",
+	ContextMenu_SpearBigFishCaught = "捕到一条大鱼",
+	ContextMenu_SpearBroke = "鱼叉断了！",
+	ContextMenu_SpearBroken = "我的鱼叉断了！",
+	ContextMenu_SpearFishCaught = "捕到一条鱼",
+	ContextMenu_SpearFishingAction = "鱼叉捕鱼",
+	ContextMenu_SpearFishingDepleted = "这片水域没鱼了",
+	ContextMenu_SpearFishingDepletedTooltip = "这里的鱼群暂时枯竭了。改天再来吧。<br>或者去更远的地方试试。",
+	ContextMenu_SpearFishingFishOut = "鱼都被捕光了，明天再来吧",
+	ContextMenu_SpearNothing = "一无所获",
+	ContextMenu_SpearTrashCaught = "捞到垃圾...",
+	ContextMenu_SpearWear = "鱼叉出现磨损",
+	ContextMenu_SpearWear = "鱼叉有些损坏",
 }
