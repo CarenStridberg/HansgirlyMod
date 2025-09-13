@@ -533,4 +533,10 @@ Moveables_CN = {
 
 ---Tetriz - Arcade Minigame---(3486780625)---
 	Furniture_MetalBox = "俄罗斯方块",
+    
+---Support Goods Mega Mod [B42.4] - Blizzard Update - SEMI-STABLE---(3434464110)---
+	CampShower = "露营淋浴器"
+	FuelLantern = "燃油提灯",
+	PortableElectricStove = "便携式电炉",
+	PortableGenerator = "便携式发电机",
 }

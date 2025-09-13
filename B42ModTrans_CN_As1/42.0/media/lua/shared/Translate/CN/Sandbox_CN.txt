@@ -4789,4 +4789,33 @@ Sandbox_CN = {
 	Sandbox_USMP_UCP_Zombies_default = "UCP制服丧尸生成概率-默认区域",
 	Sandbox_USMP_UCP_Zombies_default_tooltip = "设定在全地图随机区域遇到穿着UCP制式装备丧尸的概率",
 	Sandbox_USMP_UCP_Zombies_tooltip = "设定在军事基地和秘密基地遇到穿着UCP制式装备丧尸的概率",
+	
+---Support Goods Mega Mod [B42.4] - Blizzard Update - SEMI-STABLE---(3434464110)---
+	Sandbox_Heater.Multiplier = "加热器温度系数",
+	Sandbox_MRE.ReplaceOnUse_Package = "口粮包使用后替换",
+	Sandbox_MRE.UnhappyChange = "随机满意度变化",
+	Sandbox_MRE.UnhappyChange_Max = "随机最大值",
+	Sandbox_MRE.UnhappyChange_tooltip = "如果启用，准备口粮时会随机应用最小值和最大值之间的满意度变化。注意：负值表示开心，正值表示不开心。",
+	Sandbox_SpawnAlcoholBrewing = "酿酒设备生成率 (1=正常, 0=无)",
+	Sandbox_SpawnBrandClothes = " parody品牌服装生成率 (1=正常, 0=无)",
+	Sandbox_SpawnCampingEquipment = "露营装备生成率 (1=正常, 0=无)",
+	Sandbox_SpawnCanning = "罐头设备生成率 (1=正常, 0=无)",
+	Sandbox_SpawnCigarettes = "新型香烟生成率 (1=正常, 0=无)",
+	Sandbox_SpawnComputerItems = "电脑物品生成率 (1=正常, 0=无)",
+	Sandbox_SpawnDairyProduction = "乳制品生产设备生成率 (1=正常, 0=无)",
+	Sandbox_SpawnDrugs = "药品生成率 (1=正常, 0=无)",
+	Sandbox_SpawnEasterEgg = "彩蛋物品(1件)生成率 (1=正常, 0=无)"
+	Sandbox_SpawnFabricRoll = "布料卷生成率 (1=正常, 0=无)",
+	Sandbox_SpawnFarming = "农用物资生成率 (1=正常, 0=无)",
+	Sandbox_SpawnGroceries = "食品杂货生成率 (1=正常, 0=无)",
+	Sandbox_SpawnGunpowderPaper = "火药和纸张制作物品生成率 (1=正常, 0=无)",
+	Sandbox_SpawnHeatersCoolers = "加热器和空调生成率 (1=正常, 0=无)",
+	Sandbox_SpawnHoneymaking = "蜂蜜制作物品生成率 (1=正常, 0=无)",
+	Sandbox_SpawnMRE = "MRE生成率 (1=正常, 0=无)",
+	Sandbox_SpawnMedicine = "新型药品生成率 (1=正常, 0=无)",
+	Sandbox_SpawnSealedProduce = "密封农产品生成率 (1=正常, 0=无)",
+	Sandbox_SpawnTradeSystem = "卫星电话(交易系统)生成率 (1=正常, 0=无)",
+	Sandbox_SpawnTransferPrint = "转印印刷品生成率 (1=正常, 0=无)",
+	Sandbox_SupportCorps = "后勤部队设置",
+
 }
