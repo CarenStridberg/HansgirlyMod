@@ -2477,6 +2477,10 @@ IGUI_CN = {
         IGUI_VehiclePartDAMNFenderRearRight = "右后翼子板",
         IGUI_VehiclePartToolboxLidRight = "右侧工具箱盖",
         IGUI_VehiclePartToolboxLidLeft = "左侧工具箱盖",
+        IGUI_VehiclePartDAMNGasCanFour = "汽油罐",
+        IGUI_VehiclePartDAMNPropaneTankThree = "丙烷罐",
+        IGUI_VehiclePartSeatFrontMiddle = "中间座椅",
+
     
     ---Trailers!---(3330403100)---
         IGUI_VehicleNameTrailerKI5utilityLarge = "大型工具拖车",

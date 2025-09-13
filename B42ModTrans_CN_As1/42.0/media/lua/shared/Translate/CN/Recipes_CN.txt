@@ -1566,6 +1566,8 @@ Recipe_CN = {
                         Recipe_USMIL.DismantleCrate = "拆除木箱",
                         Recipe_USMIL.DismantleGasCan = "拆除桶罐",
                         Recipe_USMIL.DismantleViewport = "拆除观察窗",
+                        Recipe_damnCraft.DismantleMetalPart = "拆解金属零件",
+                        Recipe_damnCraft.DismantleTireMediumTwo = "拆解中型轮胎",
                 /* runFlat */
                         Recipe_runFlat.MakeLargeTire = "制作大型防爆轮胎",
                         Recipe_runFlat.MakeLarge2TireAxle = "制作双轮防爆车轴",
