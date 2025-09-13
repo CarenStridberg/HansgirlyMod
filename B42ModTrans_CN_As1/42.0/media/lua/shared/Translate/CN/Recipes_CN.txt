@@ -1524,6 +1524,7 @@ Recipe_CN = {
         Recipe_Sew_Dust_Cloth = "缝制抹布",
         Recipe_Knit_Bath_Towel = "编织浴巾",
         Recipe_Sew_Dust_Cloth_Form_Hand_Towel = "从手巾缝制抹布",
+        Recipe_Sew_Dust_Cloth_From_Hand_Towel = 用手巾缝制抹布",
         Recipe_Rip_Dust_Cloth = "撕裂抹布",
 
 ---Metal Spears---(2927603127)---
@@ -3158,10 +3159,14 @@ Recipe_CN = {
         Recipe_ATASamaraHoodItem = "切割萨马拉骑士引擎盖",
 
 ---Baby Animal Food---(3422249642)---
-        Recipe_MakeFeedForPiglet = "制作猪仔饲料",
-        Recipe_MakeFeedForRabkitten = "制作小兔饲料",
-        Recipe_MakeFeedForCowcalf = "制作牛犊饲料",
-        Recipe_MakeFeedForLamb = "制作羊羔饲料",
+        MakeFeedForCowcalf = "为小牛犊制作饲料",
+        MakeFeedForLamb = "为小羊羔制作饲料",
+        MakeFeedForPiglet = "为小猪制作饲料",
+        MakeFeedForRabkitten = "为小兔子制作饲料",
+        Recipe_MakeFeedForPiglet = "为小猪制作饲料",
+        Recipe_MakeFeedForRabkitten = "为小兔子制作饲料",
+        Recipe_MakeFeedForCowcalf = "为小牛犊制作饲料",
+        Recipe_MakeFeedForLamb = "为小羊羔制作饲料",
 
 ---More Wood To Charcoal---(3425726710)---
         Recipe_MakeWoodCharcoalLargeBranch="使用大树枝制作木炭",

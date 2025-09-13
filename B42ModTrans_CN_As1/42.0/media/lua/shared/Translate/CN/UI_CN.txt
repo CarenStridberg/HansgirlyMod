@@ -260,9 +260,14 @@ UI_CN = {
     UI_TrueMusicRadio_sayneedsgenerator = "我需要附近的发电机来为其供电.",
 
 ---Decoholic---(3197857648)---
-    UI_P4Decoholic_Select = "选择",
-    UI_P4Decoholic_Default = "默认",
-    UI_P4Decoholic_Rotate = "* 更改旋转（R）会清除当前值.",
+   UI_P4Decoholic_Select = "选择",
+	UI_P4Decoholic_Default = "默认",
+	UI_P4Decoholic_Rotate = "* 更改旋转 (R) 会清除当前值.",
+	UI_P4Decoholic_Empty = "总是空的",
+	UI_P4Decoholic_Options_OffsetRange_Name = "偏移范围",
+	UI_P4Decoholic_Options_OffsetRange_Tooltip = "你可以把项目的位置偏移范围扩展为从负值到正值.",
+
+
 
 ---[B42/B41] PZK VLC (Vanilla look-like car pack)---(3217685049)---
     UI_Text_Towing_noAviableVehicles = "没有可连接的车辆<br>或无法连接",

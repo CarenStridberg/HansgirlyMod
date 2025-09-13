@@ -2574,6 +2574,8 @@ ItemName_CN = {
     ItemName_Base.HandTowel = "手巾",
     ItemName_Base.DustCloth = "抹布",
     ItemName_Base.BathTowel_Crafted = "手工浴巾",
+    ItemName_Base.BathTowel = "毛巾",
+    ItemName_Base.DishCloth = "抹布",
 
 ---Metal Spears---(2927603127)---
     ItemName_MetalSpears.MetalSpearLargeKnife = "金属矛(大刀)",

@@ -506,7 +506,7 @@ Sandbox_CN = {
 
 ---Decoholic---(3197857648)---
     Sandbox_P4Decoholic_EnableAdjustPosition = "启用调整物品位置",
-    Sandbox_P4Decoholic_EnableAdjustPosition_tooltip = "启用调整物品位置功能.（Decoholic）",
+    Sandbox_P4Decoholic_EnableAdjustPosition_tooltip = "启用调整物品位置功能. (Decoholic)",
 
 ---Gyde's Trait Magazines---(3342191739)---
     Sandbox_GydeTraitMags = "Gyde的特质杂志",

@@ -564,4 +564,10 @@ Moodles_CN = {
 	Moodles_NnCWeed_Good_lvl2 = "大麻兴奋",
 	Moodles_NnCWeed_Good_lvl3 = "大麻放松",
 	Moodles_NnCWeed_Good_lvl4 = "大麻初显",
+
+---AutoTailoring---(3388183573)---
+	Moodles_ClothingHole_Bad_lvl2 = "你感觉寒风吹过你破烂的衣服.",
+	Moodles_ClothingHole_Custom = "是时候修复衣服上的 %1 个洞了.",
+	Moodles_ClothingHole_Good_lvl2 = "你的旧衣服上不再有破洞.",
+
 }
