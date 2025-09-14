@@ -5854,4 +5854,11 @@ IGUI_CN = {
 ---[B41/B42] Toughness Skill---(3545533939)---
 	IGUI_perks_Toughness = "坚韧不拔",
 	IGUI_perks_Toughness_Description = "降低恐慌、疼痛和不适感。",
+
+---[B42/41] Improved Farming Info Window---(3470852353)---
+    IGUI_ImprovedFarmingInfoWindow_IsCursed = "受诅咒",
+
+---[B42] Noir's Rifle Slings---(3388107363)---
+    IGUI_CraftCategory_Tailoring = "缝纫",
+
 }

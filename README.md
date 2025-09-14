@@ -870,3 +870,11 @@ Mod:[B42] Better Sorting---ID:3413005308
 Mod:[B42/41] Keep Skill Level---ID:3314107094
 
 Mod:'65 Pontiac Banshee---ID:3566868353
+
+od:Autotsar Bus B42---ID:3402812859
+
+Mod:[B42] Noir's Rifle Slings---ID:3388107363
+
+Mod:[B42] Wallet Fix---ID:3400142576
+
+Mod:[B42] Bag Upgrade Plus---ID:3403697073

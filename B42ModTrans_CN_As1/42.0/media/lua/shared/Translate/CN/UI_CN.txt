@@ -3441,4 +3441,8 @@ UI_CN = {
     UI_moredesc_Forge = "锻造炉"
     UI_moredesc_Knitting = "编织"
     UI_moredesc_Knit = "编织物品"
+
+---[B42] Noir's Rifle Slings---(3388107363)---
+	UI_optionscreen_binding_SlingBindings = "额外的快捷键",
+
 }

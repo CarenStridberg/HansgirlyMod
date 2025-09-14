@@ -1487,4 +1487,14 @@ ContextMenu_CN = {
 	ContextMenu_SpearTrashCaught = "捞到垃圾...",
 	ContextMenu_SpearWear = "鱼叉出现磨损",
 	ContextMenu_SpearWear = "鱼叉有些损坏",
+
+---[B42/41] Automatic Stove Shutoff---(3526968739)---
+	ContextMenu_AutomaticStoveShutoffOnOff = "自动关闭烹饪台 - 关闭",
+
+---[B42] Noir's Rifle Slings---(3388107363)---
+	ContextMenu_SlingStyle1 = "正面 \ (从左上到右下)",
+	ContextMenu_SlingStyle2 = "正面 / (从右上到左下)",
+	ContextMenu_SlingStyle3 = "正面 -- (横置)",
+	ContextMenu_SlingStyle4 = "背面",
+
 }

@@ -4299,6 +4299,7 @@ Recipe_CN = {
 	Recipe_PlaceModernBoltsInBundle = "捆扎现代弩箭",
 	Recipe_PlacePrimitiveArrowsInBundle = "捆扎简易箭",
 	Recipe_PlacePrimitiveBoltsInBundle = "捆扎简易弩箭",
+        Recipe_OpenBundleOfModernBolts = "打开现代弩箭捆",
 
 ---Ducks+---(3409153536)---
 	Recipe_Inflate_Black_DuckBalloon = "吹胀黑色鸭子气球",
@@ -5570,4 +5571,50 @@ Recipe_CN = {
 	Recipe_UnrollThread   = "展开线卷",
 	Recipe_UseHandwarmer = "使用暖手宝",
 
+---[B42] Customisable Containers---(2719850086)---
+        Recipe_Craft_Blue_Refrigerator_Tier_1 = "1 级自制蓝色冰箱",
+        Recipe_Craft_Cardboard_Box_Tier_1 = "1 级自制纸板箱",
+        Recipe_Craft_Carpentry_Upgrade_Kit_Tier_2 = "2 级自制木工升级套装",
+        Recipe_Craft_Carpentry_Upgrade_Kit_Tier_3 = "3 级自制木工升级套装",
+        Recipe_Craft_Carpentry_Upgrade_Kit_Tier_4 = "4 级自制木工升级套装",
+        Recipe_Craft_Carpentry_Upgrade_Kit_Tier_5 = "5 级自制木工升级套装",
+        Recipe_Craft_Carpentry_Upgrade_Kit_Tier_6 = "6 级自制木工升级套装",
+        Recipe_Craft_Carpentry_Upgrade_Kit_Tier_7 = "7 级自制木工升级套装",
+        Recipe_Craft_Carpentry_Upgrade_Kit_Tier_8 = "8 级自制木工升级套装",
+        Recipe_Craft_Crate_Tier_1 = "1 级自制板条箱",
+        Recipe_Craft_Electrical_Upgrade_Kit_Tier_2 = "2 级自制电工升级套装",
+        Recipe_Craft_Electrical_Upgrade_Kit_Tier_3 = "3 级自制电工升级套装",
+        Recipe_Craft_Electrical_Upgrade_Kit_Tier_4 = "4 级自制电工升级套装",
+        Recipe_Craft_Electrical_Upgrade_Kit_Tier_5 = "5 级自制电工升级套装",
+        Recipe_Craft_Electrical_Upgrade_Kit_Tier_6 = "6 级自制电工升级套装",
+        Recipe_Craft_Electrical_Upgrade_Kit_Tier_7 = "7 级自制电工升级套装",
+        Recipe_Craft_Electrical_Upgrade_Kit_Tier_8 = "8 级自制电工升级套装",
+        Recipe_Craft_Fanny_Pack = "自制腰包",
+        Recipe_Craft_Green_Refrigerator_Tier_1 = "1 级自制绿色冰箱",
+        Recipe_Craft_Half_Crate_Tier_1 = "1 级自制对开板条箱",
+        Recipe_Craft_Ice_Freezer_Tier_1 = "1 级自制冰柜",
+        Recipe_Craft_Metal_Cabinet_Tier_1 = "1 级自制金属壁橱",
+        Recipe_Craft_Metal_Crate_Tier_1 = "1 级自制金属板条箱",
+        Recipe_Craft_Metalworking_Upgrade_Kit_Tier_2 = "2 级自制金工升级套装",
+        Recipe_Craft_Metalworking_Upgrade_Kit_Tier_3 = "3 级自制金工升级套装",
+        Recipe_Craft_Metalworking_Upgrade_Kit_Tier_4 = "4 级自制金工升级套装",
+        Recipe_Craft_Metalworking_Upgrade_Kit_Tier_5 = "5 级自制金工升级套装",
+        Recipe_Craft_Metalworking_Upgrade_Kit_Tier_6 = "6 级自制金工升级套装",
+        Recipe_Craft_Metalworking_Upgrade_Kit_Tier_7 = "7 级自制金工升级套装",
+        Recipe_Craft_Metalworking_Upgrade_Kit_Tier_8 = "8 级自制金工升级套装",
+        Recipe_Craft_Military_Crate_Tier_1 = "1 级自制军用板条箱",
+        Recipe_Craft_Military_Locker_Tier_1 = "1 级自制军用储物柜",
+        Recipe_Craft_Plain_Refrigerator_Tier_1 = "1 级自制普通冰箱",
+        Recipe_Craft_Red_Refrigerator_Tier_1 = "1 级自制红色冰箱",
+        Recipe_Craft_Small_Chest_Tier_1 = "1 级自制小箱子",
+        Recipe_Craft_Small_Military_Locker_Tier_1 = "1 级自制小军用储物柜",
+        Recipe_Craft_Steel_Refrigerator_Tier_1 = "1 级自制钢质冰箱",
+        Recipe_Craft_White_Refrigerator_Tier_1 = "1 级自制白色冰箱",
+
+---[B42] Noir's Rifle Slings---(3388107363)---
+        Recipe_MakeRifleSling = "制作步枪背带",
+
+---[B42] Wallet Fix---(3400142576)---
+        Recipe_WalletUpgradePlus = "升级版钱包",
+        
 }
