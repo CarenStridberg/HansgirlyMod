@@ -1462,4 +1462,28 @@ Tooltip_CN = {
 	Tooltip_SatellitePhone = "需手持使用。通过卫星通讯，内置天线可兼作收音机。",
 	Tooltip_SewingMachine = "需配合线、剪刀/医用剪和布料使用，可制作各类迷彩服装。",
 
+---[B42] Better Sorting---(3413005308)---
+	Tooltip_BookTitle = "书名",
+	Tooltip_BookTitle_1 = "%1 适合初级",
+	Tooltip_BookTitle_3 = "%1 适合中级",
+	Tooltip_BookTitle_5 = "%1 适合高级",
+	Tooltip_BookTitle_7 = "%1 适合专家",
+	Tooltip_BookTitle_9 = "%1 适合大师",
+	Tooltip_BookTitle_Blacksmith = "锻造",
+	Tooltip_BookTitle_FlintKnapping = "打火石",
+	Tooltip_BookTitle_Carving = "雕刻",
+	Tooltip_BookTitle_Carpentry = "木工",
+	Tooltip_BookTitle_Cooking = "烹饪",
+	Tooltip_BookTitle_Electricity = "电工",
+	Tooltip_BookTitle_Farming = "耕作",
+	Tooltip_BookTitle_FirstAid = "急救",
+	Tooltip_BookTitle_Fishing = "钓鱼",
+	Tooltip_BookTitle_Foraging = "搜寻",
+	Tooltip_BookTitle_Mechanics = "技工",
+	Tooltip_BookTitle_MetalWelding = "金工",
+	Tooltip_BookTitle_Tailoring = "缝纫",
+	Tooltip_BookTitle_Trapping = "诱捕",
+	Tooltip_BookTitle_Aiming = "瞄准",
+	Tooltip_BookTitle_Reloading = "装填",
+
 }
