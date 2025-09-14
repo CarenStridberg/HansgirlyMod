@@ -3510,6 +3510,18 @@ IGUI_CN = {
         IGUI_VehiclePartTrunkLeftStorageDoor = "左侧储物箱盖",
         IGUI_VehiclePartTrunkRightStorageDoor = "右侧储物箱盖",
         IGUI_VehiclePartMAN80GasCan0 = "油桶",
+    ---'65 Pontiac Banshee---(3566868353)---
+        IGUI_VehicleName65banshee400 = "65款庞蒂亚克Banshee 400",
+        IGUI_VehicleName65bansheeSprint = "65款庞蒂亚克Banshee Sprint版",
+        IGUI_VehicleName65bansheeXP = "65款庞蒂亚克Banshee实验版",
+        IGUI_VehiclePartBAN65CenterConsole = "中控台",
+        IGUI_VehiclePartBAN65PopupLights = "弹出式车灯",
+        IGUI_VehiclePartBAN65RearStorage = "后部储物区",
+        IGUI_VehiclePartBAN65Rollbar = "防滚架",
+        IGUI_VehiclePartBAN65Roof = "可拆卸车顶",
+        IGUI_VehiclePartBAN65Roofrack = "车顶行李架",
+        IGUI_VehiclePartBAN65RoofrackRollbar = "防滚架行李架",
+        IGUI_VehiclePartBAN65Trunk = "后备箱储物区",
 
 ---KATTAJ1 Clothes Core [B41/B42]---(3470422050)---
         IGUI_HotbarAttachment_KATTAJ1HelmetWithMount = "KATTAJ1头盔支架",
