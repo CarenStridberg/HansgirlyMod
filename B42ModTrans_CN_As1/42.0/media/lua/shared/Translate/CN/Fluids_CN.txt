@@ -21,6 +21,8 @@ Fluids_CN = {
 
 ---Farming Expansion B42---(3444499190)---
 	Fluid_Container_FermentationPot = "发酵罐",
+	Fluid_Container_Fermentationbarrel = "发酵桶",
+	Fluid_Container_WoodenBarrel = "木桶",
 
 ---KI5车辆合集---(3414495781)---
     ---that DAMN Library---(3171167894)---

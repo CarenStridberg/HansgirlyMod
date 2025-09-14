@@ -1,12 +1,12 @@
 Print_Media_CN = {
 ---[42] Frogtown (BETA) by TwinCrows---(3449473111)---
-    Print_Media_FrogtownInfestationFlier_title= "蛙镇虫害通告",
-    Print_Media_FrogtownInfestationFlier_info= "<type:parent, width:559, height:771>"..
-    "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/FrogtownInfestation.png"), width:559, height:771>",
+	Print_Media_FrogtownInfestationFlier_title= "蛙镇虫害通告",
+	Print_Media_FrogtownInfestationFlier_info= "<type:parent, width:559, height:771>"..
+	"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/FrogtownInfestation.png"), width:559, height:771>",
 
 ---Infection Scanner---(3332296598)---
-    Print_Media_TLOUInfectionScanner_title= "FEDRA手册：扫描模式",
-    Print_Media_TLOUInfectionScanner_info= "<type:parent, width:1440, height:1080>"..
-    "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/FEDRA_infectionScanner_scanning.png"), width:1440, height:1080>",
+	Print_Media_TLOUInfectionScanner_title= "FEDRA手册：扫描模式",
+	Print_Media_TLOUInfectionScanner_info= "<type:parent, width:1440, height:1080>"..
+	"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/FEDRA_infectionScanner_scanning.png"), width:1440, height:1080>",
 
 }

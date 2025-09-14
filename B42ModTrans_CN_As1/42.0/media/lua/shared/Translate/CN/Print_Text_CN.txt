@@ -1,17 +1,17 @@
 Print_Text_CN = {
 
 ---[42] Frogtown (BETA) by TwinCrows---(3449473111)---
-    Print_Text_FrogtownInfestationFlier_title= "蛙镇生物泛滥警报",
-    Print_Text_FrogtownInfestationFlier_info= "两栖生物数量激增\n(这是它们的栖息地)\n请紧闭门窗！！\n思考...军队是否参与其中？？",
+	Print_Text_FrogtownInfestationFlier_title= "蛙镇生物泛滥警报",
+	Print_Text_FrogtownInfestationFlier_info= "两栖生物数量激增\n(这是它们的栖息地)\n请紧闭门窗！！\n思考...军队是否参与其中？？",
 
 ---Infection Scanner---(3332296598)---
-    Print_Text_TLOUInfectionScanner_title = "FEDRA感染扫描器",
-    Print_Text_TLOUInfectionScanner_info = "使用手册\n"..
-    "如何使用虫草菌感染扫描器\n\n"..
-    "1. 通过按钮面板配置设备并选择检测模式。\n"..
-    "2. 按下红色按钮启动扫描器。\n"..
-    "3. 将扫描器对准目标颈部。\n"..
-    "4. 提示音结束后，屏幕将亮起：绿色表示阴性（未感染），红色表示阳性（已感染）。\n\n"..
-    "[FEDRA感染扫描器使用示意图]",
+	Print_Text_TLOUInfectionScanner_title = "FEDRA感染扫描器",
+	Print_Text_TLOUInfectionScanner_info = "使用手册\n"..
+	"如何使用虫草菌感染扫描器\n\n"..
+	"1. 通过按钮面板配置设备并选择检测模式。\n"..
+	"2. 按下红色按钮启动扫描器。\n"..
+	"3. 将扫描器对准目标颈部。\n"..
+	"4. 提示音结束后，屏幕将亮起：绿色表示阴性（未感染），红色表示阳性（已感染）。\n\n"..
+	"[FEDRA感染扫描器使用示意图]",
 
 }

@@ -878,3 +878,9 @@ Mod:[B42] Noir's Rifle Slings---ID:3388107363
 Mod:[B42] Wallet Fix---ID:3400142576
 
 Mod:[B42] Bag Upgrade Plus---ID:3403697073
+
+Mod:SixthSense---ID:2863908612
+
+Mod:[B42] Useful Barrels---ID:3436537035
+
+Mod:Even More Traits---ID:2855320431

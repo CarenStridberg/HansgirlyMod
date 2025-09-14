@@ -3545,6 +3545,7 @@ IGUI_CN = {
         IGUI_ItemCat_KATTAJ1_LegsProtectionLower = "小腿护甲",
 
 ---[B42] Water Pipes (aka Plumbing)---(3546314080)---
+        IGUI_CraftCategory_Plumbing = "管道",
         IGUI_WP_Status = "状态",
         IGUI_WP_Active = "运行中",
         IGUI_WP_Inactive = "已停用",

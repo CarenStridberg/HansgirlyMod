@@ -905,7 +905,7 @@ ContextMenu_CN = {
 	ContextMenu_TieOnWaist = "系在腰间",
 
 ---AutoTailoring---(3388183573)---
-    ContextMenu_AutoTailoring = "练习缝纫",
+	ContextMenu_AutoTailoring = "练习缝纫",
 
 ---[B42] Tactical Sheaths---(3389805754)---
 	ContextMenu_KnifeSheath_WearBack = "佩戴（背部）",
@@ -915,7 +915,7 @@ ContextMenu_CN = {
 
 ---The Survivalist's Gear---(3404876149)---
 	ContextMenu_ReverseRuggedCap = "反戴帽子?",
-    ContextMenu_FlipRuggedCapForward = "正戴帽子?",
+	ContextMenu_FlipRuggedCapForward = "正戴帽子?",
 
 ---The Division Equipment [B42]---(3479867929)---
 	ContextMenu_LeftWristOn = "左手腕（开启）",
@@ -961,20 +961,20 @@ ContextMenu_CN = {
 	ContextMenu_ProneVehicleCrawlAction = "爬过车底",
 
 ---Moats---(3550032314)---
-    ContextMenu_DigMoats = "挖护城河",
+	ContextMenu_DigMoats = "挖护城河",
 
 ---[B42] Water Pipes (aka Plumbing)---(3546314080)---
-    ContextMenu_WP_AddCharcoal = "添加木炭过滤器",
-    ContextMenu_WP_PumpInfo = "水泵信息",
-    ContextMenu_WP_ValveOpen = "打开阀门",
-    ContextMenu_WP_ValveClose = "关闭阀门",
-    ContextMenu_WP_FlowmeterInfo = "流量计信息",
-    ContextMenu_WP_Type = "类型",
-    ContextMenu_WP_Flow = "流量",
-    ContextMenu_WP_FixPump = "修理水泵",
-    ContextMenu_WP_FixPumpPerfect = "水泵无需修理",
-    ContextMenu_WP_FixPumpNoMaterial = "需要金属废料",
-    ContextMenu_WP_FixPumpTurnOn = "水泵必须处于关闭状态",
+	ContextMenu_WP_AddCharcoal = "添加木炭过滤器",
+	ContextMenu_WP_PumpInfo = "水泵信息",
+	ContextMenu_WP_ValveOpen = "打开阀门",
+	ContextMenu_WP_ValveClose = "关闭阀门",
+	ContextMenu_WP_FlowmeterInfo = "流量计信息",
+	ContextMenu_WP_Type = "类型",
+	ContextMenu_WP_Flow = "流量",
+	ContextMenu_WP_FixPump = "修理水泵",
+	ContextMenu_WP_FixPumpPerfect = "水泵无需修理",
+	ContextMenu_WP_FixPumpNoMaterial = "需要金属废料",
+	ContextMenu_WP_FixPumpTurnOn = "水泵必须处于关闭状态",
 
 
 ---Nepenthe's High Beams---(3438126404)---
@@ -1028,40 +1028,40 @@ ContextMenu_CN = {
 
 ---KATTAJ1 Clothes Core [B41/B42]---(3470422050)---
 	ContextMenu_AttachHolsterToHipLeft = "装备到左胯部",
-    ContextMenu_AttachHolsterToHipArmorLeft = "装备到左胯装甲",
-    ContextMenu_AttachHolsterToBeltLeft = "装备到左侧腰带",
-    ContextMenu_AttachHolsterToHipRight = "装备到右胯部",
-    ContextMenu_AttachHolsterToHipArmorRight = "装备到右胯装甲",
-    ContextMenu_AttachHolsterToBeltRight = "装备到右侧腰带",
-    ContextMenu_AttachPouchToHipLeft = "装备到左侧",
-    ContextMenu_AttachPouchToHipRight = "装备到右侧",
-    ContextMenu_AttachPouchToHipLeftOnArmor = "装备到装甲左侧",
-    ContextMenu_AttachPouchToHipRightOnArmor = "装备到装甲右侧",
-    ContextMenu_AttachSheathToHipLeft = "装备到左胯部",
-    ContextMenu_AttachSheathToHipArmorLeft = "装备到左胯装甲",
-    ContextMenu_AttachSheathToBeltLeft = "装备到左侧腰带",
-    ContextMenu_AttachSheathToHipRight = "装备到右胯部",
-    ContextMenu_AttachSheathToHipArmorRight = "装备到右胯装甲",
-    ContextMenu_AttachSheathToBeltRight = "装备到右侧腰带",
-    ContextMenu_AttachSheathToBack = "装备到背部",
-    ContextMenu_NoBelts = "无腰带",
-    ContextMenu_WithBelts = "有腰带",
-    ContextMenu_ShirtMan = "男款",
-    ContextMenu_ShirtFemale = "女款",
-    ContextMenu_PutOn = "穿上",
-    ContextMenu_Tight = "收紧",
-    ContextMenu_JacketOpen = "敞开",
-    ContextMenu_JacketOpenRolledUpSleeves = "敞开卷袖",
-    ContextMenu_JacketRolledUpSleeves = "卷起袖子",
-    ContextMenu_DownHoodieOpen = "放下兜帽敞开",
-    ContextMenu_UpHoodieOpen = "竖起兜帽敞开",
-    ContextMenu_RollUpPants = "卷起裤腿",
-    ContextMenu_TuckPants = "塞进靴子",
+	ContextMenu_AttachHolsterToHipArmorLeft = "装备到左胯装甲",
+	ContextMenu_AttachHolsterToBeltLeft = "装备到左侧腰带",
+	ContextMenu_AttachHolsterToHipRight = "装备到右胯部",
+	ContextMenu_AttachHolsterToHipArmorRight = "装备到右胯装甲",
+	ContextMenu_AttachHolsterToBeltRight = "装备到右侧腰带",
+	ContextMenu_AttachPouchToHipLeft = "装备到左侧",
+	ContextMenu_AttachPouchToHipRight = "装备到右侧",
+	ContextMenu_AttachPouchToHipLeftOnArmor = "装备到装甲左侧",
+	ContextMenu_AttachPouchToHipRightOnArmor = "装备到装甲右侧",
+	ContextMenu_AttachSheathToHipLeft = "装备到左胯部",
+	ContextMenu_AttachSheathToHipArmorLeft = "装备到左胯装甲",
+	ContextMenu_AttachSheathToBeltLeft = "装备到左侧腰带",
+	ContextMenu_AttachSheathToHipRight = "装备到右胯部",
+	ContextMenu_AttachSheathToHipArmorRight = "装备到右胯装甲",
+	ContextMenu_AttachSheathToBeltRight = "装备到右侧腰带",
+	ContextMenu_AttachSheathToBack = "装备到背部",
+	ContextMenu_NoBelts = "无腰带",
+	ContextMenu_WithBelts = "有腰带",
+	ContextMenu_ShirtMan = "男款",
+	ContextMenu_ShirtFemale = "女款",
+	ContextMenu_PutOn = "穿上",
+	ContextMenu_Tight = "收紧",
+	ContextMenu_JacketOpen = "敞开",
+	ContextMenu_JacketOpenRolledUpSleeves = "敞开卷袖",
+	ContextMenu_JacketRolledUpSleeves = "卷起袖子",
+	ContextMenu_DownHoodieOpen = "放下兜帽敞开",
+	ContextMenu_UpHoodieOpen = "竖起兜帽敞开",
+	ContextMenu_RollUpPants = "卷起裤腿",
+	ContextMenu_TuckPants = "塞进靴子",
 
 ---Vehicle Repair Overhaul---(2757712197)---
-    ---Vehicle Repair Overhaul---
+	---Vehicle Repair Overhaul---
 
-    ---Vehicle Repair Overhaul - Vehicle Salvage Overhaul---
+	---Vehicle Repair Overhaul - Vehicle Salvage Overhaul---
 		ContextMenu_SalvageVehicle = "拆解载具",
 
 ---[B42] They Are Watching - Schizophrenia---(3559704439)---

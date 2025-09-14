@@ -570,4 +570,15 @@ Moodles_CN = {
 	Moodles_ClothingHole_Custom = "是时候修复衣服上的 %1 个洞了.",
 	Moodles_ClothingHole_Good_lvl2 = "你的旧衣服上不再有破洞.",
 
+---SixthSense---(2863908612)---
+	Moodles_SixthSense_Bad_lvl1 = "有人离我不远.",
+	Moodles_SixthSense_Bad_lvl2 = "有人离我挺近的.",
+	Moodles_SixthSense_Bad_lvl3 = "有人离我很近了",
+	Moodles_SixthSense_Bad_lvl4 = "感觉不太对头.",
+	Moodles_SixthSense_Custom = "%1 米范围内有人.",
+	Moodles_SixthSense_Good_lvl1 = "附近有人.",
+	Moodles_SixthSense_Good_lvl2 = "不远处有人.",
+	Moodles_SixthSense_Good_lvl3 = "远处有人.",
+	Moodles_SixthSense_Good_lvl4 = "我并不是这里的唯一一个\"人\".",
+
 }

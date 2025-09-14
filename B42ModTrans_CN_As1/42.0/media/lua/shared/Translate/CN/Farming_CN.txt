@@ -7,6 +7,8 @@ Farming_CN = {
 ---Farming Expansion B42---(3444499190)---
 	Farming_GrapeSeed = "葡萄藤",
 	Farming_AppleTree = "苹果树",
+	Farming_CherryTree = "樱桃树",
+
 
 ---Show Sowing Season In Seed Tooltip---(3404461962)---
 	Farming_Month_Fix_1 = "1月",
