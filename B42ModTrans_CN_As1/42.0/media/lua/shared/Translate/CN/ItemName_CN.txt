@@ -10197,4 +10197,7 @@ ItemName_CN = {
 	ItemName_Base.Pocketwatch = "怀表",
 	ItemName_Base.ToyBadge = "玩具徽章",
 
+---Immersive Lore---(3000924731)---
+	ItemName_Base.TatteredPaper = "破旧的纸张",
+
 }

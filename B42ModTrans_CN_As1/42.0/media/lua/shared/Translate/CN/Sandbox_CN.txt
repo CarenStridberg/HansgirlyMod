@@ -4886,4 +4886,9 @@ Sandbox_CN = {
 	Sandbox_EvenMoreTraits = "更多特质",
 	Sandbox__tooltip = "设置最小单体恐慌值, 使得总的最小恐慌值等于此值乘以追逐你的僵尸数量",
 
+---Immersive Lore---(3000924731)---
+	Sandbox_ImmersiveLore_BlacklistedStories = "黑名单故事",
+	Sandbox_ImmersiveLore_BlacklistedStories_tooltip = "你不想生成的故事的 ID, 两个 ID 之间以英文分号分隔. 更改后需要重启.",
+	Sandbox_ImmersiveLore_Options = "沉浸式故事选项",
+
 }
