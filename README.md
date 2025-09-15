@@ -871,7 +871,7 @@ Mod:[B42/41] Keep Skill Level---ID:3314107094
 
 Mod:'65 Pontiac Banshee---ID:3566868353
 
-od:Autotsar Bus B42---ID:3402812859
+Mod:Autotsar Bus B42---ID:3402812859
 
 Mod:[B42] Noir's Rifle Slings---ID:3388107363
 
