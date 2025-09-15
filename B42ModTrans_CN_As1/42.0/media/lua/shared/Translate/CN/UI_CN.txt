@@ -3566,4 +3566,13 @@ UI_CN = {
 	UI_ImmersiveLore_Story_158_Title = "儿童画",
 	UI_ImmersiveLore_Story_159_Content = "第 42 天. 补给即将耗尽. 外面的活死人数量增加了两倍. 今天看到其中一只试图破坏栅栏——我没想到它们竟然能破坏栅栏. 我会让发电机尽可能的一直运转下去的. 谁捡到这个, 就去取用车库里的工具吧, 希望它们还能用. 如果你看到达琳, 请让她安息. 我已经失败了.",
 	UI_ImmersiveLore_Story_159_Title = "老人的笔记",
+
+---My So-Called Bag---(2823166698)---
+	UI_P4MySoCalledBag_Options_EnableHandleSlot_Name = "启用背包提手栏位",
+	UI_P4MySoCalledBag_Options_EnableHandleSlot_Tooltip = "更改此设置后需要重新载入存档数据.<br>如果已装备的旅行袋与当前设置产生冲突, 那么在卸下并重新装备后才会使更改生效.",
+	UI_P4MySoCalledBag_Options_EnableHookLeftSlot_Name = "启用背包左侧挂钩栏位",
+	UI_P4MySoCalledBag_Options_EnableHookLeftSlot_Tooltip = "更改此设置后需要重新载入存档数据.<br>如果已装备的旅行袋与当前设置产生冲突, 那么在卸下并重新装备后才会使更改生效.",
+	UI_P4MySoCalledBag_Options_EnableHookRightSlot_Name = "启用背包右侧挂钩栏位",
+	UI_P4MySoCalledBag_Options_EnableHookRightSlot_Tooltip = "更改此设置后需要重新载入存档数据.<br>如果已装备的旅行袋与当前设置产生冲突, 那么在卸下并重新装备后才会使更改生效.",
+
 }

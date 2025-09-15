@@ -1497,4 +1497,7 @@ ContextMenu_CN = {
 	ContextMenu_SlingStyle3 = "正面 -- (横置)",
 	ContextMenu_SlingStyle4 = "背面",
 
+---Frockin Wiseguys!---(3538760023)---
+	ContextMenu_Close = "关闭",
+	ContextMenu_Open = "打开",
 }

@@ -886,3 +886,5 @@ Mod:[B42] Useful Barrels---ID:3436537035
 Mod:Even More Traits---ID:2855320431
 
 Mod:Immersive Lore---ID:3000924731
+
+Mod:organizedCategories: Core---ID:3370707195

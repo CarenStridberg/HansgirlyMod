@@ -5862,4 +5862,12 @@ IGUI_CN = {
 ---[B42] Noir's Rifle Slings---(3388107363)---
     IGUI_CraftCategory_Tailoring = "缝纫",
 
+---My So-Called Bag---(2823166698)---
+    IGUI_HotbarAttachment_P4DuffelBagHandle = "背包提手",
+    IGUI_HotbarAttachment_P4DuffelBagHookLeft = "背包左侧挂钩",
+    IGUI_HotbarAttachment_P4DuffelBagHookRight = "背包右侧挂钩",
+
+---organizedCategories: Core---(3370707195)---
+    IGUI_ItemCat_securityVehicleKey = "汽车钥匙",
+
 }
