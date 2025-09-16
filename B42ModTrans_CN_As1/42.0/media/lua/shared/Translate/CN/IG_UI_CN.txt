@@ -4643,6 +4643,7 @@ IGUI_CN = {
 	IGUI_Hair_Warranted = "V8 正当理由",
 	IGUI_Hair_frontierGP2 = "V8 GP2先锋",
 	IGUI_Hair_frontierGP3 = "V8 GP3先锋",
+    IGUI_Hair_VixenLong = 	"狐媚长发",
 
 ---Party System---(3395761583)---
 	IGUI_RISKY_PARTY = "队伍",
