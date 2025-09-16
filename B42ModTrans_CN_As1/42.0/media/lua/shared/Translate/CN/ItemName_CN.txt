@@ -6850,6 +6850,7 @@ ItemName_CN = {
 	ItemName_Base.Desert_Camo_ShoulderPads_Patriot = "沙漠迷彩护肩",
 	ItemName_Base.Desert_Camo_TacBoots = "沙漠迷彩战术靴",
 	ItemName_Base.Desert_Camo_Vest = "沙漠迷彩防弹背心",
+	ItemName_Base.Desert_Camo_GasMask-M80 = "沙漠迷彩防毒面具",
 
 ---[J&G] Alpine Multicam Uniform---(3303746488)---
 	ItemName_Base.Alpine_Camo_Backpack_Ranger_Tight = "高山迷彩背包",
@@ -6875,6 +6876,7 @@ ItemName_CN = {
 	ItemName_Base.Alpine_Camo_ShoulderPads_Patriot = "高山迷彩护肩 [爱国者]",
 	ItemName_Base.Alpine_Camo_TacBoots = "高山迷彩战术靴",
 	ItemName_Base.Alpine_Camo_Vest = "高山迷彩防弹背心",
+	ItemName_Base.Alpine_Camo_GasMask-M80 = "高山迷彩防毒面具",
 
 ---[J&G] Forest Multicam Uniform---(3309971624)---
 	ItemName_Base.Forest_Camo_Backpack_Ranger_Tight = "森林迷彩背包",
@@ -6899,6 +6901,7 @@ ItemName_CN = {
 	ItemName_Base.Forest_Camo_ShoulderPads_Patriot = "森林迷彩护肩 [爱国者]",
 	ItemName_Base.Forest_Camo_TacBoots = "森林迷彩战术靴",
 	ItemName_Base.Forest_Camo_Vest = "森林迷彩防弹背心",
+	ItemName_Base.Forest_Camo_GasMask-M80 = "森林迷彩防毒面具",
 
 ---Infection Scanner---(3332296598)---
 	ItemName_TLOU.InfectionScanner = "感染扫描器",
@@ -8641,6 +8644,13 @@ ItemName_CN = {
 	ItemName_Base.Medical_Red_Pants_Tuck = "创伤急救员裤子 [塞入靴子]",
 	ItemName_Base.Medical_Red_ShoulderPads_Patriot = "创伤急救员护肩",
 	ItemName_Base.Medical_Red_TacBoots = "创伤急救员战术靴",
+	ItemName_Base.BagBack_StormPack_Large-Medic = "创伤急救员风暴背包 [大型]",
+	ItemName_Base.BagBack_StormPack_Medium-Medic = "创伤急救员风暴背包 [中型]",
+	ItemName_Base.BagBack_StormPack_Small-Medic = "创伤急救员风暴背包 [小型]",
+	ItemName_Base.Pouch_Utility_Medium-Medic_Left = "创伤急救员多功能腰包 [左侧]",
+	ItemName_Base.Pouch_Utility_Medium-Medic_Right = "创伤急救员多功能腰包 [右侧]",
+	ItemName_Base.Pouch_Utility_Medium-Medic_ArmorLeft = "创伤急救员多功能腰包 [护甲左侧]",
+	ItemName_Base.Pouch_Utility_Medium-Medic_ArmorRight = "创伤急救员多功能腰包 [护甲右侧]",
 
 ---Rangers 7: [Operator] [Armor Pack]---(3452171674)---
 	ItemName_Base.ArtemisII = "Artemis II耳机",
@@ -8791,6 +8801,9 @@ ItemName_CN = {
 	ItemName_Base.SWAT_TacBoots = "特战靴",
 	ItemName_Base.SWAT_Thigh_Pads = "战术护腿",
 	ItemName_Base.SWAT_Vest = "标准防弹背心",
+	ItemName_Base.SWAT_Helmet_AM-95_VisorDown = "AM-95特警头盔 [护目放下]",
+	ItemName_Base.SWAT_Helmet_AM-95_VisorUp = "AM-95特警头盔 [护目抬起]",
+	ItemName_Base.SWAT_GasMask-M80 = "M80防毒面具",
 
 ---ExtraMoney---(3462306255)---
 	ItemName_Base.Diamond10 = "10颗钻石堆",
