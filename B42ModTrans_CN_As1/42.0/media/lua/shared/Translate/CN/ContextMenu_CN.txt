@@ -1503,6 +1503,9 @@ ContextMenu_CN = {
 	ContextMenu_S4_Com_Use = "使用电脑",
 	ContextMenu_S4_PostBox_Sell = "放入寄售箱",
 	ContextMenu_S4_Signal_Install = "安装信号器",
+	ContextMenu_S4_AirDrop_Open = "打开空投箱",
+	ContextMenu_S4_Com_CardReader_Install = "安装读卡器",
+
 
 ---Spear fishing | Рыбалка копьём---(3539114542)---
 	ContextMenu_InventoryFull = "背包已满",

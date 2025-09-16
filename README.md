@@ -896,3 +896,9 @@ Mod:Autotsar Tuning Atelier - Fjord Mustard [B42]---ID:3405178154
 Mod:[B42] Skizot's zRe Fix Floor Extended---ID:3403911096
 
 Mod:[B42/41] KATTAJ1 Military Pack---ID:3470426196
+
+Mod:Auto Loot---ID:3392699932
+
+Mod:[Reworked] Madax Weapon Pack - B42---ID:2732407704
+
+Mod:More Traits---ID:1299328280

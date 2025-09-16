@@ -1387,6 +1387,8 @@ Tooltip_CN = {
 	Tooltip_S4_Satellite_FoundTip = "卫星天线必须安装在电脑14格范围内且高度差不超过3格。",
 	Tooltip_S4_Satellite_Install = "连接卫星天线以使用网络功能<br>需在附近安装卫星天线，并根据距离额外消耗%s。",
 	Tooltip_S4_Satellite_NotFound = "未找到卫星天线",
+	Tooltip_S4_AirDrop = "来自HIND的空投物资。<br>你需要一根撬棍才能打开它。<br><br>[所需物品]",
+	Tooltip_S4_AirDrop_Open = "打开空投箱",
 
 ---Foldable Survival Rifle---(3491265315)---
 	Tooltip_PG_Antibiotics = "法玛根抗生素原型[非商业样本]",
@@ -1495,6 +1497,9 @@ Tooltip_CN = {
 	Tooltip_BookTitle_Trapping = "诱捕",
 	Tooltip_BookTitle_Aiming = "瞄准",
 	Tooltip_BookTitle_Reloading = "装填",
+	Tooltip_BookTitle_Driving = "驾驶",
+	Tooltip_BookTitle_Scavenging = "拾荒",
+	Tooltip_BookTitle_Tinkering = "改装",
 
 ---Farming Expansion B42---(3444499190)---
 	Tooltip_driedmalt = "研磨麦芽汁",
@@ -1513,5 +1518,8 @@ Tooltip_CN = {
 
 ---[B42] Useful Barrels---(3436537035)---
 	Tooltip_UB_CantAddFluid = "无法从此物体中倒出液体.",
+
+---More Traits---(1299328280)---
+	Tooltip_MoreTraits_BloodyItemBoost = "这个撬棍被塑型和精炼以更快的挥舞，造成更多伤害，当单手握持时可发挥全部威力。<br>该物品的属性被你的某项特质所加成了。",
 
 }
