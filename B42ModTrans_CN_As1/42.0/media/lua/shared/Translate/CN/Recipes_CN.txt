@@ -269,6 +269,8 @@ Recipe_CN = {
 	Recipe_Craft_Standing_Disco_Ball = "制作立式迪斯科球",
 	Recipe_Craft_Standing_Microphone = "制作立式麦克风",
 	Recipe_Assemble_Sculpting_Station = "组装雕塑台",
+	Recipe_Make_Bucket_of_Water_and_Bleach = "调制水与漂白水",
+	Recipe_Craft_Disco_Floor = "制作迪斯科舞池",
 
 ---DFMFoodMod---(3406694220)---
 	Recipe_Make_Raw_Hot_dog_Bun = "制作热狗面包(未烹饪)",

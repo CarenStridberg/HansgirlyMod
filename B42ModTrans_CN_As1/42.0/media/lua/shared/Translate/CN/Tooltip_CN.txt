@@ -398,6 +398,15 @@ Tooltip_CN = {
 	Tooltip_CleanRoom_Light_NoDirt = "附近没有灰尘或垃圾可供清洁",
 	Tooltip_CleanRoom_Heavy_MissingItems = "缺少拖把或漂白剂不足",
 	Tooltip_CleanRoom_Heavy_NoDirt = "附近没有血迹可供清洁",
+	Tooltip_Art_BeautyInfo = "<H2> 美观度覆盖层 <LINE><TEXT> 点击拖动可移动 <LINE> 右键点击可移除 <LINE> 双击获取更多信息",
+	Tooltip_Meditate_Option = "通过冥想减轻压力并获得专注力。",
+	Tooltip_Yoga_Option = "练习瑜伽以锻炼体能和敏捷度，减轻体重并缓解肌肉紧张。",
+	Tooltip_Yoga_MissingMat = "缺少瑜伽垫",
+	Tooltip_Toy_Talk = "<H2> 提升幸福感！ <LINE><TEXT><SIZE:small> - 重复使用效果递减。",
+	Tooltip_Sculpting_LS_Sculptures4_50 = "历经岁月的洗礼，承载着无数馅饼皮的温度，萨米的小屋柜台将乡村厨房的魅力带入您的家中。斑驳的漆痕与温暖的情感，诉说着沾满面粉的清晨和家族秘制食谱的故事。",
+	Tooltip_Sculpting_B_LS_Sculptures4_50 = "饼干在此冷却，回忆在此停留。",
+	Tooltip_Jukebox_3DEnable = "点击启用3D音效",
+	Tooltip_Jukebox_3DDisable = "点击禁用3D音效",
 
 ---Sapph's Cooking [B42+]---(3409143790)---
 	Tooltip_LunarNewYear = "这是在新年常吃的传统食品,祝你新年快乐！",

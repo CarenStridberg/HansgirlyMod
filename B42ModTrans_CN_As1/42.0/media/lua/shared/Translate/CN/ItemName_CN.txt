@@ -667,6 +667,18 @@ ItemName_CN = {
 	ItemName_Lifestyle.violinBow = "琴弓",
 	ItemName_Base.Cologne = "古龙水",
 	ItemName_Base.Perfume = "香水",
+	ItemName_Lifestyle.BookMusic1 = "乐理 第 1 集 - 入门",
+	ItemName_Lifestyle.BookMusic2 = "乐理 第 2 集 - 中级",
+	ItemName_Lifestyle.BookMusic3 = "乐理 第 3 集 - 进阶",
+	ItemName_Lifestyle.BookMusic4 = "乐理 第 4 集 - 专家",
+	ItemName_Lifestyle.BookMusic5 = "乐理 第 5 集 - 大师",
+	ItemName_Lifestyle.LSMagazineEdition1 = "居家风格: 迪斯可特别版",
+	ItemName_Lifestyle.BookDancing1 = "舞蹈 第 1 集 - 入门",
+	ItemName_Lifestyle.BookDancing2 = "舞蹈 第 2 集 - 中级",
+	ItemName_Lifestyle.BookDancing3 = "舞蹈 第 3 集 - 进阶",
+	ItemName_Lifestyle.BookDancing4 = "舞蹈 第 4 集 - 专家",
+	ItemName_Lifestyle.BookDancing5 = "舞蹈 第 5 集 - 大师",
+	ItemName_Lifestyle.LSMagazineEdition2 = "主页风格：Sec",
 
 ---DFMFoodMod---(3406694220)---
 	ItemName_DFMFoodmod.RawHotdogBun = "热狗面包 (未烹饪)",

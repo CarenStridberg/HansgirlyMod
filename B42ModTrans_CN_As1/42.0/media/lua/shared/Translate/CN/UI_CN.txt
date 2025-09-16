@@ -1458,6 +1458,7 @@ UI_CN = {
 	UI_trait_weakbackdesc = "减少负重。<br>（根据力量等级减少1-3点负重。）",
 	UI_trait_woodworker = "木工",
 	UI_trait_woodworkerdesc = "",
+	UI_LSHS_Yoga = "瑜伽",
 
 ---Love and Perfume---(2842359380)---
 	UI_P4LoveAndPerfume_Messages_LastNote = "后调隐约飘散着余香。",
