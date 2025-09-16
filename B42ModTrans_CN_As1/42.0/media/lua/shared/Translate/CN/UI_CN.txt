@@ -2743,6 +2743,7 @@ UI_CN = {
 	UI_StatsMenu_ToggleVisibility = "显示/隐藏状态",
 	UI_StatsMenu_Unlock = "解锁窗口",
 	UI_StatsMenu_VisibilityOptions = "可见性选项",
+	UI_StatsMenu_Color_White = "白色",
 
 ---IndustrialRevolution---(3400131934)---
 	UI_IndustrialRevolution_activateautostart = "激活自动启动",

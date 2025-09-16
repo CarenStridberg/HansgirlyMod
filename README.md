@@ -888,3 +888,11 @@ Mod:Even More Traits---ID:2855320431
 Mod:Immersive Lore---ID:3000924731
 
 Mod:organizedCategories: Core---ID:3370707195
+
+Mod:Autotsar Tuning Atelier - DeRumba Van v.2.00 [B42]---ID:3432015133
+
+Mod:Autotsar Tuning Atelier - Fjord Mustard [B42]---ID:3405178154
+
+Mod:[B42] Skizot's zRe Fix Floor Extended---ID:3403911096
+
+Mod:[B42/41] KATTAJ1 Military Pack---ID:3470426196

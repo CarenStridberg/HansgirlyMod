@@ -3129,6 +3129,7 @@ Recipe_CN = {
 		Recipe_89Bronco.MakeReinforcedFrontBumper = "制造89款福特Bronco加固前保险杠",
 		Recipe_89Bronco.MakeBedCap = "制造89款福特Bronco货斗防雨篷",
 		Recipe_89Bronco.MakeBedBarrier = "制造89款福特Bronco货斗隔离栏",
+		Recipe_80sPickup.MakeTire = "制造80年代皮卡轮胎",
 	
 	---'83 AM General M923---(2811383142)---
 		Recipe_83amgeneralM923.MakeHood = "制造83款AM通用M923引擎盖",
@@ -4163,6 +4164,7 @@ Recipe_CN = {
 ---More Traits Antique Upgrade---(3397942493)---
 	Recipe_MakeAntiqueAxe2 = "制作古董斧II(2)",
 	Recipe_MakeAntiqueAxe3 = "制作古董斧III(3)",
+	Recipe_MakeAntiqueAxe4 = "制作古董斧IV(4)",
 	Recipe_MakeAntiqueAxe5 = "制作古董斧V(5)",
 	Recipe_MakeAntiqueHammer2 = "制作古董锤II(2)",
 	Recipe_MakeAntiqueHammer3 = "制作古董锤III(3)",
@@ -5648,12 +5650,21 @@ Recipe_CN = {
 	Recipe_MakeRifleSling = "制作步枪背带",
 
 ---[B42] Wallet Fix---(3400142576)---
-	Recipe_WalletUpgradePlus = "升级版钱包",
+	Recipe_WalletUpgradePlus = "制作 升级版钱包",
 	
 ---[B42] Water Filter Straw---(3418513380)---
 	Recipe_Craft_Water_Filter_Straw = "制作滤水吸管",
 
 ---Nodachi Mod---(2166396868)---
 	Recipe_Nodachi = "制作 大太刀",
+
+---Infection Scanner---(3332296598)---
+	Recipe_DismantleInfectionScanner = "拆解感染扫描仪",
+
+---Autotsar Tuning Atelier - Chevalier Samara v.2.00 [B42]---(3432014439)---
+	Recipe_ATASamaraHoodItem = "制作 萨马拉引擎盖",
+
+---Autotsar Tuning Atelier - Fjord Mustard [B42]---(3405178154)---
+	Recipe_ATAMustangHoodItem = "制作 野马引擎盖",
 
 }

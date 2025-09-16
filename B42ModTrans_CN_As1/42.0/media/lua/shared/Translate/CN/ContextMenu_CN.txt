@@ -1531,4 +1531,7 @@ ContextMenu_CN = {
 ---Frockin Wiseguys!---(3538760023)---
 	ContextMenu_Close = "关闭",
 	ContextMenu_Open = "打开",
+
+---[B42] Skizot's zRe Fix Floor Extended---(3403911096)---
+	ContextMenu_FixFloor = "修复地板",
 }

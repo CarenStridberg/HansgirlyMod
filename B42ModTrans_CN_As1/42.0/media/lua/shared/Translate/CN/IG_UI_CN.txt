@@ -5414,6 +5414,7 @@ IGUI_CN = {
 
 ---VSMR Face for Spongie's Character Customisation---(3415572170)---
 	IGUI_Face_VSMRFemale = "原版改良型",
+    IGUI_Face_VSMRMale = "原版改良型",
 
 ---Gauss Firearms---(3429953336)---
 	IGUI_PlayerText_GaussFirearms_NeedBattery = "我需要一块电池。",
@@ -5484,6 +5485,7 @@ IGUI_CN = {
 	IGUI_Hair_M_SlickBackPompadour2 = "庞巴度大背头V2",
 	IGUI_Hair_M_SlickBackPompadour3 = "庞巴度大背头V3",
 	IGUI_Hair_M_SlickBackUndercut = "底层剪大背头",
+    IGUI_Hair_M_SlickBackPompadour = "庞巴度大背头",
 
 ---Rangers 7: [Operator] [Armor Pack]---(3452171674)---
 	IGUI_HotbarAttachment_ChestMountDT = "战术胸挂枪套(DTC型)",
@@ -5948,5 +5950,8 @@ IGUI_CN = {
 
 ---organizedCategories: Core---(3370707195)---
     IGUI_ItemCat_securityVehicleKey = "汽车钥匙",
+
+---Autotsar Tuning Atelier - DeRumba Van v.2.00 [B42]---(3432015133)---
+    IGUI_VehicleNameATA_VanDeRumba = "德伦巴面包车",
 
 }
