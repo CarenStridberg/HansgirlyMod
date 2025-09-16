@@ -902,3 +902,9 @@ Mod:Auto Loot---ID:3392699932
 Mod:[Reworked] Madax Weapon Pack - B42---ID:2732407704
 
 Mod:More Traits---ID:1299328280
+
+Mod:[B41/B42] Day One (Bandits)---ID:3329251514
+
+Mod:Mad Crafter【电击武器与更多改装】v0.3---ID:3418701509
+
+Mod:[B42/41] Reactive Sound Events---ID:2969551071

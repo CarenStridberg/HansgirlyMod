@@ -1452,6 +1452,10 @@ Tooltip_CN = {
 	Tooltip_MII_TinyGold = "微粒金",
 	Tooltip_MII_TinySilver = "微粒银",
 	Tooltip_MII_UsesLeft = "剩余使用次数",
+	Tooltip_MII_Knockback = "击退",
+	Tooltip_MII_MediumCopper = "中块铜",
+	Tooltip_MII_MediumPlusIron = "中块铁加固",
+	Tooltip_MII_RottenDays = "腐烂天数",
 	
 ---Support Goods Mega Mod [B42.4] - Blizzard Update - SEMI-STABLE---(3434464110)---
 	Tooltip_ActivatedCharcoalPills = "治疗食物中毒并缓解症状。",
