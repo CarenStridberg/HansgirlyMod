@@ -131,28 +131,6 @@ Recipe_CN = {
 	Recipe_GetAZomboxolone = "获得一颗僵尸奥洛酮药片",
 	Recipe_GetAZomboxycycline = "获得一颗僵尸氧环素药片",
 
----B42 Rain's Firearms & Gun Parts---(3387222454)---
-	craftRecipe_Gather_Gunpowder_7.62x51 = "收集火药",
-	craftRecipe_Gather_Gunpowder_7.62x39 = "收集火药",
-	craftRecipe_Open_Box_of_7.62_Ammo = "打开盒装 7.62x51 子弹",
-	craftRecipe_Place_7.62_Ammo_in_Box = "把 7.62x51 子弹装入盒中",
-	craftRecipe_Open_Box_of_7.62x39_Ammo = "打开盒装 7.62x39 子弹",
-	craftRecipe_Place_7.62x39_Ammo_in_Box = "把 7.62x39 子弹装入盒中",
-	craftRecipe_PlaceBoxesOf762x39AmmoInCarton = "把 7.62x39 子弹盒装箱",
-	craftRecipe_PlaceBoxesOf762x51AmmoInCarton = "把 7.62x51 子弹盒装箱",
-	craftRecipe_Convert_.223_to_5.56 = "将 .223子弹 转换为 5.56子弹",
-	craftRecipe_Convert_5.56_to_.223 = "将 5.56mm子弹 转换为 .223子弹",
-	craftRecipe_Convert.308to7.62x51 = "将 .308子弹 转换为 7.62x51子弹",
-	craftRecipe_Convert_7.62x51to.308 = "将 7.62x51子弹 转换为 .308子弹",
-	craftRecipe Convert.223Boxto5.56Box = "将 盒装.223子弹 转换为 盒装5.56mm子弹",
-	craftRecipe Convert5.56Boxto.223Box = "将 盒装5.56mm子弹 转换为 盒装.223子弹",
-	craftRecipe_SawOffRemingtonM1187 = "锯短 雷明顿 M11-87",
-	craftRecipe_SawOffMossbergM590T = "锯短 莫斯伯格 M590 战术型（或许不该这么做）",
-	craftRecipe_SawOffLongRanger = "锯短枪管和枪托",
-	craftRecipe_ConvertMAC10MagazinetoThompsonMagazine = "将 MAC-10 弹匣转换为 汤普森弹匣",
-	craftRecipe_ConvertThompsonMagazinetoMAC10Magazine = "将 汤普森弹匣转换为 MAC-10 弹匣",
-	craftRecipe_MakeDIYSuppressor = "自制消音器",
-
 ---Ammo Converter B42---(3388844065)---
 	Recipe_ConvertTo223Box = "转换为盒装.223子弹",
 	Recipe_ConvertToBullets38Box = "转换为盒装.38子弹",

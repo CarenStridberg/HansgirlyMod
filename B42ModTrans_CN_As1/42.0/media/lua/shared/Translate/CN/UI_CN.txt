@@ -3082,9 +3082,9 @@ UI_CN = {
 	UI_optionscreen_binding_PFO_PipBoy3000_ShowAndHide = "显示/隐藏哔哔小子",
 
 ---[Project Fallout] The Beginning---(3461117277)---
-	UI_Intro1 = "战争。战争从未改变..",
-	UI_Intro2 = "你正站在人类历史的转折点上。此刻的选择将决定你未来的命运",
-	UI_Intro3 = "这不过是人类历史上又一血腥篇章"
+	--UI_Intro1 = "战争。战争从未改变..",
+	--UI_Intro2 = "你正站在人类历史的转折点上。此刻的选择将决定你未来的命运",
+	--UI_Intro3 = "这不过是人类历史上又一血腥篇章"
 
 ---[B42/B41] Bandits Creator---(3469292499)---
 	UI_BanditsCreator_AI_Assault = "突击队",

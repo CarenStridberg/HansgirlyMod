@@ -248,8 +248,6 @@ Mod:B42 Insect Foraging---ID:3437552077
 
 Mod:B42 Rain's Axes & Blades---ID:3388380529
 
-Mod:B42 Rain's Firearms & Gun Parts---ID:3387222454
-
 Mod:B42 Rain's Pack Your Loot---ID:3490159683
 
 Mod:Boots Expanded 11 for B41 and B42---ID:2850935956

@@ -569,15 +569,6 @@ Sandbox_CN = {
 	Sandbox_TheyKnew_ZomboxivirLootChance = "僵尸抗病安瓿掉落率", 
 	Sandbox_TheyKnew_ZomboxivirLootChance_tooltip = "百分之一的掉落几率", 
 
----B42 Rain's Firearms & Gun Parts---(3387222454)---
-	Sandbox_SuppRate = "消音器生成率",
-	Sandbox_SuppInGunstore_SuppRate = "枪支商店",
-	Sandbox_SuppInGunstore_SuppRate_tooltip = "设置枪支商店中消音器的生成率.",
-	Sandbox_SuppInMilitary_SuppRate = "军事地点",
-	Sandbox_SuppInMilitary_SuppRate_tooltip = "设置军事地点中消音器的生成率.",
-	Sandbox_SuppInPolice_SuppRate = "警察局",
-	Sandbox_SuppInPolice_SuppRate_tooltip = "设置警察局中消音器的生成率.",
-
 ---AutoMechanics---(3387539308)---
 	Sandbox_AutoMechanics = "自动练习技工", 
 	Sandbox_AutoMechanics_ConditionLossPercentageThreshold = "故障阈值", 
