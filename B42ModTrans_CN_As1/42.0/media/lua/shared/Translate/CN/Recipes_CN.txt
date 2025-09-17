@@ -1511,7 +1511,7 @@ Recipe_CN = {
 	Recipe_Upgrade_Walkers_Backpack_(Tier_1) = "升级沃尔克的背包（1级）",	
 	Recipe_Upgrade_Walkers_Backpack_(Tier_2) = "升级沃尔克的背包（2级）",
 	Recipe_Upgrade_Walkers_Backpack_(Tier_3) = "升级沃尔克的背包（3级）",
-
+	
 ---Escape From Tarkov Backpacks---(3432928943)---
 	Recipe_SewSlingbag = "缝制小型战术单肩包",
 	Recipe_SewMBSS = "缝制「MBSS」背包",

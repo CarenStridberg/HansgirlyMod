@@ -1444,6 +1444,15 @@ Moveables_CN = {
 	WP1390_Painting = "将军"
 	WP1391_Painting = "部队"
 	WP388_Painting = "森林"
+	Cottage_Counter_Beige_Sculpture_Wooden = "萨米的乡村风柜台",
+	Cottage_Counter_Blue_Sculpture_Wooden = "萨米的乡村风柜台",
+	Cottage_Counter_Corner_Beige_Sculpture_Wooden = "萨米的乡村风柜台",
+	Cottage_Counter_Corner_Blue_Sculpture_Wooden = "萨米的乡村风柜台",
+	Cottage_Counter_Corner_Sculpture_Wooden = "萨米的乡村风柜台",
+	Cottage_Counter_Corner_White_Sculpture_Wooden = "萨米的乡村风柜台",
+	Cottage_Counter_Sculpture_Wooden = "萨米的乡村风柜台",
+	Cottage_Counter_White_Sculpture_Wooden = "萨米的乡村风柜台",
+	Off_Disco_Floor = "迪斯科地板",
 
 ---Light Switch Plus(B42)---(3418843205)---
 	Switch1_Outdoor_Lamp = "新开关（左）", 

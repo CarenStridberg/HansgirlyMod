@@ -153,4 +153,9 @@ Fluids_CN = {
 	Fluid_Name_WellAgedWhiskey = "陈年威士忌",
 	Fluid_Name_WellAgedWine = "陈年葡萄酒",
 
+---Authentic Z---(2335368829)---
+	Fluid_Container_AquaBottle = "水瓶",
+	Fluid_Container_AuthenticCanteen = "水壶",
+	Fluid_Container_GymBottle = "运动水壶",
+
 }

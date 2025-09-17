@@ -3080,6 +3080,11 @@ UI_CN = {
 	UI_optionscreen_binding_PFO_PipBoy3000_ShowAndHide = "显示/隐藏哔哔小子",
 
 ---[Project Fallout] The Beginning---(3461117277)---
+	UI_Intro1 = "战争。战争从未改变..",
+	UI_Intro2 = "你正站在人类历史的转折点上。此刻的选择将决定你未来的命运",
+	UI_Intro3 = "这不过是人类历史上又一血腥篇章"
+
+---[B42/B41] Bandits Creator---(3469292499)---
 	UI_BanditsCreator_AI_Assault = "突击队",
 	UI_BanditsCreator_AI_Assault_Tooltip = "可能以突击小队形式生成",
 	UI_BanditsCreator_AI_Campers = "露营者",
@@ -3203,9 +3208,8 @@ UI_CN = {
 	UI_BanditsCreator_Zone_Occurance_Urban_Tooltip = "强盗只会在城市区域生成",
 	UI_BanditsCreator_Zone_Occurance_Wilderness = "仅野外",
 	UI_BanditsCreator_Zone_Occurance_Wilderness_Tooltip = "强盗只会在城市之外的荒野生成",
-	UI_Intro1 = "战争。战争从未改变..",
-	UI_Intro2 = "你正站在人类历史的转折点上。此刻的选择将决定你未来的命运",
-	UI_Intro3 = "这不过是人类历史上又一血腥篇章"
+
+---True Smoking [B42]---(3423984426)---
 	UI_TRUESMOKING_BECAME_SMOKER = "我染上了尼古丁依赖",
 	UI_TRUESMOKING_GET_SMOKE = "取烟/点烟",
 	UI_TRUESMOKING_PUFF = "吸一口",
@@ -3648,4 +3652,8 @@ UI_CN = {
 ---More Traits---(1299328280)---
 	UI_quickrestfullendurance = "你的体力已满",
 	UI_trait_hardyrest = "继续休息",
+
+---Authentic Z---(2335368829)---
+	UI_Fuel_Remaining = "剩余燃料：",
+
 }

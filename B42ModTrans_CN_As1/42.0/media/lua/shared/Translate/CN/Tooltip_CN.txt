@@ -1526,4 +1526,15 @@ Tooltip_CN = {
 ---More Traits---(1299328280)---
 	Tooltip_MoreTraits_BloodyItemBoost = "这个撬棍被塑型和精炼以更快的挥舞，造成更多伤害，当单手握持时可发挥全部威力。<br>该物品的属性被你的某项特质所加成了。",
 
+---Authentic Z---(2335368829)---
+	Tooltip_GlowStickPack = "打开可随机获得3根荧光棒！",
+	Tooltip_OpenJacket = "敞开夹克以减少保暖",
+	Tooltip_RotaryPhone = "跟你艾丽西亚阿姨问个好，小子！",
+	Tooltip_Size2XL = "尺码：2XL",
+	Tooltip_Size3XL = "尺码：3XL",
+	Tooltip_SizeXL = "尺码：XL",
+	Tooltip_SizeXS = "尺码：S",
+	Tooltip_SubstitutionDoll = "欺诈玩偶",
+	Tooltip_TagillaHelmet = "UBEY",
+
 }

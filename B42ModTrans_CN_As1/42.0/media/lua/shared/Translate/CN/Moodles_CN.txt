@@ -513,6 +513,8 @@ Moodles_CN = {
 	Moodles_Anger_Good_lvl2 = "放松",
 	Moodles_Anger_Good_lvl3 = "满足",
 	Moodles_Anger_Good_lvl4 = "平和",
+
+---True Smoking [B42]---(3423984426)---
 	Moodles_nicotine_Bad_lvl1 = "重度上瘾",
 	Moodles_nicotine_Bad_lvl2 = "严重上瘾",
 	Moodles_nicotine_Bad_lvl3 = "极度上瘾",
