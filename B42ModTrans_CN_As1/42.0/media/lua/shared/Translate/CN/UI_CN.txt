@@ -1154,6 +1154,8 @@ UI_CN = {
 	UI_P4StealthCamo_Options_SoundVolume_ListItem7 = "60%",
 	UI_P4StealthCamo_Options_SoundVolume_ListItem8 = "70%",
 	UI_P4StealthCamo_Options_SoundVolume_ListItem9 = "80%",
+	UI_P4StealthCamo_Options_StealthAlpha_Name = "隐身期间的透明度",
+	UI_P4StealthCamo_Options_StealthAlpha_Tooltip = "你可以更改角色在隐身状态下的透明度. <br>0=完全透明 10=不透明",
 
 ---Simple Overhaul: Traits and Occupations (SOTO)---(2840805724)---
 	Sandbox_SOTO = "简单大修：特质与职业",
@@ -3260,6 +3262,7 @@ UI_CN = {
 	UI_trait_MilitarDesc =                   "处于服役巅峰期的军人，随时准备全力以赴。",
 	UI_trait_Sobrevivencialista =            "末世生存者",
 	UI_trait_SobrevivencialistaDesc =        "经受过专业训练，能在这个崩坏的世界生存。"
+	UI_trait_Militar =                       "军人作风",
 
 ---Seesaw Game---(3515515643)---
 	UI_P4SeesawGame_Options_LevelDownXpRate_Name = "降级经验保留率",
@@ -3463,6 +3466,47 @@ UI_CN = {
 	UI_moredesc_Forge = "锻造炉"
 	UI_moredesc_Knitting = "编织"
 	UI_moredesc_Knit = "编织物品"
+	UI_moredesc_AdvancedMechanics = "高级机械学",
+	UI_moredesc_AndXMoreRecipes = "以及另外 %1 种%2配方",
+	UI_moredesc_Assemble = "组装",
+	UI_moredesc_Assembling = "组装",
+	UI_moredesc_BasicMechanics = "基础机械学",
+	UI_moredesc_Blade = "刀刃",
+	UI_moredesc_Blades = "刀刃",
+	UI_moredesc_Carpentry = "木工",
+	UI_moredesc_Carve = "雕刻",
+	UI_moredesc_Carving = "雕刻",
+	UI_moredesc_CharcoalPit = "木炭窑",
+	UI_moredesc_Construction = "建筑",
+	UI_moredesc_Cooking = "烹饪",
+	UI_moredesc_Cookware = "厨具",
+	UI_moredesc_Craft = "制作",
+	UI_moredesc_DomeKiln = "圆顶窑",
+	UI_moredesc_Electrical = "电气",
+	UI_moredesc_Farming = "农耕",
+	UI_moredesc_Fishing = "钓鱼",
+	UI_moredesc_From = "来自",
+	UI_moredesc_General = "综合",
+	UI_moredesc_GrowingSeasonsTotal = "总计 %1 个生长季节",
+	UI_moredesc_IntermediateMechanics = "中级机械学",
+	UI_moredesc_Knap = "敲制",
+	UI_moredesc_Knapping = "敲制",
+	UI_moredesc_Knowledge = "知识",
+	UI_moredesc_Make = "制作",
+	UI_moredesc_Medical = "医疗",
+	UI_moredesc_Metalworking = "金工",
+	UI_moredesc_Miscellaneous = "杂项",
+	UI_moredesc_OBSOLETE = "已废弃",
+	UI_moredesc_Prepare = "准备",
+	UI_moredesc_Sew = "缝合",
+	UI_moredesc_Sewing = "缝纫",
+	UI_moredesc_Sharpen = "磨锐",
+	UI_moredesc_Sharpening = "磨锐",
+	UI_moredesc_Tailoring = "裁缝",
+	UI_moredesc_Trapping = "陷阱",
+	UI_moredesc_Weaponry = "武器",
+	UI_moredesc_XRecipes = "%1 种%2配方",
+	UI_trait_moredesc_levellower = "(低 %1 级)",
 
 ---[B42] Noir's Rifle Slings---(3388107363)---
 	UI_optionscreen_binding_SlingBindings = "额外的快捷键",
@@ -3655,5 +3699,9 @@ UI_CN = {
 
 ---Authentic Z---(2335368829)---
 	UI_Fuel_Remaining = "剩余燃料：",
+
+---True Crawl B42---(3410989950)---
+	UI_optionscreen_binding_TrueCrawlUnder_Key = "在车辆下方爬行的按键",
+	UI_optionscreen_binding_TrueCrawl_Key = "爬行按键",
 
 }

@@ -1831,6 +1831,7 @@ ContextMenu_CN = {
 ---Thief Expansion---(2596620950)---
 	ContextMenu_P4ThiefExpansion_Hide = "隐藏",
 	ContextMenu_P4ThiefExpansion_Steal = "偷窃",
+	ContextMenu_P4ThiefExpansion_StopHide = "取消隐藏",
 
 ---Spear Traps---(2640351732)---
 	ContextMenu_AddSpearToGrave = "将长矛插进坑里",
@@ -1884,6 +1885,7 @@ ContextMenu_CN = {
 ---Pump Pury---(2890440427)---
 	ContextMenu_P4PumpPury_Inflate = "给充气噗噗充气",
 	ContextMenu_P4PumpPury_LookPoster = "查看海报",
+	ContextMenu_P4PumpPury_Deflate = "给充气噗噗放气",
 
 ---Easy Laundry---(2925034918)---
 	ContextMenu_ELLaundry = "洗衣服务",
@@ -2075,6 +2077,7 @@ ContextMenu_CN = {
 	ContextMenu_WristL2 = "左手腕",
 	ContextMenu_WristR = "右手腕",
 	ContextMenu_WristR2 = "右手腕",
+	ContextMenu_WristL = "左手腕",
 
 ---Picking Meister---(3422220305)---
 	ContextMenu_P4PickingMeister_GrabAll = "拿取全部",
@@ -2163,6 +2166,7 @@ ContextMenu_CN = {
 
 ---Washing Menus Improved---(3460812542)---
 	ContextMenu_EatSmart = "智能进食 - 标准子菜单",
+	ContextMenu_BagsEquipped = "已装备的背包",
 
 ---[Project Fallout] The Beginning---(3461117277)---
 	ContextMenu_PFO_VaultTec_Briefcase = "关闭避难所科技公文包"
@@ -2291,5 +2295,18 @@ ContextMenu_CN = {
 	ContextMenu_WearNormally2 = "连同口罩和鞋套一起穿戴",
 	ContextMenu_WearRight = "戴在右边",
 	ContextMenu_WearSideways = "侧戴",
-
+	
+---ClothesBox Redux---(2847911733)---
+	ContextMenu_ClosedJacket = "关闭夹克",
+	ContextMenu_JacketOpen = "敞开夹克",
+	ContextMenu_Loosen = "松开",
+	ContextMenu_RollDownSleeves = "放下袖子",
+	ContextMenu_RollUpSleeves = "卷起袖子",
+	ContextMenu_SwapSides = "左右互换",
+	ContextMenu_TieOnWaist = "系在腰上",
+	ContextMenu_Tighten = "拉紧",
+	ContextMenu_TuckIn = "塞入",
+	ContextMenu_TuckOut = "扯出",
+	ContextMenu_VestClose = "关闭背心",
+	ContextMenu_VestOpen = "敞开背心",
 }

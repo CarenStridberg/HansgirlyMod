@@ -2497,6 +2497,20 @@ IGUI_CN = {
 	IGUI_FarmingWiki_fliesProof = "腐蝇免疫",
 	IGUI_FarmingWiki_true = "是",
 	IGUI_FarmingWiki_false = "否",
+    IGUI_FarmingWiki_AllMonths = "所有月份",
+    IGUI_FarmingWiki_Month1 = "一月",
+    IGUI_FarmingWiki_Month10 = "十月",
+    IGUI_FarmingWiki_Month11 = "十一月",
+    IGUI_FarmingWiki_Month12 = "十二月",
+    IGUI_FarmingWiki_Month2 = "二月",
+    IGUI_FarmingWiki_Month3 = "三月",
+    IGUI_FarmingWiki_Month4 = "四月",
+    IGUI_FarmingWiki_Month5 = "五月",
+    IGUI_FarmingWiki_Month6 = "六月",
+    IGUI_FarmingWiki_Month7 = "七月",
+    IGUI_FarmingWiki_Month8 = "八月",
+    IGUI_FarmingWiki_Month9 = "九月",
+    IGUI_FarmingWiki_MonthlyFilter = "按月份筛选",
 
 ---KI5车辆合集---(3414495781)---
     
@@ -4231,6 +4245,7 @@ IGUI_CN = {
 ---Thief Expansion---(2596620950)---
 	IGUI_perks_Stealing = "偷窃",
 	IGUI_perks_Thief = "盗贼",
+    IGUI_perks_Stealth = "潜行",
 
 ---Manage Containers---(2650547917)---
 	IGUI_ContainerTitle_halfcrate = "半箱",
@@ -5367,6 +5382,13 @@ IGUI_CN = {
 	IGUI_Hair_WhitePonyTailLeft = "左马尾(白)",
 	IGUI_Hair_WhitePonyTailRight = "右马尾(白)",
 	IGUI_Hair_WhiteShortHair = "短发(白)",
+    IGUI_Hair_BlackPigTails = "马尾辫 (黑)",
+    IGUI_Hair_Bright = "露出耳朵",
+    IGUI_Hair_LowerPigTailLeftWhite = "低扎马尾辫 (左偏)",
+    IGUI_Hair_Shadowheart = "影心",
+    IGUI_Hair_ShadowheartBlack = "影心 (黑)",
+    IGUI_Hair_SpreadBunHanabiBlack = "发髻 (黑)",
+    IGUI_Hair_WhiteTwinTails = "双马尾",
 
 ---IndustrialRevolutionVehicleParts---(3404745035)---
 	IGUI_VehicleKitNotFound_HeavyDuty = " (未找到重型车辆套件)",
@@ -6015,5 +6037,22 @@ IGUI_CN = {
     IGUI_ItemEditor_FuelCapacity = "燃料容量",
     IGUI_ItemEditor_FuelConsumption = "燃料消耗",
     IGUI_ItemEditor_RetrieveFuel = "取出燃料",
+
+---More Description for Traits [b42 & b41]---(2685168362)---
+    IGUI_SearchMode_Categories_DeadAnimals = "死亡动物",
+    IGUI_SearchMode_Categories_FishBait = "鱼饵",
+    IGUI_SearchMode_Categories_ForestRarities = "森林稀有品",
+    IGUI_SearchMode_Categories_WildHerbs = "野生草药",
+
+---Pocket Kittens (B42)---(3568029240)---
+    IGUI_PocketKittenBitten = "哦不，它咬了我……",
+    IGUI_PocketKittenLacerate = "噢，这伤口可真深",
+    IGUI_PocketKittenScratch = "哎哟！它抓伤我了",
+
+---BZQuickSlots---(3396010813)---
+    IGUI_Bz_Fast_HotBar_CheckBox_Config_Version = "设置配置文件版本",
+    IGUI_Bz_Fast_HotBar_DropdownOpacity_Name = "栏位的不透明度",
+    IGUI_Bz_Fast_HotBar_DropdownOpacity_Tooltip = "不透明度. 范围为 0 - 1.",
+    IGUI_Bz_Fast_HotBar_HideCar_Name = "进入车辆时隐藏/显示",
 
 }

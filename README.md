@@ -908,3 +908,17 @@ Mod:[B41/B42] Day One (Bandits)---ID:3329251514
 Mod:Mad Crafter【电击武器与更多改装】v0.3---ID:3418701509
 
 Mod:[B42/41] Reactive Sound Events---ID:2969551071
+
+Mod:Autotsar Tuning Atelier - Fjord Mustard '66 [B42]---ID:3405574146
+
+Mod:More Description for Traits [b41 & b42.8]---ID:2685168362
+
+Mod:Pocket Kittens (B42)---ID:3568029240
+
+Mod:[B42]Zombies Subzero TWD---ID:3426132882
+
+Mod:BZQuickSlots---ID:3396010813
+
+Mod:True Crawl B42---ID:3410989950
+
+Mod:ClothesBox Redux---ID:2847911733

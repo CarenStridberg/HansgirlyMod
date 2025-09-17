@@ -64,6 +64,7 @@ Sandbox_CN = {
 	Sandbox_ProximityInventory = "融合物品栏",
 	Sandbox_ZombieOnly = "仅限僵尸模式",
 	Sandbox_ZombieOnly_tooltip = "启用此选项以使融合物品栏仅对僵尸生效",
+	Sandbox_ProxInv = "融合物品栏",
 
 ---[B41/B42] I Need More Styl:Clothing Edition---(2861393067)---
 	Sandbox_INeedMoreStyle = "我需要更多风格：服装版", 
@@ -2409,6 +2410,7 @@ Sandbox_CN = {
 	Sandbox_P4ThiefExpansion_MultiplierConfigStealth_tooltip = "设置隐身技能的升级速度（需禁用全局经验倍率才能生效）",
 	Sandbox_P4ThiefExpansion_WorldSpawn = "窃贼技能书世界生成",
 	Sandbox_P4ThiefExpansion_WorldSpawn_tooltip = "启用窃贼技能书的世界生成功能。",
+	Sandbox_P4ThiefExpansion_MultiplierConfigStealth = "潜行技能经验倍率",
 
 ---Spear Traps---(2640351732)---
 	Sandbox_SpearTraps_SpearTrapsKillPlayer = "长矛陷阱会杀死玩家",
@@ -4057,6 +4059,7 @@ Sandbox_CN = {
 	Sandbox_JunkFoodsPH_SpawnRateChips_option4 = "常见",
 	Sandbox_JunkFoodsPH_SpawnRateChips_option5 = "丰富",
 	Sandbox_JunkFoodsPH_SpawnRateChips_option6 = "无",
+	Sandbox_JunkFoodsPH_SpawnRateChips_option3 = "正常",
 
 ---Melee Weapon Upgrade---(3394923321)---
 	Sandbox_MeleeWeaponUpgrade = "近战武器升级",
@@ -4315,6 +4318,7 @@ Sandbox_CN = {
 	Sandbox_BonusExp = "经验加成",
 	Sandbox_BonusExp_IsUseXpBoost = "分配技能点时使用特性和职业加成",
 	Sandbox_BonusExp_IsUseXpMultiplyer = "分配技能点时使用书籍倍率",
+	Sandbox_BonusExp_AmountPercent = "经验百分比",
 
 ---PZLinux---(3414468585)---
 	Sandbox_DisableVehicleSalvage = "禁用车辆拆解功能"
@@ -4811,6 +4815,7 @@ Sandbox_CN = {
 	Sandbox_NepNSCDebugMode_tooltip = "在控制台打印额外调试信息"
 	Sandbox_NepNSCInstakill = "一击砍倒最粗壮的大树！",
 	Sandbox_NepNSCInstakill = "秒杀",
+	Sandbox_NepNSCDamageMult = "伤害倍率",
 
 ---Washing Menus Improved---(3460812542)---
 	Sandbox_WashSmart = "洗涤菜单改进版",
@@ -5459,4 +5464,32 @@ Sandbox_CN = {
     Sandbox_TrueSmoking_RunningFactor_tooltip = "奔跑时燃烧速率的提升幅度",
     Sandbox_TrueSmoking_SprintingFactor = "冲刺燃烧加成",
     Sandbox_TrueSmoking_SprintingFactor_tooltip = "冲刺时燃烧速率的提升幅度",
+
+---[B42]Zombies Subzero TWD---(3426132882)---
+	Sandbox_DebugInfo = "显示僵尸的调试信息",
+	Sandbox_DebugInfo_tooltip = "显示僵尸的调试信息.\n",
+	Sandbox_FrozenEnabled = "已启用冻结:",
+	Sandbox_FrozenEnabled_tooltip = "在无需移除模组的前提下, 启用/禁用此模组",
+	Sandbox_FrozenFreezepoint = "僵尸冻结温度",
+	Sandbox_FrozenFreezepoint_tooltip = "设置僵尸的冻结温度\n\n0'C (32'F) = 水结冰\n-5'C (25'F) = 寒冷刺骨\n-10'C (14'F) = 牙齿打颤\n-15'C (5'F) = 脸开始疼\n",
+	Sandbox_FrozenZombies = "僵尸低温冻结 (行尸走肉)",
+	Sandbox_SlowerEnabled = "冻结前已启用:",
+	Sandbox_SlowerEnabled_tooltip = "在无需移除模组的前提下, 启用/禁用此模组",
+	Sandbox_SlowerFreezepoint = "僵尸冻结前的减速温度",
+	Sandbox_SlowerFreezepoint_tooltip = "设置僵尸的减速温度\n\n0'C (32'F) = 水结冰\n-5'C (25'F) = 寒冷刺骨\n-10'C (14'F) = 牙齿打颤\n-15'C (5'F) = 脸开始疼\n",
+	Sandbox_SlowerLunging = "冻结前",
+	Sandbox_TimeUntilFrozen = "僵尸冻结所需时间",
+	Sandbox_TimeUntilFrozen_tooltip = "僵尸暴露在低温下冻结前需要多少刻\n",
+
+---True Crawl B42---(3410989950)---
+	Sandbox_TrueCrawl = "真实爬行",
+	Sandbox_TrueCrawl_AimBonusEnable = "启用瞄准加成",
+	Sandbox_TrueCrawl_AimBonusEnable_tooltip = "开关俯卧瞄准加成. [默认开启]",
+	Sandbox_TrueCrawl_AimingCritChanceBonusWhileProne = "俯卧暴击几率加成",
+	Sandbox_TrueCrawl_AimingCritChanceBonusWhileProne_tooltip = "设置俯卧瞄准时获得的暴击几率加成. [默认为 50]",
+	Sandbox_TrueCrawl_AimingHitChanceBonusWhileProne = "俯卧命中几率加成",
+	Sandbox_TrueCrawl_AimingHitChanceBonusWhileProne_tooltip = "设置俯卧瞄准时获得的命中几率加成. [默认为 50]",
+	Sandbox_TrueCrawl_CrawlUnderVehiclesEnable = "在车辆下方爬行",
+	Sandbox_TrueCrawl_CrawlUnderVehiclesEnable_tooltip = "开关在车辆下方爬行的能力. (必须先启用爬行!) [默认开启, 默认按键为 X]. ",
+
 }

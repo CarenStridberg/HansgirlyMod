@@ -43,6 +43,8 @@ Recipe_CN = {
 ---常识---(2875848298)---
 	Recipe_Empty-Bag = "倒在地上",
 	Recipe_Empty-Sack = "倒在地上",
+	Recipe_CleanBandageWithAlcohol = "用酒精清洁绷带",
+	Recipe_CutSheetWithClothes = "将衣服切成布条",
 
 ---Filibuster Rhymes' Used Cars! - Animation Alpha---(2959472220)---
 	Recipe_FRBuildSideBoard = "制作侧踏板",
@@ -1880,7 +1882,7 @@ Recipe_CN = {
 			Recipe_8thGenFordFseries.MakeFrontSeat = "制作第八代福特F系前座椅",
 			Recipe_8thGenFordFseries.MakeFrontWindshield = "制作第八代福特F系挡风玻璃",
 			Recipe_8thGenFordFseries.MakeFrontSideWindow = "制作第八代福特F系前侧车窗",
-			Recipe_80sPickup.MakeTire = "制作80年代越野轮胎A型",
+			Recipe_80sPickup.MakeTire = "制造80年代皮卡轮胎",
 		/* 80s Pickups */
 			Recipe_80sPickup.MakeTire = "制造80年代皮卡轮胎",
 			Recipe_80sPickup.MakeRoofrack = "制造80年代皮卡车顶行李架",
@@ -2170,6 +2172,29 @@ Recipe_CN = {
 		Recipe_85pontiacParisienne.MakeFrontBumper = "制造85款庞蒂亚克巴黎人前保险杠",
 		Recipe_85pontiacParisienne.MakeReinforcedFrontBumper = "制造85款庞蒂亚克巴黎人加强型前保险杠",
 		Recipe_85pontiacParisienne.MakeRearBumper = "制造85款庞蒂亚克巴黎人后保险杠",
+		Recipe_85gmBbody.MakeFrontBullbar = "制作85款GM B型车前防撞杠",
+		Recipe_85gmBbody.MakeFrontDoor = "制作85款GM B型车前门",
+		Recipe_85gmBbody.MakeFrontSideWindow = "制作85款GM B型车前侧车窗",
+		Recipe_85gmBbody.MakeFrontWindowArmor = "制作85款GM B型车前窗装甲",
+		Recipe_85gmBbody.MakeFrontWindowWoodenArmor = "制作85款GM B型车前窗木装甲",
+		Recipe_85gmBbody.MakeFrontWindshield = "制作85款GM B型车前挡风玻璃",
+		Recipe_85gmBbody.MakeFrontWindshieldArmor = "制作85款GM B型车前挡风装甲",
+		Recipe_85gmBbody.MakeFrontWindshieldWoodenArmor = "制作85款GM B型车前挡风木装甲",
+		Recipe_85gmBbody.MakeRearDoor = "制作85款GM B型车后门",
+		Recipe_85gmBbody.MakeRearSideWindow = "制作85款GM B型车后侧车窗",
+		Recipe_85gmBbody.MakeRearWindowArmor = "制作85款GM B型车后窗装甲",
+		Recipe_85gmBbody.MakeRearWindowWoodenArmor = "制作85款GM B型车后窗木装甲",
+		Recipe_85gmBbody.MakeRearWindshield = "制作85款GM B型车后挡风玻璃",
+		Recipe_85gmBbody.MakeRearWindshieldArmor = "制作85款GM B型车后挡风装甲",
+		Recipe_85gmBbody.MakeRearWindshieldWoodenArmor = "制作85款GM B型车后挡风木装甲",
+		Recipe_85gmBbody.MakeRoofrack = "制作85款GM B型车顶行李架",
+		Recipe_85gmBbody.MakeTire0 = "制作85款GM B型车轮胎1类",
+		Recipe_85gmBbody.MakeTire1 = "制作85款GM B型车轮胎2类",
+		Recipe_85gmBbody.MakeTire2 = "制作85款GM B型车轮胎3类",
+		Recipe_85gmBbody.MakeTire3 = "制作复古标准通用轮胎",
+		Recipe_85gmBbody.MakeTire4 = "制作复古重型通用轮胎",
+		Recipe_85gmBbody.MakeTire5 = "制作85款GM B型车轮胎5类",
+		Recipe_85gmBbody.MakeTire6 = "制作85款GM B型车轮胎4类",
 	
 	---'85 Chevrolet Caprice / Impala---(3413704851)---
 		Recipe_85chevyCaprice.MakeHood = "制造85款雪佛兰Caprice/Impala引擎盖",
@@ -2246,6 +2271,29 @@ Recipe_CN = {
 		Recipe_85buickLeSabre.MakeFrontBumper = "制造85款别克LeSabre前保险杠",
 		Recipe_85buickLeSabre.MakeReinforcedFrontBumper = "制造85款别克LeSabre加强型前保险杠",
 		Recipe_85buickLeSabre.MakeRearBumper = "制造85款别克LeSabre后保险杠",
+		Recipe_85gmBbody.MakeFrontBullbar = "制作85款GM B型车前防撞杠",
+		Recipe_85gmBbody.MakeFrontDoor = "制作85款GM B型车前门",
+		Recipe_85gmBbody.MakeFrontSideWindow = "制作85款GM B型车前侧车窗",
+		Recipe_85gmBbody.MakeFrontWindowArmor = "制作85款GM B型车前窗装甲",
+		Recipe_85gmBbody.MakeFrontWindowWoodenArmor = "制作85款GM B型车前窗木装甲",
+		Recipe_85gmBbody.MakeFrontWindshield = "制作85款GM B型车前挡风玻璃",
+		Recipe_85gmBbody.MakeFrontWindshieldArmor = "制作85款GM B型车前挡风装甲",
+		Recipe_85gmBbody.MakeFrontWindshieldWoodenArmor = "制作85款GM B型车前挡风木装甲",
+		Recipe_85gmBbody.MakeRearDoor = "制作85款GM B型车后门",
+		Recipe_85gmBbody.MakeRearSideWindow = "制作85款GM B型车后侧车窗",
+		Recipe_85gmBbody.MakeRearWindowArmor = "制作85款GM B型车后窗装甲",
+		Recipe_85gmBbody.MakeRearWindowWoodenArmor = "制作85款GM B型车后窗木装甲",
+		Recipe_85gmBbody.MakeRearWindshield = "制作85款GM B型车后挡风玻璃",
+		Recipe_85gmBbody.MakeRearWindshieldArmor = "制作85款GM B型车后挡风装甲",
+		Recipe_85gmBbody.MakeRearWindshieldWoodenArmor = "制作85款GM B型车后挡风木装甲",
+		Recipe_85gmBbody.MakeRoofrack = "制作85款GM B型车顶行李架",
+		Recipe_85gmBbody.MakeTire0 = "制作85款GM B型车轮胎1类",
+		Recipe_85gmBbody.MakeTire1 = "制作85款GM B型车轮胎2类",
+		Recipe_85gmBbody.MakeTire2 = "制作85款GM B型车轮胎3类",
+		Recipe_85gmBbody.MakeTire3 = "制作复古标准通用轮胎",
+		Recipe_85gmBbody.MakeTire4 = "制作复古重型通用轮胎",
+		Recipe_85gmBbody.MakeTire5 = "制作85款GM B型车轮胎5类",
+		Recipe_85gmBbody.MakeTire6 = "制作85款GM B型车轮胎4类",
 	
 	---'85 Oldsmobile Delta 88---(3418253716)---
 		Recipe_85oldsmobileDelta88.MakeHood = "制造85款奥兹莫比尔Delta 88引擎盖",
@@ -2255,6 +2303,29 @@ Recipe_CN = {
 		Recipe_85oldsmobileDelta88.MakeFrontBumper = "制造85款奥兹莫比尔Delta 88前保险杠",
 		Recipe_85oldsmobileDelta88.MakeReinforcedFrontBumper = "制造85款奥兹莫比尔Delta 88加强型前保险杠",
 		Recipe_85oldsmobileDelta88.MakeRearBumper = "制造85款奥兹莫比尔Delta 88后保险杠",
+		Recipe_85gmBbody.MakeFrontBullbar = "制作85款GM B型车前防撞杠",
+		Recipe_85gmBbody.MakeFrontDoor = "制作85款GM B型车前门",
+		Recipe_85gmBbody.MakeFrontSideWindow = "制作85款GM B型车前侧车窗",
+		Recipe_85gmBbody.MakeFrontWindowArmor = "制作85款GM B型车前窗装甲",
+		Recipe_85gmBbody.MakeFrontWindowWoodenArmor = "制作85款GM B型车前窗木装甲",
+		Recipe_85gmBbody.MakeFrontWindshield = "制作85款GM B型车前挡风玻璃",
+		Recipe_85gmBbody.MakeFrontWindshieldArmor = "制作85款GM B型车前挡风装甲",
+		Recipe_85gmBbody.MakeFrontWindshieldWoodenArmor = "制作85款GM B型车前挡风木装甲",
+		Recipe_85gmBbody.MakeRearDoor = "制作85款GM B型车后门",
+		Recipe_85gmBbody.MakeRearSideWindow = "制作85款GM B型车后侧车窗",
+		Recipe_85gmBbody.MakeRearWindowArmor = "制作85款GM B型车后窗装甲",
+		Recipe_85gmBbody.MakeRearWindowWoodenArmor = "制作85款GM B型车后窗木装甲",
+		Recipe_85gmBbody.MakeRearWindshield = "制作85款GM B型车后挡风玻璃",
+		Recipe_85gmBbody.MakeRearWindshieldArmor = "制作85款GM B型车后挡风装甲",
+		Recipe_85gmBbody.MakeRearWindshieldWoodenArmor = "制作85款GM B型车后挡风木装甲",
+		Recipe_85gmBbody.MakeRoofrack = "制作85款GM B型车顶行李架",
+		Recipe_85gmBbody.MakeTire0 = "制作85款GM B型车轮胎1类",
+		Recipe_85gmBbody.MakeTire1 = "制作85款GM B型车轮胎2类",
+		Recipe_85gmBbody.MakeTire2 = "制作85款GM B型车轮胎3类",
+		Recipe_85gmBbody.MakeTire3 = "制作复古标准通用轮胎",
+		Recipe_85gmBbody.MakeTire4 = "制作复古重型通用轮胎",
+		Recipe_85gmBbody.MakeTire5 = "制作85款GM B型车轮胎5类",
+		Recipe_85gmBbody.MakeTire6 = "制作85款GM B型车轮胎4类",
 	
 	---'67 Cadillac Gage Commando---(2478247379)---
 		Recipe_67commando.MakeFrontDoor = "制造67款M706突击队员前车门",
@@ -2381,6 +2452,8 @@ Recipe_CN = {
 		Recipe_86chevy1028.MakeMudflaps = "制造86款雪佛兰M1028挡泥板",
 		Recipe_M101A2.MakeTrunkLid = "制造M101拖车舱门",
 		Recipe_M101A2.MakeTarp = "制造M101拖车防水篷布",
+		Recipe_86chevyCUCV.MakeHood = "制作86款雪佛兰CUCV引擎盖",
+		Recipe_93fordF350.MakeRearSeat = "制造93款福特F系列后排座椅",
 	
 	---'81 DeLorean DMC-12---(3253385114)---
 		Recipe_81deloreanDMC12.MakeTire = "制造81款德罗宁DMC-12轮胎",
@@ -3256,6 +3329,7 @@ Recipe_CN = {
 		Recipe_82jeepJ10.MakeRearBumper = "制造82款吉普J10后保险杠",
 		Recipe_82jeepJ10.MakeReinforcedFrontBumper = "制造82款吉普J10加固前保险杠",
 		Recipe_82jeepJ10.MakeBedCap = "制造82款吉普J10货斗防雨篷",
+		Recipe_80sPickup.MakeTire = "制造80年代皮卡轮胎",
 	
 	---'88 Chevrolet S10---(2886832936)---
 		Recipe_88ChevyS10.MakeHood = "制造88款雪佛兰S10引擎盖",
@@ -3269,6 +3343,7 @@ Recipe_CN = {
 		Recipe_88ChevyS10.MakeRearBumper = "制造88款雪佛兰S10后保险杠",
 		Recipe_88ChevyS10.MakeReinforcedFrontBumper = "制造88款雪佛兰S10加固前保险杠",
 		Recipe_88ChevyS10.MakeBedCap = "制造88款雪佛兰S10货斗防雨篷",
+		Recipe_80sPickup.MakeTire = "制造80年代皮卡轮胎",
 	
 	---'89 Ford Bronco---(2886833398)---
 		Recipe_89Bronco.MakeHood = "制造89款福特Bronco引擎盖",
@@ -3577,6 +3652,7 @@ Recipe_CN = {
     Recipe_UnpackBoxOfPantyLiners = "打开卫生护垫盒装",
     Recipe_UnpackBoxOSantiaryPads = "打开卫生巾盒装",
     Recipe_UnpackBoxOfTampons = "打开卫生棉条盒装",
+	Recipe_Craft_Period_Tracker = "制作 书籍-认识女性经期",
 
 ---[B42] Bicycle!---(3461415167)---
     Recipe_ConvertFrontWheel = "制作前轮",
@@ -3681,6 +3757,7 @@ Recipe_CN = {
 	Recipe_P4CopyContentStealth2 = "抄录内容 (Vol.2)",
 	Recipe_P4CopyContentStealth4 = "抄录内容 (Vol.4)",
 	Recipe_P4CopyContentStealth5 = "抄录内容 (Vol.5)",
+	Recipe_P4CopyContentStealth3 = "抄录内容 (Vol.3)",
 
 ---Stealth Camo---(2762398967)---
 	Recipe_Add_Holster_Attachment_To_Stealth_Camo = "安装枪套配件",
@@ -3689,6 +3766,14 @@ Recipe_CN = {
 	Recipe_Make_Stealth_Camo = "制作隐形迷彩",
 	Recipe_Remove_Holster_Attachment_From_Stealth_Camo = "拆卸枪套配件"
 	Recipe_Upgrade_Stealth_Camo_1 = "升级隐形迷彩",
+	Recipe_ = "",
+	Recipe_P4InsertBatteryStealthCamo = "插入电池",
+	Recipe_P4MakeStealthCamo = "制作隐形迷彩",
+	Recipe_P4RemoveBatteryStealthCamo = "移除电池",
+	Recipe_P4ResearchStealthCamo = "逆向研究隐形迷彩",
+	Recipe_P4UpgradeStealthCamo1 = "升级隐形迷彩,
+	Recipe_P4UpgradeStealthCamo2 = "升级隐形迷彩,
+	Recipe_P4UpgradeStealthCamo3 = "升级隐形迷彩,
 
 ---Ammo Maker---(2788256295)---
 	Recipe_DisassembleAmmo = "拆解弹药",
@@ -4217,6 +4302,9 @@ Recipe_CN = {
 	Recipe_Make_Yeast = "制作酵母",
 	Recipe_Write_Herbalist_for_Dummies = "撰写《草药医生入门》",
 	RevertToDrainable = "恢复为普通毛巾",
+	Recipe_Make_Wearable = "使其可以穿在身上",
+	Recipe_Reverse = "使其变回原样",
+
 
 ---Prism Power---(3235103558)---
 	Recipe_P4MakeupEyeshadowRefill = "补充化妆品",
@@ -4272,6 +4360,8 @@ Recipe_CN = {
 	FireClayLargeSheetMold = "烧制大粘土板模具",
 	MakeLargeGlassPane = "制作大玻璃板",
 	Recipe_MakeLargeSheetMold = "压制大板模具",
+	Recipe_FireClayLargeSheetMold = "耐火粘土大型板状模具",
+	Recipe_MakeLargeGlassPane = "制作玻璃板",
 
 ---Shield Mode (Secondary Hand Equip) (B41/B42)---(3383001527)---
 	ShieldModeSecondaryHandEquip.MakeSteelBuckler = "制作钢制小圆盾",
@@ -5955,5 +6045,19 @@ Recipe_CN = {
 	Recipe_Make_Papier_Mache_Sword = "制作纸浆剑",
 	Recipe_Make_Wood_Glue = "制作木工胶",
 	Recipe_Mince_Corpse_into_Fertilizer = "将尸体切碎制成肥料",
+
+---Autotsar Tuning Atelier - Fjord Mustard '66 [B42]---(3405574146)---
+	Recipe_Cut = "切割",
+
+---Pocket Kittens (B42)---(3568029240)---
+	Recipe_ButcherStrayKitten = "屠宰",
+	Recipe_ButcherZombieKitten = "屠宰",
+	Recipe_FeedKittens = "喂食",
+	Recipe_FeedPocketKittens = "喂食",
+	Recipe_FeedStrays = "喂食",
+	Recipe_PetKittens = "抚摸",
+	Recipe_PetPocketKittens = "抚摸",
+	Recipe_PetStrays = "抚摸",
+	Recipe_PetZombie = "抚摸",
 
 }

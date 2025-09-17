@@ -1413,6 +1413,7 @@ Tooltip_CN = {
 	Tooltip_SZ_LabTest7 = "实验化合物V-SZ8376",
 	Tooltip_SZ_LabTest8 = "实验化合物V-SZ8442",
 	Tooltip_SZ_LabTest9 = "实验化合物V-SZ3788",
+	Tooltip_item_NepSurRifle = "轻型.223/5.56毫米步枪",
 
 ---[B42] More Item Information---(3494474677)---
 	Tooltip_MII_Accuracy = "命中率",
@@ -1537,4 +1538,6 @@ Tooltip_CN = {
 	Tooltip_SubstitutionDoll = "欺诈玩偶",
 	Tooltip_TagillaHelmet = "UBEY",
 
+---Pocket Kittens (B42)---(3568029240)---
+	Tooltip_PocketKittenMonster = "你真是个怪物……",
 }
