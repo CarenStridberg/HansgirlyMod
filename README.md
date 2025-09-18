@@ -926,3 +926,5 @@ Mod:Tsar's Common Library---ID:3402491515
 Mod:True Music B42---ID:3397198968
 
 Mod:'90 Mercedes-Benz Unimog U1550L---ID:2843855721
+
+Mod:Autotsar Tuning Atelier - Petyarbuilt 379 [B42]---ID:3403314193

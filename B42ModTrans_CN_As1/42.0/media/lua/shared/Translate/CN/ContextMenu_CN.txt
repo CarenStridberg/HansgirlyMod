@@ -2314,11 +2314,19 @@ ContextMenu_CN = {
 	ContextMenu_OpenTent = "打开帐篷",
 	ContextMenu_Vehicle_For_Smashwindow_Uninstall_Protection = "要打破窗户<br>移除防护.",
 	ContextMenu_Vehicle_EGNH = "写<EGNH>",
-	ContextMenu_Vehicle_STRAYS = "写<EGNH>"
+	ContextMenu_Vehicle_STRAYS = "写«STRAYS»"
 	ContextMenu_Close_trunk = "关闭行李箱",
 	ContextMenu_Open_trunk = "打开行李箱",
 	ContextMenu_TrailerSpotlightOn = "打开聚光灯",
 	ContextMenu_TrailerSpotlightOff = "关闭聚光灯",
 	ContextMenu_Turn_On_Generator = "启动发电机",
+
+---Autotsar Tuning Atelier - Petyarbuilt 379 [B42]---(3403314193)---
+	ContextMenu_CantLaunchVehicle = "无法卸载<br>有东西挡住了路",
+	ContextMenu_CantLoadVehicleOntoTrailer = "后方没有车辆<br>或不适用于此拖车",
+	ContextMenu_LaunchVehicle = "从拖车中卸载",
+	ContextMenu_LoadVehicleOntoTrailer = "载入拖车",
+	ContextMenu_OpenTuningMenu = "改装",
+	ContextMenu_Vehicle_STRAYS = "写«STRAYS»",
 
 }

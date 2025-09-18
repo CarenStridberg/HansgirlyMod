@@ -6090,11 +6090,13 @@ Recipe_CN = {
 	Recipe_ATAMustangRecipes = "福特野马改装手册",
 	Recipe_ATASamaraRecipes = "萨马拉骑士改装手册",
 	Recipe_ATALutonRecipes = "谟尔森·卢顿货车改装手册",
-	Recipe_ATAPetyarbuiltRecipes = "鹦鹉379改装手册",
+	Recipe_ATAPetyarbuiltRecipes = "彼得比尔特 379改装手册",
 	Recipe_ATADeLorianRecipes = "DMG德罗宁改装手册",
 	Recipe_ATADeLorianBTTFRecipes = "时间机器改装手册",
 	Recipe_ATADatsun240zRecipes = "达特桑240Z改装手册",
 	Recipe_Make_ATAMotoBMWCustomMuffler = "制作宝马R80/7 定制消声器",
 	Recipe_Cut_ATASamaraHoodItem = "切割萨马拉骑士引擎盖",
+	Recipe_Dismantle_TCWalkman = "拆解音乐播放器",
+	Recipe_Dismantle_TruePlayers = "拆解音乐播放器",
 
 }
