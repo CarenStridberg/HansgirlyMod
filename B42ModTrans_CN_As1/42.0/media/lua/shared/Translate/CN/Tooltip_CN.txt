@@ -717,6 +717,7 @@ Tooltip_CN = {
 	Tooltip_item_P4TrueExcalibar = "内蕴「风之水晶」的力量",
 	Tooltip_item_P4TrueExcalibarE = "内蕴「土之水晶」的力量",
 	Tooltip_item_P4TrueExcalibarW = "内蕴「水之水晶」的力量",
+	Tooltip_item_P4TrueExcalibarF = "内蕴「火之水晶」的力量",
 
 ---My So-Called Snack---(2877535263)---
 	Tooltip_Recipe_P4MakeDessertBase = "制作需要热水。"
@@ -1479,4 +1480,26 @@ Tooltip_CN = {
 	Tooltip_item_ATABMWe36TuningMag = "阅读本期杂志后，你将获得基本的改装知识，并学会如何为宝马 E36<br>制作防护、保险杠和支架",
 	Tooltip_item_ATATuningMagDeRumba = "阅读本期杂志后，你将获得基本的改装知识，并学会如何为<br>德伦巴面包车制作防护",
 	Tooltip_item_Walkman = "三尼公司出品的著名播放器。",
+
+---Boots Expanded 11 for B41 and B42---(2850935956)---
+	Tooltip_ArmyBoots = "踩踏力度: 2.5   耐久度: 600",
+	Tooltip_ArmyBootsDesert = "踩踏力度: 2.5   耐久度: 600",
+	Tooltip_BlackBoots = "踩踏力度: 2.5   耐久度: 400",
+	Tooltip_Booties = "踩踏力度: 2.0   耐久度: 300",
+	Tooltip_Converse = "踩踏力度: 1.8   耐久度: 400" ,
+	Tooltip_ConverseBoots = "踩踏力度: 1.8   耐久度: 600",
+	Tooltip_CowboyBoots = "踩踏力度: 2.7   耐久度: 600",
+	Tooltip_Fancy = "踩踏力度: 1.8   耐久度: 300",
+	Tooltip_GothBoots = "踩踏力度: 6.0   耐久度: 800",',
+	Tooltip_HikingBoots = "踩踏力度: 2.2   耐久度: 600",
+	Tooltip_Hitops = "踩踏力度: 1.6   耐久度: 300",
+	Tooltip_RidingBoots = "踩踏力度: 3.3   耐久度: 400",
+	Tooltip_Shoes = "踩踏力度: 1.8   耐久度: 300",
+	Tooltip_Sneakers = "踩踏力度: 1.6   耐久度: 250",
+	Tooltip_StrappedShoes = "踩踏力度: 2.2   耐久度: 300",
+	Tooltip_Trainers = "踩踏力度: 1.6   耐久度: 250",
+	Tooltip_Wellies = "踩踏力度: 2.1   耐久度: 400",
+	Tooltip_WinterBoots = "踩踏力度: 3.0   耐久度: 800",',
+	Tooltip_WorkBoots = "踩踏力度: 2.2   耐久度: 600",
+
 }

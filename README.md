@@ -928,3 +928,11 @@ Mod:True Music B42---ID:3397198968
 Mod:'90 Mercedes-Benz Unimog U1550L---ID:2843855721
 
 Mod:Autotsar Tuning Atelier - Petyarbuilt 379 [B42]---ID:3403314193
+
+Mod:What can I craft Addon---ID:3392356751
+
+Mod:Long Term Preservation [FIXED] [B42]---ID:3406392630
+
+Mod:Trap Manager---ID:3566766862
+
+Mod:More Maps [B42]---ID:3390897023

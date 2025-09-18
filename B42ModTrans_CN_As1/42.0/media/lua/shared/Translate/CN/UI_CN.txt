@@ -1496,6 +1496,7 @@ UI_CN = {
 	UI_P4LoveAndPerfume_Options_SoundVolume_ListItem9 = "80%",
 	UI_P4LoveAndPerfume_Options_UseContextMenu_Name = "右键菜单确认",
 	UI_P4LoveAndPerfume_Options_UseContextMenu_Tooltip = "启用通过右键菜单切换是否检查香味的功能。",
+	UI_P4LoveAndPerfume_Messages_MiddleNote = "中调的香气十分醇厚.",
 
 ---Moodle Framework B41---(2859296947)---
 	Dismantleable = "可拆解",
@@ -1528,6 +1529,7 @@ UI_CN = {
 	UI_P4Excalibar_CureInfection_Cured = "血液被净化了！",
 	UI_P4Excalibar_Options_EasyToFind_Name = "简易获取",
 	UI_P4Excalibar_Options_EasyToFind_Tooltip = "勾选此项将在世界某处生成所有圣剑石、真·圣剑撬棍和水晶。<br>若沙盒选项中禁用生成则不会放置。<br>更改后需要重启游戏。",
+	UI_P4Excalibar_CheckBook_LearnedRecipe = "你学到了新的制作配方.",
 
 ---SafeLogin---(2876897619)---
 	UI_trait_safelogin_countdown = "%1秒后显形",
@@ -2431,6 +2433,9 @@ UI_CN = {
 	UI_nextButton = "下一页",
 	UI_prevButton = "上一页",
 	UI_subscribedMapModsLabel = "已订阅地图模组",
+	UI_FilterMapsTooltip = "根据下拉菜单中选择的单元格筛选地图列表.",
+	UI_helpPanelText = "地图模组管理器 (Map Mod Manager) 是一款用于识别地图模组之间单元格冲突的工具.\\n\\n" ..,
+
 
 ---Sound Scouter---(3366600816)---
 	UI_P4SoundScouter_Options_ShowScouter_Name = "显示音波探测器面板",
@@ -3703,5 +3708,15 @@ UI_CN = {
 ---True Crawl B42---(3410989950)---
 	UI_optionscreen_binding_TrueCrawlUnder_Key = "在车辆下方爬行的按键",
 	UI_optionscreen_binding_TrueCrawl_Key = "爬行按键",
+
+---What can I craft Addon---(3392356751)---
+	UI_WCIC_Notice = "更改将在重连后生效.",
+	UI_WCIC_Override_WCIC_Icon = "添加图标",
+	UI_WCIC_Override_WCIC_Icon_tooltip = "'我能制作什么东西?' 添加上下文图标",
+	UI_WCIC_SeeAllRecipes_tooltip = "使用物品栏的不合适的实体直接制作时存在问题.",
+
+---Trap Manager---(3566766862)---
+	UI_TM_NotAvailable = "不适用",
+	UI_TM_Title = "陷阱管理器 (Trap Manager)",
 
 }

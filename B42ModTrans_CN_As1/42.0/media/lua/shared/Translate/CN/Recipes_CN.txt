@@ -97,7 +97,12 @@ Recipe_CN = {
 	Recipe_Make_White_Male_Mannequin_(Pose_1) = "制作白色男性人体模型（姿势1）",
 	Recipe_Make_White_Male_Mannequin_(Pose_2) = "制作白色男性人体模型（姿势2）",
 	Recipe_Make_White_Male_Mannequin_(Pose_3) = "制作白色男性人体模型（姿势3）",
-	Recipe_Make_Skeleton_Mannequin = "制作骨架人体模型",
+	Recipe_Make_Skeleton_Mannequin = "制作人体模型骨架",
+	Recipe_Make_Black_Female_Mannequin = "制作黑色女性人体模型",
+	Recipe_Make_Black_Male_Mannequin = "制作黑色男性人体模型",
+	Recipe_Make_Spooky_Mannequin = "制作恐怖人体模型",
+	Recipe_Make_White_Female_Mannequin = "制作白色女性人体模型",
+	Recipe_Make_White_Male_Mannequin = "制作白色男性人体模型",
 
 ---[B42/B41] PZK VLC (Vanilla look-like car pack)---(3217685049)---
 	Recipe_ATA_PZK_Models_TuningMag = "PZK 改装",
@@ -4144,6 +4149,8 @@ Recipe_CN = {
 	Recipe_P4MakeExcaliparC = "制作圣剑石(青绿)",
 	Recipe_P4MakeExcaliparY = "制作圣剑石(黄)",
 	Recipe_P4MakeTrueExcalibar = "制作真·圣剑撬棍",
+	Recipe_ = "",
+	Recipe_P4MakeExcaliparM = "制作圣剑石(品红)",
 
 ---My So-Called Snack---(2877535263)---
 	Recipe_P4CheckChocoballPackage = "检查巧克力球空盒",
@@ -4316,6 +4323,8 @@ Recipe_CN = {
 	Recipe_PaintLanternWhite = "给灯笼上色为白色",
 	Recipe_PaintLanternYellow = "给灯笼上色为黄色",
 	Recipe_RemovePaintFromFancyLantern = "去除华丽灯笼上的油漆",
+	Recipe_PaintLanternChili = "给灯笼上色为深红色",
+	Recipe_PaintLanternLilac = "给灯笼上色为紫丁香色",
 
 ---The Last of Us: Factions & Gear [B41/B42]---(3348036710)---
 	Recipe_Make_FEDRA_Armband = "制作FEDRA臂章",
@@ -4607,6 +4616,10 @@ Recipe_CN = {
 	FruitDriedTrex = "制作脱水水果",
 	Get4driedfruittrex = "制作4个脱水水果",
 	Makebakingtraydriedfruittrex = "制作脱水水果盘",
+	Recipe_FruitDriedTrex = "制作脱水水果",
+	Recipe_Get4driedfruittrex = "制作4个脱水水果",
+	Recipe_Makebakingtraydriedfruittrex = "制作脱水水果盘",
+
 
 ---Legendary Katana---(3418366499)---
 	Recipe_MakeEpicKatana = "制作史诗武士刀",
@@ -4826,6 +4839,12 @@ Recipe_CN = {
 	Recipe_UnstackMoney = "拆分钞票堆",
 	Recipe_Use_Ingot_as_a_Weapon = "将金属锭作为武器使用",
 	Recipe_Use_Ingot_as_a_Weapon = "将金属锭当作武器使用",
+	Recipe_Breakdown9SilverIngotStack = "拆解9银锭堆",
+	Recipe_Cast_Ingot_From_Frangments = "用金属碎片铸造金属锭",
+	Recipe_Combine_Small_Fragments_into_Scrap = "用金属碎片铸造金属粒",
+	Recipe_FireClayIngotMold = "烧制粘土锭模",
+	Recipe_MakeaBagof100PreciousStones = "装满100颗宝石袋",
+	Recipe_PressIngotMold = "按压锭模",
 
 ---[B42] HDCP Immersive Vehicle Paint---(3464606086)---
 	Recipe_Automotive_Painting = "汽车喷漆",
@@ -6097,5 +6116,15 @@ Recipe_CN = {
 	Recipe_Cut_ATASamaraHoodItem = "切割萨马拉骑士引擎盖",
 	Recipe_Dismantle_TCWalkman = "拆解音乐播放器",
 	Recipe_Dismantle_TruePlayers = "拆解音乐播放器",
+
+---Long Term Preservation [FIXED] [B42]---(3406392630)---
+	Recipe_CrushSaltRock = "磨碎岩盐",
+	Recipe_MakeCuredMeat = "制作腌肉",
+	Recipe_MakeJam = "制作果酱",
+	Recipe_MakeJarredMeat = "制作罐装肉",
+	Recipe_MakeMashedBerry = "制作浆果泥",
+	Recipe_MakePemmicanMeat = "制作干肉饼",
+	Recipe_OpenJarOfFoodMeat = "打开罐装肉",
+	Recipe_ReduceMeatLard = "制作猪油",
 
 }

@@ -1855,6 +1855,7 @@ ContextMenu_CN = {
 ---Love and Perfume---(2842359380)---
 	ContextMenu_P4LoveAndPerfume_FragranceCheck = "检查香味",
 	ContextMenu_P4LoveAndPerfume_UsePerfume = "使用香水",
+	ContextMenu_P4LoveAndPerfume_UseCologne = "使用古龙水",
 
 ---Excalibar---(2868777243)---
 	ContextMenu_P4Excalibar_CheckBook = "拆封检查",
@@ -2328,5 +2329,8 @@ ContextMenu_CN = {
 	ContextMenu_LoadVehicleOntoTrailer = "载入拖车",
 	ContextMenu_OpenTuningMenu = "改装",
 	ContextMenu_Vehicle_STRAYS = "写«STRAYS»",
+
+---What can I craft Addon---(3392356751)---
+	ContextMenu_WhatCanICraft_Output = "检查制作材料",
 
 }

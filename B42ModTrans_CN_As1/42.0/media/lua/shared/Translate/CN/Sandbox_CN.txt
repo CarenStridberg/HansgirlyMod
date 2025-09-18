@@ -2568,6 +2568,7 @@ Sandbox_CN = {
 	Sandbox_P4Excalibar_FireTriggerRate_tooltip = "真·圣剑撬棍(火)攻击命中僵尸时触发特殊效果的概率(%)",
 	Sandbox_P4Excalibar_WorldSpawn = "圣剑撬棍世界生成",
 	Sandbox_P4Excalibar_WorldSpawn_tooltip = "启用简易获取模式的世界生成。<br>若关闭此选项，即使开启简易获取也不会生成物品。",
+	Sandbox_P4Excalibar_SpawnChanceMultiplier = "圣剑石生成倍率",
 
 ---SafeLogin---(2876897619)---
 	Sandbox_SafeLogin = "安全登录",
@@ -4256,6 +4257,7 @@ Sandbox_CN = {
 	Sandbox_NEPSDTicksBetweenChecks = "检查间隔时间(ticks)",
 	Sandbox_NEPSDTicksBetweenChecks_tooltip = "数值越小变化越平滑，但会影响游戏性能",
 	Sandbox_NepSlowDiscomfort = "Nepenthe减缓不适感",
+	Sandbox_NEPSDRateChangeDown = "不适感减少系数",
 
 ---N&C's Narcotics---(3404956403)---
 	Sandbox_NnC_Loot = "毒品（N&C's Narcotics）",
