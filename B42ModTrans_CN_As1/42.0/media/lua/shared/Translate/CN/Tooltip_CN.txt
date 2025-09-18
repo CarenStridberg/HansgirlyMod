@@ -1461,4 +1461,20 @@ Tooltip_CN = {
 
 ---Pocket Kittens (B42)---(3568029240)---
 	Tooltip_PocketKittenMonster = "你真是个怪物……",
+
+---True Music B42---(3397198968)---
+    Tooltip_item_Boombox = "外国的磁带播放器,不能接收本地广播<br>但可以播放磁带<br>用电池供电",
+    Tooltip_item_Vinyl = "它需要与电力连接的扬声器才能发挥作用",
+    Tooltip_item_Walkman = "三一的著名播放器",
+
+---Tsar's Common Library---(3402491515)---
+	Tooltip_Compact_Appliance = "可以安装在一些车辆和拖车上",
+	Tooltip_item_tuning = "用于改装的备件",
+	Tooltip_item_ATATuningMagUniversal = "阅读后您将获得基本的强化车辆知识<br>为窗户制作通用防护装置<br>研究不同类型行李箱的图纸<br>了解如何使汽车保险杠更具杀伤力",
+	Tooltip_item_AtTuningMagBus = "你将学习如何为丧尸启示录准备你的巴士<br>学习如何为窗户和车轮制作防护<br>了解如何用临时手段制作一个有效的保险杠<br>以及如何制作一个车顶架",
+	Tooltip_item_kengur = "你已经想出了一种新型的保险杠<br>但还是得要仔细看一下你的蓝图",
+	Tooltip_item_AtTuningMagJeep = "阅读后你将获得吉普车基本的改装知识<br>并学会如何制作车窗防护,保险杠,车顶栏杆和额外的行李箱",
+	Tooltip_item_ATATuningFordMustang = "阅读后你将获得福特野马基本的改装知识<br>并学会如何制作车窗防护,保险杠和车顶架",
+	Tooltip_item_ATATuningChevalierSamara = "阅读之后,您将获得萨马拉改装知识<br>并学会如何为骑士萨马拉制作防护、保险杠和车顶架",
+
 }
