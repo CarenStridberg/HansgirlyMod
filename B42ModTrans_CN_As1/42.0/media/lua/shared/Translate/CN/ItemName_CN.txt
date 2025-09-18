@@ -13042,11 +13042,11 @@ ItemName_CN = {
 	ItemName_Autotsar.ATADatsun240zBumperItem = "达特桑240Z - 前保险杠",
 	ItemName_Autotsar.ATADatsun240zBumperRearItem = "达特桑240Z - 后保险杠",
 	ItemName_Autotsar.ATADatsun240zHood2Item3 = "达特桑240Z - 冲压引擎盖",
-	ItemName_Autotsar.ATAMustang66BumperItem = "福特野马 - 前保险杠",
-	ItemName_Autotsar.ATAMustang66BumperRearItem = "福特野马 - 后保险杠",
-	ItemName_Autotsar.ATAMustang66Hood2Item3 = "福特野马 - 冲压引擎盖",
-	ItemName_Autotsar.ATAMustang66Hood3Item3 = "福特野马 - 猫鼬引擎盖",
-	ItemName_Autotsar.ATAMustang66TrunkDoor3 = "福特野马 - 改装行李箱门",
+	ItemName_Autotsar.ATAMustang66BumperItem = "66款福特野马 - 前保险杠",
+	ItemName_Autotsar.ATAMustang66BumperRearItem = "66款福特野马 - 后保险杠",
+	ItemName_Autotsar.ATAMustang66Hood2Item3 = "66款福特野马 - 冲压引擎盖",
+	ItemName_Autotsar.ATAMustang66Hood3Item3 = "66款福特野马 - 猫鼬引擎盖",
+	ItemName_Autotsar.ATAMustang66TrunkDoor3 = "66款福特野马 - 改装行李箱门",
 	ItemName_Autotsar.ATASamaraHood2Item3 = "萨马拉 - 冲压引擎盖",
 	ItemName_Autotsar.ATASamaraHood3Item3 = "萨马拉 - 猫鼬引擎盖",
 	ItemName_Autotsar.ATATuningChevalierSamara = "杂志《沙皇改装工作室 - 萨马拉骑士》",
@@ -13058,4 +13058,9 @@ ItemName_CN = {
 	ItemName_Tsarcraft.TCWalkman = "便携播放器“三尼 唔特曼”",
 ---Autotsar Tuning Atelier - Petyarbuilt 379 [B42]---(3403314193)---
 	ItemName_Base.ATSMegaTrunk = "巨型行李箱",
+
+---Autotsar Tuning Atelier - Jaap Wrungel [B42]---(31407042038)---
+	ItemName_Autotsar.ATAJeepBumper1Item = "吉普牧马人-经典保险杠",
+	ItemName_Autotsar.ATAJeepBumper2Item = "吉普牧马人-绞车保险杠",
+
 }

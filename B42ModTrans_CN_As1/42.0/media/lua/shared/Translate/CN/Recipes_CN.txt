@@ -3419,10 +3419,7 @@ Recipe_CN = {
 		Recipe_commonPontiac.MakeTire5 = "制造庞蒂亚克 8孔 R15轮胎",
 		Recipe_commonPontiac.MakeTire6 = "制造庞蒂亚克 8孔 R17轮胎",
 
----ATA载具系列---(无ID)---
-	Recipe_ATAJeepBumper = "切割吉普牧马人引擎盖",
-	Recipe_ATAMustangHoodItem = "切割福特野马引擎盖",
-	Recipe_ATASamaraHoodItem = "切割萨马拉骑士引擎盖",
+
 
 ---Baby Animal Food---(3422249642)---
 	MakeFeedForCowcalf = "为小牛犊制作饲料",
@@ -5884,10 +5881,12 @@ Recipe_CN = {
 	Recipe_DismantleInfectionScanner = "拆解感染扫描仪",
 
 ---Autotsar Tuning Atelier - Chevalier Samara v.2.00 [B42]---(3432014439)---
-	Recipe_ATASamaraHoodItem = "制作 萨马拉引擎盖",
+	Recipe_ATASamaraHoodItem = "切割 萨马拉引擎盖",
 
 ---Autotsar Tuning Atelier - Fjord Mustard [B42]---(3405178154)---
-	Recipe_ATAMustangHoodItem = "制作 野马引擎盖",
+	Recipe_ATAMustangHoodItem = "切割 野马引擎盖",
+---Autotsar Tuning Atelier - Jaap Wrungel [B42]---(31407042038)---
+	Recipe_ATAJeepBumper = "切割吉普牧马人引擎盖",
 
 ---[J&G] Alpine Multicam Uniform---(3303746488)---
 	Recipe_Alpine_Camo_Helmet_[Defender] = "制作高山迷彩头盔 [防御型]",
