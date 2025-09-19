@@ -158,4 +158,10 @@ Fluids_CN = {
 	Fluid_Container_AuthenticCanteen = "水壶",
 	Fluid_Container_GymBottle = "运动水壶",
 
+---[B42] Bodily Functions [v0.12.3]---(3396456841)---
+	Fluid_Name_FilteredUrine = "过滤尿液",
+	Fluid_Name_LiquidDiuretic = "液体利尿剂",
+	Fluid_Name_LiquidLaxative = "液体泻药",
+	Fluid_Name_Urine = "尿液",
+
 }

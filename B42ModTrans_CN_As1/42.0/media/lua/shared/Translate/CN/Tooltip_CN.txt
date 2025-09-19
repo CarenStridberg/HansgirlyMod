@@ -1502,4 +1502,10 @@ Tooltip_CN = {
 	Tooltip_WinterBoots = "踩踏力度: 3.0   耐久度: 800",',
 	Tooltip_WorkBoots = "踩踏力度: 2.2   耐久度: 600",
 
+---[B42] Bodily Functions [v0.12.3]---(3396456841)---
+	Tooltip_AntiDiarrhealPill     = "每片减少最大肠道容量的10%粪便量。",
+	Tooltip_AnticholinergicPill   = "每片减少最大膀胱容量的10%尿量。",
+	Tooltip_DiureticPill          = "每片增加最大膀胱容量的20%尿量。",
+	Tooltip_LaxativePill          = "每片增加最大肠道容量的20%粪便量。",
+
 }

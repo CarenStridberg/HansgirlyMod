@@ -2333,4 +2333,33 @@ ContextMenu_CN = {
 ---What can I craft Addon---(3392356751)---
 	ContextMenu_WhatCanICraft_Output = "检查制作材料",
 
+---[B42] Bodily Functions [v0.12.3]---(3396456841)---
+	ContextMenu_BodilyFunctions = "身体机能",
+	ContextMenu_Defecate = "排便",
+	ContextMenu_DontWipe = "不擦拭",
+	ContextMenu_FlushToilet = "冲马桶",
+	ContextMenu_Pee = "排尿",
+	ContextMenu_Peed = "已排尿",
+	ContextMenu_Poop = "排便",
+	ContextMenu_Pooped = "已排便",
+	ContextMenu_Take_AntiDiarrhealPill = "服用止泻药",
+	ContextMenu_Take_AnticholinergicPill = "服用抗胆碱药",
+	ContextMenu_Take_DiureticPill = "服用利尿剂",
+	ContextMenu_Take_LaxativePill = "服用泻药",
+	ContextMenu_Urinate = "排尿",
+	ContextMenu_UseContainer = "在容器中",
+	ContextMenu_UseGround = "在地面上",
+	ContextMenu_UseOuthouse = "在户外厕所",
+	ContextMenu_UseSelf = "排在身上",
+	ContextMenu_UseShower = "在淋浴间/浴缸",
+	ContextMenu_UseSink = "在水槽中",
+	ContextMenu_UseToilet = "在马桶中",
+	ContextMenu_UseUrinal = "在小便池中",
+	ContextMenu_WashSoiled = "清洗脏污衣物",
+	ContextMenu_WipeSelf = "擦拭身体",
+	ContextMenu_WipeWith = "使用以下物品擦拭：",
+	ContextMenu_tooltip_WipeClothing = "使用衣物擦拭会弄脏该衣物。",
+	ContextMenu_tooltip_WipeDrainable = "使用可消耗物品擦拭会减少1点耐久。",
+	ContextMenu_tooltip_WipeOther = "使用任意纸质物品擦拭会生成对应垃圾。",
+
 }

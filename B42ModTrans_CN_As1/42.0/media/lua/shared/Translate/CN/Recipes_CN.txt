@@ -6127,4 +6127,27 @@ Recipe_CN = {
 	Recipe_OpenJarOfFoodMeat = "打开罐装肉",
 	Recipe_ReduceMeatLard = "制作猪油",
 
+---[B42] Bag Upgrade Ultra---(3407793320)---
+	Recipe_DuffelDowngradeUltra = "降级旅行袋超级",
+	Recipe_FannyPackDowngradeUltra = "降级腰包超级",
+	Recipe_HikingBagDowngradeUltra = "降级登山背包超级",
+	Recipe_HydrationBackpackDowngradeUltra = "降级水袋背包超级",
+	Recipe_ALICEpackDowngradeUltra = "降级军用背包超级",
+	Recipe_SatchelDowngradeUltra = "降级单肩包超级",
+	Recipe_SchoolbagDowngradeUltra = "降级小背包",
+	Recipe_DuffelUpgradeUltra = "升级旅行包加强版",
+	Recipe_FannyPackUpgradeUltra = "升级腰包加强版",
+	Recipe_HikingBagUpgradeUltra = "升级登山背包加强版",
+	Recipe_HydrationBackpackUpgradeUltra = "升级水袋背包加强版",
+	Recipe_ALICEpackUpgradeUltra = "升级军用背包",
+	Recipe_SatchelUpgradeUltra = "升级肩包加强版",
+	Recipe_SchoolbagUpgradeUltra = "升级书包",
+
+---[B42] Bodily Functions [v0.12.3]---(3396456841)---
+	Recipe_OpenAntiDiarrhealPillBox = "打开止泻药盒",
+	Recipe_OpenAnticholinergicPillBox = "打开抗胆碱药盒",
+	Recipe_OpenDiureticPillBox = "打开利尿剂药盒",
+	Recipe_OpenLaxativePillBox = "打开泻药药盒",
+	Recipe_PrepareThrowableHumanWaste = "准备可投掷粪便",
+
 }
