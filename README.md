@@ -936,3 +936,13 @@ Mod:Long Term Preservation [FIXED] [B42]---ID:3406392630
 Mod:Trap Manager---ID:3566766862
 
 Mod:More Maps [B42]---ID:3390897023
+
+Mod:[B42] Buildables Expansion---ID:3463117260
+
+Mod:[B42] UH-1B 直升机模组---ID:3409723807
+
+Mod:Become Brave [B42]---ID:3388028737
+
+Mod:Eggon's Worthwhile Cars 2.0 B42---ID:3569430257
+
+Mod:[B42] Make Gunpowder from Fertilizer---ID:3392188086

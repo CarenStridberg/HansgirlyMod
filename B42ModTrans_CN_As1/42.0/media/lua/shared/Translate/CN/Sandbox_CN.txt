@@ -5678,4 +5678,44 @@ Sandbox_CN = {
 	Sandbox_Defecation = "身体机能 - 排便",
 	Sandbox_Urination = "身体机能 - 排尿",
 
+---[B42] Buildables Expansion---(3463117260)---
+	Sandbox_BuildablesExpansion = "建筑扩展",
+	Sandbox_UnlockingMethod = "建筑解锁方式",
+	Sandbox_UnlockingMethod_tooltip = "控制建筑配方的学习方式及其在建造菜单中的显示。<BR>可选择通过阅读杂志、绘制速写本，或两种方式结合。",
+	Sandbox_BuildablesExpansion_unlockingMethod_option1 = "两者结合：学习或绘制",
+	Sandbox_BuildablesExpansion_unlockingMethod_option2 = "仅通过杂志",
+	Sandbox_BuildablesExpansion_unlockingMethod_option3 = "仅通过速写本",
+
+---[B42] UH-1B 直升机模组---3409723807---
+	Sandbox_UH1BHuey = "UH-1B 休伊直升机",
+	Sandbox_UH1BHueySpawnCount = "世界中生成的UH-1B直升机最小数量",
+	Sandbox_UH1BHueyEngineLoudness = "直升机引擎音量",
+
+---Become Brave [B42]---(3388028737)---
+    Sandbox_BecomeBrave = "变得勇敢",
+    Sandbox_MinimumZombieKills = "最低僵尸击杀数 (必须低于最高僵尸击杀数)",
+    Sandbox_MinimumZombieKills_tooltip = "概率获得勇敢特质所需的最低僵尸击杀数量",
+    Sandbox_MaximumZombieKills = "最高僵尸击杀数 (必须高于最低僵尸击杀数)",
+    Sandbox_MaximumZombieKills_tooltip = "获得勇敢特质所需的最高僵尸击杀数量",
+    Sandbox_ConsiderTraits = "受影响的特质",
+    Sandbox_ConsiderTraits_tooltip = "受影响的特质可增加或降低获得勇敢特质的概率 (创意工坊页面有更多说明)",
+    Sandbox_ConsiderOccupations = "受影响的职业",
+    Sandbox_ConsiderOccupations_tooltip = "受影响的职业可增加获得勇敢特质的概率：警察、消防员、护林员、保安、医生和护士",
+    Sandbox_Logging = "启用控制台日志",
+    Sandbox_Logging_tooltip = "适用于服务器调试问题或测试场景",
+
+---Eggon's Worthwhile Cars 2.0 B42---(3569430257)---
+    Sandbox_eggonsWorthwileCars2 = "Eggon的实用车辆模组 2.0",
+    Sandbox_eggonsWorthwileCars2_CapacityChangeRate = "后备箱：容量损失率倍数",
+    Sandbox_eggonsWorthwileCars2_CapacityChangeRate_tooltip = "控制后备箱容量随其损坏度下降的速度。例如： <LINE> 0 表示无论后备箱损坏程度如何，容量都不会损失。 <LINE> 1 表示原版游戏的标准速率。 <LINE> 0.5 表示原版速率的 50%（容量损失更慢）。 <LINE> 2 表示原版速率的 200%（容量损失更快）。",
+    Sandbox_eggonsWorthwileCars2_ApplyCapacityBalance = "后备箱：应用 Eggon的容量平衡设置",
+    Sandbox_eggonsWorthwileCars2_ApplyCapacityBalance_tooltip = "后备箱大小将取决于车辆尺寸，原版车辆的范围从 25 到 300 不等。",
+    Sandbox_eggonsWorthwileCars2_CapacityMultiplier = "后备箱：容量倍数",
+    Sandbox_eggonsWorthwileCars2_CapacityMultiplier_tooltip = "所有后备箱基础容量都将乘以此数值。例如： <LINE> 1 表示无变化。 <LINE> 0.5将使容量减少50%。 <LINE> 2将使容量增加 100%。 <LINE> “基础容量”指的是要么是Eggon的平衡设置（如果勾选了上方复选框），要么是原版设置（如果未勾选）。",
+    Sandbox_eggonsWorthwileCars2_ApplyCapacityMultiplierToSeats = "将容量倍数应用于座椅",
+    Sandbox_eggonsWorthwileCars2_ApplyCapacityMultiplierToGloveBoxes = "将容量倍数应用于手套箱",
+    Sandbox_eggonsWorthwileCars2_ApplyLoudnessBalance = "应用 Eggon 的引擎噪音平衡设置",
+    Sandbox_eggonsWorthwileCars2_ApplyLoudnessBalance_tooltip = "引擎噪音将更符合车辆尺寸（车越大，引擎声越大）及其类型——跑车也会很吵！ <LINE> 引擎质量和消音器仍会影响总体噪音水平。 <LINE> 噪音范围与原版游戏保持一致（只是最吵的车辆会有所不同）。",
+    Sandbox_eggonsWorthwileCars2_ApplyPowerBalance = "应用Eggon的引擎功率平衡设置",
+    Sandbox_eggonsWorthwileCars2_ApplyPowerBalance_tooltip = "将为部分车辆修改引擎功率以增添特色。",
 }

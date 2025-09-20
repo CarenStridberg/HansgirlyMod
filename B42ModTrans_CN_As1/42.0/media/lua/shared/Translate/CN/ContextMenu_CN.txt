@@ -2362,4 +2362,9 @@ ContextMenu_CN = {
 	ContextMenu_tooltip_WipeDrainable = "使用可消耗物品擦拭会减少1点耐久。",
 	ContextMenu_tooltip_WipeOther = "使用任意纸质物品擦拭会生成对应垃圾。",
 
+---[B42] Buildables Expansion---(3463117260)---
+	ContextMenu_LookAtBlueprints = "查看蓝图",
+	ContextMenu_StartSketchingBlueprints = "开始绘制蓝图",
+	ContextMenu_TooDarkToDraw = "光线太暗，无法绘制。",
+
 }
