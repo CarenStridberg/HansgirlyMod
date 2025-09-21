@@ -2543,7 +2543,7 @@ IGUI_CN = {
         IGUI_VehiclePartDAMNSideskirts = "侧裙",
         IGUI_VehiclePartDAMNSearchlight = "探照灯",
         IGUI_VehiclePartDAMNTrunk = "后备箱",
-        IGUI_VehiclePartDAMNRoofrack = "车顶储物架",
+        IGUI_VehiclePartDAMNRoofrack = "车顶行李架",
         IGUI_VehiclePartDAMNGunrack = "枪架",
         IGUI_VehiclePartDAMNStretcher = "担架",
         IGUI_VehiclePartDAMNBumperFront = "前保险杠",
@@ -2598,7 +2598,7 @@ IGUI_CN = {
         IGUI_VehicleName91range = "'91款路虎揽胜 4门版",
         IGUI_VehicleName91range2 = "'91款路虎揽胜 2门版",
         IGUI_VehiclePartRR91Trunk = "后备箱",
-        IGUI_VehiclePartRR91Roofrack = "车顶储物架",
+        IGUI_VehiclePartRR91Roofrack = "车顶行李架",
     
     ---'93 Ford F-Series---(3073430075)---
         IGUI_VehicleName93fordF350 = "93款福特F-350双排座",
@@ -2614,7 +2614,7 @@ IGUI_CN = {
         IGUI_VehiclePartF3502HeadacheRack = "防护架带工具箱",
         IGUI_VehiclePartF3502TruckbedCover = "货斗盖板",
         IGUI_VehiclePartF3502Trunk = "后斗储物箱",
-        IGUI_VehiclePartF3502Roofrack = "车顶储物架",
+        IGUI_VehiclePartF3502Roofrack = "车顶行李架",
         IGUI_VehiclePartF3502TrunkDoorLeft = "左侧储物箱盖",
         IGUI_VehiclePartF3502TrunkDoorRight = "右侧储物箱盖",
         IGUI_VehiclePartF3502SideStorageLT = "左侧顶部工具仓",
@@ -2674,7 +2674,7 @@ IGUI_CN = {
         IGUI_VehicleName84jeepXJksp = "'84款吉普切诺基XJ州警版",
         IGUI_VehicleName84jeepXJranger = "'84款吉普切诺基XJ护林员版",
         IGUI_VehiclePartJP84Trunk = "后备箱",
-        IGUI_VehiclePartJP84Roofrack = "车顶储物架",
+        IGUI_VehiclePartJP84Roofrack = "车顶行李架",
     
     ---'63 Volkswagen 1300 Beetle---(3005903549)---	
         IGUI_VehicleName63beetle = "'63款大众1300甲壳虫",
@@ -2936,7 +2936,7 @@ IGUI_CN = {
         IGUI_VehiclePartM998Mudflaps = "挡泥板",
         IGUI_VehiclePartM998Muffler = "消音器",
         IGUI_VehiclePartM998TrunkBarrier = "储物舱隔板",
-        IGUI_VehiclePartM998Roofrack = "车顶储物架",
+        IGUI_VehiclePartM998Roofrack = "车顶行李架",
         IGUI_VehiclePartTrunkDoorTwo = "顶部储物舱门",
         IGUI_VehiclePartM101A3Cover = "拖车硬质顶盖",
         IGUI_VehiclePartM101A3Tarp = "拖车防水篷布",
@@ -3400,7 +3400,7 @@ IGUI_CN = {
                 IGUI_VehiclePartSIL93Trunk5 = "工具存放处",
                 IGUI_VehiclePartSUB93Roofrack = "车顶行李架",
                 IGUI_VehiclePartSUB93RollbarToolbox = "防滚架/工具箱",
-                IGUI_VehiclePartSUB93Roofrack = "车顶储物架",
+                IGUI_VehiclePartSUB93Roofrack = "车顶行李架",
                 IGUI_VehiclePartSUB93Tent = "车顶帐篷",
                 IGUI_VehiclePartSIL93ToolboxFlat = "右侧工具箱",
                 IGUI_VehiclePartSIL93Toolbox = "左侧工具箱",
@@ -3595,7 +3595,7 @@ IGUI_CN = {
     ---'80 MAN KAT1---(3248388837)---
         IGUI_VehicleName80manKat1 = "80款MAN KAT1",
         IGUI_VehiclePartMAN80Trunk = "车载储物箱",
-        IGUI_VehiclePartMAN80Roofrack = "车顶储物架",
+        IGUI_VehiclePartMAN80Roofrack = "车顶行李架",
         IGUI_VehiclePartMAN80LeftStorage = "左侧储物箱",
         IGUI_VehiclePartMAN80RightStorage = "右侧储物箱",
         IGUI_VehiclePartMAN80LightGuards = "大灯护罩",
@@ -3603,6 +3603,7 @@ IGUI_CN = {
         IGUI_VehiclePartTrunkLeftStorageDoor = "左侧储物箱盖",
         IGUI_VehiclePartTrunkRightStorageDoor = "右侧储物箱盖",
         IGUI_VehiclePartMAN80GasCan0 = "油桶",
+
     ---'65 Pontiac Banshee---(3566868353)---
         IGUI_VehicleName65banshee400 = "65款庞蒂亚克Banshee 400",
         IGUI_VehicleName65bansheeSprint = "65款庞蒂亚克Banshee Sprint版",
@@ -3614,7 +3615,20 @@ IGUI_CN = {
         IGUI_VehiclePartBAN65Roof = "可拆卸车顶",
         IGUI_VehiclePartBAN65Roofrack = "车顶行李架",
         IGUI_VehiclePartBAN65RoofrackRollbar = "防滚架行李架",
-        IGUI_VehiclePartBAN65Trunk = "后备箱储物区",
+        IGUI_VehiclePartBAN65Trunk = "后备箱",
+
+    ---'89 LAND ROVER Defender---(3570973322)---
+        IGUI_VehicleName89defender110 = "89款路虎卫士110",
+        IGUI_VehicleName89defender110utility = "89款路虎卫士110多功能版",
+        IGUI_VehicleName89defender130 = "89款路虎卫士130",
+        IGUI_VehicleName89defender90 = "89款路虎卫士90",
+        IGUI_VehicleName89defender90utility = "89款路虎卫士90多功能版",
+        IGUI_VehicleNameTrailer89defender = "89款路虎拖车",
+        IGUI_VehiclePartDEF89CenterConsole = "中控台",
+        IGUI_VehiclePartDEF89Roofrack = "车顶行李架",
+        IGUI_VehiclePartDEF89TruckBedAddon = "货斗插件",
+        IGUI_VehiclePartDEF89Trunk = "后备箱",
+        IGUI_VehiclePartDEF89Trunk130 = "货斗储物区",
 
 ---KATTAJ1 Clothes Core [B41/B42]---(3470422050)---
         IGUI_HotbarAttachment_KATTAJ1HelmetWithMount = "KATTAJ1头盔支架",
@@ -3688,7 +3702,7 @@ IGUI_CN = {
     IGUI_VehicleNameTatrapanAmbulance = "太脱拉潘装甲救护车",
     IGUI_VehiclePart_FrontProtection = "前部防护",
     IGUI_VehiclePart_CargoCover = "货厢盖",
-    IGUI_VehiclePart_RoofStorage = "车顶储物架",
+    IGUI_VehiclePart_RoofStorage = "车顶行李架",
     IGUI_VehiclePart_SpareShovel = "备用铁锹",
     IGUI_VehiclePart_SpareAxe = "备用斧头",
     IGUI_VehiclePart_SpareTire1 = "备用轮胎1",

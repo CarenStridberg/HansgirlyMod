@@ -946,3 +946,5 @@ Mod:Become Brave [B42]---ID:3388028737
 Mod:Eggon's Worthwhile Cars 2.0 B42---ID:3569430257
 
 Mod:[B42] Make Gunpowder from Fertilizer---ID:3392188086
+
+Mod:[B42] Week One NPC---ID:3403180543
