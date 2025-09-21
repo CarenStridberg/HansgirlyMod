@@ -1002,20 +1002,6 @@ Sandbox_CN = {
 	Sandbox_BlacklistTrapping = "黑名单中的诱捕节目",
 	Sandbox_BlacklistTrapping_tooltip = "默认: false",
 
----[OUTDATED] Support Corps [B42] Sweet-release Update---(3409836763)---
-	Sandbox_SupportCorps = "支援军团设置", 
-	Sandbox_MRE.UnhappyChange = "随机情绪变化", 
-	Sandbox_MRE.UnhappyChange_tooltip = "如果开启,准备口粮时会随机应用最小值和最大值之间的情绪变化.记住：负值使你开心,正值使你难过.", 
-	Sandbox_MRE.UnhappyChange_Min = "随机最小值", 
-	Sandbox_MRE.UnhappyChange_Max = "随机最大值", 
-	Sandbox_MRE.ReplaceOnUse_Package = "口粮包使用后替换", 
-	Sandbox_Heater.Multiplier = "加热器温度", 
-	Sandbox_SpawnMRE = "MRE生成率（1=正常,0=无）", 
-	Sandbox_SpawnFabricRoll = "布料卷生成率（1=正常,0=无）", 
-	Sandbox_SpawnDrugs = "药品生成率（1=正常,0=无）", 
-	Sandbox_SpawnClothes = "衣物生成率（1=正常,0=无）", 
-	Sandbox_SpawnGroceries = "杂货生成率（1=正常,0=无）", 
-
 ---Guitar Wall Hanger [B42]---(3410972667)---
 	Sandbox_GuitarWallHanger = "吉他墙挂", 
 	Sandbox_GWH_EnableSpawns = "启用吉他生成", 
@@ -5078,7 +5064,7 @@ Sandbox_CN = {
 	Sandbox_USMP_UCP_Zombies_default_tooltip = "设定在全地图随机区域遇到穿着UCP制式装备丧尸的概率",
 	Sandbox_USMP_UCP_Zombies_tooltip = "设定在军事基地和秘密基地遇到穿着UCP制式装备丧尸的概率",
 	
----Support Goods Mega Mod [B42.4] - Blizzard Update - SEMI-STABLE---(3434464110)---
+---Support Goods Mega Mod [B42.10] - PREDATOR---(3512993822)---
 	Sandbox_Heater.Multiplier = "加热器温度系数",
 	Sandbox_MRE.ReplaceOnUse_Package = "口粮包使用后替换",
 	Sandbox_MRE.UnhappyChange = "随机满意度变化",
@@ -5105,6 +5091,8 @@ Sandbox_CN = {
 	Sandbox_SpawnTradeSystem = "卫星电话(交易系统)生成率 (1=正常, 0=无)",
 	Sandbox_SpawnTransferPrint = "转印印刷品生成率 (1=正常, 0=无)",
 	Sandbox_SupportCorps = "后勤部队设置",
+	Sandbox_MRE.UnhappyChange_Min = "随机最小值",
+	Sandbox_SpawnClothes = "迷彩服装及生产工具生成率 (1=正常, 0=无)",
 
 ---[B42/41] Keep Skill Level---(3314107094)---
 	Sandbox_KeepPerkLevel = "保留技能等级",

@@ -216,8 +216,6 @@ Mod:[J&G] Caution Pack---ID:3369825662
 
 Mod:[J&G] Flecktarn Uniform---ID:3206579556
 
-Mod:[OUTDATED] Support Corps [B42] Sweet-release Update---ID:3409836763
-
 Mod:[B42] 拖尸健身---ID:3404074048
 
 Mod:Alarm Syndrome---ID:3409527910
@@ -431,7 +429,7 @@ Mod:Starlit Library---ID:3378285185
 
 Mod:Street Smarts---ID:3511535258
 
-Mod:Support Goods Mega Mod [B42.4] - Blizzard Update - SEMI-STABLE---ID:3434464110
+Mod:Support Goods Mega Mod [B42.10] - PREDATOR---ID:3512993822
 
 Mod:台锯[B42]---ID:3540297822
 

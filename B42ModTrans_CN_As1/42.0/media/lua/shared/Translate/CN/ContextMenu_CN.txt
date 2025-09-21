@@ -1586,10 +1586,6 @@ ContextMenu_CN = {
 	ContextMenu_P4AlarmSyndrome_UnsetAlarm = "取消闹钟", 
 	ContextMenu_P4AlarmSyndrome_UnsetAllAlarm = "全部取消",
 
----[OUTDATED] Support Corps [B42] Sweet-release Update---(3409836763)---
-	ContextMenu_Left = "左臂",
-	ContextMenu_Right = "右臂",
-
 ---Guitar Wall Hanger [b42]---(3410972667)---
 	ContextMenu_Mount_Instrument = "安装乐器",
 	ContextMenu_Remove_Instrument = "移除乐器",
@@ -1604,7 +1600,7 @@ ContextMenu_CN = {
 ---Dismantle Any Car---(3428369137)---
 	ContextMenu_NepRemoveIntactVehicle = "拆解车辆",
 
----Support Goods Mega Mod [B42.4] - Blizzard Update - SEMI-STABLE---(3434464110)---
+---Support Goods Mega Mod [B42.10] - PREDATOR---(3512993822)---
 	ContextMenu_Left = "左臂",
 	ContextMenu_Right = "右臂",
 	ContextMenu_TVOnTheGround = "将电视放在地上",

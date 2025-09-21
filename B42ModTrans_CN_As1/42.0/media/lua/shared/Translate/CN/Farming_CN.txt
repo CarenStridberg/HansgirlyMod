@@ -1,6 +1,6 @@
 Farming_CN = {
 
----Support Goods Mega Mod [B42.4] - Blizzard Update - SEMI-STABLE---(3434464110)---
+---Support Goods Mega Mod [B42.10] - PREDATOR---(3512993822)---
 	Farming_HoneyCombUnprocessed = "蜂巢 - 未加工",
 	Farming_BeeHiveApiary = "蜂箱养蜂场",
 

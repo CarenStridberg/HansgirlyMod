@@ -120,7 +120,7 @@ Fluids_CN = {
 	Fluid_Container_LightGreenBarrel = "浅绿色桶",
 	Fluid_Container_OrangeBarrel = "橙色桶",
 	
----Support Goods Mega Mod [B42.4] - Blizzard Update - SEMI-STABLE---(3434464110)---
+---Support Goods Mega Mod [B42.10] - PREDATOR---(3512993822)---
 	Fluid_Container_AlcoholBottle = "酒瓶",
 	Fluid_Container_CanMiniCola = "迷你罐",
 	Fluid_Container_CanMiniDietCola = "迷你罐",
@@ -152,6 +152,7 @@ Fluids_CN = {
 	Fluid_Name_WellAgedVodka = "陈年伏特加",
 	Fluid_Name_WellAgedWhiskey = "陈年威士忌",
 	Fluid_Name_WellAgedWine = "陈年葡萄酒",
+	Fluid_Container_Scoop = "勺杯",
 
 ---Authentic Z---(2335368829)---
 	Fluid_Container_AquaBottle = "水瓶",

@@ -1465,13 +1465,6 @@ Moveables_CN = {
 	Ko_OL_5_Sign = "改进霓虹招牌（开启）", 
 	Ko_OL_6_Lights = "改进聚光灯" 
 
----[OUTDATED] Support Corps [B42] Sweet-release Update---(3409836763)---
-	PortableElectricStove = "便携式电炉", 
-	PortableFuelStove = "便携式燃料炉", 
-	PortableGenerator = "便携式发电机", 
-	FuelLantern = "燃油灯", 
-	CampingShower = "露营淋浴器", 
-
 ---[B42] Water Pipes (aka Plumbing)---(3546314080)---
 	Water_Pump = "水泵",
 	Water_Pipe = "水管",
@@ -1982,9 +1975,10 @@ Moveables_CN = {
 ---Tetriz - Arcade Minigame---(3486780625)---
 	Furniture_MetalBox = "俄罗斯方块",
 	
----Support Goods Mega Mod [B42.4] - Blizzard Update - SEMI-STABLE---(3434464110)---
+---Support Goods Mega Mod [B42.10] - PREDATOR---(3512993822)---
 	CampShower = "露营淋浴器"
 	FuelLantern = "燃油提灯",
 	PortableElectricStove = "便携式电炉",
 	PortableGenerator = "便携式发电机",
+	PortableFuelStove = "便携式燃油炉",
 }
