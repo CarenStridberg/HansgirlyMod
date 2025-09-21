@@ -3845,4 +3845,28 @@ UI_CN = {
 	UI_trait_JoggerDesc = "",
 	UI_trait_SelfDefenseClassDesc = "",
 	UI_trait_fitdesc = "",
+
+---Advanced Trajectory's Realistic Overhaul---(3036878362)---   
+    UI_optionscreen_binding_Change_Z_Level_Key = "激活高度层级切换",
+
+---BetterFPS_B42---(3423115544)---
+	UI_options_BetterFPS_title = "BetterFPS 设置",
+    UI_options_BetterFPS = "渲染距离",
+    UI_options_BetterFPS_tooltip = "设置最大渲染距离。<br>修改设置后请重新加载存档以生效。",
+
+---Bandits Extra Options---(3412682512)---
+    UI_options_BanditsAddOptions = "匪徒额外选项",
+    UI_options_AllowBanditIcons = "显示匪徒刷新图标",
+    UI_options_AllowBanditIcons_checkBox_tooltip = "图标还需在沙盒设置中启用方可显示",
+    UI_Doctorsucceed = "急救成功",
+    UI_Doctorfail = "急救失败",
+
+---Bandit Relationship---(3431259170)---
+    UI_BanditDeialogue_OptionsMenu_title = "匪徒对话",
+    UI_BanditDeialogue_OptionsMenu_keybing = "查看相识者列表",
+    UI_BanditDeialogue_OptionsMenu_RelationshipMenutitle = "相识者列表",
+    UI_BanditDeialogue_OptionsMenu_RelationshipsTitle = "相识者",
+    UI_BanditDeialogue_OptionsMenu_Relationships = "相识者",
+    UI_BanditDeialogue_OptionsMenu_RelationshipRemove = "移除",
+
 }

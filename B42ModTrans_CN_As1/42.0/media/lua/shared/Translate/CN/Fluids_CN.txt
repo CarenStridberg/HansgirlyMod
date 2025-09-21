@@ -122,13 +122,14 @@ Fluids_CN = {
 	
 ---Support Goods Mega Mod [B42.10] - PREDATOR---(3512993822)---
 	Fluid_Container_AlcoholBottle = "酒瓶",
-	Fluid_Container_CanMiniCola = "迷你罐",
-	Fluid_Container_CanMiniDietCola = "迷你罐",
+	Fluid_Container_CanMiniCola = "迷你易拉罐",
+	Fluid_Container_CanMiniDietCola = "迷你易拉罐",
 	Fluid_Container_DirtyAlcoholBottle = "用过的酒瓶",
-	Fluid_Container_FoodBucket = "食品桶",
+	Fluid_Container_FoodBucket = "食物桶",
 	Fluid_Container_LargeColaBottle = "汽水瓶",
 	Fluid_Container_LargeDietColaBottle = "汽水瓶",
-	Fluid_Container_Shower = "营地淋浴器",
+	Fluid_Container_Scoop = "舀杯",
+	Fluid_Container_Shower = "露营淋浴器",
 	Fluid_Name_Berrywine = "浆果酒",
 	Fluid_Name_Ethanol = "乙醇",
 	Fluid_Name_HighQualityBeer = "优质啤酒",
@@ -152,7 +153,6 @@ Fluids_CN = {
 	Fluid_Name_WellAgedVodka = "陈年伏特加",
 	Fluid_Name_WellAgedWhiskey = "陈年威士忌",
 	Fluid_Name_WellAgedWine = "陈年葡萄酒",
-	Fluid_Container_Scoop = "勺杯",
 
 ---Authentic Z---(2335368829)---
 	Fluid_Container_AquaBottle = "水瓶",

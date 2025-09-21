@@ -1363,25 +1363,25 @@ Tooltip_CN = {
 	Tooltip_MII_RottenDays = "腐烂天数",
 	
 ---Support Goods Mega Mod [B42.10] - PREDATOR---(3512993822)---
-	Tooltip_ActivatedCharcoalPills = "治疗食物中毒并缓解症状。",
-	Tooltip_AirConditioner= "当前仅支持制热功能。制冷功能将在下次更新实装（因原版游戏无制冷系统，实现较复杂）。"
-	Tooltip_CampingHeater = "手持时可取暖，放置于帐篷内可提升舒适度。",
-	Tooltip_CarrierVest = "拆除护套前务必清空！未清空将导致内容物丢失！",
-	Tooltip_ColdaFluPills = "缓解流感与感冒症状并促进康复。",
-	Tooltip_ElectricLantern = "三合一功能：电力、燃料和可放置提灯。移除燃料/电池可转换模式。",
-	Tooltip_FabricTip = "迷彩布料卷，包含该图案的轻质、厚重和弹性材料。",
-	Tooltip_FishermanBox_Ground = "包含：钓竿、高级钓线、鱼钩盒、渔网、假饵、浮标、剖鱼刀、蠕虫罐头。",
-	Tooltip_FurBlanket = "可披在肩上并遮盖头部，放置于帐篷内可提升舒适度。",
-	Tooltip_GoPills = "空军飞行员使用的安非他命，用于在长途飞行中保持清醒。",
-	Tooltip_Handwarmer = "紧急寒冷情况下使用，可快速加热并干燥身体部位",
-	Tooltip_InflateMattress = "以当前状态（无需充气）放入帐篷可提升舒适度。",
-	Tooltip_Left = "左侧放置",
-	Tooltip_MessKitBox_Ground = "包含：碗、盘子、马克杯、锅、金属杯、烤盘、水壶、研钵、平底锅、炖锅、厨刀、木勺、塑料叉、塑料刀、塑料勺、玻璃杯。",
-	Tooltip_MilitaryEngineerBox_Ground = "包含：喷灯、焊条、锯、圆头锤、锤子、管钳、扳手、螺丝刀、军用焊工面罩、高可视度背心、护耳帽、安全帽、钉子盒、螺丝盒、大锤。",
-	Tooltip_Right = "右侧放置",
-	Tooltip_RoadsideKit_Ground = "包含：千斤顶、轮胎扳手、打气筒、车载充电器、螺丝刀、汽油罐、路锥、高反光背心、急救口粮、棘轮扳手、扳手、手电筒、电池。",
-	Tooltip_SatellitePhone = "需手持使用。通过卫星通讯，内置天线可兼作收音机。",
-	Tooltip_SewingMachine = "需配合线、剪刀/医用剪和布料使用，可制作各类迷彩服装。",
+	Tooltip_ActivatedCharcoalPills = "治疗食物中毒并减轻症状。",
+	Tooltip_AirConditioner= "目前只能作为暖气使用。制冷功能将在下次更新中加入。由于制冷并非游戏本体功能，所以实现起来更困难。",
+	Tooltip_CampingHeater = "拿在手里可以取暖。放置在帐篷里可以提升舒适度。",
+	Tooltip_CarrierVest = "拆卸护罩前请先清空！否则里面的所有物品都将丢失。",
+	Tooltip_ColdaFluPills = "减轻感冒和流感症状，并有助于康复。",
+	Tooltip_ElectricLantern = "三合一多功能提灯，可用电、可用燃料，也可直接放置。移除燃料或电池即可切换模式。",
+	Tooltip_FabricTip = "迷彩布料卷，包含轻质、重质和弹性材料的该图案布料.",
+	Tooltip_FishermanBox_Ground = "内含：钓鱼竿、高级鱼线、盒装鱼钩、渔网、鱼饵、浮标、剖鱼刀、罐装蚯蚓.", 
+	Tooltip_FurBlanket = "可以裹在肩上并盖住头部。也可以放置在帐篷里以增加舒适度。",
+	Tooltip_GoPills = "空军飞行员使用的安非他命，用于在长途飞行中保持清醒.",
+	Tooltip_Handwarmer = "在冬季紧急情况下使用，可快速温暖和烘干任何身体部位。",
+	Tooltip_InflateMattress = "以当前状态（请勿充气）放置在帐篷中，可增加帐篷的舒适度。",
+	Tooltip_Left = "左侧",
+	Tooltip_MessKitBox_Ground = "内含：碗、盘子、马克杯、锅、金属杯、烤盘、水壶、研钵和研杵、煎锅、炖锅、厨刀、木勺、塑料叉、塑料刀、塑料勺、玻璃杯。",
+	Tooltip_MilitaryEngineerBox_Ground = "内含：喷灯、焊条、手锯、圆头锤、锤子、管钳、扳手、螺丝刀、军用焊接面罩、反光背心、防噪音耳罩帽、安全帽、盒装钉子、盒装螺丝、破墙大锤。",
+	Tooltip_Right = "右侧",
+	Tooltip_RoadsideKit_Ground = "内含：千斤顶、十字扳手、轮胎泵、汽车电池充电器、螺丝刀、汽油罐、路锥、反光背心、急救口粮、棘轮扳手、扳手、手电筒、电池。",
+	Tooltip_SatellitePhone = "需拿在手中使用。允许通过卫星进行通信。内置天线，可作为收音机使用。",
+	Tooltip_SewingMachine = "使用线、剪刀/医用剪刀和布料来制作任何类型的迷彩服装.",
 
 ---[B42] Better Sorting---(3413005308)---
 	Tooltip_BookTitle = "书名",
@@ -1544,4 +1544,6 @@ Tooltip_CN = {
 	Tooltip_Tikitown_MedPostOfficeBox = "你能听到里面有东西在晃动。",
 	Tooltip_Tikitown_SmPostOfficeBox = "你能听到里面有东西在晃动。",
 
+---Legend Craft Evolved---(3432470769)---
+	Tooltip_LCToken = "用于指定武器以恢复丢失的升级",
 }
