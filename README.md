@@ -954,3 +954,9 @@ Mod:Ada Wong - Voice [B42]---ID:3401470591
 Mod:Braven's Achievements---ID:3051277957
 
 Mod:Project Summer Car [B42]---ID:3564950449
+
+Mod:Better Electronics---ID:2999183635
+
+Mod:[B42] WarThunderVehicleLibrary---ID:3399660368
+
+Mod:[B42.11] Detailed Descriptions for Occupations and Traits---ID:3387957272

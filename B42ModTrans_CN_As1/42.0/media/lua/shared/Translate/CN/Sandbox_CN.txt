@@ -550,6 +550,8 @@ Sandbox_CN = {
 	Sandbox_GydeTraitMags_SpawnInconspicuous_tooltip = "禁用后, 游戏中将不再生成特质杂志 - 毫不起眼. \n\n特质描述: \n50%的几率被僵尸发现. ",
 	Sandbox_GydeTraitMags_SpawnKeenHearing = "生成特质杂志 - 听觉灵敏",
 	Sandbox_GydeTraitMags_SpawnKeenHearing_tooltip = "禁用后, 游戏中将不再生成特质杂志 - 听觉灵敏. \n\n特质描述: \n200%的感知半径. 更早的发现背后的僵尸. ",
+	Sandbox_GydeTraitMags_ReadDelete = "一次性杂志",
+	Sandbox_GydeTraitMags_ReadDelete_tooltip = "启用后，杂志将变为一次性用品。阅读杂志会消耗该物品，并从你的物品栏中移除。",
 
 ---Plumb Helper PLUS [B42]---(3386961288)---
 	Sandbox_PlumbHelper = "管道助手 PLUS",
@@ -4692,7 +4694,7 @@ Sandbox_CN = {
 	Sandbox_HydeCoUnlimitedCars_ChanceToSpawnKeyAirportHotel = "机场酒店区带钥匙车辆概率",
 	Sandbox_HydeCoUnlimitedCars_ChanceToSpawnKeyAirportHotel_tooltip = "设置带钥匙车辆出现几率。数值越高，带钥匙车辆越多。",
 	Sandbox_HydeCoUnlimitedCars_ChanceToSpawnKeyBurnt = "烧毁区域带钥匙车辆概率",
-	Sandbox_HydeCoUnlimitedCars_ChanceToSpawnKeyBurnt_tooltip = "设置带钥匙车辆出现几率。数值越高，带钥匙车辆越多。"
+	Sandbox_HydeCoUnlimitedCars_ChanceToSpawnKeyBurnt_tooltip = "设置带钥匙车辆出现几率。数值越高，带钥匙车辆越多。",
 	Sandbox_HydeCoUnlimitedCars_ChanceToSpawnKeyCommercial = "商业区带钥匙车辆概率",
 	Sandbox_HydeCoUnlimitedCars_ChanceToSpawnKeyCommercial_tooltip = "设置带钥匙车辆出现几率。数值越高，带钥匙车辆越多。",
 	Sandbox_HydeCoUnlimitedCars_ChanceToSpawnKeyEmergency = "紧急服务区带钥匙车辆概率",
@@ -4705,7 +4707,7 @@ Sandbox_CN = {
 	Sandbox_HydeCoUnlimitedCars_ChanceToSpawnKeyResidential_tooltip = "设置带钥匙车辆出现几率。数值越高，带钥匙车辆越多。",
 	Sandbox_HydeCoUnlimitedCars_ChanceToSpawnKeyTrafficJam = "交通堵塞中带钥匙车辆概率",
 	Sandbox_HydeCoUnlimitedCars_ChanceToSpawnKeyTrafficJam_tooltip = "设置带钥匙车辆出现几率。数值越高，带钥匙车辆越多。",
-	Sandbox_HydeCoUnlimitedCars_ChanceToSpawnKey_tooltip = "车辆内留有钥匙的几率。"
+	Sandbox_HydeCoUnlimitedCars_ChanceToSpawnKey_tooltip = "车辆内留有钥匙的几率。",
 	Sandbox_HydeCoUnlimitedCars_ChanceToSpawnNormal = "普通车辆生成概率",
 	Sandbox_HydeCoUnlimitedCars_ChanceToSpawnNormalAirportHotel = "机场酒店区普通车辆生成概率",
 	Sandbox_HydeCoUnlimitedCars_ChanceToSpawnNormalAirportHotel_tooltip = "设置普通车辆出现几率。数值越高，常规车辆越多。",
@@ -4757,6 +4759,8 @@ Sandbox_CN = {
 	Sandbox_HydeCoUnlimitedCars_SpawnRateResidential_tooltip = "控制住宅区车辆的数量。数值越高，车辆越多。",
 	Sandbox_HydeCoUnlimitedCars_SpawnRateTrafficJam_tooltip = "控制交通堵塞中车辆的数量。数值越高，车辆越多。",
 	Sandbox_HydeCoUnlimitedCars_SpawnRate_tooltip = "设置车辆在地图中的生成频率。",
+	Sandbox_HydeCoUnlimitedCars_ChanceToSpawnNormalTrafficJam = "交通堵塞中普通车辆的刷新几率",
+	Sandbox_HydeCoUnlimitedCars_SpawnRateTrafficJam = "交通堵塞中的车辆刷新频率",
 
 ---[J&G] Trauma Responder Uniform---(3443982326)---
 	Sandbox_JordanalSpawns.Trauma_ResponderChance = "急救员生成几率(军事区域)",
@@ -5824,4 +5828,12 @@ Sandbox_CN = {
 	Sandbox_Tikitown_HistoricalOutfits_tooltip = "启用或禁用蒂基镇的历史服装僵尸",
 	Sandbox_Tikitown_PostOfficeOverride_tooltip = "启用或禁用蒂基镇的邮局包裹系统",
 
+---[B42] WarThunderVehicleLibrary---(3399660368)---
+	Sandbox_DestoryStartAsh_Tooltip = "启用后，被坦克和火炮摧毁的建筑和车辆会产生灰烬<br>此选项同样会影响炮火支援",
+	Sandbox_SpawnTigerInWorld_Tooltip = "启用后，坦克将在世界中生成",
+	Sandbox_TigerDestoryBuilding_Tooltip = "启用后，坦克将会摧毁世界中的建筑<br>此选项同样会影响炮火支援",
+	Sandbox_TigerDestoryBurnedCarOnly_Tooltip = "启用后，坦克将只会摧毁烧毁的车辆；需要关闭以上选项<br>此选项同样会影响炮火支援",
+	Sandbox_TigerDestoryNormalCar_Tooltip = "启用后，坦克将会摧毁世界中的车辆<br>此选项同样会影响炮火支援",
+	Sandbox_TigerDestorySafeHouse_Tooltip = "启用后，坦克将会摧毁世界中的安全屋；如果关闭了建筑摧毁，此选项将失效<br>此选项同样会影响炮火支援",
+	Sandbox_TigerNeedShovel_Tooltip = "启用后，坦克需要推土铲才能推开丧尸和树木",
 }

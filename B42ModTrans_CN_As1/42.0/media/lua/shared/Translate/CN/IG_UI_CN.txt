@@ -7705,4 +7705,12 @@ IGUI_CN = {
     IGUI_VehicleNameGoKart = "蒂基镇卡丁车"
     IGUI_BSSOPoliceKey = "黑盾治安局局长钥匙"
     IGUI_DormitoryKey = "大学宿舍万能钥匙",
+
+---[B42] WarThunderVehicleLibrary---(3399660368)---
+	IGUI_MainGun_M830A1 = "M830A1",
+	IGUI_MainGun_SprgrL_45 = "Sprgr.L/4.5 高爆弹",
+	IGUI_MainGun_SprgrL_45_Tooltip = "Sprgr.L/4.5 高爆弹，造成大范围伤害，对建筑效果较差",
+	IGUI_VehicleNameAH64A = "AH-64A",
+	IGUI_VehicleNameM1A1 = "M1A1",
+
 }

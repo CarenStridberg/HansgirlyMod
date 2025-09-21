@@ -2382,4 +2382,19 @@ ContextMenu_CN = {
 
 ---They Knew [B42]---(3387110070)---
 	ContextMenu_Break_Ampule = "打碎安瓿瓶",
+
+---Better Electronics---(2999183635)---
+	ContextMenu_ChangeRemoteID = "修改遥控器ID",
+	ContextMenu_Close_Door_with_Remote = "用遥控器关门",
+	ContextMenu_Connect_device_to_the_power_grid = "将设备接入电网",
+	ContextMenu_Disconnect_device_from_the_power_grid = "断开设备与电网的连接",
+	ContextMenu_I_need_to_be_closer_to_the_door_to_install_this = "我得靠近些来安装这个",
+	ContextMenu_Install_Remote_Door_Motor = "安装遥控式门电机",
+	ContextMenu_Linked_door_to_Remote = "已将门绑定到遥控",
+	ContextMenu_Open_Door_with_Remote = "用遥控器开门",
+	ContextMenu_Remove_Doormotor = "拆除门电机",
+	ContextMenu_newIDRemote = "遥控器的新ID",
+	ContextMenu_newNameRemote = "遥控器的新名称",
+	ContextMenu_renameRemote = "重命名遥控器",
+
 }
