@@ -164,4 +164,16 @@ Fluids_CN = {
 	Fluid_Name_LiquidLaxative = "液体泻药",
 	Fluid_Name_Urine = "尿液",
 
+---Sapph's Cooking [B42+]---(3409143790)---
+	Fluid_Name_AmericanoCoffee = "美式咖啡",
+	Fluid_Name_CappuccinoCoffee = "卡布奇诺",
+	Fluid_Name_FrappeCoffee = "法拉沛咖啡",
+	Fluid_Name_IrishCoffee = "爱尔兰咖啡",
+	Fluid_Name_JuicePeach = "桃汁",
+	Fluid_Name_JuiceWatermelon = "西瓜汁",
+	Fluid_Name_LatteCoffee = "拿铁",
+	Fluid_Name_MochaCoffee = "摩卡咖啡",
+	Fluid_Name_SapphCachaca = "卡沙萨",
+	Fluid_Name_SapphSake = "清酒",
+
 }

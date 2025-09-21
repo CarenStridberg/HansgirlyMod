@@ -5498,6 +5498,7 @@ IGUI_CN = {
 	IGUI_Face_Zombie1 = "腐烂僵尸1",
 	IGUI_Face_Zombie2 = "腐烂僵尸2",
 	IGUI_Face_Zombie3 = "腐烂僵尸3",
+    IGUI_Face_SkeletonBurned = "烧焦骸骨",
 
 ---Mystic's Face Retexture for Spongie's Character Customisation---(3415470189)---
 	IGUI_Face_Misty = "蜜丝蒂",
@@ -5546,6 +5547,7 @@ IGUI_CN = {
 ---IndustrialRevolutionMiraAmmoMaker---(3441855577)---
 	IGUI_ItemCat_GenericCategoryOne = "通用类别一",
 	IGUI_ItemCat_GenericCategoryTwo = "通用类别二",
+    IGUI_ItemCat_GenericMiraAmmo = "米拉弹药制造机",
 
 ---Reaper's Hair & Beard---(3450583954)---
 	IGUI_Beard_Balbo = "巴尔博胡型",
@@ -7693,4 +7695,14 @@ IGUI_CN = {
     IGUI_Bandits_Speech_ZSStreetChatHealth_Male_4_2 = "我们这里需要医生！",
     IGUI_Bandits_Speech_ZSStreetChatHealth_Male_4_3 = "你应该去看医生！",
 
+---Ada Wong - Voice [B42]---(3401470591)---
+    IGUI_Voice_AdaWong = "艾达王",
+
+---Braven's Achievements---(3051277957)---
+    IGUI_Achievement_Title_31 = "侠盗猎车手",
+
+---Tikitown (B41/B42)---(3037854728)---
+    IGUI_VehicleNameGoKart = "蒂基镇卡丁车"
+    IGUI_BSSOPoliceKey = "黑盾治安局局长钥匙"
+    IGUI_DormitoryKey = "大学宿舍万能钥匙",
 }

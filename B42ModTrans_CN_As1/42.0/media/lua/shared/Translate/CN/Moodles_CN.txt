@@ -495,6 +495,7 @@ Moodles_CN = {
 	Moodles_Bloodlust_Bad_desc_lvl1 = "需要采取行动",
 	Moodles_Bloodlust_Bad_desc_lvl3 = "立即杀戮",
 	Moodles_Bloodlust_Bad_lvl1 = "嗜血冲动",
+	Moodles_Bloodlust_Bad_lvl3 = "嗜血",
 
 ---Vanilla-Like Traits and Occupations---(3139034529)---
 	Moodles_Anger_Bad_desc_lvl1 = "有点恼火。",

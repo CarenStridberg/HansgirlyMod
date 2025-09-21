@@ -4439,7 +4439,7 @@ Sandbox_CN = {
 	Sandbox_LKO_UseKatanaAttachment = "启用与战术刀鞘（Tactical Sheaths B42）的兼容性",
 
 ---Toppling Zombies [B42]---(3425038705)---
-	Sandbox_TopplingZombies = "翻越僵尸",
+	Sandbox_TopplingZombies = "僵尸翻越",
 	Sandbox_TopplingZombies_Chance = "触发几率",
 	Sandbox_TopplingZombies_Chance_tooltip = "对栅栏造成伤害的触发概率",
 	Sandbox_TopplingZombies_Damage = "基础伤害值",
@@ -4451,6 +4451,7 @@ Sandbox_CN = {
 	Sandbox_TopplingZombies_TripAlwaysDamage = "绊倒必造成伤害",
 	Sandbox_TopplingZombies_TripAlwaysDamage_tooltip = "启用后(勾选)，当玩家冲刺或僵尸翻越矮栅栏绊倒时必定造成伤害",
 	Sandbox_TopplingZombies_TripDamage_tooltip = "以下情况对矮栅栏造成的伤害量：<br>- 玩家冲刺翻越(非奔跑)失败时<br>- 疾跑僵尸被绊倒翻滚时",
+	Sandbox_TopplingZombies_TripDamage = "绊倒伤害",
 
 ---Gauss Firearms---(3429953336)---
 	Sandbox_GaussRifle = "高斯枪械",
@@ -5801,5 +5802,26 @@ Sandbox_CN = {
 	Sandbox_BanditsWeekOne.StreetsPopMultiplier = "NPC路人数量倍数",
 	Sandbox_BanditsWeekOne.VehiclesMax = "同时存在的NPC驾驶车辆最大数量",
 	Sandbox_BanditsWeekOne.VehiclesSpeed = "NPC驾驶车辆速度倍数",
+
+---Tikitown (B41/B42)---(3037854728)---
+	Sandbox_Tikitown = "蒂基镇",
+	Sandbox_Tikitown_CollectionBaseball = "启用蒂基镇的棒球卡收集",
+	Sandbox_Tikitown_CollectionBaseballCommon = "普通卡掉落概率",
+	Sandbox_Tikitown_CollectionBaseballRare = "稀有卡掉落概率",
+	Sandbox_Tikitown_CollectionBaseballZombieCommon = "普通卡掉落概率（僵尸）",
+	Sandbox_Tikitown_CollectionBaseballZombieRare = "稀有卡掉落概率（僵尸）",
+	Sandbox_Tikitown_Tikitorch = "启用蒂基镇的蒂基火炬长矛武器",
+	Sandbox_Tikitown_TikitorchSpawnRate = "蒂基镇火炬物品的生成率",
+	Sandbox_Tikitown_HistoricalOutfits = "蒂基镇的历史服装僵尸",
+	Sandbox_Tikitown_PostOfficeOverride = "蒂基镇邮局包裹系统",
+	Sandbox_Tikitown_BaseballCollection_tooltip = "启用或禁用从僵尸和物品中掉落棒球卡的全套收集系统",
+	Sandbox_Tikitown_BaseballCollectionCommon_tooltip = "调整普通棒球卡物品的掉落概率，包括容器中的空棒球卡盒",
+	Sandbox_Tikitown_BaseballCollectionRare_tooltip = "调整容器中稀有棒球卡物品的掉落概率",
+	Sandbox_Tikitown_BaseballCollectionZombieCommon_tooltip = "调整普通棒球卡物品的掉落概率，包括僵尸身上的空棒球卡盒",
+	Sandbox_Tikitown_BaseballCollectionZombieRare_tooltip = "调整僵尸身上稀有棒球卡物品的掉落概率",
+	Sandbox_Tikitown_Tikitorch_tooltip = "启用或禁用蒂基火炬长矛武器的生成",
+	Sandbox_Tikitown_TikitorchSpawnRate_tooltip = "调整蒂基火炬武器的生成率",
+	Sandbox_Tikitown_HistoricalOutfits_tooltip = "启用或禁用蒂基镇的历史服装僵尸",
+	Sandbox_Tikitown_PostOfficeOverride_tooltip = "启用或禁用蒂基镇的邮局包裹系统",
 
 }

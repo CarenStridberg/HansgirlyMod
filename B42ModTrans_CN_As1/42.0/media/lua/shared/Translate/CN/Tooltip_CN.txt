@@ -358,6 +358,7 @@ Tooltip_CN = {
 	Tooltip_EmptyThermos = "可以用来储存水、饮料或煮好的汤",
 	Tooltip_IceCubesB42 = "需要冷水.",
 	Tooltip_PlaceholderFlour = "sapph: 由于目前无法在食谱中使用单位,这将作为食谱中的占位符",
+	Tooltip_TakeoutBoxes = "一次性食品包装盒，可以当碗用。",
 
 ---[OUTDATED] Support Corps [B42] Sweet-release Update---(3409836763)---
 	Tooltip_Left = "左侧", 
@@ -1551,5 +1552,15 @@ Tooltip_CN = {
 	Tooltip_craft_lightSwitchDesc = "电灯开关……<br>前提是还能亮",
 	Tooltip_craft_lampDesc = "台灯，照亮你<br>不可避免的末日",
 	Tooltip_craft_lightPostDesc = "柱式路灯，吸引更多丧尸。<br>还能出什么岔子呢？",
+
+---Tikitown (B41/B42)---(3037854728)---
+	Tooltip_Tikitown_empty_Baseball_Card_Box = "你应该找一些卡片放进去。",
+	Tooltip_Tikitown_Unsorted_Full_Baseball_Card_Box = "你发现卡片写着一些符号，但无法理解其含义。",
+	Tooltip_Tikitown_Sorted_Full_Baseball_Card_Box = "这些符号看起来是一张地图，你应该试着找纸笔记录下来。",
+	Tooltip_Tikitown_Used_Sorted_Full_Baseball_Card_Box = "你已经将卡片上的地图记录了下来。",
+	Tooltip_Tikitown_Titanium_Baseball_Bat = "集齐35张棒球卡后，你发现了这个！太棒了！",
+	Tooltip_Tikitown_LargePostOfficeBox = "你能听到里面有东西在晃动。",
+	Tooltip_Tikitown_MedPostOfficeBox = "你能听到里面有东西在晃动。",
+	Tooltip_Tikitown_SmPostOfficeBox = "你能听到里面有东西在晃动。",
 
 }

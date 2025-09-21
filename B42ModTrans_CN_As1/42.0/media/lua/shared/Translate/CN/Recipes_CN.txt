@@ -2029,6 +2029,9 @@ Recipe_CN = {
 		Recipe_91fordLTD.MakeRearWindshieldArmor = "制造91款福特LTD后挡风装甲",
 		Recipe_91fordLTD.MakeFrontPushBumper = "制造91款福特LTD推撞保险杠",
 		Recipe_91fordLTD.MakeRoofrack = "制造91款福特LTD车顶架",
+		Recipe_91fordLTD.MakeFrontBumper = "制造91款福特LTD前保险杠",
+		Recipe_91fordLTD.MakeRearBumper = "制造91款福特LTD后保险杠",
+		Recipe_91fordLTD.MakeRearWagonBumper = "制造91款福特LTD旅行版后保险杠",
 	
 	---'89 Dodge Caravan---(3034636011)---
 		Recipe_89dodgeCaravan.MakeTire = "制造89款道奇Caravan轮胎",
@@ -3563,6 +3566,9 @@ Recipe_CN = {
 	Recipe_Create_Baseball_Card_Box = "制作棒球卡收纳盒",
 	Recipe_Trace_Cards_Picture = "临摹卡片图案",
 	Recipe_Add_Cards_to_Box = "将卡片放入盒中",
+	Recipe_Open_Large_Box = "打开大箱子",
+    Recipe_Open_Medium_Box = "打开中箱子",
+    Recipe_Open_Small_Box = "打开小箱子",
 
 ---Vehicle Repair Overhaul---(2757712197)---
 	---Vehicle Repair Overhaul---
@@ -6177,6 +6183,7 @@ Recipe_CN = {
 	Recipe_ALICEpackUpgradeUltra = "升级军用背包",
 	Recipe_SatchelUpgradeUltra = "升级肩包加强版",
 	Recipe_SchoolbagUpgradeUltra = "升级书包",
+	Recipe_MakeSheetSlingBagUltra = "制作单肩包终极版",
 
 ---[B42] Bodily Functions [v0.12.3]---(3396456841)---
 	Recipe_OpenAntiDiarrhealPillBox = "打开止泻药盒",
@@ -6681,4 +6688,12 @@ Recipe_CN = {
 
 ---Rechargeable Batteries---(3385623534)---
 	Recipe_Craft_Portable_Battery_Recharger = "制作便携式电池充电器",
+
+---Ash's MK8 Trusty FireFighter Axe---(3400045232)---
+	Recipe_Assemble_Trusty_Fire_Axe = "组装可靠消防斧",
+	Recipe_Dismantle_Trusty_Fire_Axe = "拆解可靠消防斧",
+
+---[B42] The Defiler from DR2---(3492621786)---
+	Recipe_Dissasemble_The_Defiler = "拆解亵渎者",
+	Recipe_Make_The_Defiler = "制作亵渎者",
 }

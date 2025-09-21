@@ -948,3 +948,9 @@ Mod:Eggon's Worthwhile Cars 2.0 B42---ID:3569430257
 Mod:[B42] Make Gunpowder from Fertilizer---ID:3392188086
 
 Mod:[B42] Week One NPC---ID:3403180543
+
+Mod:Ada Wong - Voice [B42]---ID:3401470591
+
+Mod:Braven's Achievements---ID:3051277957
+
+Mod:Project Summer Car [B42]---ID:3564950449

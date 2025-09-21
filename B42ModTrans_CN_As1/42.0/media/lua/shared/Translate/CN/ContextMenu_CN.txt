@@ -2380,4 +2380,6 @@ ContextMenu_CN = {
 	ContextMenu_UGRTooDamagedCleaning = "损坏得太厉害, 无法通过清洁的方式加以维护.",
 	ContextMenu_UGRTooDamagedRepairing = "损坏得太厉害, 无法维修.",
 
+---They Knew [B42]---(3387110070)---
+	ContextMenu_Break_Ampule = "打碎安瓿瓶",
 }
