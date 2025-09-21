@@ -7574,6 +7574,13 @@ ItemName_CN = {
 	ItemName_UGR.FirearmLubricant = "枪械润滑剂",
 	ItemName_UGR.FirearmMaintenanceKit = "枪械维护套件",
 	ItemName_UGR.GunsmithingTools = "枪械改装工具组",
+	ItemName_Base.CleaningSolvent = "枪械清洁溶剂",
+	ItemName_Base.CleaningSolventBlackLabel = "高级枪械清洁溶剂",
+	ItemName_Base.DisassembledGunPartsLarge = "拆解枪械零件(大型)",
+	ItemName_Base.DisassembledGunPartsSmall = "拆解枪械零件(小型)",
+	ItemName_Base.FirearmLubricant = "枪械润滑剂",
+	ItemName_Base.FirearmMaintenanceKit = "枪械维护套件",
+	ItemName_Base.GunsmithingTools = "枪械改装工具组",
 
 ---Dried Flower---(2949777636)---
 	ItemName_P4DriedFlower.P4DriedFlowerbed_01_16 = "干燥的花坛花(粉色)",
@@ -8207,6 +8214,7 @@ ItemName_CN = {
 	ItemName_Base.RationOld_Box = "未标记口粮箱",
 	ItemName_Base.RationOld_Open = "已开封旧式口粮",
 	ItemName_Base.RationPackage = "口粮包装袋",
+	ItemName_Base.RationDIY         = "自制口粮",
 
 ---Prism Power---(3235103558)---
 	ItemName_P4PrismPower.P4MakeupEyeshadow = "眼影盘(带镜子)",
@@ -13271,5 +13279,21 @@ ItemName_CN = {
 	ItemName_Base.FlooringGuide_Paved = "杂志：《地板指南》- 铺装地面特辑",
 	ItemName_Base.DecorationsGuide_RoadwayGarage = "杂志：《装饰指南》- 道路与车库装饰特辑",
 	ItemName_Base.BuildersSketchbook = "建筑师速写本",
+
+---[B42] Week One NPC---(3403180543)---
+	ItemName_Bandits.BeerBottle = "匪徒啤酒瓶",
+	ItemName_Bandits.Extinguisher = "僵尸灭火器",
+	ItemName_Bandits.HandbagWeapon = "手提包武器",
+	ItemName_Bandits.PaperSign = "抗议海报",
+	ItemName_Bandits.PurseWeapon = "钱包武器",
+	ItemName_Bandits.StopSign = "停车标志",
+	ItemName_Bandits.Teacup = "匪徒茶杯",
+	ItemName_Bandits.TruthSign = "真相标语牌",
+	ItemName_Tsarcraft.CassetteBanditBreakdance01 = "匪徒街舞磁带 01",
+	ItemName_Tsarcraft.CassetteBanditParty01 = "匪徒派对磁带 01",
+	ItemName_Tsarcraft.CassetteBanditParty02 = "匪徒派对磁带 02",
+	ItemName_Tsarcraft.CassetteBanditParty03 = "匪徒派对磁带 03",
+	ItemName_Tsarcraft.CassetteBanditParty04 = "匪徒派对磁带 04",
+	ItemName_Tsarcraft.CassetteBanditParty05 = "匪徒派对磁带 05",
 
 }

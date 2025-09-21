@@ -1,0 +1,59 @@
+SurvivalGuide_CN = {
+
+---[B42] Knox Event Expanded NPC mod [alpha v0.2.24]---(3397396843)---
+    SurvivalGuide_entrie15title = "#15 - 世界中的NPC",
+    SurvivalGuide_entrie15txt = " <CENTRE> "<SIZE:large> #15 - 世界中的NPC <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:medium> 人类才是真正的威胁。",
+    SurvivalGuide_entrie15moreinfo = " <H1> NPC与你 <BR>"..
+    " <TEXT> 解释NPC的生成方式<BR>"..
+    " <TEXT> <CENTRE> <SIZE:medium> NPC都在哪儿？ <BR>"..
+    " <TEXT> 如果你没有遇到一大堆报错，那说明这个模组应该在正常工作。模组里的NPC与众不同，他们不会围着你“转圈”。他们会根据区域内的丧尸密度分布在地图各处。此外，NPC（目前）会遵循一个作息时间表：白天在自家附近巡逻和休息，晚上则只休息。找到他们的最简单方法是使用对讲机（便携式双向无线电），并选择“联系附近的幸存者”选项。这会在你的地图上标记出NPC的安全屋。<BR><BR>"..
+    " <TEXT> <CENTRE> <SIZE:medium> 为什么我无法攻击NPC？ <BR> <TEXT> 根据模组的设定，你将自动能够攻击对你怀有敌意的NPC。<BR>"..
+    "要覆盖此设定，屏幕左侧有一个红色的图标，上面是两把交叉的斧头和一个锁。这表示PvP已关闭，即你无法攻击NPC。点击该图标或按G键将启用PvP。热键G也可以在选项中更改。<BR><BR>"..
+    " <TEXT> <CENTRE> <SIZE:medium> 什么是“关系”？ <BR> <TEXT> NPC与你以及他们遇到（或曾经遇到）的其他NPC之间存在着关系值。这是一个介于-100和100之间的数字，决定了他们对你或其他NPC的喜好程度。该数值是一个NPC对另一个NPC所有正面和负面记忆的总和。与NPC进行愉快的交谈通常会提升关系，而侮辱或与他们战斗则会降低关系。这些影响也会随着时间的推移而消退。一些NPC（例如士兵）将始终视你为敌（目前是这样）。<BR>"..
+    "",
+
+    SurvivalGuide_entrie16title = "#16 - 你的NPC",
+    SurvivalGuide_entrie16txt = " <CENTRE> "<SIZE:large> #16 - 你的NPC <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:medium> 敌人的敌人就是朋友。",
+    SurvivalGuide_entrie16moreinfo = " <H1> 如何结交朋友<BR>"..
+    " <TEXT> <CENTRE> <SIZE:medium> 如何让NPC加入我的团队？ <BR>"..
+    " <TEXT> 有三个因素决定NPC是否愿意加入你：他们与自己团队成员的关系、与玩家的关系，以及他们性格中的信任特质。<BR>"..
+    " <TEXT> 你可以通过右键点击NPC并选择“交谈”选项来邀请他们加入。在“关于他们的团队”子选项下，你可以邀请他们个人加入你的团队，或者询问他们整个团队是否愿意加入。<BR>如果他们不接受，和平的方式是定期与他们交谈，直到他们决定加入你。注意，他们不喜欢被过于频繁地邀请。如果你想采取更激进的方式，可以选择干掉他们团队中的一些成员，以增加他们加入你的几率。<BR><BR>"..
+    " <TEXT> <CENTRE> <SIZE:medium> NPC信息面板 <BR>"..
+    " <TEXT> 这里需要一些说明文字 <BR><BR>"..
+    " <TEXT> <CENTRE> <SIZE:medium> 安全屋 <BR>"..
+    " <TEXT> 安全屋是你的行动基地。要拥有一个安全屋，你需要先宣布它的所有权。这可以通过两种方式完成：<BR>"..
+    " 1. 右键点击现有建筑物并选择“占领为安全屋”选项<BR>"..
+    " 2. 在任何地方右键点击并选择“占领为安全屋（徒手）”选项<BR><BR>"..
+    " <TEXT> <CENTRE> <SIZE:medium> NPC总览 <BR>"..
+    " <TEXT> 施工中<BR>"..
+    " <TEXT> <CENTRE> <SIZE:medium> 安全屋区域 <BR>"..
+    " <TEXT> 施工中<BR>"..
+    " <TEXT> <CENTRE> <SIZE:medium> 工作优先级系统<BR>"..
+    " <TEXT> 施工中<BR>"..
+    " <TEXT> <CENTRE> <SIZE:medium> 清理尸体<BR>"..
+    " <TEXT> 施工中<BR>"..
+    " <TEXT> <CENTRE> <SIZE:medium> 耕种 <BR>"..
+    " <TEXT> 施工中<BR>"..
+    " <TEXT> <CENTRE> <SIZE:medium> 洗涤 <BR>"..
+    " <TEXT> 施工中<BR>"..
+    " <TEXT> <CENTRE> <SIZE:medium> 拾荒 <BR>"..
+    " <TEXT> 通过世界地图，你可以派遣NPC出去拾荒。<BR>"..
+    " <TEXT> 首先，从NPC总览界面将NPC派遣到你的个人团队中。之后，打开世界地图。顶部会出现一个NPC信息面板。如果你左键点击一个NPC，他们会被选中，并由一个红色方框标示。如果你按住Shift并左键点击，你将选中多个NPC。<BR>"..
+    " <TEXT> 选好NPC后，在地图上任意位置右键点击并选择“拾荒”。通过按下左键（松开左键，按住会平移地图），你开始选择区域。要结束选择，再次在地图上左键点击。<BR>"..
+    " <TEXT> 最后，当拾荒区域选定后，你可以按下绿色的“拾荒”按钮来派遣他们。然后他们会组成一个新的“小队”，并在地图上可见。显示的位置是该小队所有成员的平均位置。<BR>"..
+    " <TEXT> 如果你改变主意，你也可以走到正在拾荒的NPC身边，让他们跟你回去。<BR>"..
+    " <TEXT> <CENTRE> <SIZE:medium> 侦察<BR>"..
+    " <TEXT> 除了拾荒，NPC也可以被派去侦察。当NPC被派去侦察时，他们会以5x5的网格扫描选定区域。对于网格的每一块，他们会找到所有可用的安全屋并在你的地图上标记出来。<BR>"..
+    " 此功能尚未最终确定，可能会有所变动。<BR>"..
+    "",
+
+    SurvivalGuide_entrie17title = "#17 - NPC阵营",
+    SurvivalGuide_entrie17txt = " <CENTRE> "<SIZE:large> #17 - NPC阵营 <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:medium> 他们确实成群结队。",
+    SurvivalGuide_entrie17moreinfo = " <H1> 需要留意的NPC阵营 <BR>"..
+    " <TEXT> <CENTRE> <SIZE:medium> 军队 <BR>"..
+    " <TEXT> 尽管军队在诺克斯县活跃了很长时间，他们最近已进入高度警戒状态，休假被取消，诺克斯县也被置于隔离之下。<BR>"..
+    " <TEXT> 对他们来说，你就是感染者，无论你是否生病。如果有必要，他们会开枪。<BR>"..
+    " <TEXT> 但即使他们如此好斗，疑云也正在形成……<BR>"..
+    " ",
+
+}

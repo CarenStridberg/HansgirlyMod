@@ -1533,7 +1533,8 @@ UI_CN = {
 
 ---SafeLogin---(2876897619)---
 	UI_trait_safelogin_countdown = "%1秒后显形",
-	UI_trait_safelogin_isVisible = "我现在已显形"
+	UI_trait_safelogin_isVisible = "我现在已显形",
+	UI_trait_safelogin_still_countdown = "在移动后或在 %1 秒后解除隐身.",
 
 ---My So-Called Snack---(2877535263)---
 	UI_P4MySoCalledSnack_Messages_AngelMarkGold1 = "太棒了！抽到金天使贴纸了！",
@@ -2708,6 +2709,17 @@ UI_CN = {
 	UI_optionscreen_binding_ToggleRetreat = "切换NPC撤退/战斗僵尸",
 	UI_worldscreen_ResetNpcs = "重置NPC",
 	UI_worldscreen_ResetNpcsDesc = "重置地图上所有NPC。",
+	UI_optionscreen_binding_NpcGroupRadialFightStanceAggressive = "战斗姿态：激进",
+	UI_optionscreen_binding_NpcGroupRadialFightStanceDisengage = "战斗姿态：撤退",
+	UI_optionscreen_binding_NpcGroupRadialFightStanceStay = "战斗姿态：坚守",
+	UI_optionscreen_binding_NpcGroupRadialFollowBalanced = "均衡跟随",
+	UI_optionscreen_binding_NpcGroupRadialFollowClose = "近距离跟随",
+	UI_optionscreen_binding_NpcGroupRadialFollowFar = "远距离跟随",
+	UI_optionscreen_binding_NpcGroupRadialPrefAny = "使用任意武器",
+	UI_optionscreen_binding_NpcGroupRadialPrefMelee = "强制使用近战",
+	UI_optionscreen_binding_NpcGroupRadialPrefRanged = "强制使用远程",
+	UI_optionscreen_binding_NpcGroupRadialWepAway = "收起武器",
+	UI_optionscreen_binding_NpcGroupRadialWepReady = "武器就绪",
 
 ---Bone Scavenger---(3399292171)---
 	IGUI_Beautiful = "美观",
@@ -3801,4 +3813,22 @@ UI_CN = {
 	UI_CraftCat_Stairs_Metal = "金属楼梯",
 	UI_CraftCat_Stairs_wood = "木质楼梯"
 
+---[B42] Week One NPC---(3403180543)---
+	--UI_Intro1 = "我独自背负着",
+	--UI_Intro2 = "一个黑暗到无法言说的真相，",
+	--UI_Intro3 = "一段世界拒绝倾听的低语。",
+	UI_optionscreen_BWO_WeekOne = "第一周",
+	UI_optionscreen_BWO_Talk = "与NPC对话",
+	UI_optionscreen_BWO_IntroMusic = "主界面音乐",
+	UI_Trait_Magnetizing = "极具吸引力",
+	UI_Trait_MagnetizingDesc = "人们会更愿意追随你，且对你的目标更忠诚。",
+	UI_Trait_Charming = "魅力十足",
+	UI_Trait_CharmingDesc = "人们原谅你过错的概率更高。",
+	UI_Trait_Ugly = "样貌丑陋",
+	UI_Trait_UglyDesc = "人们原谅你过错的概率更低。",
+	--UI_News_Anim3 = "<LINE> <LINE> <H1> 支持那些让《僵尸毁灭工程》保持活力的模组制作者！ <LINE> <TEXT> <LINE> <LINE> <LINE>" ..
+	"<SIZE:large> <RGB:0.8,0.8,0.0> 《僵尸毁灭工程》的蓬勃发展离不开出色的模组社区，部分创作者甚至投入了数百乃至数千小时的个人时间，为大家打造各类独特体验。然而，尽管付出了这般努力，目前却没有任何机制能保障他们获得可持续的收益。 <LINE><LINE> " ..
+	"<SIZE:large> <RGB:0.8,0.8,0.0> 如果你喜欢这些模组，且希望看到它们持续更新进化，不妨通过Steam模组页面上的捐赠渠道，直接支持模组作者。每一份捐助都能帮助他们继续创作，不断优化那些让《僵尸毁灭工程》愈发精彩的内容。 <LINE><LINE>" ..
+	"<SIZE:large> <RGB:0.8,0.8,0.0> 《第一周》与《劫匪》这两款模组的开发，耗费了大量时间、心血与耐心。如果你喜欢这些模组，别忘了在我的模组页面点个赞，这是表达 appreciation 的简单方式！ <LINE><LINE>" .. 
+	"<CENTRE> <SIZE:large> <RGB:0.8,0.8,0.8> 杀手 <LINE><LINE> ",
 }

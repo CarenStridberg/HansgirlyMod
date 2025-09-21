@@ -1968,6 +1968,8 @@ ContextMenu_CN = {
 	ContextMenu_SafehouseAdjust = "调整安全区",
 	ContextMenu_SafehouseClaimFreehand = "手绘安全区",
 	ContextMenu_SafehouseSwitch = "切换安全屋",
+	ContextMenu_KnoxEvent_ChopTrees = "砍伐树木",
+	ContextMenu_KnoxEvent_EditSafehouse = "编辑安全屋区域",
 
 ---Ash's MK8 Trusty FireFighter Axe---(3400045232)---
 	ContextMenu_FlipRuggedCapForward = "正戴棒球帽？"
@@ -2366,5 +2368,16 @@ ContextMenu_CN = {
 	ContextMenu_LookAtBlueprints = "查看蓝图",
 	ContextMenu_StartSketchingBlueprints = "开始绘制蓝图",
 	ContextMenu_TooDarkToDraw = "光线太暗，无法绘制。",
+
+---Universal Gun Repair---(2899457928)---
+	ContextMenu_UGRClean = "清洁",
+	ContextMenu_UGRDisassemble = "拆解",
+	ContextMenu_UGRFull = "满",
+	ContextMenu_UGRNormal = "普通",
+	ContextMenu_UGRNotSkilledEnough = "需要更高的枪械使用经验.",
+	ContextMenu_UGRReassemble = "组装",
+	ContextMenu_UGRRepair = "维修",
+	ContextMenu_UGRTooDamagedCleaning = "损坏得太厉害, 无法通过清洁的方式加以维护.",
+	ContextMenu_UGRTooDamagedRepairing = "损坏得太厉害, 无法维修.",
 
 }

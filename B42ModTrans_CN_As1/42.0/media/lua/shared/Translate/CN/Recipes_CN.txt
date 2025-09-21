@@ -4249,6 +4249,7 @@ Recipe_CN = {
 	Recipe_Make_MRE = "制作单兵即食口粮(MRE)",
 	Recipe_OpenBoxOfRations = "拆封口粮箱",
 	Recipe_PackBoxOfRations = "打包整箱口粮",
+	Recipe_PrepareRation         	= "准备单兵口粮",
 
 ---Wearable Towels---(3203159242)---
 	MakeWearable = "将毛巾绑在身上",
@@ -5904,6 +5905,7 @@ Recipe_CN = {
 
 ---Autotsar Tuning Atelier - Fjord Mustard [B42]---(3405178154)---
 	Recipe_ATAMustangHoodItem = "切割 野马引擎盖",
+
 ---Autotsar Tuning Atelier - Jaap Wrungel [B42]---(31407042038)---
 	Recipe_ATAJeepBumper = "切割吉普牧马人引擎盖",
 
@@ -6116,6 +6118,8 @@ Recipe_CN = {
 	Recipe_Cut_ATASamaraHoodItem = "切割萨马拉骑士引擎盖",
 	Recipe_Dismantle_TCWalkman = "拆解音乐播放器",
 	Recipe_Dismantle_TruePlayers = "拆解音乐播放器",
+	Recipe_ConvertATARoofLightItem = "转换车顶灯",
+	Recipe_ConvertATAFrontRoofLightItem = "转换车顶灯",
 
 ---Long Term Preservation [FIXED] [B42]---(3406392630)---
 	Recipe_CrushSaltRock = "磨碎岩盐",
@@ -6643,4 +6647,7 @@ Recipe_CN = {
 
 ---[B42] Make Gunpowder from Fertilizer---(3392188086)---
 	Recipe_MakeFertilizerGunpowder = "制作火药",
+
+---Rechargeable Batteries---(3385623534)---
+	Recipe_Craft_Portable_Battery_Recharger = "制作便携式电池充电器",
 }
