@@ -3914,7 +3914,7 @@ Sandbox_CN = {
 	Sandbox_CarPartsRepair_RepairSpeedMultiplier = "维修速度倍数",
 	Sandbox_CarPartsRepair_RepairSpeedMultiplier_tooltip = "减少维修所需时间。",
 	Sandbox_CarPartsRepair_CyclicRepair = "循环修理",
-	Sandbox_CarPartsRepair_CyclicRepair_tooltip = "将持续修理该部件，直到其状况达到上限",
+	Sandbox_CarPartsRepair_CyclicRepair_tooltip = "将持续修理该部件，直至零件状态达到上限.",
 
 
 ---Simple Skill Books---(3291799176)---
@@ -4980,7 +4980,7 @@ Sandbox_CN = {
 	Sandbox_SpearFishing_RainModifier = "雨天加成",
 	Sandbox_SpearFishing_RainModifier_tooltip = "雨天会增加捕鱼成功率",
 	Sandbox_SpearFishing_RecoveryHours = "鱼类恢复时间(小时)",
-	Sandbox_SpearFishing_RecoveryHours_tooltip = "枯竭水域中的鱼类需要多少小时才能恢复"
+	Sandbox_SpearFishing_RecoveryHours_tooltip = "枯竭水域中的鱼类需要多少小时才能恢复",
 	Sandbox_SpearFishing_SeasonWinterModifier = "冬季季节修正",
 	Sandbox_SpearFishing_SeasonWinterModifier_tooltip = "冬季季节对捕获概率的影响",
 	Sandbox_SpearFishing_ShortSightedPenalty = "近视特质惩罚",
@@ -5008,7 +5008,7 @@ Sandbox_CN = {
 	Sandbox_SpearFishing_XPSmallFish_tooltip = "捕获小鱼获得的经验值",
 	Sandbox_SpearFishing_XPTrash = "垃圾经验值",
 	Sandbox_SpearFishing_XPTrash_tooltip = "捕获垃圾获得的经验值",
-	Sandbox_SpearFishing_TrashBaseChance = "基础垃圾概率",
+	Sandbox_SpearFishing_TrashBaseChance = "捕获垃圾概率",
 
 ---[B41/B42] Toughness Skill---(3545533939)---
 	Sandbox_Toughness = "坚韧技能",

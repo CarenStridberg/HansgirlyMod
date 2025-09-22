@@ -4595,7 +4595,8 @@ IGUI_CN = {
 	IGUI_CheckAround_zombiesUpstairs7 = "楼上有%d个%s，小心！",
 	IGUI_CheckAround_zombiesUpstairs8 = "有%d个%s在楼上徘徊。",
 	IGUI_CheckAround_zombiesUpstairs9 = "我看到前方有%d个%s。",
-    IGUI_CheckDoorWindow = "检查门后",
+    IGUI_CheckDoorWindow = "检查门/窗户",
+    IGUI_CheckStairs = "检查椅子",
 
 ---[B42/41] Read Book Bypassing Level Restrictions---(3319538177)---
 	IGUI_ReadBookBypassing_RightClick = "右键点击任意物品显示增益菜单"
@@ -8052,5 +8053,8 @@ IGUI_CN = {
 ---Ammo Reloading Toolset (Realistic)---(3397215647)---
     IGUI_AmmoReloadingToolset = "按压并复装弹药",
     IGUI_ContainerTitle_AmmoReloadingToolset = "按压并复装弹药",
+
+---Lynx Pack [B41/B42]---(3470485566)---
+    IGUI_ItemCat_BulletproofVest = "防弹背心",
 
 }

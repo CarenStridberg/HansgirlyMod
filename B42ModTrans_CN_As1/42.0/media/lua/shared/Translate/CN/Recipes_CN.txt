@@ -4615,7 +4615,7 @@ Recipe_CN = {
 	Recipe_MakePropaneBomb = "制作丙烷炸弹",
 	Recipe_MakeRemoteControllerV4 = "制作V4型遥控器",
 	Recipe_MakeSmallPropaneBomb = "制作小型丙烷炸弹",
-	Recipe_MakeLunchboxBomb = "制作饭盒炸弹",
+	Recipe_MakeLunchboxBomb = "制作午餐盒炸弹",
 
 ---HydeCo. Bees!---(3430224478)---
 	Recipe_BreakBallOfBeesWax = "分解蜂蜡球",
@@ -4737,9 +4737,21 @@ Recipe_CN = {
 	Recipe_WaxTurnip = "给芜菁打蜡",
 	Recipe_WaxVenison = "给鹿肉打蜡",
 	Recipe_WaxZucchini = "给绿皮西葫芦打蜡",
+	Recipe_ExtinguishBeeSmoker = "熄灭养蜂熏烟器",
+	Recipe_LightBeeSmoker = "点燃养蜂熏烟器",
+	Recipe_MakeBeeSmoker = "制作养蜂熏烟器",
+	Recipe_MakeCheeseCurds = "制作凝乳",
+	Recipe_MixBeeswaxStickyResin = "将蜂蜡与粘性树脂混合",
+	Recipe_SliceCheeseWheel = "将奶酪轮切成奶酪片",
+	Recipe_WaxCheeseSlice = "给奶酪片打蜡",
+	Recipe_WaxCheeseWheel = "给奶酪轮打蜡",
 
 ---[B42] Functional Gutters---(3439305933)---
 	MetalGutterPipe = "金属排水管"
+	MetalGutterPipe-Corner = "金属排水管 - 拐角",
+	MetalGutterPipe-CornerSmall = "金属排水管 - 拐角 (小)",
+	MetalGutterPipe-Drain = "金属排水管 - 排水口",
+	MetalGutterPipe-Vertical = "金属排水管 - 垂直管",
 
 ---darlak's H.E.C.U.---(3452711271)---
 	Recipe_PutFilterOnHECUGasMask = "为H.E.C.U.防毒面具安装滤罐",
@@ -7033,5 +7045,11 @@ Recipe_CN = {
 
 ---Draw On The Map - Free Hand Drawing---(2804531012)---
     Recipe_DrawingPaper = "制作绘图纸",
+
+---[B42] Kick Scooter!---(3453879909)---
+	Recipe_FoldScooter = "折叠滑板车",
+	Recipe_FoldScooterFlames = "折叠滑板车",
+	Recipe_UnfoldScooter = "展开滑板车",
+	Recipe_UnfoldScooterFlames = "展开滑板车",
 
 }

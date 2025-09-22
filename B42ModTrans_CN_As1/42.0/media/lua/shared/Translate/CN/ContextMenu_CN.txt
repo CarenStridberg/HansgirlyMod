@@ -1906,7 +1906,7 @@ ContextMenu_CN = {
 ---Check Upstairs---(3300688173)---
 	ContextMenu_CheckBehindDoor = "检查门后情况",
 	ContextMenu_CheckThroughWindow = "透过窗户查看",
-	ContextMenu_PeekDoor = "窥视门后",
+	ContextMenu_PeekDoor = "透过门窥视",
 
 ---[B42/41] Read Book Bypassing Level Restrictions---(3319538177)---
 	ContextMenu_ReadBookBypassing_CheckBoost = "重新应用经验值增益"
@@ -2480,5 +2480,29 @@ ContextMenu_CN = {
 
 ---Ammo Reloading Toolset (Realistic)---(3397215647)---
     ContextMenu_AmmoReloadingToolset = "按压并复装弹药",
+
+---Lynx Pack [B41/B42]---(3470485566)---
+	ContextMenu_DownJacketOpen = "兜帽 (放下/敞开)",
+	ContextMenu_DownJacketOpenRolledUpSleeves = "兜帽 (放下/敞开/卷袖)",
+	ContextMenu_DownJacketRolledUpSleeves = "兜帽 (放下/卷袖)",
+	ContextMenu_FaceShield_DOWN = "放下遮阳板",
+	ContextMenu_FaceShield_UP = "抬起遮阳板",
+	ContextMenu_HeadsetsHelmet = "穿戴在头盔下",
+	ContextMenu_HipLeft = "左臀",
+	ContextMenu_HipLeftArmor = "左臀甲",
+	ContextMenu_HipRight = "右臀",
+	ContextMenu_HipRightArmor = "右臀甲",
+	ContextMenu_JacketOpen = "打开",
+	ContextMenu_JacketOpenRolledUpSleeves = "敞开/卷袖",
+	ContextMenu_JacketRolledUpSleeves = "卷袖",
+	ContextMenu_NoBelts = "缺少腰带",
+	ContextMenu_PutOn = "穿戴",
+	ContextMenu_RollUpPants = "卷起",
+	ContextMenu_Tight = "收紧",
+	ContextMenu_TuckPants = "塞进",
+	ContextMenu_UpJacketOpen = "兜帽抬起并打开",
+	ContextMenu_UpJacketOpenRolledUpSleeves = "兜帽 (抬起/敞开/卷袖)",
+	ContextMenu_UpJacketRolledUpSleeves = "兜帽 (抬起/卷袖)",
+	ContextMenu_WithBelts = "搭配腰带",
 
 }
