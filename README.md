@@ -990,3 +990,15 @@ Mod:[B42] Ammo Reloading Toolset (Realistic)---ID:3397215647
 Mod:Draw On The Map - Free Hand Drawing [B42/41]---ID:2804531012
 
 Mod:Custom Weight---ID:3391228479
+
+Mod:Scavenger Skill [B42]---ID:3407792640
+
+Mod:Last Push Trait---ID:3028253067
+
+Mod:Dynamic Traits and Expanded Moodles [B41 & B42]---ID:2459400130
+
+Mod:Gunpoint Redemption [B.41/B.42]---ID:3078291265
+
+Mod:Injury Indicator [B42]---ID:3565698092
+
+Mod:Spiffomon 3D [B42]---ID:3522453285

@@ -2505,4 +2505,21 @@ ContextMenu_CN = {
 	ContextMenu_UpJacketRolledUpSleeves = "兜帽 (抬起/卷袖)",
 	ContextMenu_WithBelts = "搭配腰带",
 
+---Dynamic Traits and Expanded Moodles [B41 & B42]---(2459400130)---
+	ContextMenu_IdentifyAll = "识别全部",
+	ContextMenu_IdentifyHalf = "识别部分",
+	ContextMenu_StudyPlant = "研究植物",
+	ContextMenu_StudyPlantTT = "研究浆果和蘑菇，学会辨别哪些是有毒的。",
+
+---ahz clothing b42---(3388910383)---
+	ContextMenu_ahzshortpleatedskirt_t_close = "带裙撑",
+	ContextMenu_Loosen Skirt = "不带裙撑",
+	ContextMenu_ahzshortpleatedskirt_close = "带裙撑",
+	ContextMenu_ahzshortpleatedskirt_t_plaid2_close = "带裙撑",
+	ContextMenu_ahzshortpleatedskirt = "带裙撑",
+	ContextMenu_Tighten Skirt = "不带裙撑",
+	ContextMenu_ahzshortpleatedskirt_t = "带裙撑",
+	ContextMenu_ahzshortpleatedskirt_t_plaid1_close = "带裙撑",
+	ContextMenu_ahzshortpleatedskirt_t_plaid2 = "带裙撑",
+	ContextMenu_ahzshortpleatedskirt_t_plaid1 = "带裙撑",
 }

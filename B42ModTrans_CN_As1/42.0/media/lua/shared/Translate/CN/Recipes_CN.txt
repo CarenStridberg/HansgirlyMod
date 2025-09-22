@@ -1140,8 +1140,8 @@ Recipe_CN = {
 
 ---Hand Crank Flashlights [41.78 and 42]---(2897115343)---
 	RepairCrankTorch = "修理手摇手电筒",
-	OpenTorchBox = "打开盒装手电筒",
-	Recipe_RepairCrankTorch = "修理手摇式手电筒",
+	OpenTorchBox = "打开盒装手摇手电筒",
+	Recipe_RepairCrankTorch = "修理手摇手电筒",
 
 ---The Division Equipment [B42]---(3479867929)---
 	PutFilterOnSHDGasMask = "为国土战略局 防毒面具安装滤罐",
@@ -1816,6 +1816,7 @@ Recipe_CN = {
 		Recipe_KI5trailersCargo.MakeTrailerFlaresLarge = "制作大型货运拖车侧挡板",
 		Recipe_KI5trailersCargo.MakeTrailerFlaresMedium = "制作中型货运拖车侧挡板",
 		Recipe_KI5trailersCargo.MakeTrailerFlaresSmall = "制作小型货运拖车侧挡板",
+		Recipe_KI5trailersLivestock.MakeSplitDoorsRamp = "制造牲畜拖车 坡道式对开门",
 	
 	---'91 RANGE ROVER Classic---(2409333430)---
 		Recipe_91range.MakeTire = "制造91款路虎揽胜轮胎",
@@ -4853,6 +4854,8 @@ Recipe_CN = {
 ---Zombaroid---(3519916139)---
 	OpenBoxPolaroidFilm10 = "拆封拍立得相纸(10张装)",
 	OpenBoxPolaroidFilm50 = "拆封拍立得相纸(50张装)",
+
+---Spiffomon 3D [B42]---(3522453285)---
 	Recipe_OpenSpiffoBox = "打开斯皮福盒子",
 	Recipe_RepairSpiffo = "修理斯皮福",
 

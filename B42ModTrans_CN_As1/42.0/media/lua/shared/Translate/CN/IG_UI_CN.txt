@@ -2593,6 +2593,7 @@ IGUI_CN = {
         IGUI_VehicleNameTrailerKI5cargoMedium = "中型货运拖车",
         IGUI_VehicleNameTrailerKI5cargoSmall = "小型货运拖车",
         IGUI_VehiclePartKI5TRCFlares = "侧边挡板",
+        IGUI_VehicleNameTrailerKI5livestock = "牲畜拖车",
     
     ---'91 RANGE ROVER Classic---(2409333430)---
         IGUI_VehicleName91range = "'91款路虎揽胜 4门版",
@@ -5522,6 +5523,8 @@ IGUI_CN = {
 
 ---Combat Mastering Skill---(3435985650)---
 	IGUI_perks_CombatMastering = "战斗精通",
+
+---Scavenger Skill [B42]---(3407792640)---
 	IGUI_perks_Scavenging = "拾荒",
 	IGUI_perks_Scavenging_Description = "搜索容器时发现额外物品的几率。",
 
@@ -8056,5 +8059,21 @@ IGUI_CN = {
 
 ---Lynx Pack [B41/B42]---(3470485566)---
     IGUI_ItemCat_BulletproofVest = "防弹背心",
+
+---Dynamic Traits and Expanded Moodles [B41 & B42]---(2459400130)---
+    IGUI_PlayerText_PlantStudyAlreadyDone = "我已经研究过这个了。",
+    IGUI_PlayerText_PlantStudyDone = "研究完成了。",
+
+---Gunpoint Redemption [B.41/B.42]---(3078291265)---
+    IGUI_Achievement_DeadEye = "死亡之眼",
+    IGUI_Achievement_DeadEye_Description = "爆头击杀50只丧尸。",
+    IGUI_Achievement_MasterGunslinger = "枪械大师",
+    IGUI_Achievement_MasterGunslinger_Description = "使用枪械累计击杀200只丧尸。",
+    IGUI_Achievement_Sharpshooter = "神射手",
+    IGUI_Achievement_Sharpshooter_Description = "使用枪械命中100只丧尸。。",
+    IGUI_Achievement_SpeedReload = "快速换弹",
+    IGUI_Achievement_SpeedReload_Description = "累计完成100次枪械换弹。",
+    IGUI_Achievement_UltimateDuelist = "终极决斗者",
+    IGUI_Achievement_UltimateDuelist_Description = "在一次玩家对战(PvP)决斗中击败对手。",
 
 }
