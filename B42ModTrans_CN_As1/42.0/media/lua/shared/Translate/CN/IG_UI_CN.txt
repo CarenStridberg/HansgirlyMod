@@ -3714,6 +3714,7 @@ IGUI_CN = {
     IGUI_VehiclePartChevalier_Rhino_WindSArmor = "挡风玻璃装甲",
     IGUI_VehiclePartChevalier_Rhino_LeftDoorArmor = "左侧车门装甲",
     IGUI_VehiclePartChevalier_Rhino_RightDoorArmor = "右侧车门装甲",
+    IGUI_VehiclePartRhinoArmor_BullBar = "防撞杠",
 
 ---[B42/41] Automatic Stove Shutoff---(3526968739)---
     IGUI_AutomaticStoveShutoff_Say1 = "你已超出目标烤箱的有效范围。<br>烤箱追踪功能已停用。<br>请立刻返回关闭烤箱！",
@@ -4535,7 +4536,7 @@ IGUI_CN = {
 	IGUI_CheckAround_sporeZone1 = "这栋建筑内有孢子区。",
 	IGUI_CheckAround_sporeZone10 = "看起来里面有孢子区。",
 	IGUI_CheckAround_sporeZone11 = "我注意到窗户后有孢子。",
-	IGUI_CheckAround_sporeZone12 = "小心，这个地方里面有孢子区。"
+	IGUI_CheckAround_sporeZone12 = "小心，这个地方里面有孢子区。",
 	IGUI_CheckAround_sporeZone2 = "进入前应该做好空气防护。",
 	IGUI_CheckAround_sporeZone3 = "我看到这栋建筑内有孢子区。",
 	IGUI_CheckAround_sporeZone4 = "建筑内发现孢子区。",
@@ -4594,6 +4595,7 @@ IGUI_CN = {
 	IGUI_CheckAround_zombiesUpstairs7 = "楼上有%d个%s，小心！",
 	IGUI_CheckAround_zombiesUpstairs8 = "有%d个%s在楼上徘徊。",
 	IGUI_CheckAround_zombiesUpstairs9 = "我看到前方有%d个%s。",
+    IGUI_CheckDoorWindow = "检查门后",
 
 ---[B42/41] Read Book Bypassing Level Restrictions---(3319538177)---
 	IGUI_ReadBookBypassing_RightClick = "右键点击任意物品显示增益菜单"
@@ -5630,6 +5632,8 @@ IGUI_CN = {
 	IGUI_Beard_Lumberjack = "伐木工胡型",
 	IGUI_Beard_PatchyTee = "稀疏山羊胡",
 	IGUI_Beard_PencilStache = "铅笔小胡子",
+    IGUI_Beard_BikerStache = "机车胡",
+    IGUI_Beard_FancyStache = "精致上唇胡",
 
 ---Cerberus Pack [B41/B42]---(3470478700)---
 	IGUI_ItemCat_BulletproofVest = "防弹背心",
@@ -6053,6 +6057,7 @@ IGUI_CN = {
 
 ---Tetriz - Arcade Minigame---(3486780625)---
 	IGUI_read_magazine = "阅读杂志",
+    IGUI_Tetriz_play = "玩俄罗斯方块",
 
 ---[B41/B42] Toughness Skill---(3545533939)---
 	IGUI_perks_Toughness = "坚韧不拔",
@@ -8041,6 +8046,10 @@ IGUI_CN = {
 	IGUI_Replace_&_Disinfect = "消毒并更换绷带",
 
 ---[B42] Ammo Crafting (Simple)---(3396542795)---
+    IGUI_AmmoReloadingToolset = "按压并复装弹药",
+    IGUI_ContainerTitle_AmmoReloadingToolset = "按压并复装弹药",
+
+---Ammo Reloading Toolset (Realistic)---(3397215647)---
     IGUI_AmmoReloadingToolset = "按压并复装弹药",
     IGUI_ContainerTitle_AmmoReloadingToolset = "按压并复装弹药",
 

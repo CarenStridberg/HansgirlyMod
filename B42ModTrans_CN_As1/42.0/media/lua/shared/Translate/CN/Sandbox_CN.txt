@@ -59,6 +59,9 @@ Sandbox_CN = {
 ---Vehicle Repair Overhaul---(2757712197)---
 	Sandbox_VehicleRepairOverhaul = "车辆维修大修模组",
 	Sandbox_DisableVehicleSalvage = "禁用车辆回收",
+	Sandbox_VRO = "车辆维修大修",
+	Sandbox_VRO_EnableEngineRebuild = "发动机翻新",
+	Sandbox_VRO_EnableEngineRebuild_tooltip = "切换是否可以在游戏中进行发动机翻新操作。",
 
 ---Proximity Inventory [B41/42]---(2847184718)---
 	Sandbox_ProximityInventory = "融合物品栏",
@@ -1053,6 +1056,8 @@ Sandbox_CN = {
 
 ---Immersive Suicide---(3426448380)---
 	Sandbox_ImmersiveSuicide = "沉浸式自杀",
+	Sandbox_ImmersiveSuicide_ShowConfirmationModal = "显示确认窗口？",
+	Sandbox_ImmersiveSuicide_ShowConfirmationModal_tooltip = "在执行自杀前，是否需要弹出确认窗口？",
 
 ---Vehicle Military Zone---(3436499337)---
 	Sandbox_VMZ = "军事区域车辆",
@@ -3908,6 +3913,9 @@ Sandbox_CN = {
 	Sandbox_CarPartsRepair_RepairMultiplier_tooltip = "根据汽车维修技能等级乘以0.5来调整维修效率。",
 	Sandbox_CarPartsRepair_RepairSpeedMultiplier = "维修速度倍数",
 	Sandbox_CarPartsRepair_RepairSpeedMultiplier_tooltip = "减少维修所需时间。",
+	Sandbox_CarPartsRepair_CyclicRepair = "循环修理",
+	Sandbox_CarPartsRepair_CyclicRepair_tooltip = "将持续修理该部件，直到其状况达到上限",
+
 
 ---Simple Skill Books---(3291799176)---
 	Sandbox_SimpleSkillBooks = "简易技能书",
@@ -4503,6 +4511,8 @@ Sandbox_CN = {
 	Sandbox_PFOWildWastelandAlt = "辐射计划：功能即将开放",
 	Sandbox_PFOWildWastelandAlt_tooltip = "该功能正在开发中，请等待后续更新",
 	Sandbox_PFOWildWasteland_tooltip = "独特/奇异武器的掉落概率倍率（默认0.0003）<LINE>警告：调整此数值可能影响游戏平衡",
+	Sandbox_EWFSettingsOptionExplosiveFirearms = "能量武器框架：爆炸性武器控制面板",
+	Sandbox_EWFSettingsRCW = "能量武器框架：启用电磁线圈武器？",
 
 ---Risky Unarmed---(3434796669)---
 	Sandbox_RiskyUnarmed = "徒手攻击风险",
@@ -4597,6 +4607,9 @@ Sandbox_CN = {
 	Sandbox_RiskyUnarmed_UpperArmWeight_tooltip = "影响上臂部位受伤的概率权重。数值越高概率越大。<br>计算公式：上臂权重/(手掌权重+前臂权重+上臂权重)",
 	Sandbox_RiskyUnarmed_WoundSeverityMultiplier = "伤口严重程度系数",
 	Sandbox_RiskyUnarmed_WoundSeverityMultiplier_tooltip = "调整本模组造成的伤口严重程度（影响愈合时间）。1.0表示使用游戏默认的各类伤口基础值。",
+	Sandbox_RiskyUnarmed_FitnessEffectPerPointBelowFive_tooltip = "体格低于5点时，每点体格带来的负面影响。如果启用，将与力量修正值相乘。<br>命中率倍率 = 1 + (5-体格) * (此值/100)",
+	Sandbox_RiskyUnarmed_ForearmWeight = "前臂受伤权重",
+	Sandbox_RiskyUnarmed_StrengthEffectPerPointBelowFive = "力量低于5点时每点的倍率",
 
 ---Combat Mastering Skill---(3435985650)---
 	Sandbox_CombatMastering = "战斗精通设置选项",
@@ -4611,6 +4624,7 @@ Sandbox_CN = {
 	Sandbox_CombatMastering_Level8 = "8级时间倍率",
 	Sandbox_CombatMastering_Level9 = "9级时间倍率",
 	Sandbox_CombatMastering_XPMultiplier = "经验值倍率",
+	Sandbox_CombatMastering_Level0 = "0级时间倍率",
 
 ---HydeCo. Unlimited Cars [Extended Sandbox Options]---(3438759949)---
 	Sandbox_HydeCoAirportHotelOptions = "海德公司无限车辆-机场酒店区设置",
@@ -4826,6 +4840,8 @@ Sandbox_CN = {
 	Sandbox_H_E_C_U_ZedsMoreSpawns_option8 = "默认、医院",
 	Sandbox_H_E_C_U_ZedsMoreSpawns_option9 = "警察局、加油站",
 	Sandbox_H_E_C_U_ZedsMoreSpawns_tooltip = "预设的丧尸生成区域列表。<br><br><RGB:0.8,1,0.8>-默认-: <RGB:1,1,1>Default;Survivalist<br><RGB:0.8,1,0.8>-警察局-: <RGB:1,1,1>Prison;Police;PoliceState<br><RGB:0.8,1,0.8>-加油站-: <RGB:1,1,1>Fossoil;Gas2Go;ThunderGas<br><RGB:0.8,1,0.8>-医院-: <RGB:1,1,1>NursingHome;Doctor;Pharmacist<br>",
+	Sandbox_H_E_C_U_BackpackBackSlot_tooltip = "取消勾选此项将从 H.E.C.U. 背包上移除背部附件“H.E.C.U. 左侧背包”，但织带将保留。",
+	Sandbox_H_E_C_U_BeltSlots_tooltip = "取消勾选此项将从 H.E.C.U. 腰带上移除附件“右侧小腰包”和“左侧小腰包”。",
 
 ---Eat Smart---(3456212729)---
 	Sandbox_EatSmart = "智能进食 - 标准子菜单",
@@ -4992,6 +5008,7 @@ Sandbox_CN = {
 	Sandbox_SpearFishing_XPSmallFish_tooltip = "捕获小鱼获得的经验值",
 	Sandbox_SpearFishing_XPTrash = "垃圾经验值",
 	Sandbox_SpearFishing_XPTrash_tooltip = "捕获垃圾获得的经验值",
+	Sandbox_SpearFishing_TrashBaseChance = "基础垃圾概率",
 
 ---[B41/B42] Toughness Skill---(3545533939)---
 	Sandbox_Toughness = "坚韧技能",
@@ -5052,6 +5069,8 @@ Sandbox_CN = {
 	Sandbox_SmartHutch_TimedDoorEnabled_tooltip = "启用或禁用定时门功能",
 	Sandbox_SmartHutch_TimedDoorOpenHour = "开启时间",
 	Sandbox_SmartHutch_TimedDoorOpenHour_tooltip = "每天自动开门的小时数",
+	Sandbox_SmartHutch_EnableModOptions = "启用模组选项",
+	Sandbox_SmartHutch_EnableModOptions_tooltip = "显示或隐藏模组设置中的选项。",
 
 ---US Military Pack (BUILD 41/42)---(612100872)---
 	Sandbox_USMP = "美军装备包",
@@ -6433,4 +6452,74 @@ Sandbox_CN = {
     Sandbox_ZevonArmsModern_rate = "启蒙时期武器",
     Sandbox_ZevonArmsModern_tooltip = "设置19世纪启蒙时期武器的生成率：匈牙利佩刀、欧式弯刀、锯背剑等",
 
+---Mixology---(3405131820)---
+	Sandbox_Mixology = "调酒术",
+	Sandbox_Mixology_ItemChance = "物品生成几率",
+	Sandbox_Mixology_ItemChances_option1 = "极其罕见",
+	Sandbox_Mixology_ItemChances_option2 = "非常罕见",
+	Sandbox_Mixology_ItemChances_option3 = "罕见",
+	Sandbox_Mixology_ItemChances_option4 = "普通",
+	Sandbox_Mixology_ItemChances_option5 = "常见",
+	Sandbox_Mixology_ItemChances_option6 = "丰富",
+	Sandbox_Mixology_ItemChances_option7 = "极其丰富",
+
+---Custom Weight---(3391228479)---
+    Sandbox_CustomWeight = "自定义重量",
+    Sandbox_CustomWeight_Ammo = "弹药重量倍率",
+    Sandbox_CustomWeight_Blank = "",
+    Sandbox_CustomWeight_Book = "书籍重量",
+    Sandbox_CustomWeight_Book_tooltip = "<SIZE:small>B42版 = 1\nB41版 = 0.8\n<SIZE:medium>",
+    Sandbox_CustomWeight_Clothing = "衣物重量倍率",
+    Sandbox_CustomWeight_CookingTool = "厨具重量倍率",
+    Sandbox_CustomWeight_Custom = "自定义物品列表",
+    Sandbox_CustomWeight_CustomMult = "倍率",
+    Sandbox_CustomWeight_Custom_tooltip = "你需要输入物品代码。\n\n<SIZE:small>例如：Base.Lighter;Base.Battery\n<SIZE:medium>\n此项不会对已生成的物品生效。",
+    Sandbox_CustomWeight_DenimStrips = "牛仔布条重量",
+    Sandbox_CustomWeight_DenimStripsBundle = "牛仔布条捆重量",
+    Sandbox_CustomWeight_DenimStripsBundle_tooltip = "<SIZE:small>B42版 = 2.0\nB41版 = 0.3\n<SIZE:medium>",
+    Sandbox_CustomWeight_DenimStrips_tooltip = "<SIZE:small>B42版 = 0.2\nB41版 = 0.05\n<SIZE:medium>",
+    Sandbox_CustomWeight_DogTag = "狗牌重量",
+    Sandbox_CustomWeight_Eraser = "橡皮重量倍率",
+    Sandbox_CustomWeight_Eraser_tooltip = "橡皮",
+    Sandbox_CustomWeight_IDcard = "身份证重量",
+    Sandbox_CustomWeight_Jewelley = "珠宝重量",
+    Sandbox_CustomWeight_Key = "钥匙重量",
+    Sandbox_CustomWeight_KeyRing = "钥匙环重量",
+    Sandbox_CustomWeight_KeyRing_tooltip = "<SIZE:small>B42版 = 0.05\nB41版 = 0.0\n<SIZE:medium>",
+    Sandbox_CustomWeight_Key_tooltip = "<SIZE:small>B42版 = 0.05\nB41版 = 0.0\n<SIZE:medium>",
+    sandbox_CustomWeight_LeatherStrips = "皮革条重量",
+    Sandbox_CustomWeight_LeatherStripsBundle = "皮革条捆重量",
+    Sandbox_CustomWeight_LeatherStripsBundle_tooltip = "<SIZE:small>B42版 = 2.0\nB41版 = 0.3\n<SIZE:medium>",
+    Sandbox_CustomWeight_LeatherStrips_tooltip = "<SIZE:small>B42版 = 0.2\nB41版 = 0.05\n<SIZE:medium>",
+    Sandbox_CustomWeight_Log = "木材重量倍率",
+    Sandbox_CustomWeight_Log_tooltip = "原木、木板、长棍、木棒、树枝",
+    Sandbox_CustomWeight_Mag = "弹匣重量",
+    Sandbox_CustomWeight_Mag_tooltip = "<SIZE:small>B42版 = 0.5\nB41版 = 0.1\n<SIZE:medium>",
+    Sandbox_CustomWeight_Medical = "医疗用品重量倍率",
+    Sandbox_CustomWeight_Medical_tooltip = "绷带、酒精湿巾、创可贴",
+    Sandbox_CustomWeight_Metal = "金属重量倍率",
+    Sandbox_CustomWeight_Metal_tooltip = "钢片、螺母与螺栓、钢块、备用引擎零件、电线、钢条<br>钢条(半根)、钢条(四分之一)、铁丝、金属杆、金属管、金属板<br>金属碎片、小金属板、废金属片、金属桶、焊条、铁锭",
+    Sandbox_CustomWeight_Money = "现金重量",
+    Sandbox_CustomWeight_MoneyBundle = "现金捆",
+    Sandbox_CustomWeight_Nails = "钉子与螺丝重量",
+    Sandbox_CustomWeight_NailsBox = "盒装钉子与盒装螺丝重量",
+    Sandbox_CustomWeight_NailsBox_tooltip = "<SIZE:small>B42版 = 2\nB41版 = 0.3\n<SIZE:medium>",
+    Sandbox_CustomWeight_NailsCarton = "纸箱钉与纸箱螺丝重量",
+    Sandbox_CustomWeight_NailsCarton_tooltip = "<SIZE:small>B42版 = 20\nB41版 = 1.8\n<SIZE:medium>",
+    Sandbox_CustomWeight_Nails_tooltip = "<SIZE:small>B42版 = 0.05\nB41版 = 0.01\n<SIZE:medium>",
+    Sandbox_CustomWeight_Ore = "矿石重量倍率",
+    Sandbox_CustomWeight_Ore_tooltip = "铁矿石、铜矿石、铁矿石块、铜矿石块",
+    Sandbox_CustomWeight_Paperback = "平装书重量",
+    Sandbox_CustomWeight_Pen = "笔与橡皮重量倍率",
+    Sandbox_CustomWeight_Pen_tooltip = "钢笔、马克笔、铅笔",
+    Sandbox_CustomWeight_RippedSheets = "碎布重量",
+    Sandbox_CustomWeight_RippedSheetsBundle = "碎布捆重量",
+    Sandbox_CustomWeight_RippedSheetsBundle_tooltip = "<SIZE:small>B42版 = 2.0\nB41版 = 0.3\n<SIZE:medium>",
+    Sandbox_CustomWeight_RippedSheets_tooltip = "<SIZE:small>B42版 = 0.2\nB41版 = 0.05\n<SIZE:medium>",
+    Sandbox_CustomWeight_SkillBook = "技能书重量倍率",
+    Sandbox_CustomWeight_SkillBook_tooltip = "技能书及书捆的重量倍率\n\n<SIZE:small>0.5倍\n单本技能书 1.0 -> 0.5\n成套技能书 4.0 -> 2.0",
+    Sandbox_CustomWeight_Tool = "工具重量倍率",
+    Sandbox_CustomWeight_Truemusic = "True Music 磁带与唱片重量",
+    Sandbox_CustomWeight_Underwear = "内衣重量",
+    Sandbox_CustomWeight_WalkieTalkie = "对讲机重量倍率"
 }

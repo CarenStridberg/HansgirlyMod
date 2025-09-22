@@ -755,15 +755,14 @@ UI_CN = {
 	UI_MSO_ShowMiniMapSymbols_tooltip = "启用时，将显示简化版标记而非完整标记",
 
 ---[B42] Vanvival - Build's 42 Nomadic Experience---(3547444619)---
-	---特质---
-		UI_trait_VanSurvivor = "厢型车生还者",
-		UI_trait_VanSurvivorDesc = "开局配备载满生存物资的车辆，离城前尽可能搜刮了所有物资！",
-		UI_trait_RVOwner = "房车车主",
-		UI_trait_RVOwnerDesc = "你早已备好房车作为逃亡工具！",
-
-	---职业---
-		UI_prof_Nomad = "流浪者",
-		UI_prof_Trucker = "卡车司机",
+	UI_trait_VanSurvivor = "厢型车生还者",
+	UI_trait_VanSurvivorDesc = "开局配备载满生存物资的车辆，离城前尽可能搜刮了所有物资！",
+	UI_trait_RVOwner = "房车车主",
+	UI_trait_RVOwnerDesc = "你早已备好房车作为逃亡工具！",
+	UI_trait_BikeOwner = "单车族",
+	UI_trait_BikeOwnerDesc = "开局就拥有一辆属于你自己的自行车！",
+	UI_prof_Nomad = "流浪者",
+	UI_prof_Trucker = "卡车司机",
 
 ---Nepenthe's High Beams---(3438126404)---
 	UI_options_NepHB_activationKey = "按键绑定",
@@ -2971,6 +2970,8 @@ UI_CN = {
 	UI_trait_SWTwoHandedDesc = "所有双手近战武器攻击速度 +25%",
 	UI_trait_SWTwoHandedSpears = "穿刺者（双手）",
 	UI_trait_SWTwoHandedSpearsDesc = "所有双手长矛类武器攻击速度 +25%",
+	UI_trait_Melee-matician = "近战专家",
+	UI_trait_Melee-maticianDesc = "迅捷思考，快速挥舞。<br>所有近战武器的战斗速度+25%",
 
 ---Gauss Firearms---(3429953336)---
 	UI_optionscreen_binding_GaussFirearms = "高斯武器系统",
@@ -2994,6 +2995,7 @@ UI_CN = {
 	UI_trait_defenseless = "毫无防备",
 	UI_trait_defenselessdesc = "你从未学过如何自卫，导致战斗动作迟缓。<br>-5 战斗精通",
 	UI_trait_vulnerabledesc = "你对武器战斗并不在行。<br>-2 战斗精通",
+	UI_trait_vulnerable = "弱不禁风",
 
 ---[B42] Functional Gutters---(3439305933)---
 	UI_context_menu_FunctionalGutters_ConnectContainer = "连接"
@@ -3051,19 +3053,27 @@ UI_CN = {
 	UI_options_BM_Super_Speed_Settings_f6_slider_tooltip = "设置F6倍率",
 	UI_options_BM_Super_Speed_Settings_text_number = "",
 	UI_options_BM_Super_Speed_Settings_title = "BM超级速度设置",
+	UI_options_BM_Super_Speed_Settings_Reset_Text = "重置为默认值",
+	UI_options_BM_Super_Speed_Settings_f5_slider = "F5 速度倍率",
+	UI_options_BM_Super_Speed_Settings_f6_number = "自定义 F6 数值",
 
 ---Expanded Professions---(3440958051)---
-	UI_prof_ascetic = "苦行者"
-	UI_prof_hunter = "狩猎向导"
-	UI_prof_mailman = "邮差"
-	UI_prof_paramedic = "急救员"
-	UI_prof_priest = "牧师"
-	UI_prof_soldier = "士兵"
-	UI_prof_vagrant = "流浪者"
-	UI_trait_navigator = "导航员"
-	UI_trait_navigatordesc = "生成时携带一个邮差包，里面装有诺克斯县的地图和一些杂项邮件。"
-	UI_trait_scholar = "学者"
-	UI_trait_scholardesc = "可以通过在纸上书写神圣经文来安抚心灵。其他幸存者阅读后也会感到平静。"
+	UI_prof_ascetic = "苦行者",
+	UI_prof_hunter = "狩猎向导",
+	UI_prof_mailman = "邮差",
+	UI_prof_paramedic = "急救员",
+	UI_prof_priest = "牧师",
+	UI_prof_soldier = "士兵",
+	UI_prof_vagrant = "流浪者",
+	UI_trait_navigator = "导航员",
+	UI_trait_navigatordesc = "生成时携带一个邮差包，里面装有诺克斯县的地图和一些杂项邮件。",
+	UI_trait_scholar = "学者",
+	UI_trait_scholardesc = "可以通过在纸上书写神圣经文来安抚心灵。其他幸存者阅读后也会感到平静。",
+	UI_prof_convict = "囚犯",
+	UI_trait_improviser = "足智多谋",
+	UI_trait_improviserdesc = "可以制作尖锥、气溶胶炸弹和烟雾弹。",
+	UI_trait_tranquil = "处变不惊",
+	UI_trait_tranquildesc = "面对足以让别人惊慌失措的场面也能保持镇定。",
 
 ---Eat Smart---(3456212729)---
 	UI_EatSmart_goalCalories1Enable = "启用'卡路里1级'目标",
@@ -3883,5 +3893,12 @@ UI_CN = {
 	UI_Briefing_Day = "%s天",
 	UI_Briefing_Days = "%s天",
 	UI_Briefing_DaysAfterOutbreak = "大灾变后第%s天",
+
+---Draw On The Map - Free Hand Drawing---(2804531012)---
+    UI_DrawOnMap_Draw = "绘制",
+    UI_DrawOnMap_Erase = "擦除",
+    UI_DrawOnMap_Fill = "填充",
+    UI_DrawOnMap_Line = "线条",
+    UI_DrawOnMap_Thickness = "粗细",
 
 }

@@ -159,6 +159,13 @@ ContextMenu_CN = {
 	ContextMenu_RedWood = "红木",
 	ContextMenu_Wooden = "浅木",
 	ContextMenu_DarkWooden = "深木",
+	ContextMenu_BWFlowers = "黑白花",
+	ContextMenu_GreenFlowers = "绿红花",
+	ContextMenu_LightGreenOrnament = "浅绿",
+	ContextMenu_LilacStripes = "丁香条纹",
+	ContextMenu_PinkFlowers = "粉花",
+	ContextMenu_YellowPinkStripes = "黄粉条纹",
+	ContextMenu_YellowStripes = "黄条纹",
 
 ---Decoholic---(3197857648)---
 	ContextMenu_P4Decoholic_ChangeOverlay = "更改家具显示", 
@@ -1730,6 +1737,8 @@ ContextMenu_CN = {
 	ContextMenu_RollDown = "放下袖子",
 	ContextMenu_BelowCollar = "拉下衣领",
 	ContextMenu_AboveCollar = "拉上衣领",
+	ContextMenu_MoreSkin = "露出更多皮肤",
+	ContextMenu_LessSkin = "露出更少皮肤",
 
 ---Frockin Splendor! Vol.2---(3411888105)---
 	ContextMenu_WearOutside = "穿在外面",
@@ -1804,6 +1813,8 @@ ContextMenu_CN = {
 
 ---[B42] They Are Watching - Schizophrenia---(3559704439)---
 	ContextMenu_TAWInhaler = "使用吸入剂",
+	ContextMenu_TAWPills = "服用药片",
+
 ---Random Airdrops [B41/B42]---(3282789883)---
    ContextMenu_RandomAirdrops_UseFlare = "使用信号弹",
 
@@ -1895,6 +1906,7 @@ ContextMenu_CN = {
 ---Check Upstairs---(3300688173)---
 	ContextMenu_CheckBehindDoor = "检查门后情况",
 	ContextMenu_CheckThroughWindow = "透过窗户查看",
+	ContextMenu_PeekDoor = "窥视门后",
 
 ---[B42/41] Read Book Bypassing Level Restrictions---(3319538177)---
 	ContextMenu_ReadBookBypassing_CheckBoost = "重新应用经验值增益"
@@ -2157,9 +2169,10 @@ ContextMenu_CN = {
 	ContextMenu_BagsEquipped = "已装备的背包",
 
 ---[Project Fallout] The Beginning---(3461117277)---
-	ContextMenu_PFO_VaultTec_Briefcase = "关闭避难所科技公文包"
+	ContextMenu_PFO_VaultTec_Briefcase = "关闭避难所科技公文包",
 	ContextMenu_StartTriggerNuke = "启动避难所科技核弹发射器",
-	ContextMenu_StartTriggerNuke = "避难所科技：核打击程序"
+	ContextMenu_StartTriggerNuke = "避难所科技：核打击程序",
+	ContextMenu_PFO_VaultTec_Briefcase_Open = "打开避难所科技手提箱",
 
 ---[B42] HDCP Immersive Vehicle Paint---(3464606086)---
 	ContextMenu_IVP_ImmersiveVehiclePaint.AmethystAutomotiveSprayPaint = "紫水晶色",
@@ -2464,5 +2477,8 @@ ContextMenu_CN = {
 
 ---[B42] Ammo Crafting (Simple)---(3396542795)---
 	ContextMenu_AmmoReloadingToolset = "按压并复装弹药",
+
+---Ammo Reloading Toolset (Realistic)---(3397215647)---
+    ContextMenu_AmmoReloadingToolset = "按压并复装弹药",
 
 }

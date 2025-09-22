@@ -982,3 +982,11 @@ Mod:Bandit Relationship---ID:3431259170
 Mod:B42 - Process Scrap Metal---ID:3392186364
 
 Mod:Replace Bandage [B41, B42]---ID:2944344655
+
+Mod:Mixology---ID:3405131820
+
+Mod:[B42] Ammo Reloading Toolset (Realistic)---ID:3397215647
+
+Mod:Draw On The Map - Free Hand Drawing [B42/41]---ID:2804531012
+
+Mod:Custom Weight---ID:3391228479

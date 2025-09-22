@@ -14,4 +14,10 @@ Print_Text_CN = {
 	"4. 提示音结束后，屏幕将亮起：绿色表示阴性（未感染），红色表示阳性（已感染）。\n\n"..
 	"[FEDRA感染扫描器使用示意图]",
 
+---Mixology---(3405131820)---
+	Print_Text_DixieGasCoke_info= "下次出入路易斯维尔时，请顺道过来喝一杯冰爽的可口可乐玻璃瓶装饮料。",
+	Print_Text_DixieGasCoke_title= "迪克西加油站可口可乐有售",
+	Print_Text_ListerineConvenience_info= "无论您将其存放在汽车手套箱还是后口袋中，李施德林都能让您的口气保持清新，应对任何场合！",
+	Print_Text_ListerineConvenience_title= "李施德林让您口气清新！",
+
 }
