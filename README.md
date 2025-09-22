@@ -958,3 +958,27 @@ Mod:Better Electronics---ID:2999183635
 Mod:[B42] WarThunderVehicleLibrary---ID:3399660368
 
 Mod:[B42.11] Detailed Descriptions for Occupations and Traits---ID:3387957272
+
+Mod:Legendary Satchel---ID:3560352772
+
+Mod:Legendary DuffelBag---ID:3558839307
+
+Mod:[B42] Briefing---ID:3565244378
+
+Mod:[B42]Zevon's Medieval Armory---ID:3540834058
+
+Mod:[B42] Ammo Crafting (Simple)---ID:3396542795
+
+Mod:Legend Craft Evolved---ID:3432470769
+
+Mod:Advanced Trajectory's Realistic Overhaul---ID:3036878362
+
+Mod:BetterFPS_B42---ID:3423115544
+
+Mod:Bandits Extra Options---ID:3412682512
+
+Mod:Bandit Relationship---ID:3431259170
+
+Mod:B42 - Process Scrap Metal---ID:3392186364
+
+Mod:Replace Bandage [B41, B42]---ID:2944344655

@@ -3869,4 +3869,19 @@ UI_CN = {
     UI_BanditDeialogue_OptionsMenu_Relationships = "相识者",
     UI_BanditDeialogue_OptionsMenu_RelationshipRemove = "移除",
 
+---[B42] Briefing---(3565244378)---
+	UI_Map_Riverside = "河畔镇",
+	UI_Map_Rosewood = "罗斯伍德", 
+	UI_Map_MarchRidge = "三月岭",
+	UI_Map_Westpoint = "西点镇",
+	UI_Map_Muldraugh = "马尔德劳",
+	UI_Map_Louisville = "路易斯维尔",
+	UI_Map_KnoxCounty = "诺克斯县",
+	UI_Map_Kentucky = "美国, 肯塔基州",
+	UI_Time_AM = "上午",
+	UI_Time_PM = "下午",
+	UI_Briefing_Day = "%s天",
+	UI_Briefing_Days = "%s天",
+	UI_Briefing_DaysAfterOutbreak = "大灾变后第%s天",
+
 }

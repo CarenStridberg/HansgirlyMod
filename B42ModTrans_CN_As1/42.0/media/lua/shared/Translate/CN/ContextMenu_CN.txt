@@ -1690,6 +1690,8 @@ ContextMenu_CN = {
 	ContextMenu_ChestON = "胸部（开启）",
 	ContextMenu_VisualAid = "开启视觉辅助工具",
 	ContextMenu_NoVisualAid = "关闭视觉辅助工具",
+	ContextMenu_LeftArm = "左臂",
+	ContextMenu_RightArm = "右臂",
 
 ---Lethal Stealth---(3531611692)---
 	ContextMenu_ProneAction = "卧倒",
@@ -2459,4 +2461,8 @@ ContextMenu_CN = {
 
 ---Replace Bandage [B41, B42]---(2944344655)---
 	ContextMenu_Replace_Bandage = "更换绷带",
+
+---[B42] Ammo Crafting (Simple)---(3396542795)---
+	ContextMenu_AmmoReloadingToolset = "按压并复装弹药",
+
 }

@@ -6414,4 +6414,23 @@ Sandbox_CN = {
     Sandbox_Bandits_Clan_15 = "匪徒帮派15",
     Sandbox_Bandits_Clan_16 = "匪徒帮派16",
 
+---[B42] Briefing---(3565244378)---
+	Sandbox_CustomizableBags_Capacity_Percentage = "手提包 - 容量 - 百分比",
+	Sandbox_CustomizableBags_Capacity_Percentage_tooltip = "启用条件：将容量选项设为'自定义百分比'。该选项将以双精度值设置百分比",
+
+---[B42]Zevon's Medieval Armory---(3540834058)---
+    Sandbox_ZevonMedieval = "Zevon的古代武器与盔甲",
+    Sandbox_ZevonArmorChain_rate = "锁子盔甲",
+    Sandbox_ZevonArmorChain_tooltip = "设置锁子甲盔甲的生成率。（在anthropology和橱中发现",
+    Sandbox_ZevonArmsEuro_rate = "欧洲武器",
+    Sandbox_ZevonArmsEuro_tooltip = "设置欧洲武器的生成率：长剑、长柄斧、手锤等。",
+    Sandbox_ZevonArmsAsian_rate = "亚洲武器",
+    Sandbox_ZevonArmsAsian_tooltip = "设置亚洲武器(中式刀剑、 薙刀等)的生成率。",
+    Sandbox_ZevonArmsAncient_rate = "古老武器",
+    Sandbox_ZevonArmsAncient_tooltip = "设置古老武器的生成率:古埃及镰形刀、罗马短剑、达西安镰刀等。",
+    Sandbox_ZevonArmsExotic_rate = "风味武器",
+    Sandbox_ZevonArmsExotic_tooltip = "设置土著武器的生成率：战争俱乐部系列、北美战斧、黑曜石砍刀等.",
+    Sandbox_ZevonArmsModern_rate = "启蒙时期武器",
+    Sandbox_ZevonArmsModern_tooltip = "设置19世纪启蒙时期武器的生成率：匈牙利佩刀、欧式弯刀、锯背剑等",
+
 }

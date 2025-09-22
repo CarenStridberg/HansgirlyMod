@@ -1,0 +1,7 @@
+Entity_CN = {
+
+---[B42] Ammo Crafting (Simple)---(3396542795)---
+    EC_Entity_BuildDescription_ES_AmmoReloadingToolset = "可用于压装并复装弹药。",
+    EC_Entity_DisplayName_ES_AmmoReloadingToolset = "弹药复装工具套件",
+    ES_AmmoReloadingToolset = "弹药复装工具套件",
+}

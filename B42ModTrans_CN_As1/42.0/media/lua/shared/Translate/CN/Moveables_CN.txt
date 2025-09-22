@@ -1981,4 +1981,8 @@ Moveables_CN = {
 	PortableElectricStove = "便携式电炉",
 	PortableGenerator = "便携式发电机",
 	PortableFuelStove = "便携式燃油炉",
+
+---[B42] Ammo Crafting (Simple)---(3396542795)---
+	AmmoReloadingToolset = "弹药复装工具套件",
+
 }
