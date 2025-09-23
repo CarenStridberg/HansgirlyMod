@@ -1534,15 +1534,6 @@ Tooltip_CN = {
 	Tooltip_MakeWoodenFences = "制作尖木栅栏",
 
 ---Bianca Wardrobe [42. Out now]---(3140453034)---
-	Tooltip_Fashionmancer_CroppedSweater = "18篇用于制作“露脐毛衣”款式的DIY教程。需要3级缝纫技能。",
-	Tooltip_Fashionmancer_CroppedTartanSweater = "20篇用于制作格子花呢风格“露脐毛衣”款式的DIY教程。需要3级缝纫技能。",
-	Tooltip_Fashionmancer_Dresses = "20篇用于制作连衣裙的DIY教程。需要4级缝纫技能。",
-	Tooltip_Fashionmancer_Earring = "13篇用于制作特色耳环的DIY教程。",
-	Tooltip_Fashionmancer_Glasses = "12篇用于制作不同款式眼镜的DIY教程。",
-	Tooltip_Fashionmancer_Jacket = "18篇用于制作“夹克”款式的DIY教程。需要3级缝纫技能。",
-	Tooltip_Fashionmancer_JacketTartan = "16篇用于制作格子花呢风格“夹克”款式的DIY教程。需要3级缝纫技能。",
-	Tooltip_Fashionmancer_Necklace = "9种吊坠和1种项链的DIY教程。",
-	Tooltip_Fashionmancer_Pants = "3篇用于制作裤子的DIY教程。需要2级缝纫技能。",
 
 ---[B42] Hemp & Tobacco---(3404563567)---
 	Tooltip_CigarWrap         = "用于卷制雪茄",

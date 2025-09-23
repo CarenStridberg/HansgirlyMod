@@ -4045,20 +4045,6 @@ UI_CN = {
     UI_InjuryIndicator_EnableHealNotify_Tooltip = "治愈时显示提示文字",
 
 ---Bianca Wardrobe [42. Out now]---(3140453034)---
-	UI_ClothingType_BCropped = "比安卡的衣橱：露脐上衣",
-	UI_ClothingType_BDress = "比安卡的衣橱：连衣裙",
-	UI_ClothingType_BEarLeft = "比安卡的衣橱：左耳环",
-	UI_ClothingType_BEarRight = "比安卡的衣橱：右耳环",
-	UI_ClothingType_BEars = "比安卡的衣橱：耳环",
-	UI_ClothingType_BEyes = "比安卡的衣橱：眼镜",
-	UI_ClothingType_BJacket = "比安卡的衣橱：夹克",
-	UI_ClothingType_BNecklace = "比安卡的衣橱：项链",
-	UI_ClothingType_BPants = "比安卡的衣橱：裤子",
-	UI_ClothingType_BPendant = "比安卡的衣橱：吊坠",
-	UI_ClothingType_BPiercing = "比安卡的衣橱：穿环",
-	UI_ClothingType_BSizeClothes = "比安卡的衣橱：比安卡尺码衣物",
-	UI_trait_Fashionmancer= "时尚达人",
-	UI_trait_FashionmancerDesc= "你知道在末世中最重要的是什么吗？是风格！<br>开局即掌握“比安卡的衣橱”模组中的所有服装配方。<br>+1 缝纫技能",
 
 ---[B42] Home Inventory Improved---(3522009163)---
 	UI_CFN_Home_HeaderAll = "全部",
