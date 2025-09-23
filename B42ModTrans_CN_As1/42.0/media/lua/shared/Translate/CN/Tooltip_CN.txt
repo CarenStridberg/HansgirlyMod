@@ -1876,4 +1876,12 @@ Tooltip_CN = {
 	Tooltip_Fashionmancer_Necklace = "9种吊坠和1种项链的DIY教程。",
 	Tooltip_Fashionmancer_Pants = "3篇用于制作裤子的DIY教程。需要2级缝纫技能。",
 
+---[B42] Hemp & Tobacco---(3404563567)---
+	Tooltip_CigarWrap         = "用于卷制雪茄",
+	Tooltip_CigarilloWrap     = "用于卷制细支雪茄",
+	Tooltip_Hemp_Chew         = "纯天然，不会引起食物中毒",
+	Tooltip_Hemp_Leaves       = "食用可以治疗轻微食物中毒",
+	Tooltip_Hemp_Smoking      = "减轻疼痛和不快感",
+	Tooltip_HerbGrinder       = "用于研磨干燥植物材料",
+
 }
