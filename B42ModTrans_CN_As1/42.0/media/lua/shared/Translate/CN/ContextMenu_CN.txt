@@ -2159,6 +2159,9 @@ ContextMenu_CN = {
 	ContextMenu_Up6 = "翻转夜视仪？",
 	ContextMenu_VPOff = "关闭V-PU",
 	ContextMenu_VPUon = "开启V-PU",
+	ContextMenu_Down2 = "翻转夜视仪？",
+	ContextMenu_T7Low = "将头戴式耳机放在脖子上？",
+	ContextMenu_Up4 = "翻转夜视仪？",
 
 ---Eat Smart---(3456212729)---
 	ContextMenu_EatSmart = "智能进食 - 标准子菜单",
@@ -2542,5 +2545,14 @@ ContextMenu_CN = {
 ---RaccoonCityB42---(3388468313)---
 	ContextMenu_RoundWoodenDefenseFenceNW = "圆木防御栅栏 西北",
 	ContextMenu_RoundWoodenDefenseFenceSE = "圆木防御栅栏 东南",
+
+---Training Target---(3417621776)---
+	ContextMenu_I_cant_put_more_than_12_can = "我不能放入超过12个空罐头",
+	ContextMenu_I_cant_put_this = "我不能放这个",
+	ContextMenu_Ive_hit_something = "我命中了",
+	ContextMenu_Ive_missed = "脱靶！",
+	ContextMenu_Target_is_damaged = "目标已损坏，我应该更换它",
+	ContextMenu_Target_must_be_refilled = "我必须交出空罐头。",
+	ContextMenu_This_is_too_close = "我太靠近目标了",
 
 }

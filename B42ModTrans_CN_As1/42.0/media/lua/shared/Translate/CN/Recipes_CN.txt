@@ -320,6 +320,28 @@ Recipe_CN = {
 	Recipe_Extinguish_Torch = "熄灭火把",
 	Recipe_Make_Candle = "制作蜡烛",
 	Recipe_Carve_Long_Stick_from_Plank = "从木板上雕刻出长棍",
+	Recipe_SurvivalBreakSmoothFlatStoneintoStones      = "将光滑的扁平石头打碎成石块",
+	Recipe_SurvivalCarveLongStickfromPlank             = "在木板上削制长棍",
+	Recipe_SurvivalCrushStone                          = "粉碎石头",
+	Recipe_SurvivalCrushStonePiecesintoGravel          = "将石片粉碎成砾石",
+	Recipe_SurvivalDryGrass                            = "干燥草",
+	Recipe_SurvivalExtinguishTorch                     = "熄灭火把",
+	Recipe_SurvivalFileScrewsintoNails                 = "将螺丝矬成钉子",
+	Recipe_SurvivalGrindScrewsintoNails                = "将螺丝磨成钉子",
+	Recipe_SurvivalKnapSmoothFlatStoneintoStones       = "将光滑的扁平石头敲打成石块",
+	Recipe_SurvivalKnapStoneintoStonePieces            = "将石头敲打成石片",
+	Recipe_SurvivalKneadClay                           = "制作黏土",
+	Recipe_SurvivalLightTorch                          = "点燃火把",
+	Recipe_SurvivalLightTorchFire                      = "用燃烧的营火/烧烤架点燃",
+	Recipe_SurvivalMakeCandle                          = "制作蜡烛",
+	Recipe_SurvivalMakeFlintFirestarter                = "敲击燧石制作打火机",
+	Recipe_SurvivalMakeTorch                           = "捆绑火把",
+	Recipe_SurvivalMakeTorchWire                       = "用铁丝捆绑火把",
+	Recipe_SurvivalPutClayinSack                       = "将黏土装入麻袋",
+	Recipe_SurvivalSewFabricRoll                       = "缝制布料卷",
+	Recipe_SurvivalSewSheet                            = "缝制床单",
+	Recipe_SurvivalTwistRopefromTwine                  = "将麻绳搓成绳子",
+	Recipe_SurvivalUnravelRopeforTwine                 = "解开绳子获取麻绳",
 
 ---Lifestyle：Hobbies---(3403870858)---
 	Recipe_Fill_Empty_Palette_with_Paint = "用颜料填充空调色板",
@@ -2506,6 +2528,10 @@ Recipe_CN = {
 		Recipe_R32.MakeRearBullbar = "制造92款日产天际线R32后防撞栏",
 		Recipe_R32.MakeArmoredSideskirts = "制造92款日产天际线R32装甲侧裙",
 		Recipe_R32.MakeRoofrack = "制造92款日产天际线小型现代车顶行李架",
+		Recipe_R32.MakeTire0 = "制造92款日产天际线R32原厂轮胎",
+		Recipe_R32.MakeTire1 = "制造92款日产天际线R32高性能轮胎",
+		Recipe_R32.MakeTire2 = "制造92款日产天际线R32竞赛轮胎",
+		Recipe_R32.MakeTireA = "制造92款日产天际线R32加固轮胎",
 	
 	---'92 AM General M998 + M101A3 Cargo trailer---(2642541073)---
 		Recipe_92amgeneralM998.MakeRoofrack = "制造92款AM通用M998车顶架",
@@ -3819,6 +3845,7 @@ Recipe_CN = {
 	Recipe_Slice_Ham = "切火腿",
 	Recipe_Slice_Pie = "切馅饼",
 	Recipe_Slice_Watermelon = "切西瓜",
+	Recipe_DuctTapeTacticalSpear = "用胶带固定战术长矛"
 
 ---Thief Expansion---(2596620950)---
 	Recipe_P4CopyContentStealing1 = "抄录内容 (Vol.1)",
@@ -4517,7 +4544,8 @@ Recipe_CN = {
 	RevertToDrainable = "恢复为普通毛巾",
 	Recipe_Make_Wearable = "使其可以穿在身上",
 	Recipe_Reverse = "使其变回原样",
-
+	Recipe_MakeWearable = "将毛巾绑在身上",
+	Recipe_RevertToDrainable = "恢复为普通毛巾",
 
 ---Prism Power---(3235103558)---
 	Recipe_P4MakeupEyeshadowRefill = "补充化妆品",
@@ -5111,6 +5139,22 @@ Recipe_CN = {
 	NCR_SewTroopervest = "缝制NCR士兵背心",
 	NCR_troopergoogles = "制作NCR护目镜",
 	NCR_troopervest = "缝制NCR士兵背心",
+	NCR_MakeTrooperGoogles  = "制作 NCR 士兵护目镜",
+	NCR_Mantle  = "缝制 NCR 披风",
+	NCR_SewLeatherGloves  = "缝制 NCR 皮手套",
+	Recipe_NCR_MakeTrooperGoogles = "制作 NCR 士兵护目镜",
+	Recipe_NCR_MakeTrooperHelmet = "制作 NCR 士兵头盔",
+	Recipe_NCR_SewArmyBeret = "缝制 NCR 军队贝雷帽",
+	Recipe_NCR_SewBandolier = "缝制 NCR 弹药带",
+	Recipe_NCR_SewBelt = "缝制 NCR 腰带",
+	Recipe_NCR_SewBoots = "缝制 NCR 靴子",
+	Recipe_NCR_SewFirstReconBeret = "缝制 NCR 贝雷帽[第一侦察兵]",
+	Recipe_NCR_SewLeatherGloves = "缝制 NCR 皮手套",
+	Recipe_NCR_SewMantle = "缝制 NCR 披风",
+	Recipe_NCR_SewNeckguard = "缝制 NCR 颈部护具",
+	Recipe_NCR_SewTrooperJacket = "缝制 NCR 士兵夹克",
+	Recipe_NCR_SewTrooperPants = "缝制 NCR 士兵裤子",
+	Recipe_NCR_SewTroopervest = "缝制 NCR 士兵背心",
 
 ---Zombaroid---(3519916139)---
 	OpenBoxPolaroidFilm10 = "拆封拍立得相纸(10张装)",
@@ -6274,6 +6318,13 @@ Recipe_CN = {
 	SewGloves_Fur = "缝制毛皮手套",
 	SewSkirt_Fur = "缝制毛皮短裙",
 	SewTunic_Fur = "缝制毛皮束腰外衣",
+	Recipe_OpenBoxOfPapers = "打开箱装文件",
+	Recipe_SellAimingSet = "购买瞄准技能书套装",
+	Recipe_SellBlacksmithSet = "购买锻造技能书套装",
+	Recipe_SellFarmingSet = "购买耕作技能书套装",
+	Recipe_SellFirstAidSet = "购买急救技能书套装",
+	Recipe_SellForagingSet = "购买搜寻技能书套装",
+	Recipe_SellGlassmakingSet = "购买玻璃制造技能书套装",
 
 ---[B42] Customisable Containers---(2719850086)---
 	Recipe_Craft_Blue_Refrigerator_Tier_1 = "1 级自制蓝色冰箱",
@@ -7548,8 +7599,8 @@ Recipe_CN = {
 	Recipe_Insert_Battery_into_Flahlight = "将电视放进手电筒",
 	Recipe_Insert_Battery_into_Lamp = "将电池放进露营灯",
 	Recipe_Light_Gas_Lantern = "点燃提灯",
-	Recipe_Light_Torch = "点燃火把",
-	Recipe_Make_Torch = "制作火把",
+	Recipe_LightTorch = "点燃火把",
+	Recipe_MakeTorch = "制作火把",
 	Recipe_Remove_Battery = "取出电池",
 
 ---Money From Credit Cards---(3428650803)---
@@ -7557,6 +7608,7 @@ Recipe_CN = {
 	Recipe_ChargeCreditCard = "刷卡取钱",
 	Recipe_GetMoneyFromCard = "从卡中取钱",
 	Recipe_UnbundleMoney = "拆开现金捆",
+	Recipe_GetMoneyFromPaper = "获取现金",
 
 ---[B42] Post Apocalyptic Weapons---(3472334215)---
 	Recipe_Craft_Post_Apocalyptic_Axe = "制作末日战斧",
@@ -7579,5 +7631,58 @@ Recipe_CN = {
 	Recipe_Craft_Post_Apocalyptic_Spear = "制作 末日长矛",
 	Recipe_Craft_Post_Apocalyptic_Spiked_Barbed_Bat = "制作末日尖刺铁丝棒球棒",
 	Recipe_Craft_Post_Apocalyptic_Wrench_Knife = "制作末日扳手刀",
+
+---[OBSOLETE] RollBack Rain Collector Barrel---(3392186516)---
+	ConvertingTrashBagToGarbageBag = "转换垃圾袋",
+	Recipe_ConvertingTrashBagToGarbageBag = "转换垃圾袋",
+
+---Gauss Firearms---(3429953336)---
+	Recipe_ConvertToBase = "转换为基础",
+	Recipe_ConvertToGauss = "转换为高斯",
+	Recipe_Convert_to_Base = "转换为基础",
+	Recipe_Convert_to_Gauss = "转换为高斯",
+	Recipe_Dismantle_Manual_Battery_Charger = "拆解手动电池充电器",
+	Recipe_Dismantle_Round_Magnetizer = "拆解圆形充磁器",
+	Recipe_InsertBatteryMagnetizer = "插入电池",
+	Recipe_Insert_Battery = "插入电池",
+	Recipe_MakeGaussBattery = "制作高斯电池",
+	Recipe_MakeGaussPistol = "制作高斯手枪",
+	Recipe_MakeGaussPistolMag = "制作高斯手枪弹匣",
+	Recipe_MakeGaussRifle = "制作高斯步枪",
+	Recipe_MakeGaussSMG = "制作高斯冲锋枪",
+	Recipe_MakeGaussSMGMag = "制作高斯冲锋枪弹匣",
+	Recipe_MakeGaussSMGStock = "制作高斯冲锋枪枪托",
+	Recipe_MakeGaussShotgun = "制作高斯霰弹枪",
+	Recipe_MakeImprovisedCapacitor = "制作简易电容器",
+	Recipe_MakeMagneticRounds = "制作磁性弹药",
+	Recipe_MakeManualBatteryChargerGauss = "制作手动电池充电器",
+	Recipe_MakeRoundMagnetizer = "制作圆形充磁器(空)",
+	Recipe_Make_Gauss_Battery = "制作高斯电池",
+	Recipe_Make_Gauss_Pistol = "制作磁性弹药",
+	Recipe_Make_Gauss_Pistol_Magazine = "制作高斯手枪弹匣",
+	Recipe_Make_Gauss_Rifle = "制作高斯步枪",
+	Recipe_Make_Gauss_SMG = "制作高斯冲锋枪",
+	Recipe_Make_Gauss_SMG_Magazine = "制作高斯冲锋枪弹匣",
+	Recipe_Make_Gauss_SMG_Stock = "制作高斯冲锋枪枪托",
+	Recipe_Make_Gauss_Shotgun = "制作高斯霰弹枪",
+	Recipe_Make_Magnetic_Rounds = "制作磁性弹药",
+	Recipe_Make_Manual_Battery_Charger = "制作手动电池充电器",
+	Recipe_Make_Round_Magnetizer = "制作圆形充磁器",
+	Recipe_OpenMagneticRoundBox = "打开磁性弹药盒",
+	Recipe_OpenMagneticRoundCarton = "打开弹药箱(12盒)",
+	Recipe_Open_Box_of_Magnetic_Rounds = "打开磁性但要和",
+	Recipe_PackMagneticRoundBoxInCarton = "将12盒磁性弹药装箱",
+	Recipe_PlaceMagneticRoundsInBox = "将磁性弹药装入盒中",
+	Recipe_Place_Magnetic_Rounds_in_Box = "将磁性弹药装入盒中",
+	Recipe_RemoveBatteryMagnetizer = "取出电池",
+	Recipe_Remove_Battery = "取出电池",
+
+---Training Target---(3417621776)---
+	Recipe_Craft_Circular_Target = "制作圆形标靶",
+	Recipe_Craft_Silhouette_Target = "制作人形标靶",
+	Recipe_Make_Training_Can = "制作带空罐头的训练标靶",
+	Recipe_Make_Training_Dummy = "制作训练假人",
+	Recipe_Make_Training_Mobile = "制作移动目标",
+	Recipe_Make_Training_Target = "绘制射击目标",
 
 }

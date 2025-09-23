@@ -1016,3 +1016,11 @@ Mod:[B42] Home Inventory Improved---ID:3522009163
 Mod:Soul Filcher's Exploring Time (IWBUMS)---ID:2244879881
 
 Mod:Money From Credit Cards---ID:3428650803
+
+Mod:CDDA大灾变丧尸---ID:2749928925
+
+Mod:[OBSOLETE] RollBack Rain Collector Barrel---ID:3392186516
+
+Mod:Soul Filcher's Beautifying Time---ID:2425267353
+
+Mod:Training Target---ID:3417621776

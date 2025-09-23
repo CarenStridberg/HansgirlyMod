@@ -4478,6 +4478,12 @@ Sandbox_CN = {
 	Sandbox_GaussRifle_RecipeBookSpawnMult_tooltip = "调整高斯武器配方杂志的刷新概率",
 	Sandbox_GaussRifle_RoundMagnetizerSpawnMult = "子弹磁化器生成倍率",
 	Sandbox_GaussRifle_RoundMagnetizerSpawnMult_tooltip = "调整子弹磁化器的刷新概率",
+	Sandbox_GaussRifle_BatteryChargingSpeedMult = "电池充电速率",
+	Sandbox_GaussRifle_GaussPistolBatteryMod_tooltip = "高斯手枪每次射击消耗的电量",
+	Sandbox_GaussRifle_GaussPistolSpawnMult = "高斯手枪生成概率倍数",
+	Sandbox_GaussRifle_RangeChargeMod = "射程修正值",
+	Sandbox_GaussRifle_RangeChargeMod_tooltip = "每个充电等级增加的射程(以格为单位)",
+
 
 ---Project Fallout: GunRunner---(3434691822)---
 	Sandbox_AWCWFAmmoSystem = "先进武器定制框架：弹药箱系统",
@@ -6434,6 +6440,16 @@ Sandbox_CN = {
     Sandbox_Bandits_Clan_14 = "匪徒帮派14",
     Sandbox_Bandits_Clan_15 = "匪徒帮派15",
     Sandbox_Bandits_Clan_16 = "匪徒帮派16",
+	Sandbox_Bandits.BaseSpawnHourlyChance = "NPC营地每小时生成几率 (%)",
+	Sandbox_Bandits.CarryTorches = "强盗夜间携带手电筒",
+	Sandbox_Bandits.DensityScore = "强盗在城镇中更为密集",
+	Sandbox_Bandits.DestroyThumpable = "强盗会摧毁玩家建筑",
+	Sandbox_Bandits.GroupSize = "固定团队规模",
+	Sandbox_Bandits.GroupSize_tooltip = "禁用随机团队规模时，生成的强盗数量",
+	Sandbox_Bandits.RemoveBarricade = "强盗会拆除门窗的路障",
+	Sandbox_Bandits.SabotageVehicles = "强盗会破坏玩家载具 [可能存在BUG]",
+	Sandbox_Bandits.SneakAtNight = "强盗夜间潜行",
+	Sandbox_BanditsWeekOne.StartRide = "开局时拥有一辆车 (取决于出生区域)",
 
 ---[B42] Briefing---(3565244378)---
 	Sandbox_CustomizableBags_Capacity_Percentage = "手提包 - 容量 - 百分比",
@@ -6524,6 +6540,7 @@ Sandbox_CN = {
     Sandbox_CustomWeight_Truemusic = "True Music 磁带与唱片重量",
     Sandbox_CustomWeight_Underwear = "内衣重量",
     Sandbox_CustomWeight_WalkieTalkie = "对讲机重量倍率",
+	Sandbox_CustomWeight_LeatherStrips = "皮革条重量",
 
 ---Last Push Trait---(3028253067)---
 	Sandbox_LastPushTrait = "殊死一搏",
@@ -6676,5 +6693,11 @@ Sandbox_CN = {
 	Sandbox_MoneyFromCreditCard_Mode_option1 = "随机",
 	Sandbox_MoneyFromCreditCard_Mode_option2 = "固定",
 	Sandbox_MoneyFromCreditCard_Mode_tooltip = "随机：你将获得基于最小值和最大值的随机金额; 固定：您将始终获得最小值中设置的金额",
+
+---[OBSOLETE] RollBack Rain Collector Barrel---(3392186516)---
+	Sandbox_RollBackRainCollectorBarrel = "雨水收集桶版本回滚",
+	Sandbox_RollBackRainCollectorBarrel_PassRainCheck = "修复下雨更新BUG",
+	Sandbox_RollBackRainCollectorBarrel_PassRainCheck_tooltip = "当前在42版本中，雨水桶中的水量只在下雨时更新<LINE>如果你在某个区域雨停后，移动到另一个有雨水桶的区域，<LINE>那么本该在下雨时收集到的雨水将不会更新，而是会等到下一次下雨时才一次性补上。启用此选项可以修复该问题。<LINE>但是，由于系统会每10分钟检查一次雨水桶的状态，因此根据雨水桶的数量，可能会出现轻微的掉帧现象。",
+	Sandbox_RollBackRainCollectorBarrel_SnowIsWater = "允许雪填充雨水收集桶",
 
 }

@@ -573,6 +573,12 @@ IGUI_CN = {
     IGUI_VehiclePartTrunkSideDoor = "行李箱盖",
     IGUI_VehiclePartCatfr_attachments = "附件",
     IGUI_VehiclePartCatfr_mounts = "支架",
+    IGUI_VehicleNamefr_do_viper_92 = "飞驰 死亡",
+    IGUI_VehiclePart1000FuelTruckTank = "燃料储罐",
+    IGUI_VehiclePart1000PropaneTruckTank = "丙烷储罐",
+    IGUI_VehiclePart250FuelTruckTank = "燃料储罐",
+    IGUI_VehiclePart250PropaneTruckTank = "丙烷储罐",
+
 
 ---Wallpapers and More Paint Options---(2999595757)---
     IGUI_ItemCat_Wallpaper = "壁纸",
@@ -5868,7 +5874,8 @@ IGUI_CN = {
 	IGUI_VehiclePartCatblade = "旋翼系统",
 	IGUI_VehiclePartCatturret = "前射武器系统",
 	IGUI_VehiclePartheliblade = "主旋翼组",
-	IGUI_VehiclePartturret = "叁管旋转机炮"
+	IGUI_VehiclePartturret = "叁管旋转机炮",
+    IGUI_HotbarAttachment_StanagMolleStorageMiddle = "中等尺寸标准模块化储物袋",
 
 ---[Project Fallout] The Beginning---(3461117277)---
 	IGUI_InitiatorUI_Close = "解除武装"
@@ -8352,5 +8359,37 @@ IGUI_CN = {
     IGUI_MapOption_MiniMapSymbols = "简化符号",
     IGUI_MapOption_Symbols = "符号",
     IGUI_MapOption_TerrainImage = "地形图象",
+
+---CDDA大灾变丧尸---(2749928925)---
+    IGUI_CDDA_HeightOffset1 = "3↑",
+    IGUI_CDDA_HeightOffset2 = "2↑",
+    IGUI_CDDA_HeightOffset3 = "1↑",
+    IGUI_CDDA_HeightOffset4 = "0",
+    IGUI_CDDA_HeightOffset5 = "1↓",
+    IGUI_CDDA_HeightOffset6 = "2↓",
+    IGUI_CDDA_HeightOffset7 = "3↓",
+
+---Soul Filcher's Beautifying Time---(2425267353)---
+    IGUI_Beard_ChinLong = "长须",
+    IGUI_Beard_ChinSquare = "方形胡",
+    IGUI_Beard_ChinSquareLong = "方形长须",
+    IGUI_Beard_ChinstrapThin = "细带胡",
+    IGUI_Beard_Hollywoodian = "好莱坞式",
+    IGUI_Beard_Horseshoe = "马蹄式",
+    IGUI_Beard_Lemmy = "莱米式",
+    IGUI_Beard_SoulPatch = "灵魂补丁式",
+    IGUI_Hair_Chloe = "克洛伊式",
+    IGUI_Hair_Guile = "盖尔式",
+    IGUI_Hair_LeftPartingTall = "左分高发",
+    IGUI_Hair_MohawkWide = "宽莫霍克式",
+    IGUI_Hair_MohawkWideSpiked = "宽莫霍克刺状式",
+    IGUI_Hair_Power = "鲍尔式",
+    IGUI_Hair_PowerBig = "大鲍尔式",
+    IGUI_Hair_PowerParted = "鲍尔分发式",
+    IGUI_Hair_RightPartingTall = "右分高发",
+    IGUI_Hair_Zack = "扎克式",
+
+---Training Target---(3417621776)---
+    IGUI_ContainerTitle_TrainingCarTarget = "训练目标罐",
 
 }

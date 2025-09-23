@@ -190,6 +190,12 @@ UI_CN = {
 	UI_ETW_Options_UIWidth_tooltip = "角色页面的宽度（以像素为单位）.如果您使用英语进行游戏,默认设置应该可以正常工作,但如果您使用其他语言,可能需要增加该值以获得更多空间.",
 	UI_ETW_ProgressPageDisabled = "ETW 页面在沙盒设置中被禁用",
 	UI_optionscreen_binding_ETW_UI_Toggle = "切换 Evolving Traits World UI",
+	UI_trait_BladeEnthusiast = "利刃爱好者",
+	UI_trait_BladeEnthusiastDesc = "你对锋利的武器情有独钟，并能娴熟地驾驭它们。你磨练了长刃武器的技巧，让每一击都精准致命。",
+	UI_trait_PetTherapy = "动物疗法",
+	UI_trait_PetTherapyDesc = "与人相比，你更喜欢动物。抚摸动物可以改善你的情绪：减轻恐慌、无聊、不开心和压力。<br>默认情况下，每5分钟只能触发一次，并提供5%的情绪加成。可在沙盒选项中调整。",
+	UI_trait_PolearmFighter = "长柄武器斗士",
+	UI_trait_PolearmFighterDesc = "你已经掌握了使用长柄武器的战斗艺术。从干草叉到长矛，你知道如何利用攻击距离和精准度来御敌于外。",
 
 ---Inspect Weapon---(2948824747)---
 	UI_optionscreen_binding_OPTION_INSPECT_WEAPON = "检查武器",
@@ -2002,6 +2008,7 @@ UI_CN = {
 	UI_trait_VegetableDesc_fun = "<br><br>“护士救命……护士——救命！”",
 	UI_trait_infinitePoint = "无限点数",
 	UI_traitdesc_infinitePoint = "获得无限点数用于分配特质。\n [不知道你为什么需要它]",
+	UI_prof_mar_mason = "石匠",
 
 ---Medical Meister---(3173649443)---
 	UI_P4MedicalMeister_Messages_Warn_Bleeding2 = "没有止血用品",
@@ -2989,6 +2996,7 @@ UI_CN = {
 	UI_trait_gaussTrait1 = "高斯技术员",
 	UI_trait_gaussTrait1desc = "掌握高斯武器的制作与使用技巧（使用高斯武器时单发耗能减少20%）",
 	UI_trait_gaussTrait2desc = "精通高斯武器的制作与高效使用（使用高斯武器时单发耗能减少40%）",
+	UI_trait_gaussTrait2 = "高斯专家",
 
 ---Woodcutting Skill [B42]---(3434440605)---
 	UI_trait_woodcutter = "伐木工",
@@ -4129,4 +4137,14 @@ UI_CN = {
 	UI_MSO_TerrainImage_tooltip = "显示代表地形类型的图像以获取更多细节",
 	UI_MSO_toggleMiniMapKey = "切换小地图按键",
 	UI_MSO_toggleMiniMapKey_tooltip = "按下所选按键可打开或关闭小地图",
+
+---Training Target---(3417621776)---
+	UI_I_cant_put_more_than_12_can = "我不能放入超过12个空罐头",
+	UI_I_cant_put_this = "我不能放这个",
+	UI_Ive_hit_something = "我命中了",
+	UI_Ive_missed = "脱靶！",
+	UI_Target_is_damaged = "目标已损坏，我应该更换它",
+	UI_Target_must_be_refilled = "我必须交出空罐头。",
+	UI_This_is_too_close = "我离目标太近了",
+
 }
