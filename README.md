@@ -1006,3 +1006,13 @@ Mod:[B42] Show Wall Health---ID:3386498516
 Mod:RaccoonCityB42---ID:3388468313
 
 Mod:Bianca Wardrobe [42. Out now]---ID:3140453034
+
+Mod:[B42] Hemp & Tobacco---ID:3404563567
+
+Mod:[B42] Pack Pantry---ID:3416584592
+
+Mod:[B42] Home Inventory Improved---ID:3522009163
+
+Mod:Soul Filcher's Exploring Time (IWBUMS)---ID:2244879881
+
+Mod:Money From Credit Cards---ID:3428650803

@@ -787,6 +787,7 @@ Tooltip_CN = {
 	Tooltip_WanderersBoots = "专为长途跋涉定制。<br>内外双层鞋底设计提升奔跑性能，但会减弱踩踏力量。",
 	Tooltip_WatchmensGloves = "加强定制的皮革手套。<br>提供卓越的保护性和耐用度。",
 	Tooltip_WoodcuttersShirt = "加装内衬的坚固定制衬衫。<br>专为面对森林与丧尸双重威胁者打造。",
+	Tooltip_OutcastBox = "印有熟悉英雄团的古董饭盒。非常适合携带你的午餐，就像英雄那样",
 
 ---Fancy Lanterns---(3267733558)---
 	Tooltip_item_Unattached= "未连接",
@@ -1883,5 +1884,20 @@ Tooltip_CN = {
 	Tooltip_Hemp_Leaves       = "食用可以治疗轻微食物中毒",
 	Tooltip_Hemp_Smoking      = "减轻疼痛和不快感",
 	Tooltip_HerbGrinder       = "用于研磨干燥植物材料",
+
+---Show Sowing Season In Seed Tooltip---(3404461962)---
+	Tooltip_SSS_Avg_Time_To_Grow = "平均生长时间: ",
+	Tooltip_SSS_Bad_Month_Hardy = "逆月份耐性: ",
+	Tooltip_SSS_Bad_Month_Hardy_Growth_Stage = "逆月份耐性生长阶段: ",
+	Tooltip_SSS_Bad_Months = "逆月份: ",
+	Tooltip_SSS_Cold_Hardy = "耐寒性: ",
+	Tooltip_SSS_Min_Water_Level = "最低水位: ",
+	Tooltip_SSS_No = "否",
+	Tooltip_SSS_None = "无",
+	Tooltip_SSS_Optimal_Sowing_Months = "最佳播种月份: ",
+	Tooltip_SSS_Risky_Sowing_Months = "风险播种月份: ",
+	Tooltip_SSS_Sowing_Season = "播种季节: ",
+	Tooltip_SSS_Unknown = "未知",
+	Tooltip_SSS_Yes = "是",
 
 }

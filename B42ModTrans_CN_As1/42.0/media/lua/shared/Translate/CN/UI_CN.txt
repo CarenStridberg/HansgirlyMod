@@ -2333,6 +2333,9 @@ UI_CN = {
 	UI_trait_breathingTechniqueDesc = "掌握特殊呼吸技巧的幸存者，坐地时能更快恢复体力<br>[+25%坐地时耐力恢复加成]",
 	UI_trait_tinkerer2 = "巧匠",
 	UI_trait_tinkerer2Desc = "技术达人：擅长修理设备，懂得制作特殊爆炸物",
+	UI_prof_unemployed = "流浪者",
+	UI_prof_wanderer = "流浪者",
+	UI_trait_Wanderer = "流浪者",
 
 ---Know Your Calories!---(3257953004)---
 	UI_Calories = "卡路里",
@@ -2822,6 +2825,8 @@ UI_CN = {
 	UI_IndustrialRevolution_upm = "通用生产机器",
 	UI_options_IndustrialRevolution_IRvolumeSlider = "调整工业革命机器音量",
 	UI_options_IndustrialRevolution_IRvolumeSlider_tooltip = "这将调整工业革命模组中机器的音量。",
+	UI_IndustrialRevolution_autobutcher = "自动处理",
+	UI_IndustrialRevolution_sayneedturnmachineoff = "我需要先把机器关掉",
 
 ---IndustrialRevolutionVehicleParts---(3404745035)---
 	UI_IndustrialRevolution_sayvehicleblocked = "这里已经有一辆车了。"
@@ -4112,4 +4117,16 @@ UI_CN = {
 	UI_CFN_Home_ZoneRemoveTitle = "移除区域",
 	UI_CFN_Home_ZoneRenameTitle = "重命名区域",
 
+---Money From Credit Cards---(3428650803)---
+	UI_MFCC_CreditCard_Player = "个人信用卡",
+
+---Minimap Style Options---(3526517370)---
+	UI_ButtonPanelPosition_Down = "下",
+	UI_ButtonPanelPosition_Up = "上",
+	UI_MSO_ButtonPanelPosition = "按钮面板位置",
+	UI_MSO_ButtonPanelPosition_tooltip = "按钮行相对于小地图的显示位置",
+	UI_MSO_TerrainImage = "地形图像",
+	UI_MSO_TerrainImage_tooltip = "显示代表地形类型的图像以获取更多细节",
+	UI_MSO_toggleMiniMapKey = "切换小地图按键",
+	UI_MSO_toggleMiniMapKey_tooltip = "按下所选按键可打开或关闭小地图",
 }

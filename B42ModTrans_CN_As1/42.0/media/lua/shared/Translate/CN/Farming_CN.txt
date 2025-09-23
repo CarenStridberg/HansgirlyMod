@@ -37,6 +37,7 @@ Farming_CN = {
 	Farming_Month_Fix_Short_9 = "9月",
 	Farming_Tooltip_InSeason_Fix = "播种季节",
 	Farming_Tooltip_TimeOfGrow_Fix = "平均生长时间：",
+	Farming_Min_Water_SSS = "最低水位: ",
 
 ---N&C's Narcotics---(3404956403)---
 	--Farming_AK = "AK-47花",
