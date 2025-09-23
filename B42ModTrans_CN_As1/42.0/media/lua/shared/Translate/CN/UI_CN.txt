@@ -281,6 +281,8 @@ UI_CN = {
 	UI_Text_Towing_heightdown = "降低拖拽高度",
 	UI_Text_Towing_heightmin = "拖拽高度为最小值",
 	UI_Text_Towing_heightmax = "拖拽高度为最大值",
+	Recipe_DestroyTruckSideWoodboards = "损坏的卡车侧边板",
+	Recipe_MakeTruckSideWoodboards = "制作卡车侧边板",
 
 ---They Knew [B42]---(3387110070)---
 	UI_ZomboxoloneBuff = "你感觉好多了.",
