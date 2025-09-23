@@ -39,6 +39,6 @@ Farming_CN = {
 	Farming_Tooltip_TimeOfGrow_Fix = "平均生长时间：",
 
 ---N&C's Narcotics---(3404956403)---
-	Farming_AK = "AK-47花",
-	Farming_SourDiesel = "酸柴油花",
+	--Farming_AK = "AK-47花",
+	--Farming_SourDiesel = "酸柴油花",
 }

@@ -693,8 +693,6 @@ Mod:My So-Called Snack---ID:2877535263
 
 Mod:Mystic's Face Retexture for Spongie's Character Customisation---ID:3415470189
 
-Mod:N&C's Narcotics---ID:3404956403
-
 Mod:Nep Slower Discomfort---ID:3403721633
 
 Mod:No Stress From Tree Chopping---ID:3460704724

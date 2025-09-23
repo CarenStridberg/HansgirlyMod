@@ -1992,9 +1992,9 @@ ContextMenu_CN = {
 	ContextMenu_ReverseRuggedCap = "反戴棒球帽？",
 
 ---N&C's Narcotics---(3404956403)---
-	ContextMenu_Snort = "吸食",
-	ContextMenu_Snort1Line = "吸食一条",
-	ContextMenu_TakePill = "服用一粒",
+	--ContextMenu_Snort = "吸食",
+	--ContextMenu_Snort1Line = "吸食一条",
+	--ContextMenu_TakePill = "服用一粒",
 
 ---ArcherLib---(3408337281)---
 	ContextMenu_Sample = "示例文本",
@@ -2522,4 +2522,25 @@ ContextMenu_CN = {
 	ContextMenu_ahzshortpleatedskirt_t_plaid1_close = "带裙撑",
 	ContextMenu_ahzshortpleatedskirt_t_plaid2 = "带裙撑",
 	ContextMenu_ahzshortpleatedskirt_t_plaid1 = "带裙撑",
+
+---[B42] Show Wall Health---(3386498516)---
+	ContextMenu_Kamer_ShowWallHealth_Check_Status = "检查状态",
+	ContextMenu_Kamer_ShowWallHealth_Check = "检查 %1",
+	ContextMenu_Kamer_ShowWallHealth_Condition = "状态",
+	ContextMenu_Kamer_ShowWallHealth_Health = "生命值 %1/%2",
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealth1		=	"致命损伤", 
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealthLine1	=	"",
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealth2		=	"重度损伤",
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealthLine2	=	"",
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealth3		=	"中度损伤",
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealthLine3	=	"",
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealth4		=	"轻度损伤",
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealthLine4	=	"",
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealth5 		=	"轻微损伤",
+	ContextMenu_Kamer_ShowWallHealth_ImmersiveHealthLine5 	=	"",
+
+---RaccoonCityB42---(3388468313)---
+	ContextMenu_RoundWoodenDefenseFenceNW = "圆木防御栅栏 西北",
+	ContextMenu_RoundWoodenDefenseFenceSE = "圆木防御栅栏 东南",
+
 }

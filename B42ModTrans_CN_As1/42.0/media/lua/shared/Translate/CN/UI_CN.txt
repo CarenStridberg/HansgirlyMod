@@ -2825,19 +2825,19 @@ UI_CN = {
 	UI_IndustrialRevolution_sayvehicleblocked = "这里已经有一辆车了。"
 
 ---N&C's Narcotics---(3404956403)---
-	UI_trait_BenzoAddict = "苯二氮依赖者",
-	UI_trait_BenzoAddictdesc = "对苯二氮类药物产生依赖<br>戒断反应随时间加重(3天/10天/15天)<br>25-30天不使用赞安诺可消除特质<br>降低饥饿感、增加口渴、更容易疲劳、耐力下降、更容易恐慌和紧张",
-	UI_trait_CokeHeaddesc = "对可卡因成瘾<br>戒断反应随时间加重(24小时/5天/15天)<br>25-30天不使用可卡因可消除特质<br>增加饥饿感、更易口渴、更容易疲劳、耐力下降、压力增大、头痛",
-	UI_trait_MDMAAddict = "摇头丸爱好者",
-	UI_trait_MDMAAddictdesc = "沉迷摇头丸<br>戒断反应随时间加重(3天/10天/15天)<br>25-30天不使用摇头丸可消除特质<br>降低饥饿感、更易口渴、更容易疲劳、耐力下降、压力增大、头痛",
-	UI_trait_MethHead = "冰毒成瘾者",
-	UI_trait_MethHeaddesc = "对冰毒成瘾<br>戒断反应随时间加重(24小时/5天/15天)<br>25-30天不使用冰毒可消除特质<br>增加饥饿感、更易口渴、更容易疲劳、耐力下降、压力增大、头痛",
-	UI_trait_OpioidAddict = "阿片类药物依赖者",
-	UI_trait_OpioidAddictdesc = "对阿片类药物产生依赖<br>戒断反应随时间加重(24小时/5天/15天)<br>25-30天不使用阿片类药物可消除特质<br>更容易疲劳、耐力下降、压力增大、头痛",
-	UI_trait_ParanoidUser = "药物致幻者",
-	UI_trait_ParanoidUserdesc = "使用药物期间会持续产生恐慌发作<br>该特质无法消除",
-	UI_trait_PotHead = "大麻爱好者",
-	UI_trait_PotHeaddesc = "沉迷大麻但体能水平较低<br>25-30天不使用大麻可消除特质"
+	--UI_trait_BenzoAddict = "苯二氮依赖者",
+	--UI_trait_BenzoAddictdesc = "对苯二氮类药物产生依赖<br>戒断反应随时间加重(3天/10天/15天)<br>25-30天不使用赞安诺可消除特质<br>降低饥饿感、增加口渴、更容易疲劳、耐力下降、更容易恐慌和紧张",
+	--UI_trait_CokeHeaddesc = "对可卡因成瘾<br>戒断反应随时间加重(24小时/5天/15天)<br>25-30天不使用可卡因可消除特质<br>增加饥饿感、更易口渴、更容易疲劳、耐力下降、压力增大、头痛",
+	--UI_trait_MDMAAddict = "摇头丸爱好者",
+	--UI_trait_MDMAAddictdesc = "沉迷摇头丸<br>戒断反应随时间加重(3天/10天/15天)<br>25-30天不使用摇头丸可消除特质<br>降低饥饿感、更易口渴、更容易疲劳、耐力下降、压力增大、头痛",
+	--UI_trait_MethHead = "冰毒成瘾者",
+	--UI_trait_MethHeaddesc = "对冰毒成瘾<br>戒断反应随时间加重(24小时/5天/15天)<br>25-30天不使用冰毒可消除特质<br>增加饥饿感、更易口渴、更容易疲劳、耐力下降、压力增大、头痛",
+	--UI_trait_OpioidAddict = "阿片类药物依赖者",
+	--UI_trait_OpioidAddictdesc = "对阿片类药物产生依赖<br>戒断反应随时间加重(24小时/5天/15天)<br>25-30天不使用阿片类药物可消除特质<br>更容易疲劳、耐力下降、压力增大、头痛",
+	--UI_trait_ParanoidUser = "药物致幻者",
+	--UI_trait_ParanoidUserdesc = "使用药物期间会持续产生恐慌发作<br>该特质无法消除",
+	--UI_trait_PotHead = "大麻爱好者",
+	--UI_trait_PotHeaddesc = "沉迷大麻但体能水平较低<br>25-30天不使用大麻可消除特质"
 
 ---ArcherLib---(3408337281)---
 	UI_options_radialKeyBind = "弹药轮盘键",
@@ -4028,4 +4028,20 @@ UI_CN = {
     UI_InjuryIndicator_SpeechSwitch_Tooltip = "切换使用对话文本<br>而非技能提升文本。",
     UI_InjuryIndicator_EnableHealNotify = "启用治愈弹窗",
     UI_InjuryIndicator_EnableHealNotify_Tooltip = "治愈时显示提示文字",
+
+---Bianca Wardrobe [42. Out now]---(3140453034)---
+	UI_ClothingType_BCropped = "比安卡的衣橱：露脐上衣",
+	UI_ClothingType_BDress = "比安卡的衣橱：连衣裙",
+	UI_ClothingType_BEarLeft = "比安卡的衣橱：左耳环",
+	UI_ClothingType_BEarRight = "比安卡的衣橱：右耳环",
+	UI_ClothingType_BEars = "比安卡的衣橱：耳环",
+	UI_ClothingType_BEyes = "比安卡的衣橱：眼镜",
+	UI_ClothingType_BJacket = "比安卡的衣橱：夹克",
+	UI_ClothingType_BNecklace = "比安卡的衣橱：项链",
+	UI_ClothingType_BPants = "比安卡的衣橱：裤子",
+	UI_ClothingType_BPendant = "比安卡的衣橱：吊坠",
+	UI_ClothingType_BPiercing = "比安卡的衣橱：穿环",
+	UI_ClothingType_BSizeClothes = "比安卡的衣橱：比安卡尺码衣物",
+	UI_trait_Fashionmancer= "时尚达人",
+	UI_trait_FashionmancerDesc= "你知道在末世中最重要的是什么吗？是风格！<br>开局即掌握“比安卡的衣橱”模组中的所有服装配方。<br>+1 缝纫技能",
 }
