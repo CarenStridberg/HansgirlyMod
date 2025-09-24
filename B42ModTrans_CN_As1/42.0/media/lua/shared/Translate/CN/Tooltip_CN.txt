@@ -14,6 +14,7 @@ Tooltip_CN = {
 	Tooltip_Honey = "用于制作蜂蜜",
 	Tooltip_Sap = "用于制作枫糖浆<br>需要烹饪",
 	Tooltip_Ginseng = "服用以恢复耐力",
+	Tooltip_DisinfectantPan = "使用后需沥干(倒在地上)",
 
 ---常识---(2875848298)---
 	Tooltip_CS_PryOpenDoor = "尝试强制打开这扇门.盗贼擅长这个！",
@@ -36,6 +37,10 @@ Tooltip_CN = {
 ---Functional Clothesline---(3282215361)---
 	Tooltip_craft_ClotheslineDesc = "用于晾晒衣物",
 	Tooltip_AddLine = "晾衣绳不足",
+	Tooltip_BuildingMenuObj_ClothesHorse = "晾衣架",
+	Tooltip_BuildingMenuObj_ClothesLines = "晾衣绳",
+	Tooltip_ClothesHorse = "这是给衣服骑的马！",
+	Tooltip_ClothesLines = "可以把衣服晾在上面，或者不晾",
 
 ---Standardized Vehicle Upgrades 3 - Vanilla Addon---(3304582091)---
 	Tooltip_item_ATAVanillaTuningMag = "阅读本期后,您将掌握基础调校知识,并学习如何<br>为原版车辆创建防护",

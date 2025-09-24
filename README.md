@@ -1024,3 +1024,7 @@ Mod:[OBSOLETE] RollBack Rain Collector Barrel---ID:3392186516
 Mod:Soul Filcher's Beautifying Time---ID:2425267353
 
 Mod:Training Target---ID:3417621776
+
+Mod:inimal Display Bars + Nutritions + Discomfort [B41/B42]---ID:3388844542
+
+Mod:Wolf Extraction Quest---ID:2987772693

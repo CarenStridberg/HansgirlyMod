@@ -1940,6 +1940,8 @@ ContextMenu_CN = {
 	ContextMenu_LegsRight = "穿戴于右腿",
 	ContextMenu_Smaller = "缩小尺寸",
 	ContextMenu_UpVisor = "面罩抬起",
+	ContextMenu_BackRight = "穿戴于背后右侧",
+	ContextMenu_DownVisor = "摘掉面罩",
 
 ---Sound Scouter---(3366600816)---
 	ContextMenu_P4SoundScouter_CheckScouter = "查看音波探测器显示",
@@ -2567,5 +2569,16 @@ ContextMenu_CN = {
 	ContextMenu_ShorterVersionF = "短款 (仅女性)",
 	ContextMenu_SolidLens = "更换为墨镜镜片",
 	ContextMenu_Wear = "穿上",
+
+---Minimal Display Bars + Nutritions + Discomfort [B41/B42]---(3388844542)---
+	ContextMenu_MinimalDisplayBars_Toggle_Export_Preset = "导出预设",
+	ContextMenu_MinimalDisplayBars_Toggle_Import_Preset = "导入预设",
+	ContextMenu_MinimalDisplayBars_Toggle_Load_Preset = "加载预设",
+	ContextMenu_MinimalDisplayBars_carbohydrates = "碳水化合物",
+	ContextMenu_MinimalDisplayBars_discomfortlevel = "不适程度",
+	ContextMenu_MinimalDisplayBars_lipids = "脂肪",
+	ContextMenu_MinimalDisplayBars_proteins = "蛋白质",
+	ContextMenu_MinimalDisplayBars_sickness = "生病状态",
+	ContextMenu_MinimalDisplayBars_stress = "压力值",
 
 }

@@ -719,6 +719,7 @@ UI_CN = {
 	UI_options_OAC_autoOpen_tooltip = "当玩家查看容器时是否自动开启。",
 	UI_options_OAC_autoClose = "自动关闭容器",
 	UI_options_OAC_autoClose_tooltip = "当容器不再被选中时是否自动关闭（需要启用自动开启功能）",
+	UI_options_OAC_tickRate = "刷新概率(高亮容器)",
 
 ---Sit on the key---(3468159865)---
 	UI_SitOnTheKey_OptionsTitle = "坐下热键 - 选项",
@@ -740,6 +741,9 @@ UI_CN = {
 	UI_LTS_tooltip_hud_AimTypeBonusProne = "卧倒姿态",
 	UI_LTS_tooltip_hud_AimTypeBonusSneaking = "蹲伏姿态",
 	UI_LTS_Error01 = "错误 01: 致命潜行模组数据损坏",
+	UI_LTSProneMessage_ICantDoThisCrawling = "我无法在匍匐状态下做这个",
+	UI_options_SMP_LethalStealth_TransparencyHud = "% 姿态界面透明度",
+	UI_options_SMP_LethalStealth_TransparencyHud_tooltip = "数值越高，界面越透明",
 
 ---Minimap Style Options---(3526517370)---
 	UI_MSO_ModName = "小地图样式选项",
@@ -4155,4 +4159,9 @@ UI_CN = {
     UI_nML_renderBackground_tooltip = "渲染背景纹理",
     UI_nML_renderIndicator = "渲染指示器纹理（默认：开）",
     UI_nML_renderIndicator_tooltip = "当玩家入睡或“渲染背景纹理”关闭时，渲染指示器纹理",
+
+---Minimal Display Bars + Nutritions + Discomfort [B41/B42]---(3388844542)---
+	UI_ImportPreset_Info = "<H1> <RGB:1,1,1> 您即将导入此预设 <LINE> <TEXT> " .. "<IMAGECENTRE:media/ui/mdbImport%1.png> <LINE> " .. "<CENTRE> <SIZE:large> <RGB:0,1,1> 祝您自定义极简显示条愉快！<LINE><LINE> ",
+	UI_LoadPreset_Info = "<H1> <RGB:1,1,1> 如何为MDB加载自定义预设 <LINE> <TEXT> " .. "<IMAGECENTRE:media/ui/mdbPresetFolder.png> <LINE> " .. "<CENTRE> <SIZE:large> <RGB:1,0,0> 请按照以下简单步骤加载您的自定义预设: <LINE><LINE> " .. "<CENTRE> <SIZE:medium> <RGB:1,0.5,0>1. <SPACE><RGB:1,1,1> 找到您想用作预设的 <SPACE><RGB:0,1,0> "CONFIG.LUA" <SPACE><RGB:1,1,1> 文件 <LINE><LINE> " .. "<CENTRE> <SIZE:medium> <RGB:1,0.5,0>2. <SPACE><RGB:1,1,1> 将文件重命名为 <SPACE><RGB:0,1,0> MDB_Preset.LUA <LINE><LINE> " .. "<CENTRE> <SIZE:medium> <RGB:1,0.5,0>3. <SPACE><RGB:1,1,1> 将文件放入此文件夹: <LINE> <RGB:0,1,0>%UserProfile%\Zomboid\Lua <LINE><LINE> " .. "<CENTRE> <SIZE:medium> <RGB:1,0.5,0>4. <SPACE><RGB:1,1,1> 在游戏中按下 <SPACE><RGB:0,1,0> YES <SPACE><RGB:1,1,1> 按钮以确认并应用您的预设. <LINE><LINE> " .. "<CENTRE> <SIZE:large> <RGB:0,1,1> 祝您自定义极简显示条愉快！ <LINE><LINE> ",
+
 }

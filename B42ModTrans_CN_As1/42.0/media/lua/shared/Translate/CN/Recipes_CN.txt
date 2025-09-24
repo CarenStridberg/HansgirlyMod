@@ -41,6 +41,8 @@ Recipe_CN = {
 	Recipe_MakeBiofuel = "制作生物燃料",
 	Recipe_MakeVegetableOil = "制作植物油",
 	Recipe_MakeSugar = "制作糖",
+	Recipe_MakeDisinfectantUnboiled = "制作未煮沸的消毒剂",
+	Recipe_MakeTortillaDough = "制作墨西哥薄饼面团",
 
 ---常识---(2875848298)---
 	Recipe_Empty-Bag = "倒在地上",
@@ -115,6 +117,9 @@ Recipe_CN = {
 ---Functional Clothesline---(3282215361)---
 	ClothesLine = "晾衣绳",
 	Metal_Clothesline = "晾衣绳",
+	Recipe_craft_clothes_horse = "制作晾衣架",
+	Recipe_fold_clothes_horse = "折叠晾衣架",
+	Recipe_unfold_clothes_horse = "展开晾衣架",
 
 ---Standardized Vehicle Upgrades 3 - Vanilla Addon---(3304582091)---
 	Recipe_ATAVanillaRecipes = "标准调校",
@@ -1102,6 +1107,11 @@ Recipe_CN = {
 	MattressPack_AIOBShelter = "将床垫插入 AIO 背包庇护所", 
 	All_PackAIOBShelter = "将所有物品插入 AIO 背包庇护所", 
 	UnpackAIOBShelter = "拆包 AIO 背包庇护所", 
+	Recipe_All_PackAIOBShelter = "打包所有AIOB庇护所组件",
+	Recipe_MattressPack_AIOBShelter = "打包床垫(AIOB庇护所)",
+	Recipe_Pack_AIOBShelter = "打包AIOB庇护所",
+	Recipe_PillowPack_AIOBShelter = "打包枕头(AIOB庇护所)",
+	Recipe_UnpackAIOBShelter = "打开AIOB庇护所",
 
 ---[B42] Make Dried Vegetables---(3418061837)---
 	Recipe_veggieTypeDriedTrex = "干制蔬菜",
@@ -1231,7 +1241,8 @@ Recipe_CN = {
 	Recipe_Wash_Off_the_Paint = "洗掉喷漆",
 	Recipe_Make_Katana_Handle = "制作武士刀柄",
 	Recipe_Make_Katana = "制作武士刀",
-	Forge_Katana_Blade = "锻造武士刀刀片",	
+	Forge_Katana_Blade = "锻造武士刀刀片",
+	Recipe_Forge_Katana_Blade = "锻造武士刀刀片",
 
 ---Lucille Vampire Bat---(3436159263)---
 	Recipe_CrearLucilleVanilla = "制作露希尔",
@@ -3718,6 +3729,8 @@ Recipe_CN = {
 ---Military Tool Kit---(2705406713)---
     Recipe_OpenCartonOf127x99mm = "打开箱装12.7x99mm弹药",
     Recipe_Place127x99mmInCarton = "将12.7x99mm弹药装箱",
+	Recipe_OpenCartonOf127x99mmBig = "打开12.7x99毫米大弹药箱",
+	Recipe_Place127x99mmInCartonBig = "将12.7x99毫米弹药装入大弹药箱",
 
 ---[B42] Ogrim Mod's - My Own Well---(3549290115)---
     WellsConstructionDisplay = "建造水井",
@@ -4599,6 +4612,41 @@ Recipe_CN = {
 	Recipe_Make_Leather_Backpack = "制作皮革背包",
 	Recipe_Make_Leather_Water_Bottle = "制作皮革水壶",
 	Recipe_Make_WLF_Armband = "制作华盛顿解放阵线臂章",
+	MakeFEDRAArmband = "制作联邦紧急灾难应对局臂章",
+	MakeFireflyArmband = "制作火萤臂章",
+	MakeSeraphiteArmband = "制作疤脸帮臂章",
+	MakeWLFArmband = "制作华盛顿解放阵线臂章",
+	PutFilterOnFEDRAGasMask = "为联邦紧急灾难应对局防毒面具安装过滤罐",
+	PutFilterOnWornFEDRAGasMask = "为已佩戴的联邦紧急灾难应对局防毒面具安装过滤罐",
+	Recipe_MakeFEDRAArmband = "制作联邦紧急灾难应对局臂章",
+	Recipe_MakeFireflyArmband = "制作火萤臂章",
+	Recipe_MakeSeraphiteArmband = "制作疤脸帮臂章",
+	Recipe_MakeWLFArmband = "制作华盛顿解放阵线臂章",
+	Recipe_PutFilterOnFEDRAGasMask = "为联邦紧急灾难应对局防毒面具安装过滤罐",
+	Recipe_PutFilterOnWornFEDRAGasMask = "为已佩戴的联邦紧急灾难应对局防毒面具安装过滤罐",
+	Recipe_SewBigLeatherBackpack = "缝制大号背包(皮革）",
+	Recipe_SewHandmadeGloves = "缝制手工手套",
+	Recipe_SewHandmadePants = "缝制手工裤子",
+	Recipe_SewHandmadeShirt = "缝制手工衬衫",
+	Recipe_SewHandmadeShoes = "缝制手工鞋子",
+	Recipe_SewImprovisedBackpack = "缝制简易背包",
+	Recipe_SewLeatherApron = "缝制围裙(皮革）",
+	Recipe_SewLeatherPocket = "缝制附加口袋(皮革）",
+	Recipe_SewLeatherPouch = "缝制附加小包(皮革）",
+	Recipe_ShortenPants = "改短裤子",
+	Recipe_ShortenShirt = "改短衬衫",
+	SewBigLeatherBackpack = "制作背包（皮革）",
+	SewHandmadeGloves = "制作手工手套",
+	SewHandmadePants = "制作手工裤子",
+	SewHandmadeShirt = "制作手工衬衫",
+	SewHandmadeShoes = "制作手工鞋子",
+	SewImprovisedBackpack = "制作简易背包",
+	SewLeatherApron = "制作手工围裙(皮革）",
+	SewLeatherPocket = "制作附加口袋(皮革）",
+	SewLeatherPouch = "制作附加小包(皮革）",
+	ShortenPants = "改短裤子",
+	ShortenShirt = "改短衬衫",
+
 
 ---Repairable Windows---(3378304610)---
 	FireClayLargeSheetMold = "烧制大粘土板模具",
@@ -4649,6 +4697,43 @@ Recipe_CN = {
 	MakeSpearV = "制作长矛 V（5）",
 	MakeSpearVI = "制作长矛 VI（6）",
 	MakeTierMaterial = "将升级武器转换为材料",
+	Recipe_MakeAxeII = "制作斧 II",
+	Recipe_MakeAxeIII = "制作斧 III",
+	Recipe_MakeAxeIV = "制作斧 IV",
+	Recipe_MakeAxeV = "制作斧 V",
+	Recipe_MakeAxeVI = "制作斧 VI",
+	Recipe_MakeBluntII = "制作钝器 II",
+	Recipe_MakeBluntIII = "制作钝器 III",
+	Recipe_MakeBluntIV = "制作钝器 IV",
+	Recipe_MakeBluntV = "制作钝器 V",
+	Recipe_MakeBluntVI = "制作钝器 VI",
+	Recipe_MakeHammerII = "制作锤 II",
+	Recipe_MakeHammerIII = "制作锤 III",
+	Recipe_MakeHammerIV = "制作锤 IV",
+	Recipe_MakeHammerV = "制作锤 V",
+	Recipe_MakeHammerVI = "制作锤 VI",
+	Recipe_MakeLongBladeII = "制作长刃武器 II",
+	Recipe_MakeLongBladeIII = "制作长刃武器 III",
+	Recipe_MakeLongBladeIV = "制作长刃武器 IV",
+	Recipe_MakeLongBladeV = "制作长刃武器 V",
+	Recipe_MakeLongBladeVI = "制作长刃武器 VI",
+	Recipe_MakeMaterial = "制作材料",
+	Recipe_MakeSmallBladeII = "制作短刃武器 II",
+	Recipe_MakeSmallBladeIII = "制作短刃武器 III",
+	Recipe_MakeSmallBladeIV = "制作短刃武器 IV",
+	Recipe_MakeSmallBladeV = "制作短刃武器 V",
+	Recipe_MakeSmallBladeVI = "制作短刃武器 VI",
+	Recipe_MakeSmallBluntII = "制作小型钝器 II",
+	Recipe_MakeSmallBluntIII = "制作小型钝器 III",
+	Recipe_MakeSmallBluntIV = "制作小型钝器 IV",
+	Recipe_MakeSmallBluntV = "制作小型钝器 V",
+	Recipe_MakeSmallBluntVI = "制作小型钝器 VI",
+	Recipe_MakeSpearII = "制作长矛 II",
+	Recipe_MakeSpearIII = "制作长矛 III",
+	Recipe_MakeSpearIV = "制作长矛 IV",
+	Recipe_MakeSpearV = "制作长矛 V",
+	Recipe_MakeSpearVI = "制作长矛 VI",
+	Recipe_MakeTierMaterial = "制作升级材料",
 
 ---More Traits Antique Upgrade---(3397942493)---
 	Recipe_MakeAntiqueAxe2 = "制作古董斧II(2)",
@@ -7531,5 +7616,12 @@ Recipe_CN = {
 	Recipe_Make_Training_Dummy = "制作训练假人",
 	Recipe_Make_Training_Mobile = "制作移动目标",
 	Recipe_Make_Training_Target = "绘制射击目标",
+
+---Wolf Extraction Quest---(2987772693)---
+	Recipe_AssembleAndUpdateRepeaterMap = "拼接并更新中继器地图",
+	Recipe_CraftAdvancedRadioAntenna = "制作高级无线电天线",
+	Recipe_Craft_Advanced_Antenna = "制作高级天线",
+	Recipe_DrawExtractionZoneMap = "绘制撤离区地图",
+	Recipe_Draw_Extraction_Zone_Map = "绘制撤离区地图",
 
 }
