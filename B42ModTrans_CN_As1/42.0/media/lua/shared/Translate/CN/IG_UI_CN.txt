@@ -8412,4 +8412,8 @@ IGUI_CN = {
 ---Training Target---(3417621776)---
     IGUI_ContainerTitle_TrainingCarTarget = "训练目标罐",
 
+---Bianca Wardrobe [42. Out now]---(3140453034)---
+    IGUI_ItemCat_Costume = "服装",
+    IGUI_ItemCat_Glowing = "发光",
+
 }

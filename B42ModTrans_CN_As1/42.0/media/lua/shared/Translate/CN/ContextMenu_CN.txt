@@ -1934,12 +1934,10 @@ ContextMenu_CN = {
 	ContextMenu_UserID = "按用户ID搜索安全码",
 
 ---The Last of Us: Factions & Gear [B41/B42]---(3348036710)---
-	ContextMenu_BackLeft = "穿戴于左后侧"
-	ContextMenu_Bigger = "放大",
+	ContextMenu_BackLeft = "穿戴于左后侧",
 	ContextMenu_Bigger = "放大尺寸",
 	ContextMenu_LegsLeft = "穿戴于左腿",
 	ContextMenu_LegsRight = "穿戴于右腿",
-	ContextMenu_Smaller = "缩小"
 	ContextMenu_Smaller = "缩小尺寸",
 	ContextMenu_UpVisor = "面罩抬起",
 
@@ -2554,5 +2552,20 @@ ContextMenu_CN = {
 	ContextMenu_Target_is_damaged = "目标已损坏，我应该更换它",
 	ContextMenu_Target_must_be_refilled = "我必须交出空罐头。",
 	ContextMenu_This_is_too_close = "我太靠近目标了",
+
+---Bianca Wardrobe [42. Out now]---(3140453034)---
+	ContextMenu_CapBack = "反戴",
+	ContextMenu_CapFront = "正戴",
+	ContextMenu_CloseJacket = "扣上夹克",
+	ContextMenu_FullEarring = "双耳",
+	ContextMenu_InvertEarring = "反转耳环",
+	ContextMenu_LeftEar = "左耳",
+	ContextMenu_LongerVersion = "长款",
+	ContextMenu_OpenJacket = "解开夹克",
+	ContextMenu_PrescriptionLens = "更换为近视镜片",
+	ContextMenu_RightEar = "右耳",
+	ContextMenu_ShorterVersionF = "短款 (仅女性)",
+	ContextMenu_SolidLens = "更换为墨镜镜片",
+	ContextMenu_Wear = "穿上",
 
 }

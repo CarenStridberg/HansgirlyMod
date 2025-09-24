@@ -3965,11 +3965,11 @@ Sandbox_CN = {
 	Sandbox_InfectionScanner_SporeZoneRadius_tooltip = "<RED> <CENTRE> [需要Braven的虫草菌孢子区域MOD] <BR> <LEFT> <RGB:1,1,1> 扫描器的孢子检测模式范围。设置过高可能严重影响游戏性能。",
 
 ---The Last of Us: Factions & Gear [B41/B42]---(3348036710)---
-	Sandbox_TLOUClothes = "《最后生还者》赛拉菲特服装套装",
-	Sandbox_TLOUClothesFedra = "最后生还者FEDRA服装套装",
-	Sandbox_TLOU_FEDRASOLDIERSPAWN = "FEDRA士兵丧尸生成概率(百万分之一)"
-	Sandbox_TLOU_SCARSPAWN = "赛拉菲特丧尸生成概率(百万分之一)"
-
+	Sandbox_TLOUClothes = "《最后生还者》疤脸帮服装套装",
+	Sandbox_TLOUClothesFedra = "最后生还者联邦紧急灾难应对局服装套装",
+	Sandbox_TLOU_FEDRASOLDIERSPAWN = "联邦紧急灾难应对局士兵丧尸生成概率(百万分之一)",
+	Sandbox_TLOU_SCARSPAWN = "疤脸帮丧尸生成概率(百万分之一)",
+	
 ---EfficiencySkillMod---(3374408921)---
 	Sandbox_Efficiency = "效率选项",
 	Sandbox_Efficiency_DefaultTimeLimit = "最小动作时间",
@@ -6614,6 +6614,41 @@ Sandbox_CN = {
 	Sandbox_RaccoonCityDivider1 = "________________________________________",
 
 ---Bianca Wardrobe [42. Out now]---(3140453034)---
+	Sandbox_BWardrobe = "比安卡衣柜",
+	Sandbox_BWardrobe.Cropped = "禁用容器生成：露脐上衣",
+	Sandbox_BWardrobe.Cropped_tooltip = "取消勾选此选项意味着露脐上衣不再在世界中生成<br>注意：仍然可以通过制作和僵尸获得。如果不需要，请在模组选项中禁用杂志和僵尸生成选项",
+	Sandbox_BWardrobe.Dress = "禁用容器生成：连衣裙",
+	Sandbox_BWardrobe.Dress_tooltip = "取消勾选此选项意味着连衣裙不再在世界中生成<br>注意：仍然可以通过制作和僵尸获得。如果不需要，请在模组选项中禁用杂志和僵尸生成选项",
+	Sandbox_BWardrobe.Earring = "禁用容器生成：耳环",
+	Sandbox_BWardrobe.Earring_tooltip = "取消勾选此选项意味着耳环不再在世界中生成<br>注意：仍然可以通过制作和僵尸获得。如果不需要，请在模组选项中禁用杂志和僵尸生成选项",
+	Sandbox_BWardrobe.Glasses = "禁用容器生成：眼镜",
+	Sandbox_BWardrobe.Glasses_tooltip = "取消勾选此选项意味着眼镜不再在世界中生成<br>注意：仍然可以通过制作和僵尸获得。如果不需要，请在模组选项中禁用杂志和僵尸生成选项",
+	Sandbox_BWardrobe.Hat_Cap = "禁用容器生成：帽子",
+	Sandbox_BWardrobe.Hat_Cap_tooltip = "取消勾选此选项意味着帽子不再在世界容器中生成",
+	Sandbox_BWardrobe.Jackets = "禁用容器生成：夹克",
+	Sandbox_BWardrobe.Jackets_tooltip = "取消勾选此选项意味着夹克不再在世界中生成<br>注意：仍然可以通过制作和僵尸获得。如果不需要，请在模组选项中禁用杂志和僵尸生成",
+	Sandbox_BWardrobe.Magazine_Cropped = "禁用容器生成：时尚巫师露脐上衣杂志",
+	Sandbox_BWardrobe.Magazine_Cropped_tooltip = "IMAGE:media/textures/Item_Fashionmancer_CroppedSweater.pngIMAGE:media/textures/Item_Fashionmancer_CroppedTartanSweater.png<br>取消勾选此选项意味着时尚巫师：露脐上衣制作杂志不再在世界中生成<br>注意：仍然可以通过战利品、僵尸和通过“时尚巫师”特质制作获得。如果不需要，请禁用这些选项",
+	Sandbox_BWardrobe.Magazine_Dress = "禁用容器生成：时尚巫师连衣裙杂志",
+	Sandbox_BWardrobe.Magazine_Dress_tooltip = "IMAGE:media/textures/Item_Fashionmancer_Dress.png<br>取消勾选此选项意味着时尚巫师：连衣裙制作杂志不再在世界中生成<br>注意：仍然可以通过战利品、僵尸和通过“时尚巫师”特质制作获得。如果不需要，请禁用这些选项",
+	Sandbox_BWardrobe.Magazine_Earring = "禁用容器生成：时尚巫师耳环杂志",
+	Sandbox_BWardrobe.Magazine_Earring_tooltip = "IMAGE:media/textures/Item_Fashionmancer_Earring.png<br>取消勾选此选项意味着时尚巫师：耳环制作杂志不再在世界中生成<br>注意：仍然可以通过战利品、僵尸和通过“时尚巫师”特质制作获得。如果不需要，请禁用这些选项",
+	Sandbox_BWardrobe.Magazine_Glasses = "禁用容器生成：时尚巫师眼镜杂志",
+	Sandbox_BWardrobe.Magazine_Glasses_tooltip = "IMAGE:media/textures/Item_Fashionmancer_Glasses.png<br>取消勾选此选项意味着时尚巫师：眼镜制作杂志不再在世界中生成<br>注意：仍然可以通过战利品、僵尸和通过“时尚巫师”特质制作获得。如果不需要，请禁用这些选项",
+	Sandbox_BWardrobe.Magazine_Jackets = "禁用容器生成：时尚巫师夹克杂志",
+	Sandbox_BWardrobe.Magazine_Jackets_tooltip = "IMAGE:media/textures/Item_Fashionmancer_Jacket.pngIMAGE:media/textures/Item_Fashionmancer_JacketTartan.png<br>取消勾选此选项意味着时尚巫师：夹克制作杂志不再在世界中生成<br>注意：仍然可以通过战利品、僵尸和通过“时尚巫师”特质制作获得。如果不需要，请禁用这些选项",
+	Sandbox_BWardrobe.Magazine_Necklace = "禁用容器生成：时尚巫师项链杂志",
+	Sandbox_BWardrobe.Magazine_Necklace_tooltip = "IMAGE:media/textures/Item_Fashionmancer_Necklace.png<br>取消勾选此选项意味着时尚巫师：项链制作杂志不再在世界中生成<br>注意：仍然可以通过战利品、僵尸和通过“时尚巫师”特质制作获得。如果不需要，请禁用这些选项",
+	Sandbox_BWardrobe.Magazine_Pants = "禁用容器生成：时尚巫师裤子杂志",
+	Sandbox_BWardrobe.Magazine_Pants_tooltip = "IMAGE:media/textures/Item_Fashionmancer_Pants.png<br>取消勾选此选项意味着时尚巫师：裤子制作杂志不再在世界中生成<br>注意：仍然可以通过战利品、僵尸和通过“时尚巫师”特质制作获得。如果不需要，请禁用这些选项",
+	Sandbox_BWardrobe.Pants = "禁用容器生成：裤子",
+	Sandbox_BWardrobe.Pants_tooltip = "取消勾选此选项意味着裤子不再在世界中生成<br>注意：仍然可以通过制作和僵尸获得。如果不需要，请在模组选项中禁用杂志和僵尸生成选项",
+	Sandbox_BWardrobe.Separation1 = "-----------------------------------> 容器生成：服装 <-----------------------------------",
+	Sandbox_BWardrobe.Separation1_tooltip = "此选项不改变任何内容，仅为视觉分隔",
+	Sandbox_BWardrobe.Separation2 = "-----------------------------------> 容器生成：杂志（制作） <-----------------------------------",
+	Sandbox_BWardrobe.Separation2_tooltip = "此选项不改变任何内容，仅为视觉分隔",
+	Sandbox_BWardrobe.Shorts = "禁用容器生成：短裤",
+	Sandbox_BWardrobe.Shorts_tooltip = "取消勾选此选项意味着短裤不再在世界中生成<br>注意：仍然可以通过制作和僵尸获得。如果不需要，请在模组选项中禁用杂志和僵尸生成选项",
 
 ---[B42] HDCP Immersive Vehicle Paint---(3464606086)---
 	Sandbox_ImmersiveVehiclePaint = "沉浸式车辆喷漆",

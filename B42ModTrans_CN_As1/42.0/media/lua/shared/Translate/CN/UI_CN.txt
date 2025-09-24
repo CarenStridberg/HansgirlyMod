@@ -4045,6 +4045,20 @@ UI_CN = {
     UI_InjuryIndicator_EnableHealNotify_Tooltip = "治愈时显示提示文字",
 
 ---Bianca Wardrobe [42. Out now]---(3140453034)---
+	UI_ClothingType_BCropped = "衣柜：露脐上衣",
+	UI_ClothingType_BDress = "衣柜：连衣裙",
+	UI_ClothingType_BEarLeft = "衣柜：左耳环",
+	UI_ClothingType_BEarRight = "衣柜：右耳环",
+	UI_ClothingType_BEars = "衣柜：耳环",
+	UI_ClothingType_BEyes = "衣柜：眼镜",
+	UI_ClothingType_BJacket = "衣柜：夹克",
+	UI_ClothingType_BNecklace = "衣柜：项链",
+	UI_ClothingType_BPants = "衣柜：裤子",
+	UI_ClothingType_BPendant = "衣柜：项链吊坠",
+	UI_ClothingType_BPiercing = "衣柜：脐环",
+	UI_ClothingType_BSizeClothes = "衣柜：B尺码服装",
+	UI_trait_Fashionmancer = "时尚巫师",
+	UI_trait_FashionmancerDesc = "你知道在末世什么最重要吗？是时尚！<br>开局即可解锁比安卡衣柜模组的所有服装配方。<br>+1 缝纫",
 
 ---[B42] Home Inventory Improved---(3522009163)---
 	UI_CFN_Home_HeaderAll = "全部",
@@ -4133,4 +4147,13 @@ UI_CN = {
 	UI_Target_must_be_refilled = "我必须交出空罐头。",
 	UI_This_is_too_close = "我离目标太近了",
 
+---[ABANDONED] Malwart Plain Moodles---(3394582336)---
+    UI_nML_alwaysOnTop = "始终渲染指示器（默认：关）",
+    UI_nML_alwaysOnTop_tooltip = "开：指示器始终置顶显示（在背景和心情图标上方绘制指示器纹理）；关：仅在玩家入睡时显示（若允许）",
+    UI_nML_integrateMoodleFramework = "集成心情图标框架",
+    UI_nML_integrateMoodleFramework_tooltip = "使用“简明心情等级”纹理更新默认心情图标框架的背景。（若不生效请重启游戏）",
+    UI_nML_renderBackground = "渲染背景纹理（默认：开）",
+    UI_nML_renderBackground_tooltip = "渲染背景纹理",
+    UI_nML_renderIndicator = "渲染指示器纹理（默认：开）",
+    UI_nML_renderIndicator_tooltip = "当玩家入睡或“渲染背景纹理”关闭时，渲染指示器纹理",
 }

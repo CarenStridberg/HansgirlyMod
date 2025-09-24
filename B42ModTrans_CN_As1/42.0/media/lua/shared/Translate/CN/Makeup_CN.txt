@@ -34,4 +34,10 @@ MakeUp_CN = {
 	MakeUpType_P4LipsRed = "唇膏 PP红色",
 	MakeUpType_P4LipsViolet = "唇膏 PP紫罗兰",
 	MakeUpType_P4LipsYellow = "唇膏 PP黄色",
+	MakeUpType_P4EyesShadowBlack = "眼影 PP黑色",
+    MakeUpType_P4EyesShadowGreen = "眼影 PP绿色",
+    MakeUpType_P4EyesShadowWhite = "眼影 PP白色",
+    MakeUpType_P4LipsBlack = "唇膏 PP黑色",
+    MakeUpType_P4LipsWhite = "唇膏 PP白色",
+
 }

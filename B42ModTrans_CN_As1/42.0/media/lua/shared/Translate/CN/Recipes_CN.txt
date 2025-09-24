@@ -4587,18 +4587,18 @@ Recipe_CN = {
 	Recipe_PaintLanternLilac = "给灯笼上色为紫丁香色",
 
 ---The Last of Us: Factions & Gear [B41/B42]---(3348036710)---
-	Recipe_Make_FEDRA_Armband = "制作FEDRA臂章",
+	Recipe_Make_FEDRA_Armband = "制作联邦紧急灾难应对局臂章",
 	Recipe_Make_Fine_Leather_Pocket = "制作精制皮革口袋",
-	Recipe_Make_Firefly_Armband = "制作萤火虫臂章"
+	Recipe_Make_Firefly_Armband = "制作火萤臂章",
 	Recipe_Make_Improvised_Backpack = "制作简易背包",
 	Recipe_Make_Improvised_Gloves = "制作简易手套",
 	Recipe_Make_Improvised_Pants = "制作简易长裤",
 	Recipe_Make_Improvised_Shirt = "制作简易衬衫",
 	Recipe_Make_Improvised_Shirt_Short = "制作简易短袖衬衫",
-	Recipe_Make_Improvised_Shoes = "制作简易鞋"
+	Recipe_Make_Improvised_Shoes = "制作简易鞋",
 	Recipe_Make_Leather_Backpack = "制作皮革背包",
-	Recipe_Make_Leather_Water_Bottle = "制作皮质水壶",
-	Recipe_Make_WLF_Armband = "制作WLF臂章",
+	Recipe_Make_Leather_Water_Bottle = "制作皮革水壶",
+	Recipe_Make_WLF_Armband = "制作华盛顿解放阵线臂章",
 
 ---Repairable Windows---(3378304610)---
 	FireClayLargeSheetMold = "烧制大粘土板模具",
