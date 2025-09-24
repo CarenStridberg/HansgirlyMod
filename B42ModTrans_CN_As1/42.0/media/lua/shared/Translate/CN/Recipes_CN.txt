@@ -4059,6 +4059,7 @@ Recipe_CN = {
 	Recipe_PISlicePepMeat = "切片冷冻披萨",
 	Recipe_PISlicePepPizza = "切片冷冻披萨",
 	Recipe_PISlicePepSupreme = "切片冷冻披萨",
+	Recipe_PIPizza = "PI披萨",
 
 ---Pomp's Items - My Little Pony---(2792387747)---
 	Recipe_PIAltusBastionOff = "卸下阿尔图斯堡垒的盔甲",
