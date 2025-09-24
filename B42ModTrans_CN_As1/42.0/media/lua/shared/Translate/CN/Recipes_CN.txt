@@ -4841,10 +4841,20 @@ Recipe_CN = {
 	Recipe_UnpackBoltsStack = "拆解弩箭捆",
 	Recipe_UseMetalBolts = "装填金属弩箭",
 	Recipe_UseShortMetalBoltsCB = "装填短金属弩箭",
-	Recipe_UseShortMetalBoltsMag = "装填短金属弩箭(箭匣)"
+	Recipe_UseShortMetalBoltsMag = "装填短金属弩箭(箭匣)",
 	Recipe_UseShortWoodBoltsCB = "装填短木弩箭",
 	Recipe_UseShortWoodBoltsMag = "装填短木弩箭(箭匣)",
 	Recipe_UseWoodBolts = "装填木制弩箭",
+	Recipe_AssembleHandCrossbow = "组装手弩",
+	Recipe_FileDownBarIntoMetalBolts = "将金属条锉成金属弩箭",
+	Recipe_FileDownBarIntoShortMetalBolts = "将金属条锉成金属短弩箭",
+	Recipe_ForgeMetalBoltHead = "锻造弩箭箭头",
+	Recipe_ForgeShortMetalBolts = "锻造金属短弩箭",
+	Recipe_MakeBoltHeadFromLid = "用罐盖制作弩箭箭头",
+	Recipe_MakeBoltHeadFromTin = "用锡罐制作弩箭箭头",
+	Recipe_MakeStoneBoltHead = "打制石质弩箭箭头",
+	Recipe_RecycleBrokenBolts = "回收损坏的木弩箭",
+	Recipe_StringHandCrossbowWithWire = "用金属丝上弩弦",
 
 ---N&C's Narcotics---(3404956403)---
 	--Recipe_AddABluntAK = "添加1支AK烟",
@@ -6685,8 +6695,6 @@ Recipe_CN = {
 	Recipe_Cut_ATASamaraHoodItem = "切割萨马拉骑士引擎盖",
 	Recipe_Dismantle_TCWalkman = "拆解音乐播放器",
 	Recipe_Dismantle_TruePlayers = "拆解音乐播放器",
-	Recipe_ConvertATARoofLightItem = "转换车顶灯",
-	Recipe_ConvertATAFrontRoofLightItem = "转换车顶灯",
 
 ---Long Term Preservation [FIXED] [B42]---(3406392630)---
 	Recipe_CrushSaltRock = "磨碎岩盐",
@@ -7625,4 +7633,7 @@ Recipe_CN = {
 	Recipe_DrawExtractionZoneMap = "绘制撤离区地图",
 	Recipe_Draw_Extraction_Zone_Map = "绘制撤离区地图",
 
+---Standardized Vehicle Upgrades 3 - Core - B42---(3403490889)---
+	Recipe_ConvertATAFrontRoofLightItem = "转换 ATA 前顶灯物品",
+	Recipe_ConvertATARoofLightItem = "转换 ATA 顶灯物品",
 }

@@ -333,6 +333,41 @@ Tooltip_CN = {
 	Tooltip_Sculpting_B_LS_Sculptures4_50 = "饼干在此冷却，回忆在此停留。",
 	Tooltip_Jukebox_3DEnable = "点击启用3D音效",
 	Tooltip_Jukebox_3DDisable = "点击禁用3D音效",
+	Tooltip_Action_Exhausted = "过于疲惫，无法进行此活动",
+	Tooltip_BookTitle_Cleaning = "清洁",
+	Tooltip_CleanRoom_Blood = "拖净附近的血迹和顽固污渍 (会自动切换为扫帚清理垃圾和尘土)",
+	Tooltip_CleanRoom_Dirt = "清扫附近的垃圾和尘土 (会自动切换为拖把清理血迹和顽固污渍，需要漂白剂)",
+	Tooltip_CleanRoom_MissingItems = "缺少清洁用品：",
+	Tooltip_CleanRoom_MissingItems_Bleach = " <LINE> - 漂白剂 (需要用于：血迹和地板污渍)",
+	Tooltip_CleanRoom_MissingItems_Broom = " <LINE> - 扫帚 (需要用于：垃圾和尘土)",
+	Tooltip_CleanRoom_MissingItems_Gloves = " <LINE> - 手套 (需要用于：碎玻璃)",
+	Tooltip_CleanRoom_MissingItems_Mop = " <LINE> -  拖把 (需要用于：血迹和地板污渍)",
+	Tooltip_CleanRoom_NoDirt = "附近没有需要打扫的东西！",
+	Tooltip_InvHarvester = "自动检测并收割附近的作物",
+	Tooltip_InvHarvester_Full = "燃料箱已满",
+	Tooltip_InvHarvester_Harvest = "收割效率:",
+	Tooltip_InvHarvester_HarvestLimit = "株成熟植物",
+	Tooltip_InvHarvester_NoHarvest = "未检测到有效的成熟植物",
+	Tooltip_InvHarvester_NoPetrol = "需要燃料.",
+	Tooltip_InvHarvester_Petrol = "使用汽油罐或其他燃料容器补充燃料",
+	Tooltip_Inventions_Broken = "装置已损坏",
+	Tooltip_Inventions_Broken2 = "完全修复前无法再次工作",
+	Tooltip_Inventions_Fix = "所有要求均已满足",
+	Tooltip_Inventions_FixMissing = "缺少组件或专业知识",
+	Tooltip_Inventions_Hygienator_desc = "这个地面装置会触发战略布置的喷水口，用干净(大概)的水和肥皂冲洗任何毫无防备的过路人。效果可能因人而异",
+	Tooltip_Inventions_Improv = "改进项",
+	Tooltip_Inventions_MainPage = "装置简介",
+	Tooltip_Inventions_NextPage = "点击“状态”按钮在页面间循环： <LINE><RGB:0.8,0.8,0.8> 下一页: <SPACE><ORANGE>",
+	Tooltip_Inventions_NoImprovs = "此装置没有改进项",
+	Tooltip_Inventions_OtherStats = "效果与修正",
+	Tooltip_Inventions_Ready = "装置已准备就绪，可以使用",
+	Tooltip_Inventions_RechargingN = "装置正在充电 (%1 小时)",
+	Tooltip_Inventions_RepairCostHint = "维修成本随改进项增加",
+	Tooltip_Inventions_RepairCosts = "维修成本",
+	Tooltip_Inventions_ResReq = "所需资源",
+	Tooltip_Inventions_SkillReq = "所需技能",
+	Tooltip_Inventions_Stats = "装置状态",
+	Tooltip_Inventions_Stats2 = "信息、本装置存在的改进项及效果",
 
 ---Sapph's Cooking [B42+]---(3409143790)---
 	Tooltip_LunarNewYear = "这是在新年常吃的传统食品,祝你新年快乐！",
@@ -538,10 +573,10 @@ Tooltip_CN = {
 	Tooltip_Magazine = "弹匣",
 	Tooltip_RISAdapter = "允许将握把安装在带有导轨的 M4 上",
 	Tooltip_Recipe_CleanGun = "军用枪械",
-	Tooltip_Recipe_ConvertAmmo  = "在可更换的弹药口径之间进行转换"
-	Tooltip_Recipe_ConvertMag  = "转换弹匣"
-	Tooltip_Recipe_DetractStock = "增加后坐力,减轻重量"
-	Tooltip_Recipe_ExtendStock = "减少后坐力,增加重量"
+	Tooltip_Recipe_ConvertAmmo  = "在可更换的弹药口径之间进行转换",
+	Tooltip_Recipe_ConvertMag  = "转换弹匣",
+	Tooltip_Recipe_DetractStock = "增加后坐力,减轻重量",
+	Tooltip_Recipe_ExtendStock = "减少后坐力,增加重量",
 	Tooltip_Recipe_ImprovisedSilencer = "抑制枪声,聊胜于无",
 	Tooltip_Recipe_RISAdapter = "更改 RIS 适配器上的附件",
 	Tooltip_Recipe_ScopeAdapter = "可将瞄准镜安装到带有皮卡汀尼导轨的枪支上",
@@ -664,14 +699,14 @@ Tooltip_CN = {
 ---Pomp's Items - My Little Pony---(2792387747)---
 	Tooltip_PIBlackBookFOE = "黑皮书特别版。<br>作者：Kkat",
 	Tooltip_PINynIndigo = "所有食物与烹饪的守护者。<br>愿他安息。",
-	Tooltip_PIOutfitOpportunity = "此小马拥有可制作的服装！"
+	Tooltip_PIOutfitOpportunity = "此小马拥有可制作的服装！",
 	Tooltip_PIPlushPattern = "用于辅助制作玩偶的图纸。",
 	Tooltip_PIPompadourNautice = "你找到我啦！你找到模组作者了！耶！",
 	Tooltip_PISpiralDelight = "请勿戳碰；服务用面条。",
 
 ---My So-Called Bag---(2823166698)---
 	Tooltip_FixAFlat = "用于修理车辆轮胎。",
-	Tooltip_Recipe_P4ConvertDuffelBag = "注意：转换后无法恢复原状。"
+	Tooltip_Recipe_P4ConvertDuffelBag = "注意：转换后无法恢复原状。",
 
 ---Simple Overhaul: Traits and Occupations (SOTO)---(2840805724)---
 	Farming_Min_Water_SSS = "最低水位：",
@@ -692,7 +727,7 @@ Tooltip_CN = {
 	Tooltip_SSS_Bad_Months = "不宜播种月份：",
 	Tooltip_SSS_Cold_Hardy = "耐寒性：",
 	Tooltip_SSS_Min_Water_Level = "最低水位：",
-	Tooltip_SSS_No = "否"
+	Tooltip_SSS_No = "否",
 	Tooltip_SSS_None = "无",
 	Tooltip_SSS_Optimal_Sowing_Months = "最佳播种月份：",
 	Tooltip_SSS_Risky_Sowing_Months = "风险播种月份：",
@@ -710,7 +745,7 @@ Tooltip_CN = {
 	Tooltip_item_P4TrueExcalibarF = "内蕴「火之水晶」的力量",
 
 ---My So-Called Snack---(2877535263)---
-	Tooltip_Recipe_P4MakeDessertBase = "制作需要热水。"
+	Tooltip_Recipe_P4MakeDessertBase = "制作需要热水。",
 	Tooltip_item_P4AngelMark = "金卡1张，银卡5张！<br>来收集天使的喙吧！",
 	Tooltip_item_P4AnimalBiscuitSecret = "这是...隐藏款！",
 	Tooltip_item_P4AnimalBiscuits2 = "饼干有47种动物造型和3种隐藏款！<br>集齐所有隐藏款也许会有好事发生？！",
@@ -782,7 +817,7 @@ Tooltip_CN = {
 	Tooltip_Jim = "这条蠕动的伙伴莫名眼熟，仿佛经历过无数英雄冒险。",
 	Tooltip_MechanicsWrench = "一把老旧生锈的弯头扳手，关键部位经过加固。<br>因嵌有重型蜗杆螺丝无法作为工具使用，但砸碎丧尸脑袋效果极佳。",
 	Tooltip_ScoutsSatchel = "轻量化面料制成的挎包，避免妨碍侦察兵执行任务时的敏捷动作。",
-	Tooltip_ScrapAngler_Vest = "用废金属片加固的定制旧背心。<br>在保持垂钓实用性的同时提供可靠防护。"
+	Tooltip_ScrapAngler_Vest = "用废金属片加固的定制旧背心。<br>在保持垂钓实用性的同时提供可靠防护。",
 	Tooltip_SpecialistRadio = "通讯专家专属的定制无线电，性能堪比军用设备。<br>坚固可靠且紧凑，确保最恶劣环境下的清晰通讯。",
 	Tooltip_SurvivorsCrunch = "由昆虫、木屑和微量土豆水果制成的生存口粮。<br>尽管口感奇特，但能恢复体力提升耐力。",
 	Tooltip_ThreadsmithsKit = "深度改装的缝纫工具包，扩展了储物空间并优化了收纳布局。",
@@ -941,7 +976,7 @@ Tooltip_CN = {
 	Tooltip_weapon_LoadedAmmo = "已装填",
 
 ---Ducks+---(3409153536)---
-	Tooltip_DuckBandaid = "可爱的鸭子创可贴。止血效果略好，还能让你会心一笑！"
+	Tooltip_DuckBandaid = "可爱的鸭子创可贴。止血效果略好，还能让你会心一笑！",
 
 ---RestoreUtilities---(3409422147)---
 	Tooltip_FuseCoilT1 = "减少50%维修引起的噪音，并提高25%的维修速度<br>维修设施时消耗！",
