@@ -1246,7 +1246,7 @@ Recipe_CN = {
 	Recipe_RipWornClothing		= "撕开穿过的衣物",
 	Recipe_RipDenimClothing		= "撕开牛仔/皮革衣物",
 	Recipe_RipWornDenimClothing	= "撕开穿过的牛仔/皮革衣物",
-	Recipe_CutUpBelt			= 切割皮带",
+	Recipe_CutUpBelt			= "切割皮带",
 	Recipe_PickThread			= "抽取线材",
 	Recipe_RipClothingBra  		= "撕开胸罩",
 
@@ -1743,7 +1743,7 @@ Recipe_CN = {
 	Recipe_Sew_Dust_Cloth = "缝制抹布",
 	Recipe_Knit_Bath_Towel = "编织浴巾",
 	Recipe_Sew_Dust_Cloth_Form_Hand_Towel = "从手巾缝制抹布",
-	Recipe_Sew_Dust_Cloth_From_Hand_Towel = 用手巾缝制抹布",
+	Recipe_Sew_Dust_Cloth_From_Hand_Towel = "用手巾缝制抹布",
 	Recipe_Rip_Dust_Cloth = "撕裂抹布",
 
 ---Metal Spears---(2927603127)---
@@ -3871,9 +3871,9 @@ Recipe_CN = {
 	Recipe_P4MakeStealthCamo = "制作隐形迷彩",
 	Recipe_P4RemoveBatteryStealthCamo = "移除电池",
 	Recipe_P4ResearchStealthCamo = "逆向研究隐形迷彩",
-	Recipe_P4UpgradeStealthCamo1 = "升级隐形迷彩,
-	Recipe_P4UpgradeStealthCamo2 = "升级隐形迷彩,
-	Recipe_P4UpgradeStealthCamo3 = "升级隐形迷彩,
+	Recipe_P4UpgradeStealthCamo1 = "升级隐形迷彩",
+	Recipe_P4UpgradeStealthCamo2 = "升级隐形迷彩",
+	Recipe_P4UpgradeStealthCamo3 = "升级隐形迷彩",
 
 ---Ammo Maker---(2788256295)---
 	Recipe_DisassembleAmmo = "拆解弹药",

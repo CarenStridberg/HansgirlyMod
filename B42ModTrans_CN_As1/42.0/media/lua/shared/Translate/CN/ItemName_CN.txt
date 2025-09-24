@@ -6824,7 +6824,7 @@ ItemName_CN = {
 	ItemName_RandomAirdropsASV.SmokeFlare = "信号棒",
 
 ---[B42] Bicycle!---(3461415167)---
-	ItemName_Bicycle.Basket = "自行车篮,
+ 	ItemName_Bicycle.Basket = "自行车篮",
 	ItemName_Bicycle.Bicycle = "自行车",
 	ItemName_Bicycle.Bicycle_Basket = "自行车篮",
 	ItemName_Bicycle.Bicycle_Crate = "自行车分格箱",
@@ -8148,7 +8148,7 @@ ItemName_CN = {
 	ItemName_Base.JurassicPark = "《侏罗纪公园》——迈克尔-克莱顿",
 	ItemName_Base.Petrus1970 = "1070年帕图斯——波美侯",
 	ItemName_Base.ScrapAngler_Vest = "废土钓客背心",
-	ItemName_Base.SinCity =《罪恶之城》——艰难告别",
+	ItemName_Base.SinCity = "《罪恶之城》——艰难告别",
 	ItemName_Base.TradersFannyPackBack = "商人腰包 (背后)",
 
 ---Militek Clothing---(3269061047)---
@@ -14596,7 +14596,7 @@ ItemName_CN = {
 	ItemName_Mixology.Icecube = "冰块",
 	ItemName_Mixology.Icecube_Melted = "冰块(融化)",
 	ItemName_Mixology.Jeagermeister = "野格",
-	ItemName_Mixology.KoolAidPackageCherry = 酷爱(樱桃)(整包)",
+	ItemName_Mixology.KoolAidPackageCherry = "酷爱(樱桃)(整包)",
 	ItemName_Mixology.KoolAidPackageGrape = "酷爱(葡萄)(整包)",
 	ItemName_Mixology.KoolAidPackageOrange = "酷爱(柑橘)(整包)",
 	ItemName_Mixology.KoolAidPackagePurple = "酷爱(葡萄霸王龙)(整包)",
