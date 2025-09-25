@@ -6803,5 +6803,16 @@ Sandbox_CN = {
 	Sandbox_PWPNXB_HandCrossbowSpawnMult_tooltip = "战利品中生成手弩的几率倍数",
 	Sandbox_PWPNXB_ImprovedCrossbowSpawnMult = "改良弩生成几率倍数",
 	Sandbox_PWPNXB_ImprovedCrossbowSpawnMult_tooltip = "战利品中生成改良弩的几率倍数",
-	
+
+---B42 Rain's Firearms & Gun Parts---(3387222454)---
+	Sandbox_SuppRate = "Rain枪械模组",
+	Sandbox_SuppInGunstore_SuppRate = "枪械商店-消音器",
+	Sandbox_SuppInGunstore_SuppRate_tooltip = "设定枪械商店中消音器的刷新概率",
+	Sandbox_SuppInMilitary_SuppRate = "军事区域-消音器",
+	Sandbox_SuppInMilitary_SuppRate_tooltip = "设定军事区域中消音器的刷新概率",
+	Sandbox_SuppInPolice_SuppRate = "警察局-消音器",
+	Sandbox_SuppInPolice_SuppRate_tooltip = "设定警察局中消音器的刷新概率",
+	Sandbox_OldPainless_SpawnRate = "老止痛药（转管机枪）",
+	Sandbox_OldPainless_SpawnRate_tooltip = "设定军事区域中转管机枪'老止痛药'的刷新概率",
+
 }

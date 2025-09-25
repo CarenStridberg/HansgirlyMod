@@ -1713,6 +1713,25 @@ ContextMenu_CN = {
 	ContextMenu_ProneAction_GetUp = "起身",
 	ContextMenu_ProneVehicleCrawlAction = "爬过车底",
 
+---B42 Rain's Firearms & Gun Parts---(3387222454)---
+	ContextMenu_InsertBulletsInMagazine = "将 %1 发子弹装入弹匣",
+	ContextMenu_Bag_Ammopack1Front = "佩戴",
+	ContextMenu_Bag_Ammopack2Front = "佩戴",
+	ContextMenu_Bag_Ammopack1Back = "佩戴",
+	ContextMenu_FireMode_308762Auto = "全自动",
+	ContextMenu_FireMode_308762Single = "半自动",
+	ContextMenu_FireMode_22355676239Auto = "全自动",
+	ContextMenu_FireMode_22355676239Single = "半自动",
+	ContextMenu_FireMode_MAC10Auto = "全自动",
+	ContextMenu_FireMode_MAC10Single = "半自动",
+	ContextMenu_FireMode_MGAuto = "全自动",
+	ContextMenu_FireMode_MGSingle = "半自动",
+	ContextMenu_FireMode_SMGAuto = "全自动",
+	ContextMenu_FireMode_SMGSingle = "半自动",
+	ContextMenu_FireMode_UZIAuto = "全自动",
+	ContextMenu_FireMode_UZISingle = "半自动",
+	ContextMenu_FireMode_DoubleBarrel = "双管模式",
+
 ---Moats---(3550032314)---
 	ContextMenu_DigMoats = "挖护城河",
 

@@ -8604,4 +8604,7 @@ IGUI_CN = {
 ---[B42]Pallontras Crossbows---(3400528439)---
     IGUI_PlayerText_PWPNXB_StringBreak = "弓弦断裂！",
 
+---(B42) Immersive Roleplay Professions and Traits---(3387474156)---
+    IGUI_perks_Husbandry = "畜牧",
+
 }
