@@ -2120,6 +2120,10 @@ ContextMenu_CN = {
 	ContextMenu_P4PickingMeister_OpenRingpullCannedFoodAndEat = "打开拉环罐头食品并食用",
 	ContextMenu_P4PickingMeister_RetrieveAllAmmo = "取出所有弹药",
 	ContextMenu_P4PickingMeister_TakeCigaretteAndSmoke = "拿一根香烟抽",
+	ContextMenu_P4PickingMeister_GrabAllSelected = "拿取所有选中物品",
+	ContextMenu_P4PickingMeister_UnpackAll = "全部打开",
+	ContextMenu_P4PickingMeister_UnpackHalf = "打开一半",
+	ContextMenu_P4PickingMeister_UnpackOne = "打开一个",
 
 ---Gauss Firearms---(3429953336)---
 	Bag_Camelbak = "Camelbak三开背包",
@@ -2248,6 +2252,8 @@ ContextMenu_CN = {
 	ContextMenu_UpJacketOpen = "竖起兜帽并敞开",
 	ContextMenu_UpJacketOpenRolledUpSleeves = "竖起兜帽、敞开并卷起袖子",
 	ContextMenu_UpJacketRolledUpSleeves = "竖起兜帽并卷起袖子",
+	ContextMenu_JacketOpenRolledUpSleeves = "展开袖子",
+	ContextMenu_WithBelts = "有绑带",
 
 ---S4 Economy[Shop]---(3480405054)---
 	ContextMenu_S4_ATM_Use = "使用ATM",
@@ -2607,5 +2613,14 @@ ContextMenu_CN = {
 	ContextMenu_MinimalDisplayBars_proteins = "蛋白质",
 	ContextMenu_MinimalDisplayBars_sickness = "生病状态",
 	ContextMenu_MinimalDisplayBars_stress = "压力值",
+
+---Halo Marine Armor [B41/B42]---(3507919075)---
+	ContextMenu_Addons = "佩戴（带配件）",
+	ContextMenu_Base = "佩戴（打开面罩）",
+	ContextMenu_Complete = "佩戴（打开全脸防护）",
+	ContextMenu_Facemask = "佩戴（打开面甲）",
+	ContextMenu_NoAddons = "佩戴（无配件）",
+	ContextMenu_NoVisor = "佩戴（关闭面罩）",
+	ContextMenu_NoVisorNoMask = "佩戴（基础版本）",
 
 }

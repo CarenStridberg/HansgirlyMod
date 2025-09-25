@@ -3824,6 +3824,11 @@ Recipe_CN = {
 	Recipe_firearmsOpenBoxOfBullets50 = "打开",
 	Recipe_firearmsSawOffRifle = "锯短",
 	Recipe_firearmsSawOffShotgun = "枪管锯短",
+	Recipe_Clean_gun_part = "清理枪械部件",
+	Recipe_Convert_to_.38 = "转换为.38特种弹",
+	Recipe_ExtendStock = "加长枪托",
+	Recipe_MakeImprovisedGunCleaningKit = "制作简易枪械清理工具",
+	Recipe_OpenCartonOfBullets_Firearms = "打开子弹纸盒（枪械）",
 
 ---Tactical Weapons---(2324223029)---
 	Recipe_BarbedWireCHockeyStick = "给碳纤维冰球棍缠绕铁丝网",
@@ -4806,6 +4811,7 @@ Recipe_CN = {
 	BuildYellowCautionTile = "建造黄色警示地砖",
 	BuildYellowFramedCautionTile = "建造黄色边框警示地砖",
 	BuildYellowLineCautionTile = "建造黄色线条警示地砖",
+	BuildSawmillConveyor = "建造锯木厂传送带",
 
 ---IndustrialRevolution---(3400131934)---
 	Recipe_OpenGift = "打开礼物",
@@ -5255,6 +5261,10 @@ Recipe_CN = {
 ---Zombaroid---(3519916139)---
 	OpenBoxPolaroidFilm10 = "拆封拍立得相纸(10张装)",
 	OpenBoxPolaroidFilm50 = "拆封拍立得相纸(50张装)",
+	OpenBoxPolaroidFilm20 = "打开拍立得胶卷盒",
+	Recipe_OpenBoxPolaroidFilm10 = "打开拍立得胶卷盒（10张装）",
+	Recipe_OpenBoxPolaroidFilm20 = "打开拍立得胶卷盒（20张装）",
+	Recipe_OpenBoxPolaroidFilm50 = "打开拍立得胶卷盒（50张装）",
 
 ---Spiffomon 3D [B42]---(3522453285)---
 	Recipe_OpenSpiffoBox = "打开斯皮福盒子",
@@ -5265,6 +5275,12 @@ Recipe_CN = {
 	Recipe_CraftChiliPowder = "制作辣椒粉",
 	Recipe_CraftGarlicPowder = "制作蒜粉",
 	Recipe_CraftOnionPowder = "制作洋葱粉",
+	CraftChiliFlakes = "制作辣椒片",
+	CraftChiliPowder = "制作辣椒粉",
+	CraftGarlicPowder = "制作蒜粉",
+	CraftOnionPowder = "制作洋葱粉",
+	CraftTomatoPaste = "制作番茄酱",
+	Recipe_CraftTomatoPaste = "制作番茄酱",
 	
 ---Support Goods Mega Mod [B42.10] - PREDATOR---(3512993822)---
 	Recipe_ABHPlay1 = "玩《僵尸城》",
@@ -7932,5 +7948,18 @@ Recipe_CN = {
 	Recipe_WriteTrappingManual3 = "撰写陷阱手册3",
 	Recipe_WriteTrappingManual4 = "撰写陷阱手册4",
 	Recipe_WriteTrappingManual5 = "撰写陷阱手册5",
+
+---The Division Backpack---(3391306957)---
+	Recipe_Make_Fabric_Roll_(Denim_Black) = "制作布料卷（黑色牛仔布）",
+	Recipe_Make_The_Division_Вackpack_Large = "制作全境封锁背包（大型）",
+	Recipe_Make_The_Division_Вackpack_Medium = "制作全境封锁背包（中型）",
+	Recipe_Make_The_Division_Вackpack_OP = "制作全境封锁背包（超模）",
+	Recipe_Make_The_Division_Вackpack_Small = "制作全境封锁背包（小型）",
+	Recipe_Make_The_Division_Вackpack_XL = "制作全境封锁背包（特大）",
+	Recipe_Make_The_Renegade_Вackpack_Large = "制作叛逆者背包（大型）",
+	Recipe_Make_The_Renegade_Вackpack_Medium = "制作叛逆者背包（中型）",
+	Recipe_Make_The_Renegade_Вackpack_OP = "制作叛逆者背包（超模）",
+	Recipe_Make_The_Renegade_Вackpack_Small = "制作叛逆者背包（小型）",
+	Recipe_Make_The_Renegade_Вackpack_XL = "制作叛逆者背包（特大）",
 
 }

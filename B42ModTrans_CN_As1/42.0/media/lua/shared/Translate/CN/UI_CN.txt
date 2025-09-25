@@ -3323,7 +3323,7 @@ UI_CN = {
 	UI_IndustrialRevolution_sayneedcanoffuel = "我需要一罐燃料。",
 	UI_IndustrialRevolution_sayneedemptyfuelcan = "我需要一个空燃料罐。",
 	UI_IndustrialRevolution_sayneedscrap = "我需要电子废料或废金属来修理这个发电机。",
-	UI_IndustrialRevolution_sayneedsgenerator = "我需要附近有一个发电机来供电。"
+	UI_IndustrialRevolution_sayneedsgenerator = "我需要附近有一个发电机来供电。",
 	UI_IndustrialRevolution_sayneedturngeneratoroff = "我需要先关闭发电机。",
 	UI_IndustrialRevolution_status = "状态",
 	UI_IndustrialRevolution_takefuel = "取燃料",
@@ -3398,6 +3398,9 @@ UI_CN = {
 	UI_P4PickingMeister_Options_ShowInactiveMenu_Tooltip = "即使内容物为空也显示菜单。",
 	UI_P4PickingMeister_Tooltip_AlreadyInProgress = "正在进行中",
 	UI_P4PickingMeister_Tooltip_Empty = "内容物为空。",
+	UI_P4PickingMeister_Tooltip_CantDrinkMore = "喝不下更多了。",
+	UI_P4PickingMeister_Tooltip_NotSelected = "右键点击选择物品。",
+	UI_P4PickingMeister_Tooltip_NotSelectedJoypad = "按Y键选择物品。",
 
 ---Mod Load Order Sorter [b42]---(3423660713)---
 	UI_HomeInventory_CloseButton = "关闭",
@@ -3608,6 +3611,13 @@ UI_CN = {
 	UI_EatSmart_goalHunger1Enable_tooltip = "启用此选项后，将尽可能精确进食以达到设定的'饥饿度1级'目标。<LINE>若无法达成目标<LINE>(食物不足或已超过目标值)，该选项将自动禁用。<LINE>0%表示完全不饿，100%表示极度饥饿。<LINE>角色饥饿状态：<LINE>1级：15%饥饿度<LINE>2级：25%饥饿度<LINE>3级：45%饥饿度<LINE>4级：70%饥饿度",
 	UI_EatSmart_goalHunger1Value = "饥饿度1级[%]",
 	UI_EatSmart_goalHunger1Value_tooltip = "设定希望达成的饥饿度百分比[%]",
+	UI_EatSmart_goalHunger1Enable = "启用'饥饿度1'目标",
+	UI_EatSmart_goalProteins1Enable = "启用'蛋白质1'目标",
+	UI_EatSmart_goalProteins1Enable_tooltip = "如果可能，启用仅食用达到'蛋白质1'目标所需食物的选项。<LINE>如果无法达到目标<LINE>（食物不足或已超过目标），该选项将被禁用。<LINE>当蛋白质值大于50且小于300时，力量经验获取有x1.5倍加成。<LINE>当蛋白质值小于-300时，力量经验获取有x0.7倍惩罚。",
+	UI_EatSmart_goalProteins1Value = "蛋白质1",
+	UI_EatSmart_goalProteins1Value_tooltip = "如果可能，将达到的蛋白质数值。<LINE>如果无法达到目标<LINE>（食物不足或已超过目标），该选项将被禁用。<LINE>当角色蛋白质值大于50且小于300时，力量经验获取有x1.5倍加成。<LINE>当角色蛋白质值小于-300时，力量经验获取有x0.7倍惩罚。",
+	UI_EatSmart_goalThirst0Enable = "启用'0%口渴度'目标",
+	UI_EatSmart_goalThirst0Enable_tooltip = "如果可能，启用仅食用达到0%口渴度所需食物的选项。<LINE>如果无法达到目标<LINE>（食物不足或已超过目标），该选项将被禁用。",
 
 ---Washing Menus Improved---(3460812542)---
 	UI_EatSmart_goalCalories1Enable = "‘卡路里等级1’目标",
@@ -3843,6 +3853,9 @@ UI_CN = {
 	UI_UnknownDate = "日期未知",
 	UI_ViewPoalroid = "查看拍立得",
 	UI_WriteNote = "添加备注",
+	UI_Month_March = "3月",
+	UI_TakePolaroidPhoto = "拍摄拍立得照片",
+	UI_UnloadFilm = "取出胶卷",
 
 ---[B41/B42] Toughness Skill---(3545533939)---
 	UI_trait_tough = "意志坚定",
