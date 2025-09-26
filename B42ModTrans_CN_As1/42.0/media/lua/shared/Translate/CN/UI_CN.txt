@@ -4682,4 +4682,8 @@ UI_CN = {
 	UI_trait_gunenthusiastRFNGPdesc = "射击场的常客.<br>+1 瞄准<br>+1 装弹<br>+1 灵活",
 	UI_CraftCat_Ammunition = "弹药制作",
 
+---Guns of 93: B42 Test Build (Unstable)---(3183820077)---
+	UI_optionscreen_binding_BayonetUse = "93式枪械刺刀",
+	UI_optionscreen_binding_UseBayonet_Toggle = "在刺刀/枪械模式间切换",
+
 }

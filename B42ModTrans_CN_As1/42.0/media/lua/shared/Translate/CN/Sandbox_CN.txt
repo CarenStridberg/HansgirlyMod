@@ -6893,4 +6893,16 @@ Sandbox_CN = {
 	Sandbox_OldPainless_SpawnRate = "老止痛药（转管机枪）",
 	Sandbox_OldPainless_SpawnRate_tooltip = "设定军事区域中转管机枪'老止痛药'的刷新概率",
 
+---Guns of 93: B42 Test Build (Unstable)---(3183820077)---
+	Sandbox_Guns93HandgunRecoilMin = "手枪最小后坐力延迟",
+	Sandbox_Guns93HandgunRecoilMin_tooltip = "手枪可能的最小后坐力延迟。数值越小，射速越快。数值越大，射速越慢",
+	Sandbox_Guns93LongGunRecoilMin = "长枪最小后坐力延迟",
+	Sandbox_Guns93LongGunRecoilMin_tooltip = "步枪、卡宾枪和霰弹枪可能的最小后坐力延迟。数值越小，射速越快。数值越大，射速越慢",
+	Sandbox_Guns93RecoilAdjust = "后坐力延迟调整",
+	Sandbox_Guns93RecoilAdjust_tooltip = "后坐力延迟将被乘上的数值。低于1将增加每把枪的射速。高于1将降低射速",
+	Sandbox_Guns93ZedBayonet = "禁用僵尸身上的刺刀生成",
+	Sandbox_Guns93ZedBayonet_tooltip = "刺刀将不会在僵尸身上生成",
+	Sandbox_Guns93ZedGuns = "禁用僵尸身上的枪械生成",
+	Sandbox_Guns93ZedGuns_tooltip = "枪械将不会在僵尸身上生成",
+
 }
