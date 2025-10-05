@@ -4284,9 +4284,9 @@ IGUI_CN = {
 	IGUI_Airdrop_Name_Louis_Ville_Airport = "在路易斯维尔机场",
 	IGUI_Airdrop_Name_Louis_Ville = "在路易斯维尔",
 	IGUI_Airdrop_Name_Water_Treatment_Plant = "在净水厂",
-	IGUI_Airdrop_Name_Irvington = "在以革伦",
+	IGUI_Airdrop_Name_Irvington = "在欧文顿",
 	IGUI_Airdrop_Name_Valley_Station = "在山谷站",
-	IGUI_Airdrop_Name_Echo_Creek = "在回声溪",
+	IGUI_Airdrop_Name_Echo_Creek = "在回声河",
 	IGUI_Airdrop_Name_Ekron = "在以革伦",
 	IGUI_Airdrop_Name_Brandenburg = "在勃兰登堡",
     IGUI_AirdropRadio_Message_1 = "空投即将开始",
@@ -6478,9 +6478,11 @@ IGUI_CN = {
 ---[B42/41] Improved Farming Info Window---(3470852353)---
     IGUI_ImprovedFarmingInfoWindow_IsCursed = "受诅咒",
 
----[B42] Noir's Rifle Slings---(3388107363)---
-    IGUI_CraftCategory_Tailoring = "缝纫",
-    IGUI_HotbarAttachment_Sling = "步枪背带",
+----------------[B42] Noir's Rifle Slings（3388107363）----------------
+    IGUI_HotbarAttachment_Sling = "步枪背带 (\)",
+    IGUI_HotbarAttachment_SlingAlt = "步枪背带 (/)",
+    IGUI_HotbarAttachment_SlingAlt2 = "步枪背带 (--)",
+    IGUI_HotbarAttachment_SlingAlt3 = "步枪背带 (背面)",
 
 ---My So-Called Bag---(2823166698)---
     IGUI_HotbarAttachment_P4DuffelBagHandle = "背包提手",

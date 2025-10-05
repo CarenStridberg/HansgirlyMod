@@ -14571,7 +14571,7 @@ ItemName_CN = {
 	ItemName_Tikitown.Vietnam_USJacket = "越战美军夹克",
 	ItemName_Tikitown.Vietnam_USTrousers = "越战美军长裤",
 	ItemName_Tikitown.Shirt_Purple_TEP = "TEP T恤(紫)",
-	ItemName_Tikitown.Shorts_TEPLong = "TEP 短裤(灰)"，
+	ItemName_Tikitown.Shorts_TEPLong = "TEP 短裤(灰)",
 	ItemName_Tikitown.TikitownTonic = "汤力水",
 	ItemName_Tikitown.GoKartWheel = "蒂基镇卡丁车轮胎",
 	ItemName_Tikitown.Baseball_Card_01 = "01 迭戈·里士满",
@@ -14629,7 +14629,19 @@ ItemName_CN = {
 	ItemName_Tikitown.Used_Sorted_Full_Baseball_Card_Box = "棒球卡收纳盒·已使用",
 	ItemName_Tikitown.Tikitorch_Base = "蒂基镇火炬",
 	ItemName_Tikitown.Slouch_Hat = "炮兵阔边帽",
-
+	ItemName_Tikitown.Armor_LEO_Ranger = "游骑兵特遣队防弹背心",
+    ItemName_Tikitown.Polo_LEO_Ranger = "游骑兵特遣队Polo衫",
+    ItemName_Tikitown.Shirt_LEO_Ranger = "游骑兵特遣队衬衫",
+    ItemName_Tikitown.TShirt_LEO_Ranger = "游骑兵特遣队T恤",
+    ItemName_Tikitown.DressJacket_LEO_Ranger = "游骑兵特遣队正装夹克",
+    ItemName_Tikitown.Jacket_LEO_Ranger = "游骑兵特遣队夹克",
+    ItemName_Tikitown.Shoes_RangerBoots = "游骑兵特遣队靴子",
+    ItemName_Tikitown.Skirt_Knees_BSSO = "黑盾治安局 分配及膝裙",
+    ItemName_Tikitown.Shorts_LEO_Ranger = "游骑兵特遣队短裤",
+    ItemName_Tikitown.Trousers_LEO_Ranger = "游骑兵特遣队长裤",
+    ItemName_Tikitown.Hat_LEO_Ranger = "游骑兵特遣队军帽",
+    ItemName_Tikitown.Jenntacles_Plush = "詹塔克尔斯毛绒玩偶",
+	
 ---Project Summer Car [B42]---(3564950449)---
 	ItemName_Base.AirConditioner1_1 = "空调",
 	ItemName_Base.AirConditioner1_2 = "空调",

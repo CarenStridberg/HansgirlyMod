@@ -1161,8 +1161,10 @@ Recipe_CN = {
 	Recipe_Create_RescueAxe = "制作救援斧",
 
 ---[B42] Fruits in jars---(3432006285)---
-	Recipe_OpenJarOfFood_Trex = "打开食物罐头_Trex",
-	Recipe_MakeJar_Trex = "制作罐头_Trex",
+	Recipe_OpenJarOfFood_Trex = "打开糖水水果罐头",
+	Recipe_MakeJar_Trex = "制作糖水水果罐头",
+	MakeJar_Trex = "制作糖水水果罐头",
+	OpenJarOfFood_Trex = "打开糖水水果罐头",
 
 ---B42 Insect Foraging---(3437552077)---
 	Recipe_Searching_for_Worm = "搜寻蚯蚓",

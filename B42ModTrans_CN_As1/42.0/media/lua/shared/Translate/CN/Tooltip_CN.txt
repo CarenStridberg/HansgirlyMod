@@ -1986,4 +1986,12 @@ Tooltip_CN = {
 	Tooltip_weapon_Threading = "螺纹",
 	Tooltip_weapon_Trigger = "发射控制机构 (扳机组件)",
 
+---ST Additions - Pry Open(3579640010)---
+    Tooltip_STA_PryOpen_ReqStrength = "力量 %1/%2.",
+    Tooltip_STA_PryOpen_NeedCrowbar = "需要一根可用的撬棍.",
+    Tooltip_STA_PryOpen_chanceInjury = "受伤概率:",
+
+---More Car Features + Spawn Zones Expansion---(3520758551)---
+	Tooltip_Gamesta_NewCondition = "新状态",
+
 }
