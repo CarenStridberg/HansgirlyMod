@@ -7001,6 +7001,8 @@ Sandbox_CN = {
     Sandbox_STA_PryOpen_PryChanceDurability_tooltip = "尝试撬开后撬棍损失耐久度的百分比几率.",
     Sandbox_STA_PryOpen_PryBonusSkillMaintenance = "每级维护技能耐久减免",
     Sandbox_STA_PryOpen_PryBonusSkillMaintenance_tooltip = "每级保养维护减少的耐久损失几率.",
+    Sandbox_STA_PryOpen_PryEnableAlarmSuccess = "启用成功撬开后禁用警报",
+    Sandbox_STA_PryOpen_PryEnableAlarmSuccess_tooltip = "切换是否在成功撬开后禁用警报系统.",
 
 ---More Car Features + Spawn Zones Expansion---(3520758551)---
 	Sandbox_WayMoreCars = "更多车辆功能+刷新区域扩展",

@@ -1029,3 +1029,5 @@ Mod:inimal Display Bars + Nutritions + Discomfort [B41/B42]---ID:3388844542
 Mod:Wolf Extraction Quest---ID:2987772693
 
 Mod:Guns of 93: B42 Test Build (Unstable)---ID:3183820077
+
+Mod:Daihatsu Hijet S83P/S110P---ID:3583266047

@@ -2751,5 +2751,7 @@ ContextMenu_CN = {
     ContextMenu_STA_PryOpen_Vehicle_Generic = "撬开车门",
     ContextMenu_STA_PryOpen_Vehicle_Trunk = "撬开后备箱",
     ContextMenu_STA_PryOpen_JobLabel = "正在撬开...",
-
+	ContextMenu_STA_PryOpen_Radial = "撬开 %s",
+    ContextMenu_STA_PryOpen_Radial_NoCrowbar = "需要撬棍",
+    ContextMenu_STA_PryOpen_Radial_NoStrength = "力量不足",
 }

@@ -8640,4 +8640,21 @@ IGUI_CN = {
     IGUI_FirearmRadial_UseFirearm = "用作枪械",
     IGUI_PlayerText_BayoBroken = "刺刀已损坏!",
 
+---Daihatsu Hijet S83P/S110P---(3583266047)---
+    IGUI_VehicleNamehijet100p = "大发 Hijet S86P 美规版",
+    IGUI_VehicleNamehijet100pJDM = "大发 Hijet S110P 日规版: 进口",
+    IGUI_VehicleNamehijet100pJDMTurbo = "大发 Hijet S110P 日规涡轮版: 进口",
+    IGUI_VehiclePartATA2VisualWires = "'备胎罩2",
+    IGUI_VehiclePartATAVisualLadder = "'灯架",
+    IGUI_VehiclePartATA2VisualSkirtsSide = "'备胎罩",
+    IGUI_VehiclePartATA2VisualSpoilerRear = "'货箱盖",
+    IGUI_VehiclePartATA2VisualSnorkel = "'挡泥板",
+    IGUI_VehiclePartATA2VisualSpoilerFront = "'电池盖",
+    IGUI_VehiclePartATA2InteractiveTrunkFront = "工具箱",
+    IGUI_VehiclePartATAVisualFendersWide = "发电机",
+
+---ST Additions - Pry Open(3579640010)---
+	IGUI_STA_PryOpen_Success = "芝麻开门.",
+	IGUI_STA_PryOpen_Failure = "不行...纹丝不动.",
+	IGUI_STA_PryOpen_Injury = "手受伤了, 需要包扎.",
 }
