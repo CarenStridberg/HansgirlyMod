@@ -8162,4 +8162,118 @@ Recipe_CN = {
 	Recipe_ThreadBarrel = "为枪口车削螺纹",
 	Recipe_UziToColt = "改装弹匣以适用于柯尔特635",
 
+
+---Pomp's Items---(2752664795)---	
+	Recipe_PIOpenMysteryBox = "打开神秘盒子"
+
+---Water Goes Bad---(2849467715)---	
+	Recipe_MakeTapFilter = "制作过滤器"
+
+---Skyler DrugMod [B41 & B42]---(2900366269)---	
+	Recipe_Add_Crack_To_Drug_Pipe = "将快克加入吸毒管",
+	Recipe_Add_Crystal_Meth_To_Drug_Pipe = "将冰毒加入吸毒管",
+	Recipe_Add_Heroin_To_Needle = "将海洛因装入注射器",
+	Recipe_Lay_Out_Four_Lines = "准备四道粉状线",
+	Recipe_Make_Baking_Tray_with_Crystal_Meth = "在烤盘中冷却冰毒",
+	Recipe_Make_Crack = "制作快克",
+	Recipe_Make_Pot_of_Crystal_Meth = "烹制一锅冰毒",
+	Recipe_Open_Bag_Of_Shrooms = "打开袋装蘑菇",
+	Recipe_Open_Cocaine_Brick = "打开可卡因砖",
+	Recipe_Package_Crystal_Meth = "分装冰毒"
+
+---Christmas Time [b41/42 demo]---(2903870217)---	
+	Recipe_Make_Beige_Present Box = "制作礼物盒",
+	Recipe_Make_Blue_Present Box = "制作礼物盒",
+	Recipe_Make_Garland = "制作花环",
+	Recipe_Make_Green_Present Box = "制作礼物盒",
+	Recipe_Make_Santa_Hat = "制作圣诞老人帽",
+	Recipe_Make_Tree_Lightable_AH1 = "制作光源",
+	Recipe_Make_Tree_Lightable_AH2 = "制作光源",
+	Recipe_Make_Tree_Lightable_AH3 = "制作光源",
+	Recipe_Make_Tree_Lightable_AH4 = "制作光源",
+	Recipe_Make_Tree_Lightable_AH5 = "制作光源",
+	Recipe_Make_Tree_Lightable_AH6 = "制作光源",
+	Recipe_Make_Tree_Lightable_AH7 = "制作光源",
+	Recipe_Make_Tree_Lightable_AH8 = "制作光源",
+	Recipe_Make_Tree_Lightable_CH1 = "制作光源",
+	Recipe_Make_Tree_Lightable_CH2 = "制作光源",
+	Recipe_Make_Tree_Lightable_CH3 = "制作光源",
+	Recipe_Make_Tree_Lightable_CH4 = "制作光源",
+	Recipe_Make_Tree_Lightable_CH5 = "制作光源",
+	Recipe_Make_Tree_Lightable_CH6 = "制作光源",
+	Recipe_Make_Tree_Lightable_CH7 = "制作光源",
+	Recipe_Make_Tree_Lightable_CH8 = "制作光源",
+	Recipe_Make_Tree_Nonlightable_AH1 = "制作装饰物",
+	Recipe_Make_Tree_Nonlightable_AH2 = "制作装饰物",
+	Recipe_Make_Tree_Nonlightable_AH3 = "制作装饰物",
+	Recipe_Make_Tree_Nonlightable_AH4 = "制作装饰物",
+	Recipe_Make_Tree_Nonlightable_AH5 = "制作装饰物",
+	Recipe_Make_Tree_Nonlightable_AH6 = "制作装饰物",
+	Recipe_Make_Tree_Nonlightable_AH7 = "制作装饰物",
+	Recipe_Make_Tree_Nonlightable_AH8 = "制作装饰物",
+	Recipe_Make_Tree_Nonlightable_CH1 = "制作装饰物",
+	Recipe_Make_Tree_Nonlightable_CH2 = "制作装饰物",
+	Recipe_Make_Tree_Nonlightable_CH3 = "制作装饰物",
+	Recipe_Make_Tree_Nonlightable_CH4 = "制作装饰物",
+	Recipe_Make_Tree_Nonlightable_CH5 = "制作装饰物",
+	Recipe_Make_Tree_Nonlightable_CH6 = "制作装饰物",
+	Recipe_Make_Tree_Nonlightable_CH7 = "制作装饰物",
+	Recipe_Make_Tree_Nonlightable_CH8 = "制作装饰物"
+
+---[B42] School's Out: Anime-Style Student Uniforms---(3404301631)---	
+	Recipe_ShortenSchoolSkirt = "改短校裙",
+	Recipe_TieButterflyKnot = "系蝴蝶结",
+	Recipe_TieSmallRibbonKnot = "系小缎带结",
+	Recipe_TieTriangleKnot = "系三角结",
+	Recipe_UntieTriangleTie = "解开三角领结"
+
+---The Best Lockpicking aka Better Lockpicking [B42]---(3440867775)---	
+	Recipe_Create_BobbyPin = "制作发夹",
+	Recipe_Create_BobbyPin2 = "制作发夹"
+
+---[J&G] Firefighter Uniform [B42/41]---(3521263771)---	
+	Recipe_KATTAJ1_InsertBattery = "装入电池",
+	Recipe_KATTAJ1_RemoveBattery = "拆除电池"
+
+---UNOFFICIAL Fools New Containers for B42---(3535295548)---	
+	Recipe_CloseNCContainer = "关闭带盖容器",
+	Recipe_Close_Flask = "盖上水瓶",
+	Recipe_Close_Kids_Flask = "盖上儿童水瓶",
+	Recipe_Fill_Beverage_Jug_with_Soda = "在饮料桶中加入苏打水",
+	Recipe_HollowOutRock = "挖空石头",
+	Recipe_Hollow_out_Rock = "镂空岩石",
+	Recipe_Load_Wood_Carrier = "装载木材运输篮",
+	Recipe_MakeBreadBox = "制作面包箱",
+	Recipe_MakeForagingPouch = "制作搜寻袋",
+	Recipe_MakeJewelryBox = "制作首饰盒",
+	Recipe_MakeKindlingBox = "制作柴火箱",
+	Recipe_MakeSpiceRack = "制作调料架",
+	Recipe_Make_2_Kids_Flasks_of_Soup = "做 2 儿童水瓶炖汤",
+	Recipe_Make_2_Kids_Flasks_of_Stew = "做 2 儿童水瓶炖菜",
+	Recipe_Make_Bread_Box = "制作面包箱",
+	Recipe_Make_Firewood = "制作柴火",
+	Recipe_Make_Flask_of_Coffee = "泡一瓶咖啡",
+	Recipe_Make_Flask_of_Tea = "泡一瓶茶",
+	Recipe_Make_Foraging_Pouch = "制作觅食袋",
+	Recipe_Make_Jewelry_Box = "制作珠宝盒",
+	Recipe_Make_Kindling = "制作引火物",
+	Recipe_Make_Kindling_Box = "制作柴火盒",
+	Recipe_Make_Spice_Rack = "制作调味架",
+	Recipe_Make_Wood_Carrier = "制作木材运输篮",
+	Recipe_OpenNCContainer = "打开带盖容器",
+	Recipe_Open_Flask = "打开水瓶",
+	Recipe_Open_Kids_Flask = "打开儿童水瓶",
+	Recipe_Remove_Jug_Cover = "取下桶盖",
+	Recipe_Replace_Jug_Cover = "更换桶盖",
+	Recipe_ScrapFirewood = "制作柴火",
+	Recipe_ScrapLargeKindling = "分解大柴火",
+	Recipe_ScrapMediumKindling = "分解中柴火",
+	Recipe_ScrapSmallKindling = "分解小柴火",
+	Recipe_Unload_Wood_Carrier = "卸载木材运输篮"
+
+---[B42] Immersive Preservation: Canning and Jarring (of evolved recipes)---(3560836822)---	
+	Recipe_IPJarringMake2BowlsOfJars = "将食物分装成 2 碗",
+	Recipe_IPJarringMake4BowlsOfJars = "将食物分装成 4 碗",
+	Recipe_IPJarringMakeJar = "制作食品罐头",
+	Recipe_IPJarringOpenJarOfFood = "开启食品罐头"
 }

@@ -1031,3 +1031,107 @@ Mod:Wolf Extraction Quest---ID:2987772693
 Mod:Guns of 93: B42 Test Build (Unstable)---ID:3183820077
 
 Mod:Daihatsu Hijet S83P/S110P---ID:3583266047
+
+Mod:ra's Professions---ID:2675128168
+
+Mod:Low Condition Guns [B41/B42]---ID:3579180724
+
+Mod:Generator Streetlights Restored---ID:3578735933
+
+Mod:Realistic Car Physics [B42]---ID:3559765660
+
+Mod:Show Key Origin---ID:3501701205
+
+Mod:Time Decreases Vehicle Condition [B42]---ID:3448375286
+
+Mod:TwisTonFire - Dude, Where Is My Car?---ID:3576268735
+
+Mod:[B41 / B42] Load All Magazines---ID:2920899878
+
+Mod:[B41/42] Known And Collected---ID:2881764317
+
+Mod:[B41/B42] I Don't Need A Lighter---ID:2714198296
+
+Mod:[B41/B42] Item Condition---ID:2852309899
+
+Mod:[B41/B42]I Might Need A Lighter---ID:2883633728
+
+Mod:[B42.1.1] Neon moodle levels---ID:3392116408
+
+Mod:[B42] Alternative Inventory Rendering---ID:3394402683
+
+Mod:[B42] Attach Bags To Sheet Rope---ID:3504700167
+
+Mod:[B42] Bicscalibur BIC Pen Weapon---ID:3400983311
+
+Mod:[B42] Harder Hotwire---ID:3391549481
+
+Mod:[B42] Immersive Preservation: Canning and Jarring (of evolved recipes)---ID:3560836822
+
+Mod:[B42] School's Out: Anime-Style Student Uniforms---ID:3404301631
+
+Mod:[B42] Show Weapon Stats Plus---ID:3391710239
+
+Mod:[B42]Project RV Interior---ID:3543229299
+
+Mod:[J&G] Firefighter Uniform [B42/41]---ID:3521263771
+
+Mod:[J&G] Neon Vandals Uniform [B42/41]---ID:3497172953
+
+Mod:1993 American Vehicle Pack (BUILD .41/.42)---ID:2809058492
+
+Mod:Better Flashlights [B42]---ID:3420478458
+
+Mod:Better Generator Info---ID:3576056135
+
+Mod:Bushcraft Gear - Rare Weapons [B41 & B42]---ID:2432621382
+
+Mod:Change Sandbox Options (by Star)---ID:2894296454
+
+Mod:Christmas Time [b41/42 demo]---ID:2903870217
+
+Mod:Detailed Skill Tooltips---ID:3572846242
+
+Mod:Easy Drop'n'Loot---ID:2871469707
+
+Mod:Easy Spare Magazine Reload---ID:3390014923
+
+Mod:Equipment UI - Paper Doll Equipment Interface [B42/41]---ID:2950902979
+
+Mod:Fire Resistence---ID:2863836591
+
+Mod:Fridges Off!---ID:2853974107
+
+Mod:Functional Clipboard [B41/B42]---ID:3387382165
+
+Mod:Headwear Won't Fall---ID:3400293227
+
+Mod:Inventory Tetris - Grid Based Inventory Overhaul [B42]---ID:3397561666
+
+Mod:Item Stories [b42] (All in One)---ID:3569303590
+
+Mod:Neat Crafting & Neat Building - Addon XP Display---ID:3540503606
+
+Mod:Pomp's Items - Five Nights at Freddy's---ID:2752664795
+
+Mod:PZ-ClothingUI - Clothing items grid view (B41 + B42)---ID:2695471997
+
+Mod:Random Zombies---ID:2818577583
+
+Mod:RV Life---ID:3553635874
+
+Mod:Skyler DrugMod [B41 & B42]---ID:2900366269
+
+Mod:Smart Radial Menu---ID:3494108029
+
+Mod:Swap It---ID:2366717227
+
+Mod:The Best Lockpicking aka Better Lockpicking [B42]---ID:3440867775
+
+Mod:Undying Zombies (Immersive Respawn Replacement)---ID:3555199477
+
+Mod:UNOFFICIAL Fools New Containers for B42---ID:3535295548
+
+Mod:Water Goes Bad---ID:2849467715
+
+Mod:Yaki's BarberShop---ID:2810471370

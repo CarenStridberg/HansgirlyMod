@@ -1994,4 +1994,106 @@ Tooltip_CN = {
 ---More Car Features + Spawn Zones Expansion---(3520758551)---
 	Tooltip_Gamesta_NewCondition = "新状态",
 
+
+---Pomp's Items---(2752664795)---	
+	Tooltip_PIFNAFBag = "《玩具熊的五夜后宫》",
+	Tooltip_PIFanBonnie = "灵感来自 kauamelo25 的设计",
+	Tooltip_PIFanFoxy = "灵感来自 DAZassassin100 的设计",
+	Tooltip_PIFanMangle = "灵感来自 SketchQuill 的设计",
+	Tooltip_PIMangle = "孩子们有时很残忍"
+
+---Skyler DrugMod [B41 & B42]---(2900366269)---	
+	Tooltip_Acid = "一种强效致幻剂.",
+	Tooltip_BagShrooms = "含有大量迷幻蘑菇.",
+	Tooltip_Blockcocaine = "含有大量可卡因.",
+	Tooltip_Cocaine = "用于从袋中吸食可卡因, 或可用于制作成条状可卡因.",
+	Tooltip_Crack = "需要吸毒工具来吸食快克可卡因.",
+	Tooltip_CrackPipe = "用于吸食快克可卡因.",
+	Tooltip_DrugPipe = "用于吸食冰毒和快克可卡因. 需要点火工具.",
+	Tooltip_Fentanyl = "吸入芬太尼, 为何不可?",
+	Tooltip_Heroin = "需要注射器来注射海洛因.",
+	Tooltip_HeroinNeedle = "用于注射海洛因.",
+	Tooltip_LineCocaine = "用于吸食成条状的可卡因.",
+	Tooltip_Meth = "需要吸毒工具来吸食冰毒.",
+	Tooltip_MethPipe = "专门用于吸食冰毒的工具.",
+	Tooltip_Needle = "用于注射海洛因.",
+	Tooltip_Oxycodone = "一种强效阿片类止痛药.",
+	Tooltip_Shrooms = "含有能诱发幻觉的迷幻蘑菇.",
+	Tooltip_Speed = "一种兴奋剂药物, 能增加能量和警觉性.",
+	Tooltip_Xanax = "用于治疗焦虑和恐慌障碍的药物."
+
+---Functional Clipboard [B41/B42]---(3387382165)---	
+	Tooltip_Clipboard = "允许您创建和共享清单",
+	Tooltip_Clipboard_AddPaper = "向剪贴板添加一张纸",
+	Tooltip_Clipboard_ChangeName = "修改剪贴板名称",
+	Tooltip_Clipboard_Full = "剪贴板已满",
+	Tooltip_Clipboard_NoPaper = "物品栏中没有纸张",
+	Tooltip_Clipboard_NoPaperInside = "剪贴板内没有纸张",
+	Tooltip_Clipboard_NoWall = "切换剪贴板模型为平放模式",
+	Tooltip_Clipboard_Open = "打开剪贴板查看和编辑内容",
+	Tooltip_Clipboard_Pickup = "拿起剪贴板",
+	Tooltip_Clipboard_ReadOnly = "阅读剪贴板内容, 但需要拿起后才能进行修改",
+	Tooltip_Clipboard_RemovePaper = "从剪贴板移除一张纸",
+	Tooltip_Clipboard_TakeOff = "剪贴板必须在物品栏中才能改变位置",
+	Tooltip_Clipboard_Wall = "切换剪贴板模型为可挂在墙上模式"
+
+---[B42] Show Weapon Stats Plus---(3391710239)---	
+	Tooltip_SWSP_Axe = "斧",
+	Tooltip_SWSP_Blunt = "长棍",
+	Tooltip_SWSP_BreakChance = "损坏率: 1/(%d + %d)",
+	Tooltip_SWSP_Condition = "耐久度: %d/%d",
+	Tooltip_SWSP_Crit = "暴击: %s%% (+%d%%), %sx",
+	Tooltip_SWSP_Damage = "伤害: %s- %s (+%d%%)",
+	Tooltip_SWSP_EnduranceMod = "耐力消耗: %s",
+	Tooltip_SWSP_Firearm = "枪械",
+	Tooltip_SWSP_GunAccuracy = "精准度: %d%% (+%d)%%",
+	Tooltip_SWSP_GunMisc = "瞄准/装填/后坐力 时间: %d/%d/%d",
+	Tooltip_SWSP_GunNoise = "噪音半径/音量: %d/%d",
+	Tooltip_SWSP_GunRange = "射程: %s - %s (+%d%%)",
+	Tooltip_SWSP_HeadCondition = "头部耐久度: %s/%s",
+	Tooltip_SWSP_Improvised = "简易武器",
+	Tooltip_SWSP_LongBlade = "长刀",
+	Tooltip_SWSP_MaxHit = "最大命中: %d",
+	Tooltip_SWSP_Range = "范围: %s - %s",
+	Tooltip_SWSP_SmallBlade = "短刀",
+	Tooltip_SWSP_SmallBlunt = "短棍",
+	Tooltip_SWSP_Spear = "长矛",
+	Tooltip_SWSP_SwingTime = "攻击速度: %s",
+	Tooltip_SWSP_TreeBreakChance = "树木损坏率: 1/%d"
+
+---[B42] Bicscalibur BIC Pen Weapon---(3400983311)---	
+	Tooltip_BicPen = "一支精巧的四色笔.",
+	Tooltip_ComicBicPen = "一支滑稽的大号笔.  <br>虽然它的大小可能很有趣, 但可不是玩笑<br>这件巨大的物品是在一百万个打火机的火焰中锻造而成, <br>由一万个剃刀刀片的钢制成<br>它也可以在纸上写字.",
+	Tooltip_Map_NeedBicPen = "你需要一支四色笔"
+
+---[B42] School's Out: Anime-Style Student Uniforms---(3404301631)---	
+	Tooltip_TriangleTie = "一种搭配水手服的多功能配饰. 必须系好才能穿."
+
+---Better Flashlights [B42]---(3420478458)---	
+	Tooltip_BF_EgenerexLite_BetterFlashlights = "EGENEREX 生产的极其耐用手电筒.",
+	Tooltip_BF_OldFlashlight_BetterFlashlights = "一把奇怪的生锈旧手电筒.",
+	Tooltip_BF_SpiffoLitee_BetterFlashlights = "斯皮福生产的廉价塑料手电筒.",
+	Tooltip_EmergencyFlashlight_BetterFlashlights = "专为紧急情况设计的强力手电筒.",
+	Tooltip_HandTorch_Army1_BetterFlashlights = "一把非常坚固的手电筒.",
+	Tooltip_HandTorch_Army2_BetterFlashlights = "一把功率强大的手电筒.",
+	Tooltip_HandTorch_BetterFlashlights = "一把非常普通的手电筒.",
+	Tooltip_HandTorch_CK_LED_BetterFlashlights = "一把非常小巧的手电筒.",
+	Tooltip_HandTorch_ManLite_BetterFlashlights = "一把非常阳刚的手电筒.",
+	Tooltip_HeadLight_BetterFlashlights = "此头灯可通过支架安装在矿工头盔上.",
+	Tooltip_MiningHelmet_BetterFlashlights = "此头盔可安装头灯.",
+	Tooltip_Torch1_BetterFlashlights = "一把普通但功率强大的手电筒.",
+	Tooltip_TorchArmy1_BetterFlashlights = "军用普通但功率强大的手电筒.",
+	Tooltip_Torch_BetterFlashlights = "一支非常普通的手持火炬.",
+	Tooltip_ToyTorch_BetterFlashlights = "一把疯狂的小玩具手电筒."
+
+---The Best Lockpicking aka Better Lockpicking [B42]---(3440867775)---	
+	Tooltip_BetLock_AlarmMag = "学习如何检查警报器的杂志. <br> 你可以检查车辆或房屋是否有警报器",
+	Tooltip_BetLock_BobbyPin = "用于开锁的物品. 和螺丝刀一起使用. <br> 技能必须从开锁杂志上学习",
+	Tooltip_BetLock_LockpickingMag = "学习开锁的杂志. <br> 你可以用发夹、撬棍撬开门窗和车辆"
+
+---Show Key Origin---(3501701205)---	
+	Tooltip_SKO_Toggle = "切换从玩家到密钥来源的向量显示状态."
+
+---UNOFFICIAL Fools New Containers for B42---(3535295548)---	
+	UI_ClothingType_SpecialBelt = "工具带"
 }

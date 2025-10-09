@@ -385,4 +385,26 @@ Fluids_CN = {
 	Fluid_Name_White_Russian = "白俄罗斯",
 	Fluid_Name_Zombie = "僵尸",
 
+
+---UNOFFICIAL Fools New Containers for B42---(3535295548)---	
+	Fluid_Container_ncBeverageJug1 = "饮料桶",
+	Fluid_Container_ncBeverageJug2 = "饮料桶",
+	Fluid_Container_ncBeverageJug3 = "饮料桶",
+	Fluid_Container_ncBeverageJug4 = "饮料桶",
+	Fluid_Container_ncBeverageJugOpen1 = "开盖饮料桶",
+	Fluid_Container_ncBeverageJugOpen2 = "开盖饮料桶",
+	Fluid_Container_ncBeverageJugOpen3 = "开盖饮料桶",
+	Fluid_Container_ncBeverageJugOpen4 = "开盖饮料桶",
+	Fluid_Container_ncDishTub1 = "洗碗盆",
+	Fluid_Container_ncDishTub2 = "洗碗盆",
+	Fluid_Container_ncDishTub3 = "洗碗盆",
+	Fluid_Container_ncHalfGallon1 = "半加仑水瓶",
+	Fluid_Container_ncHalfGallon2 = "半加仑水瓶",
+	Fluid_Container_ncKidFlask1 = "儿童水壶",
+	Fluid_Container_ncKidFlask2 = "儿童水壶",
+	Fluid_Container_ncKidFlaskOpen1 = "开盖儿童水壶",
+	Fluid_Container_ncKidFlaskOpen2 = "开盖儿童水壶",
+	Fluid_Container_ncPitcher1 = "玻璃水壶",
+	Fluid_Container_ncPitcher2 = "塑料水壶",
+	Fluid_Container_ncWaterCarrier = "运水桶"
 }

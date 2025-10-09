@@ -48,4 +48,10 @@ EvolvedRecipeName_CN = {
 	EvolvedRecipeName_SapphCooking.BottlewithMilk = "牛奶",
 	EvolvedRecipeName_SapphCooking.VodkaFull = "伏特加酒",
 	EvolvedRecipeName_SapphCooking.CurryPowder = "咖喱",
+
+---[B42] Immersive Preservation: Canning and Jarring (of evolved recipes)---(3560836822)---	
+	ItemName_Base.IPJarringPastaJar_Open = "罐装意面",
+	ItemName_Base.IPJarringRiceJar_Open = "罐装米饭",
+	ItemName_Base.IPJarringSoupJar_Open = "罐装浓汤",
+	ItemName_Base.IPJarringStewJar_Open = "罐装炖菜"
 }

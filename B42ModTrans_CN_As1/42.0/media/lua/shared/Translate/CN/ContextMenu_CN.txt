@@ -2754,4 +2754,133 @@ ContextMenu_CN = {
 	ContextMenu_STA_PryOpen_Radial = "撬开 %s",
     ContextMenu_STA_PryOpen_Radial_NoCrowbar = "需要撬棍",
     ContextMenu_STA_PryOpen_Radial_NoStrength = "力量不足",
+
+---[B41/B42] I Don't Need A Lighter---(2714198296)---	
+	ContextMenu_CarLighter = "汽车点烟器",
+	ContextMenu_CarNoBattery = "<br> 电池没电或缺失 ",
+	ContextMenu_CarNoKeyOrWire = "<br> 没钥匙 / 未短接",
+	ContextMenu_CarOutOfCigarette = " <br> 没有烟可抽",
+	ContextMenu_LightCigaretteWithBarbecue = "在烧烤架上点根烟",
+	ContextMenu_LightCigaretteWithCampFire = "在营火上点根烟",
+	ContextMenu_LightCigaretteWithFire = "用野火点根烟",
+	ContextMenu_LightCigaretteWithFireplace = "在壁炉上点根烟",
+	ContextMenu_LightCigaretteWithOven = "在炉灶上点根烟",
+	ContextMenu_StartCarSmoking = "使用点烟器"
+
+---Water Goes Bad---(2849467715)---	
+	ContextMenu_WaterGoesBad_AddFilter = "为 %1 添加过滤器",
+	ContextMenu_WaterGoesBad_RemoveFilter = "从 %1 移除过滤器"
+
+---Fridges Off!---(2853974107)---	
+	ContextMenu_TurnOff = "拔掉电源",
+	ContextMenu_TurnOn = "插入电源"
+
+---[B41/B42]I Might Need A Lighter---(2883633728)---	
+	ContextMenu_CarLighter = "汽车点烟器",
+	ContextMenu_CarLighterRepairNoSkill = "<br> 需要修理",
+	ContextMenu_CarLighterRepairWithSkill = "<br> 可被修理",
+	ContextMenu_CarNoBattery = "<br> 电池没电或缺失 ",
+	ContextMenu_CarNoKeyOrWire = "<br> 没钥匙 / 未短接",
+	ContextMenu_CarOutOfCigarette = " <br> 没有烟可抽",
+	ContextMenu_InstallCarLighter = "安装点烟器",
+	ContextMenu_NoCarLighter = "没有点烟器",
+	ContextMenu_UnInstallCarLighter = "拆下点烟器"
+
+---Skyler DrugMod [B41 & B42]---(2900366269)---	
+	ContextMenu_Inhale = "吸入",
+	ContextMenu_Inject = "注射",
+	ContextMenu_Put On Tongue = "舌下含服",
+	ContextMenu_Snort = "鼻吸",
+	ContextMenu_Take Pill = "服用药片",
+	ContextMenu_Take Shrooms = "食用蘑菇"
+
+---Christmas Time [b41/42 demo]---(2903870217)---	
+	ContextMenu_DecoGarland = "装饰花环",
+	ContextMenu_DecoGarlandBig = "装饰花环",
+	ContextMenu_DecoGarlandBigCH = "装饰花环",
+	ContextMenu_DecoGarlandCH = "装饰花环",
+	ContextMenu_DecoTop = "装饰树顶",
+	ContextMenu_DecoTopBig = "装饰树顶",
+	ContextMenu_DecoTopBigCH = "装饰树顶",
+	ContextMenu_DecoTopCH = "装饰树顶",
+	ContextMenu_DecoToys = "装饰玩具",
+	ContextMenu_DecoToysBig = "装饰玩具",
+	ContextMenu_DecoToysBigCH = "装饰玩具",
+	ContextMenu_DecoToysCH = "装饰玩具",
+	ContextMenu_DigChristmasTreeAH = "挖掘圣诞树",
+	ContextMenu_DigChristmasTreeBigAH = "挖掘圣诞树",
+	ContextMenu_DigChristmasTreeBigCH = "挖掘圣诞树",
+	ContextMenu_DigChristmasTreeCH = "挖掘圣诞树",
+	ContextMenu_RemoveDecoBig = "移除装饰",
+	ContextMenu_RemoveDecoCH = "移除装饰",
+	ContextMenu_RemoveGarland = "移除花环",
+	ContextMenu_RemoveGarlandBig = "移除花环",
+	ContextMenu_RemoveTop = "移除树顶",
+	ContextMenu_RemoveTopBig = "移除树顶",
+	ContextMenu_RemoveToys = "移除玩具",
+	ContextMenu_RemoveToysBig = "移除玩具"
+
+---[B41 / B42] Load All Magazines---(2920899878)---	
+	ContextMenu_ReloadAllMagazines_LoadAllMagazines = "装填子弹进所有 %1",
+	ContextMenu_ReloadAllMagazines_UnloadAllMagazines = "卸空所有 %1"
+
+---Functional Clipboard [B41/B42]---(3387382165)---	
+	ContextMenu_Clipboard = "剪贴板",
+	ContextMenu_Clipboard_AddPaper = "添加纸张",
+	ContextMenu_Clipboard_ChangeName = "重命名",
+	ContextMenu_Clipboard_ErrorNewEmpty = "错误: 无法创建新的空白剪贴板项目.",
+	ContextMenu_Clipboard_ErrorNewPaper = "错误: 无法创建新的纸张剪贴板项目.",
+	ContextMenu_Clipboard_ErrorNewWall = "错误: 无法创建新的墙上剪贴板项目.",
+	ContextMenu_Clipboard_NoWall = "从墙上取下",
+	ContextMenu_Clipboard_Open = "打开剪贴板",
+	ContextMenu_Clipboard_Prefix = "剪贴板: ",
+	ContextMenu_Clipboard_Read = "阅读剪贴板",
+	ContextMenu_Clipboard_RemovePaper = "移除纸张",
+	ContextMenu_Clipboard_SwapHand = "剪贴板已从墙上移除.",
+	ContextMenu_Clipboard_SwapWall = "剪贴板现在可以放置在墙上了.",
+	ContextMenu_Clipboard_Take = "拿起剪贴板",
+	ContextMenu_Clipboard_TooLong = "名称过长, 请缩短.",
+	ContextMenu_Clipboard_Wall = "挂在墙上"
+
+---[B42] Harder Hotwire---(3391549481)---	
+	ContextMenu_VehicleGetKey = "制作车钥匙",
+	ContextMenu_VehicleGetKeySkill = "需要<br>电工等级 10 级和<br>技工等级 10 级和<br>金工等级 8 级<br>才能制作车钥匙",
+	ContextMenu_VehicleUnhotwire = "解除引擎短接",
+	ContextMenu_VehicleUnhotwireSkill = "需要<br>电工等级 6 级和<br>技工等级 8 级和<br>金工等级 4 级<br>才能解除短接"
+
+---[B42] School's Out: Anime-Style Student Uniforms---(3404301631)---	
+	ContextMenu_Button = "扣上纽扣",
+	ContextMenu_DownRibbon = "系在水手服上",
+	ContextMenu_HikeUp = "短款",
+	ContextMenu_LetOut = "长款",
+	ContextMenu_Unbutton = "解开纽扣",
+	ContextMenu_Unzip = "拉开拉链",
+	ContextMenu_UpRibbon = "系在外套上",
+	ContextMenu_Zip = "拉上拉链"
+
+---The Best Lockpicking aka Better Lockpicking [B42]---(3440867775)---	
+	ContextMenu_VehicleUnhotwire = "解除短接发动机",
+	ContextMenu_VehicleUnhotwireSkill = "你需要 <br> 电工技能 1 级和 <br> 技工技能 2 级 <br> 才能解除短接"
+
+---Show Key Origin---(3501701205)---	
+	ContextMenu_SKO_Hide = "隐藏密钥来源向量",
+	ContextMenu_SKO_Show = "显示密钥来源向量"
+
+---[B42] Attach Bags To Sheet Rope---(3504700167)---	
+	ContextMenu_Attach_Both = "将双手包挂到绳索上",
+	ContextMenu_Attach_Primary = "将右手包挂到绳索上",
+	ContextMenu_Attach_Secondary = "将左手包挂到绳索上",
+	ContextMenu_Detach_Bags = "从绳索解下背包",
+	ContextMenu_Lift_Bags = "在此处提升背包"
+
+---[J&G] Firefighter Uniform [B42/41]---(3521263771)---	
+	ContextMenu_Visor_Down = "放下面罩",
+	ContextMenu_Visor_Up = "抬起面罩"
+
+---UNOFFICIAL Fools New Containers for B42---(3535295548)---	
+	ContextMenu_EquipToolbelt = "穿上"
+
+---[B42]Project RV Interior---(3543229299)---	
+	ContextMenu_GetInToRV = "进入房车",
+	ContextMenu_GetOutFromRV = "离开房车"
 }
