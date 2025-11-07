@@ -780,6 +780,12 @@ IGUI_VehiclePartM923Storage = "侧面储物箱",
 IGUI_VehiclePartM923StorageDoor = "侧面储物箱盖",
 IGUI_VehiclePartM923Trunk = "货厢储物区",
 
+------ 3596903773 ------
+
+
+------ 3592777775 ------
+
+
 ------ 3409287192 ------
 
 IGUI_VehicleName84jeepXJ2 = "'84款吉普切诺基XJ双门版",
@@ -858,7 +864,6 @@ IGUI_VehiclePartCUCVDoorFL = "左侧前舱门",
 IGUI_VehiclePartCUCVDoorFR = "右侧前舱门",
 IGUI_VehiclePartCUCVDoorRL = "左侧后舱门",
 IGUI_VehiclePartCUCVDoorRR = "右侧后舱门",
-IGUI_VehiclePartDAMNStretcher = "担架",
 IGUI_VehiclePartM1008Trunk = "后部储物空间",
 IGUI_VehiclePartM1009Trunk = "后部储物空间",
 IGUI_VehiclePartM1010Trunk = "底部储物空间",
@@ -874,6 +879,7 @@ IGUI_VehiclePartM1031StorageMR = "右中储物舱",
 IGUI_VehiclePartM1031StorageRL = "左后储物舱",
 IGUI_VehiclePartM1031StorageRR = "右后储物舱",
 IGUI_VehiclePartM1031Trunk = "后部储物空间",
+IGUI_VehiclePartDAMNStretcher = "担架",
 
 ------ 2870394916 ------
 
@@ -1614,6 +1620,12 @@ IGUI_ATRO_showOutlines_tooltip = "显示轮廓 (需要勾选游戏原生轮廓�
 IGUI_Bodyshot = "身体!",
 IGUI_Footshot = "脚!",
 IGUI_Headshot = "爆头!",
+
+------ 3587117139 ------
+
+
+------ 3590950467 ------
+
 
 ------ 2788256295 ------
 
@@ -3579,6 +3591,7 @@ IGUI_TowelQuality_Fine = "精细的 ",
 
 ------ 3575855907 ------
 
+IGUI_ItemCat_BeanieBabie = "豆豆宝宝",
 
 ------ 3423115544 ------
 
@@ -4682,6 +4695,7 @@ IGUI_VehiclePartDAMNSpareTireRoof = "车顶备胎",
 IGUI_VehiclePartDAMNSpareTireTrunk = "后备箱备胎",
 IGUI_VehiclePartDAMNSpoiler = "尾翼",
 IGUI_VehiclePartDAMNSpoilerRoof = "车顶尾翼",
+IGUI_VehiclePartDAMNStretcher = "担架",
 IGUI_VehiclePartDAMNSunRoof = "天窗",
 IGUI_VehiclePartDAMNSunVisor = "遮阳板",
 IGUI_VehiclePartDAMNTent = "车顶帐篷",
@@ -5726,6 +5740,59 @@ IGUI_pain = "我太疼了",
 
 IGUI_PlayerText_GaussFirearms_NeedBattery = "我需要一块电池.",
 IGUI_PlayerText_GaussFirearms_NoCharge = "没有充能.",
+
+------ 3597471949 ------
+
+IGUI_Active = "激活",
+IGUI_Barrel = " 燃料桶",
+IGUI_BarrelFuel = "桶装燃料:",
+IGUI_BarrelHasLiquid = "无法拾取燃料桶 - 内含液体",
+IGUI_BarrelLinkFailed = "无法连接燃料桶",
+IGUI_BarrelLinked = "燃料桶已连接到发电机组",
+IGUI_BarrelUnlinked = "燃料桶已从发电机组断开",
+IGUI_Barrels = " 燃料桶",
+IGUI_BuildingCoverage = "建筑覆盖范围:",
+IGUI_BuildingNeedsGenerators = " (此规模的建筑需要 %1 台发电机)",
+IGUI_BuildingPowerInfo = "建筑电力信息",
+IGUI_BuildingPowerInfoMenu = "建筑电力信息",
+IGUI_BuildingPowerPool = "建筑供电组:",
+IGUI_Condition = "状态",
+IGUI_ConnectToBuilding = "连接到建筑",
+IGUI_ConnectedToBuilding = "已连接到建筑",
+IGUI_ConnectedToBuildingCount = "已连接到建筑 (%1 台发电机)",
+IGUI_DisconnectFromBuilding = "断开与建筑的连接",
+IGUI_DisconnectedFromBuilding = "已与建筑断开连接",
+IGUI_Empty = "空",
+IGUI_EmptyAutoRefuel = "空 - 将自动补充燃料",
+IGUI_EstRuntime = "预计运行时间:",
+IGUI_Fuel = "燃料",
+IGUI_FuelEfficiencyBlocked = "已禁用",
+IGUI_FuelEfficiencyBlockedTooltip = "当建筑电力需求超过发电机容量时, 效率加成将被禁用.",
+IGUI_FuelEfficiencyBonus = "燃料效率加成:",
+IGUI_Generator = "发电机",
+IGUI_GeneratorConditions = "发电机状况:",
+IGUI_GeneratorsSharing = " (%1 台发电机共享负载)",
+IGUI_GridSquaresPowered = "为 %1 格范围供电",
+IGUI_HeatSources = "热源",
+IGUI_HeatingOff = "供暖: 关闭",
+IGUI_HeatingOn = "供暖: 开启",
+IGUI_HideCoverage = "隐藏覆盖范围",
+IGUI_LinkToGeneratorPool = "连接到发电机燃料组",
+IGUI_NeedGenerators = " (为 %2 格范围供电需要 %1 台发电机)",
+IGUI_NoBuildingFoundNearby = "附近未找到建筑",
+IGUI_NoBuildingNearby = "附近未找到建筑",
+IGUI_NoGeneratorsConnected = "此建筑未连接发电机",
+IGUI_PickUpBarrel = "拾取",
+IGUI_PoolFull = "无法连接: 建筑供电组已满 (最多 5 台发电机)",
+IGUI_ShowCoverage = "显示覆盖范围",
+IGUI_SystemStrain = "系统负载:",
+IGUI_TotalFuel = "总燃料",
+IGUI_TotalGenerators = "发电机:",
+IGUI_TurnOnModded = "开启 (改装)",
+IGUI_Turn_Off_2 = "关闭",
+IGUI_Units = "单位",
+IGUI_UnitsPetrol = "单位汽油",
+IGUI_UnlinkFromGeneratorPool = "断开与发电机燃料组的连接",
 
 ------ 3078291265 ------
 
@@ -7087,7 +7154,6 @@ IGUI_ItemCat_GenericMiraAmmo = "米拉弹药制造机",
 
 IGUI_SearchMode_Categories_DeadAnimals = "死亡动物",
 IGUI_SearchMode_Categories_FishBait = "鱼饵",
-IGUI_SearchMode_Categories_ForestRarities = "森林稀有品",
 
 ------ 3406930410 ------
 
@@ -8121,62 +8187,6 @@ IGUI_VehicleNameBiochemical_PickupTruck = "生化皮卡",
 IGUI_VehiclePartBiochemical_BumperPart = "生化保险杠",
 IGUI_VehiclePartBiochemical_PickupTruck_RooftrackPart = "生化车顶架",
 IGUI_WindowTitle_PassWord = "密码门",
-
------- 3282789883 ------
-
-IGUI_AirdropRadio_ArrivalTime = "预计到达时间约60分钟",
-IGUI_AirdropRadio_Intro_Alpha_1 = "阿尔法呼叫. 准备提供情况更新. 完毕.",
-IGUI_AirdropRadio_Intro_Alpha_2 = "这里是阿尔法. 准备发送详细报告. 完毕.",
-IGUI_AirdropRadio_Intro_Alpha_3 = "阿尔法待命. 准备进行形势评估. 完毕.",
-IGUI_AirdropRadio_Intro_Alpha_4 = "阿尔法报告. 准备传送情报. 完毕.",
-IGUI_AirdropRadio_Intro_Bravo_1 = "布拉沃呼叫. 准备发送报告. 完毕.",
-IGUI_AirdropRadio_Intro_Bravo_2 = "这里是布拉沃. 准备传输详细信息. 完毕.",
-IGUI_AirdropRadio_Intro_Bravo_3 = "布拉沃待命. 正在完善报告. 完毕.",
-IGUI_AirdropRadio_Intro_Bravo_4 = "布拉沃报告. 报告已准备好发送. 完毕.",
-IGUI_AirdropRadio_Intro_Charlie_1 = "查理呼叫. 完毕.",
-IGUI_AirdropRadio_Intro_Charlie_2 = "嘿, 我是查理. 我已准备好发布信息. 完毕.",
-IGUI_AirdropRadio_Intro_Charlie_3 = "查理在线, 报告已就绪. 完毕.",
-IGUI_AirdropRadio_Intro_Charlie_4 = "查理报告. 一切准备就绪. 完毕.",
-IGUI_AirdropRadio_Message_1 = "空投即将开始",
-IGUI_AirdropRadio_Message_2 = "空投准备就绪",
-IGUI_AirdropRadio_Message_3 = "空投正在途中",
-IGUI_AirdropRadio_Message_4 = "空投即将着陆",
-IGUI_AirdropRadio_Outro_Alpha_1 = "阿尔法结束通话. 继续保持战备状态. 完毕.",
-IGUI_AirdropRadio_Outro_Alpha_2 = "阿尔法结束通话. 继续执行任务指令. 完毕.",
-IGUI_AirdropRadio_Outro_Alpha_3 = "阿尔法结束通话. 始终保持战场态势感知. 完毕.",
-IGUI_AirdropRadio_Outro_Alpha_4 = "阿尔法结束通话. 保持警惕谨慎行动. 完毕.",
-IGUI_AirdropRadio_Outro_Bravo_1 = "布拉沃结束通话. 继续专注严谨执行任务. 完毕.",
-IGUI_AirdropRadio_Outro_Bravo_2 = "这里是布拉沃结束通话. 保持警觉并做好战斗准备. 完毕.",
-IGUI_AirdropRadio_Outro_Bravo_3 = "布拉沃结束通话. 继续精准可靠地执行任务. 完毕.",
-IGUI_AirdropRadio_Outro_Bravo_4 = "布拉沃结束通话. 在所有行动中确保安全与协作. 完毕.",
-IGUI_AirdropRadio_Outro_Charlie_1 = "查理结束通话. 请继续认真专业地执行任务. 完毕.",
-IGUI_AirdropRadio_Outro_Charlie_2 = "这里是查理结束通话. 保持注意力并确保通讯畅通. 完毕.",
-IGUI_AirdropRadio_Outro_Charlie_3 = "查理结束通话. 继续优先处理目标和保障安全. 完毕.",
-IGUI_AirdropRadio_Outro_Charlie_4 = "查理结束通话. 请持续致力于任务成功. 完毕.",
-IGUI_Airdrop_Direction_East = "东方",
-IGUI_Airdrop_Direction_North = "北方",
-IGUI_Airdrop_Direction_NorthEast = "东北方",
-IGUI_Airdrop_Direction_NorthWest = "西北方",
-IGUI_Airdrop_Direction_South = "南方",
-IGUI_Airdrop_Direction_SouthEast = "东南方",
-IGUI_Airdrop_Direction_SouthWest = "西南方",
-IGUI_Airdrop_Direction_West = "西方",
-IGUI_Airdrop_Name_Brandenburg = "在勃兰登堡",
-IGUI_Airdrop_Name_Dixie = "在迪克西",
-IGUI_Airdrop_Name_Echo_Creek = "在回声溪",
-IGUI_Airdrop_Name_Ekron = "在以革伦",
-IGUI_Airdrop_Name_Fallas_Lake = "在落日胡",
-IGUI_Airdrop_Name_Irvington = "在以革伦",
-IGUI_Airdrop_Name_Louis_Ville = "在路易斯维尔",
-IGUI_Airdrop_Name_Louis_Ville_Airport = "在路易斯维尔机场",
-IGUI_Airdrop_Name_March_Ridge = "在三月岭",
-IGUI_Airdrop_Name_Muldraugh = "在马尔德劳",
-IGUI_Airdrop_Name_Riverside = "在河畔镇",
-IGUI_Airdrop_Name_Rosewood = "在罗斯伍德",
-IGUI_Airdrop_Name_Valley_Station = "在山谷站",
-IGUI_Airdrop_Name_Water_Treatment_Plant = "在净水厂",
-IGUI_Airdrop_Name_West_Point = "在西点镇",
-IGUI_Airdrop_Plane_Seeing = "Wow!!! 发现一架运输机正在飞往",
 
 ------ 3319538177 ------
 
@@ -9230,7 +9240,7 @@ IGUI_VehiclePartATA2Turret = "炮塔",
 
 ------ 3378285185 ------
 
-IGUI_StarlitLibrary_VersionTooOld = "你安装的一个模组需要更新版本的 Starlit Library,但你当前安装的版本过旧.部分功能可能无法正常工作.<br>Steam 有时未能正确更新模组 - 请取消订阅并重新订阅以确保你的版本是最新的.<br>当前安装版本: %1 <br>所需版本: %2+",
+IGUI_StarlitLibrary_VersionTooOld = "你当前安装的版本过旧, 你安装的一个模组需要新版本的 Starlit Library. 部分功能可能无法正常工作.<br>Steam 有时未能正确更新模组 - 请取消订阅并重新订阅以确保你的版本是最新的.<br>当前安装版本: %1 <br>所需版本: %2+",
 
 ------ 3579640010 ------
 
@@ -9276,6 +9286,14 @@ IGUI_PlayerText_RepairNotLack = "修理所需的物品不足!",
 IGUI_PlayerText_TableSawOld = "台锯过于破旧无法使用, 请及时修理!",
 IGUI_TableSawDurable = "台锯耐久度: %1%",
 IGUI_TableSawTitle = "台锯",
+
+------ 3569158406 ------
+
+IGUI_HotbarAttachment_KnifeSheathBack = "刀鞘 (背部)",
+IGUI_HotbarAttachment_KnifeSheathLeg = "刀鞘 (腿部)",
+
+------ 3592172476 ------
+
 
 ------ 3402789975 ------
 
@@ -9514,11 +9532,6 @@ IGUI_BSSOPoliceKey = "黑盾治安局局长钥匙",
 IGUI_DormitoryKey = "大学宿舍万能钥匙",
 IGUI_VehicleNameGoKart = "蒂基镇卡丁车",
 
------- 3389805754 ------
-
-IGUI_HotbarAttachment_KnifeSheathBack = "刀鞘 (背部)",
-IGUI_HotbarAttachment_KnifeSheathLeg = "刀鞘 (腿部)",
-
 ------ 3477669563 ------
 
 IGUI_Hair_OkamiKatto = "艾莉",
@@ -9649,8 +9662,13 @@ IGUI_DWIMC_Unfavorited = "已停止追踪此车辆.",
 ------ 2705655822 ------
 
 IGUI_VehicleNameM113_APC = "M113装甲运兵车",
-IGUI_VehicleNameM113_Police = "M113装甲运兵车特警版",
 IGUI_VehicleNameM113_Medic = "M113装甲运兵车医疗版",
+IGUI_VehicleNameM113_Police = "M113装甲运兵车特警版",
+
+------ 3598575779 ------
+
+IGUI_VehicleNameM163 = "M163 火神防空系统",
+IGUI_VehiclePartVulcan_M61 = "M61 火神机炮",
 
 ------ 3424497614 ------
 
@@ -9664,17 +9682,16 @@ IGUI_VehiclePartFront_Cage_Protection = "车顶护栏篷布",
 ------ 3554424111 ------
 
 IGUI_VehicleNameM998_Humvee = "M998悍马",
-IGUI_VehiclePartCataddons = "附加组件",
 IGUI_VehiclePartAntenna = "左天线",
 IGUI_VehiclePartAntenna2 = "右天线",
-IGUI_VehiclePartTurret_Armor = "炮塔装甲",
-IGUI_VehiclePartM2_Armor = "M2装甲",
-IGUI_VehiclePartSeatGunner = "机枪手座椅",
-IGUI_VehiclePartTrunk_Lid_Cover = "后备箱盖护罩",
-IGUI_VehiclePartSpare_Tire_Carrier = "备胎架",
-IGUI_VehiclePartSpare_Tire = "备胎",
-IGUI_VehiclePartExtra_GasCan = "附加油桶",
 IGUI_VehiclePartBull_Bar = "前防撞栏",
+IGUI_VehiclePartCataddons = "附加组件",
+IGUI_VehiclePartExtra_GasCan = "附加油桶",
+IGUI_VehiclePartM2_Armor = "M2装甲",
+IGUI_VehiclePartSpare_Tire = "备胎",
+IGUI_VehiclePartSpare_Tire_Carrier = "备胎架",
+IGUI_VehiclePartTrunk_Lid_Cover = "后备箱盖护罩",
+IGUI_VehiclePartTurret_Armor = "炮塔装甲",
 
 ------ 3409723807 ------
 

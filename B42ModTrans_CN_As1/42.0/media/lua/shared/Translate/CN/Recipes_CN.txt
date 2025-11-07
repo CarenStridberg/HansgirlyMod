@@ -582,6 +582,12 @@ Recipe_83amgeneralM923.MakeMuffler = "制造83款AM通用M923消音器",
 Recipe_83amgeneralM923.MakeTailgate = "制造83款AM通用M923尾门",
 Recipe_83amgeneralM923.MakeTrunkLid = "制造83款AM通用M923货厢盖",
 
+------ 3596903773 ------
+
+
+------ 3592777775 ------
+
+
 ------ 3409287192 ------
 
 Recipe_84jeepXJ.MakeBackSideWindow = "制造84款吉普切诺基XJ后角窗",
@@ -1573,6 +1579,9 @@ Recipe_99fordCVPI.MakeRearSideWindow = "制造99款福特CVPI后侧窗",
 Recipe_99fordCVPI.MakeRearWindshield = "制造99款福特CVPI后挡风玻璃",
 Recipe_99fordCVPI.MakeTrunkLid = "制造99款福特CVPI后备箱盖",
 
+------ 3587117139 ------
+
+
 ------ 3417917173 ------
 
 All_PackAIOBShelter = "将所有物品插入 AIO 背包庇护所",
@@ -1589,12 +1598,12 @@ UnpackAIOBShelter = "拆包 AIO 背包庇护所",
 ------ 3589758717 ------
 
 Recipe_MakeAllInOneToolBox = "制作万能工具箱",
-Recipe_MakeAllInOneToolBoxNoPipeWrench = "制作万能工具箱 (无管钳版)",
-Recipe_MakeAllInOneToolBoxNoPipeWrenchWithToolRoll = "制作万能木质工具箱 (无管钳,含工具卷)",
+Recipe_MakeAllInOneToolBoxNoPipeWrench = "制作万能工具箱 (无管钳)",
+Recipe_MakeAllInOneToolBoxNoPipeWrenchWithToolRoll = "制作万能工具箱 (无管钳, 含工具卷)",
 Recipe_MakeAllInOneToolBoxWithToolRoll = "制作万能工具箱 (含工具卷)",
 Recipe_MakeAllInOneToolRoll = "制作万能工具卷",
-Recipe_MakeAllInOneWoodenToolBox = "制作万能木质工具箱 (无管钳版)",
-Recipe_MakeAllInOneWoodenToolBoxWithToolRoll = "制作万能木质工具箱 (无管钳,含工具卷)",
+Recipe_MakeAllInOneWoodenToolBox = "制作万能木质工具箱 (无管钳)",
+Recipe_MakeAllInOneWoodenToolBoxWithToolRoll = "制作万能木质工具箱 (无管钳, 含工具卷)",
 
 ------ 3388844065 ------
 
@@ -1919,7 +1928,7 @@ Recipe_ATAJeepBumper = "切割吉普牧马人引擎盖",
 
 ------ 3405178154 ------
 
-Recipe_ATAMustangHoodItem = "制作 野马引擎盖",
+Recipe_ATAMustangHoodItem = "制作 野马发动机盖",
 
 ------ 3405574146 ------
 
@@ -2137,7 +2146,7 @@ Recipe_Craft_Axe_Handle2 = "制作斧柄",
 Recipe_Craft_Fire_Axe = "制作消防斧",
 Recipe_Craft_Hand_Axe = "制作单手斧",
 Recipe_Craft_Metal_Axe_Handle = "制作金属斧柄",
-Recipe_Craft_Wood_Axe = "制作伐木头",
+Recipe_Craft_Wood_Axe = "制作伐木斧",
 Recipe_Destroy_Stone_Axe = "销毁石斧",
 Recipe_Remove_Axe_Head = "锯掉斧刃",
 Recipe_Remove_Axe_Head2 = "锯掉斧刃",
@@ -2497,6 +2506,27 @@ Recipe_Sew_Dust_Cloth_From_Hand_Towel = "用手巾缝制抹布",
 
 ------ 3575855907 ------
 
+Recipe_TakeTagOffCheezer = "摘下吱吱的标签",
+Recipe_TakeTagOffFlip = "摘下菲利普的标签",
+Recipe_TakeTagOffInch = "摘下英奇的标签",
+Recipe_TakeTagOffLegs = "摘下莱格斯的标签",
+Recipe_TakeTagOffNip1 = "摘下尼普的标签",
+Recipe_TakeTagOffNip2 = "摘下尼普的标签",
+Recipe_TakeTagOffOldFace1 = "摘下泰迪的标签",
+Recipe_TakeTagOffOldFace2 = "摘下泰迪的标签",
+Recipe_TakeTagOffOldFace3 = "摘下泰迪的标签",
+Recipe_TakeTagOffOldFace4 = "摘下泰迪的标签",
+Recipe_TakeTagOffOldFace5 = "摘下泰迪的标签",
+Recipe_TakeTagOffOldFace6 = "摘下泰迪的标签",
+Recipe_TakeTagOffPinchers = "摘下平奇斯的标签",
+Recipe_TakeTagOffPinky = "摘下平奇的标签",
+Recipe_TakeTagOffScorch = "摘下斯科奇的标签",
+Recipe_TakeTagOffSnip = "摘下斯尼普的标签",
+Recipe_TakeTagOffSting = "摘下斯汀的标签",
+Recipe_TakeTagOffStinger = "摘下斯汀格的标签",
+Recipe_TakeTagOffTrap = "摘下特拉普的标签",
+Recipe_TakeTagOffZip1 = "摘下吉普的标签",
+Recipe_TakeTagOffZip2 = "摘下吉普的标签",
 
 ------ 3461415167 ------
 
@@ -2990,6 +3020,9 @@ YellowWallLocker = "黄色壁挂式储物柜",
 ZippeeCounter = "Zippee (店铺品牌) 柜台",
 ZippeeCounterCorner = "Zippee (店铺品牌) 柜台转角",
 MakeshiftTarget = "简易制作的靶标",
+
+------ 3595072546 ------
+
 
 ------ 3457003463 ------
 
@@ -4014,6 +4047,11 @@ Recipe_PlaceMagneticRoundsInBox = "将磁性弹药装入盒中",
 Recipe_Place_Magnetic_Rounds_in_Box = "将磁性弹药装入盒中",
 Recipe_RemoveBatteryMagnetizer = "取出电池",
 
+------ 3597471949 ------
+
+Recipe_Left_Light_Switch = "制作左侧电灯开关",
+Recipe_Right_Light_Switch = "制作右侧电灯开关",
+
 ------ 3183820077 ------
 
 Recipe_AR15toAR180 = "改装弹匣以适用于阿玛莱特AR-180",
@@ -4453,6 +4491,7 @@ Recipe_Open_Box_of_.380_Auto_Bullets = "打开盒装.380自动子弹",
 Recipe_Open_Box_of_.45_Colt_Bullets = "打开盒装.45柯尔特子弹",
 Recipe_Open_Box_of_10mm_Bullets = "打开盒装10mm子弹",
 Recipe_Open_Box_of_5.56_Belt_Links = "打开盒装带链5.56子弹弹链",
+Recipe_Open_Box_of_7.62x39_Ammo = "打开盒装7.62x39子弹",
 Recipe_Open_Box_of_7.92x57_Mauser_Ammo = "打开盒装7.92x57毛瑟子弹",
 Recipe_Place_.22_LR_Bullets_in_Box = "把.22LR子弹装入盒中",
 Recipe_Place_.25_Auto_Bullets_in_Box = "把.25自动子弹装入盒中",
@@ -4465,6 +4504,7 @@ Recipe_Place_.380_Auto_Bullets_in_Box = "把.380自动子弹装入盒中",
 Recipe_Place_.45_Colt_Bullets_in_Box = "把.45柯尔特子弹装入盒中",
 Recipe_Place_10mm_Bullets_in_Box = "把10mm子弹装入盒中",
 Recipe_Place_5.56_Belt_Links_in_Box = "把5.56子弹链环装入盒中",
+Recipe_Place_7.62x39_Ammo_in_Box = "把7.62x39子弹装入盒中",
 Recipe_Place_7.92x57_Mauser_Ammo_in_Box = "把7.92x57毛瑟子弹装入盒中",
 Recipe_Place_Shotgun_Slugs_in_Box = "把霰弹枪独头弹装入盒中",
 Recipe_Remove_Bayonet_From_AKM = "移除刺刀",
@@ -4538,6 +4578,7 @@ Recipe_Thread_Barrel_Of_Calico_M900_Carbine = "配置螺纹枪管",
 Recipe_Thread_Barrel_Of_Colt_1908_Pocket_Hammerless = "配置螺纹枪管",
 Recipe_Thread_Barrel_Of_Colt_Delta_Elite = "配置螺纹枪管",
 Recipe_Thread_Barrel_Of_Davis_Ind._P380 = "配置螺纹枪管",
+Recipe_Thread_Barrel_Of_Glock 17 = "配置螺纹枪管",
 Recipe_Thread_Barrel_Of_Glock_20 = "配置螺纹枪管",
 Recipe_Thread_Barrel_Of_Glock_21 = "配置螺纹枪管",
 Recipe_Thread_Barrel_Of_Glock_22 = "配置螺纹枪管",
@@ -4739,9 +4780,6 @@ Recipe_Use_Springfield_M1A_As_Rifle = "射击模式",
 Recipe_Use_Springfield_M1A_Bayonet = "刺刀模式",
 Recipe_Use_Type_56S_As_Rifle = "射击模式",
 Recipe_Use_Type_56S_Bayonet = "刺刀模式",
-Recipe_Open_Box_of_7.62x39_Ammo = "打开盒装7.62x39子弹",
-Recipe_Place_7.62x39_Ammo_in_Box = "把7.62x39子弹装入盒中",
-Recipe_Thread_Barrel_Of_Glock 17 = "配置螺纹枪管",
 
 ------ 3410972667 ------
 
@@ -4841,6 +4879,9 @@ Recipe_MakeTortilla = "制作玉米饼",
 Recipe_MakeTortillaDough = "制作墨西哥薄饼面团",
 Recipe_MakeVegetableOil = "制作植物油",
 Recipe_WriteHerbalistforDummies = "编写草药师入门指南",
+
+------ 3594285774 ------
+
 
 ------ 3430224478 ------
 
@@ -5222,10 +5263,15 @@ Recipe_Make_Wooden_Ladder = "制作木梯",
 ------ 3558839307 ------
 
 AssembleLegendaryDuffelbag_Black = "制作传奇帆布包 (黑)",
+AssembleLegendaryDuffelbag_Blue = "制作传奇帆布包 (蓝色)",
 AssembleLegendaryDuffelbag_Brown = "制作传奇帆布包 (棕)",
 AssembleLegendaryDuffelbag_Green = "制作传奇帆布包 (绿)",
 AssembleLegendaryDuffelbag_Grey = "制作传奇帆布包 (灰)",
+AssembleLegendaryDuffelbag_Orange = "制作传奇帆布包 (橙色)",
 AssembleLegendaryDuffelbag_Pink = "制作传奇帆布包 (粉)",
+AssembleLegendaryDuffelbag_Purple = "制作传奇帆布包 (紫色)",
+AssembleLegendaryDuffelbag_Red = "制作传奇帆布包 (红色)",
+AssembleLegendaryDuffelbag_White = "制作传奇帆布包 (白色)",
 Recipe_AssembleLegendaryDuffelbag_Black = "制作传奇帆布包 (黑)",
 Recipe_AssembleLegendaryDuffelbag_Brown = "制作传奇帆布包 (棕)",
 Recipe_AssembleLegendaryDuffelbag_Green = "制作传奇帆布包 (绿)",
@@ -5342,6 +5388,29 @@ Recipe_MakeLightSwitchR = "制作开关 (右)",
 
 ------ 3557845788 ------
 
+Recipe_OpenAccessoryPacket = "打开配料包",
+Recipe_OpenB1Unit = "打开B-1套装",
+Recipe_OpenB2Unit = "打开B-2套装",
+Recipe_OpenB3Unit1 = "打开B-3套装1",
+Recipe_OpenB3Unit2 = "打开B-3套装2",
+Recipe_OpenB3Unit3 = "打开B-3套装3",
+Recipe_OpenB3Unit4 = "打开B-3套装4",
+Recipe_OpenBonedTurkey = "打开去骨火鸡",
+Recipe_OpenMCIBeanFranks = "打开C型口粮 豆子配法兰克福香肠",
+Recipe_OpenMCIBeefSteakPotatoes = "打开C型口粮 牛排土豆",
+Recipe_OpenMCIBeefsteak = "打开C型口粮 牛排",
+Recipe_OpenMCICan = "打开C型口粮 罐头",
+Recipe_OpenMCICase = "打开C型口粮 工具包",
+Recipe_OpenMCIChickenNoodle = "打开C型口粮 鸡肉拌面",
+Recipe_OpenMCIHamEggs = "打开C型口粮 火腿蛋",
+Recipe_OpenMCIHamFried = "打开C型口粮 煎火腿",
+Recipe_OpenMCIHamMoFos = "打开C型口粮 火腿配利马豆",
+Recipe_OpenMCIMeatBallBeans = "打开C型口粮 肉丸豆子",
+Recipe_OpenMCIPorkSteak = "打开C型口粮 猪排",
+Recipe_OpenMCITurkeyLoaf = "打开C型口粮 火鸡肉糜",
+Recipe_OpenSpicedBeef = "打开五香牛肉",
+Recipe_PackMCICase = "打包C型口粮 工具包",
+Recipe_UnpackMCICigarettes = "打开C型口粮 烟盒",
 
 ------ 3436159263 ------
 
@@ -5774,7 +5843,7 @@ Recipe_Unload_Wood_Carrier = "清空木桶",
 
 ------ 2166396868 ------
 
-Recipe_Nodachi = "制作 大太刀",
+Recipe_Nodachi = "制作 野太刀",
 
 ------ 3388107363 ------
 
@@ -6476,6 +6545,7 @@ Recipe_Open_Japanese_Umbrella = "打开和风伞",
 
 ------ 3564838872 ------
 
+Recipe_RYButcheringHalveCut = "将肉切成两半",
 
 ------ 3385623534 ------
 
@@ -6514,6 +6584,13 @@ Recipe_SparePartsT1 = "制作备用零件",
 Recipe_SparePartsT2 = "升级为全新零件",
 Recipe_UpgradeScrap = "组装高级电子零件",
 Recipe_WaterRepair = "创建供水维修点",
+
+------ 3595628283 ------
+
+Recipe_RicksMLCGunLightPatchInsertBattery = "插入电池 (已修补)",
+Recipe_RicksMLCGunLightPatchRemoveBattery = "拆卸电池 (已修补)",
+RicksMLCGunLightPatchInsertBattery = "插入电池 (已修补)",
+RicksMLCGunLightPatchRemoveBattery = "拆卸电池 (已修补)",
 
 ------ 3392186516 ------
 
@@ -7460,7 +7537,7 @@ Recipe_ConvertATARoofLightItem = "转换 ATA 顶灯物品",
 
 ------ 3304582091 ------
 
-Recipe_ATAVanillaRecipes = "标准调校",
+Recipe_ATAVanillaRecipes = "标准改装",
 
 ------ 3409836763 ------
 
@@ -8620,6 +8697,30 @@ SewGloves_Fur = "缝制 毛皮手套",
 SewSkirt_Fur = "缝制 毛皮短裙",
 SewTunic_Fur = "缝制 毛皮束腰外衣",
 
+------ 3569158406 ------
+
+Forge_Katana_Blade = "锻造武士刀刀片",
+Recipe_Forge_Katana_Blade = "锻造武士刀刀片",
+Recipe_Make_Katana = "制作武士刀",
+Recipe_Make_Katana_Handle = "制作武士刀柄",
+Recipe_Make_Katana_Sheath = "制作武士刀鞘",
+Recipe_Make_Knife_Sheath = "制作刀鞘",
+Recipe_Make_Midnight_Knife_Sheath = "制作午夜刀鞘",
+Recipe_Make_Military_Knife_Sheath = "制作军用刀鞘",
+Recipe_Make_Police_Knife_Sheath = "制作警用刀鞘",
+Recipe_Make_Tactical_Knife_Sheath = "制作战术刀鞘",
+Recipe_Paint_Katana_Sheath_Black = "将武士刀鞘喷涂成黑色",
+Recipe_Paint_Katana_Sheath_Blue = "将武士刀鞘喷涂成蓝色",
+Recipe_Paint_Katana_Sheath_Enma = "将武士刀鞘喷涂成阎魔",
+Recipe_Paint_Katana_Sheath_Galaxy = "将武士刀鞘喷涂成银河",
+Recipe_Paint_Katana_Sheath_Green = "将武士刀鞘喷涂成绿色",
+Recipe_Paint_Katana_Sheath_Hearts = "将武士刀鞘喷涂成爱心",
+Recipe_Paint_Katana_Sheath_Pink = "将武士刀鞘喷涂成粉色",
+Recipe_Paint_Katana_Sheath_Red = "将武士刀鞘喷涂成红色",
+Recipe_Paint_Katana_Sheath_Shusui = "将武士刀鞘喷涂成秋水",
+Recipe_Paint_Katana_Sheath_White = "将武士刀鞘喷涂成白色",
+Recipe_Wash_Off_the_Paint = "洗掉喷漆",
+
 ------ 2324223029 ------
 
 Recipe_BarbedWireCHockeyStick = "给碳纤维冰球棍缠绕铁丝网",
@@ -8681,30 +8782,6 @@ Recipe_Open_Medium_Box = "打开中箱子",
 Recipe_Open_Small_Box = "打开小箱子",
 Recipe_Sort_Cards = "整理卡片",
 Recipe_Trace_Cards_Picture = "临摹卡片图案",
-
------- 3389805754 ------
-
-Forge_Katana_Blade = "锻造武士刀刀片",
-Recipe_Forge_Katana_Blade = "锻造武士刀刀片",
-Recipe_Make_Katana = "制作武士刀",
-Recipe_Make_Katana_Handle = "制作武士刀柄",
-Recipe_Make_Katana_Sheath = "制作武士刀鞘",
-Recipe_Make_Knife_Sheath = "制作刀鞘",
-Recipe_Make_Midnight_Knife_Sheath = "制作午夜刀鞘",
-Recipe_Make_Military_Knife_Sheath = "制作军用刀鞘",
-Recipe_Make_Police_Knife_Sheath = "制作警用刀鞘",
-Recipe_Make_Tactical_Knife_Sheath = "制作战术刀鞘",
-Recipe_Paint_Katana_Sheath_Black = "将武士刀鞘喷涂成黑色",
-Recipe_Paint_Katana_Sheath_Blue = "将武士刀鞘喷涂成蓝色",
-Recipe_Paint_Katana_Sheath_Enma = "将武士刀鞘喷涂成阎魔",
-Recipe_Paint_Katana_Sheath_Galaxy = "将武士刀鞘喷涂成银河",
-Recipe_Paint_Katana_Sheath_Green = "将武士刀鞘喷涂成绿色",
-Recipe_Paint_Katana_Sheath_Hearts = "将武士刀鞘喷涂成爱心",
-Recipe_Paint_Katana_Sheath_Pink = "将武士刀鞘喷涂成粉色",
-Recipe_Paint_Katana_Sheath_Red = "将武士刀鞘喷涂成红色",
-Recipe_Paint_Katana_Sheath_Shusui = "将武士刀鞘喷涂成秋水",
-Recipe_Paint_Katana_Sheath_White = "将武士刀鞘喷涂成白色",
-Recipe_Wash_Off_the_Paint = "洗掉喷漆",
 
 ------ 3348036710 ------
 
@@ -9128,6 +9205,31 @@ Recipe_Craft_Post_Apocalyptic_Serrated_Cleaver = "制作末日锯齿剁肉刀",
 Recipe_Craft_Post_Apocalyptic_Spear = "制作 末日长矛",
 Recipe_Craft_Post_Apocalyptic_Spiked_Barbed_Bat = "制作末日尖刺铁丝棒球棒",
 Recipe_Craft_Post_Apocalyptic_Wrench_Knife = "制作末日扳手刀",
+
+------ 3596259242 ------
+
+RMC_Boxers = "撕开四角裤",
+RMC_Bras = "撕开文胸",
+RMC_Briefs = "撕开内裤",
+RMC_BriefsDenim = "撕开牛仔内裤",
+RMC_Gloves = "撕开手套",
+RMC_GlovesDenim = "撕开牛仔手套",
+RMC_GlovesLeather = "撕开皮革手套",
+RMC_Socks = "撕开袜子",
+RMC_Stockings = "撕开丝袜",
+RMC_Tights = "撕开连裤袜",
+RMC_Underpants = "撕开内裤",
+Recipe_RMC_Boxers = "撕开四角裤",
+Recipe_RMC_Bras = "撕开文胸",
+Recipe_RMC_Briefs = "撕开内裤",
+Recipe_RMC_BriefsDenim = "撕开牛仔内裤",
+Recipe_RMC_Gloves = "撕开手套",
+Recipe_RMC_GlovesDenim = "撕开牛仔手套",
+Recipe_RMC_GlovesLeather = "撕开皮革手套",
+Recipe_RMC_Socks = "撕开袜子",
+Recipe_RMC_Stockings = "撕开丝袜",
+Recipe_RMC_Tights = "撕开连裤袜",
+Recipe_RMC_Underpants = "撕开内裤",
 
 ------ 3400142576 ------
 

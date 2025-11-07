@@ -297,6 +297,9 @@ Sandbox_Advanced_trajectoryisoCursorScalingY = "等距光标Y轴缩放",
 Sandbox_Advanced_trajectoryisoCursorOffsetX = "等距光标X轴偏移",
 Sandbox_Advanced_trajectoryisoCursorOffsetY = "等距光标Y轴偏移",
 
+------ 3590950467 ------
+
+
 ------ 3389050623 ------
 
 Sandbox_AmmoLootDropVanilla = "僵尸掉落弹药",
@@ -1008,6 +1011,11 @@ Sandbox_BathTowelsOverhaul_WipesBloodAndDirt_tooltip = "执行擦干动作时, �
 
 ------ 3575855907 ------
 
+Sandbox_BeanieBabie = "豆豆宝宝",
+Sandbox_beaniebabie_inchthestrapagreement = "生成挂带版英奇？",
+Sandbox_beaniebabie_inchthestrapagreement_tooltip = "允许生成挂带版英奇。",
+Sandbox_beaniebabie_itemlootchancebase = "豆豆宝宝生成几率",
+Sandbox_beaniebabie_itemlootchancebase_tooltip = "改变在容器中找到豆豆宝宝的几率。",
 
 ------ 3388028737 ------
 
@@ -1423,7 +1431,7 @@ Sandbox_CDDA_sandBoxOptionMOMATree = "设置对树木的伤害系数. <br> <RGB:
 
 ------ 3404288341 ------
 
-Sandbox_ChairBarricade = "椅子路障",
+Sandbox_ChairBarricade = "椅子堵门",
 Sandbox_ChairBarricade_DoorHealthMultiplier = "门的生命值乘数",
 Sandbox_ChairBarricade_DoorHealthMultiplier_tooltip = "设置用椅子挡住门时, 门会变得有多坚固 (1.0=无变化, 2.0=双倍生命值等)",
 
@@ -1446,6 +1454,12 @@ Sandbox_CheckAround_loreNamePlurial = "僵尸名称 (复数)",
 Sandbox_CheckAround_loreNamePlurial_tooltip = "在语音或僵尸名称标签中引用的僵尸名称 (复数). 默认为 \"zombies\" , 留空以使用默认名称.",
 Sandbox_CheckAround_loreNameSingular = "僵尸名称 (单数)",
 Sandbox_CheckAround_loreNameSingular_tooltip = "在语音或僵尸名称标签中引用的僵尸名称 (单数). 默认为 \"zombie\" , 留空以使用默认名称.",
+
+------ 3577100076 ------
+
+Sandbox_ColdWintersWIP = "漫长寒冬",
+Sandbox_ColdWintersWIP_EnableBlizzards = "提高暴风雪频率",
+Sandbox_ColdWintersWIP_EnableBlizzards_tooltip = "启用后，冬季暴风雪将更频繁地发生 (约每月几次).",
 
 ------ 3435985650 ------
 
@@ -3287,6 +3301,9 @@ Sandbox_pointblankhf_PointBlankUseExperimentalHitDetection_tooltip = "如果为�
 Sandbox_pointblankhf_PointBlankXpMultiplier = "近距离射击经验倍率",
 Sandbox_pointblankhf_PointBlankXpMultiplier_tooltip = "击杀僵尸获得的任何经验值将乘以该值",
 
+------ 3594285774 ------
+
+
 ------ 3438759949 ------
 
 Sandbox_HydeCoAirportHotelOptions = "海德公司无限车辆-机场酒店区设置",
@@ -3421,6 +3438,9 @@ Sandbox_HydeCoUnlimitedCars_ChanceToSpawnNormal_tooltip = "生成完好无损车
 Sandbox_HydeCoUnlimitedCars_ChanceToSpawnSpecial_tooltip = "生成特殊型号车辆的几率.",
 Sandbox_HydeCoUnlimitedCars_SpawnRate = "生成频率",
 Sandbox_HydeCoUnlimitedCars_SpawnRate_tooltip = "设置车辆在地图中的生成频率.",
+
+------ 3560836822 ------
+
 
 ------ 2969478819 ------
 
@@ -3568,6 +3588,12 @@ Sandbox_InfectionScanner = "感染扫描器",
 Sandbox_InfectionScanner_SporeZoneRadius = "孢子检测范围 [格]",
 Sandbox_InfectionScanner_SporeZoneRadius_tooltip = "<RED> <CENTRE> [需要Braven的虫草菌孢子区域MOD] <BR> <LEFT> <RGB:1,1,1> 扫描器的孢子检测模式范围. 设置过高可能严重影响游戏性能.",
 
+------ 3437429771 ------
+
+Sandbox_Injectors = "注射器",
+Sandbox_Injectors_config_notice = "配置文件已移至 'media/lua/server/Config' 文件夹.",
+Sandbox_Injectors_config_notice_tooltip = ".lua 文件更易于使用，甚至包含注释和提示以便于理解 :3",
+
 ------ 3397561666 ------
 
 Sandbox_InventoryTetris = "几何物品栏",
@@ -3625,6 +3651,20 @@ Sandbox_IMNAL_playerBaseTimer = "Base timer for other player already smoking",
 Sandbox_IMNAL_stoveBaseTimer = "Base timer for stoves",
 Sandbox_IMNAL_stoveSmokingLength = "炉灶吸烟时长, 460 为原版默认值, 数值越小消失越快",
 Sandbox_IMightNeedALighter = "I Might Need A Lighter",
+
+------ 3591708775 ------
+
+Sandbox_JBFireflyOptions = "JB的萤火虫",
+Sandbox_JBFireflyOptions_endDay = "萤火虫季节的年度结束日",
+Sandbox_JBFireflyOptions_hideCantSee = "隐藏玩家视野外的萤火虫",
+Sandbox_JBFireflyOptions_maxFireflyInstances = "屏幕上显示的最大萤火虫数量",
+Sandbox_JBFireflyOptions_maxSpawn = "每 # 游戏刻内生成的最大萤火虫数量",
+Sandbox_JBFireflyOptions_minSpawn = "每 # 游戏刻内生成的最小萤火虫数量",
+Sandbox_JBFireflyOptions_overSample = "为获得理想生成区域的过采样循环次数",
+Sandbox_JBFireflyOptions_spawnArea = "萤火虫在玩家周围生成的范围 (方格)",
+Sandbox_JBFireflyOptions_startDay = "萤火虫季节的年度开始日",
+Sandbox_JBFireflyOptions_taperDays = "萤火虫渐显和渐隐所需的天数",
+Sandbox_JBFireflyOptions_ticksToSpawn = "每 # 游戏刻生成一次萤火虫",
 
 ------ 3470426196 ------
 
@@ -5136,21 +5176,21 @@ Sandbox_MHFirearms_StenGuns_Enable = "允许生成Sten MK2和Sten MK6",
 
 ------ 3543229299 ------
 
-Sandbox_RVAddon = "Project RV - 车辆",
+Sandbox_RVAddon = "房车计划 - 车辆",
 Sandbox_RVAddon_Custom3x2Caravan = "额外 3x2 房车",
-Sandbox_RVAddon_Custom3x2Caravan_tooltip = "以逗号分隔的 3x2 大篷车/拖车列表.",
+Sandbox_RVAddon_Custom3x2Caravan_tooltip = "以逗号分隔的 3x2 大篷车/拖车脚本名称列表.",
 Sandbox_RVAddon_Custom3x6Caravan = "额外 3x6 房车",
-Sandbox_RVAddon_Custom3x6Caravan_tooltip = "以逗号分隔的 3x6 大篷车/拖车列表.",
-Sandbox_RVAddon_Custom3x7Empty = "额外的空3x7拖车",
-Sandbox_RVAddon_Custom3x7Empty_tooltip = "以逗号分隔的空 3x7 拖车列表.",
-Sandbox_RVAddon_Custom4x12colossal = "额外的 4x12 巨型车辆",
-Sandbox_RVAddon_Custom4x12colossal_tooltip = "以逗号分隔的 4x12 巨型车辆脚本名称列表.",
-Sandbox_RVAddon_CustomBusVehicles = "加开巴士",
-Sandbox_RVAddon_CustomBusVehicles_tooltip = "以逗号分隔的总线列表.",
-Sandbox_RVAddon_CustomNormalVehicles = "额外 (普通)车辆",
-Sandbox_RVAddon_CustomNormalVehicles_tooltip = "以逗号分隔的脚本名称列表 (例如, Base.Van,Base.StepVan,Base.VanSpiffo).",
-Sandbox_RVAddon_CustomSmallVehicles = "超小型车辆",
-Sandbox_RVAddon_CustomSmallVehicles_tooltip = "以逗号分隔的小型车辆列表.",
+Sandbox_RVAddon_Custom3x6Caravan_tooltip = "以逗号分隔的 3x6 房车/拖车脚本名称列表.",
+Sandbox_RVAddon_Custom3x7Empty = "额外 3x7 空拖车",
+Sandbox_RVAddon_Custom3x7Empty_tooltip = "以逗号分隔的 3x7 空拖车脚本名称列表.",
+Sandbox_RVAddon_Custom4x12colossal = "额外  4x12 大型车辆",
+Sandbox_RVAddon_Custom4x12colossal_tooltip = "以逗号分隔的 4x12 大型车辆脚本名称列表.",
+Sandbox_RVAddon_CustomBusVehicles = "额外 巴士",
+Sandbox_RVAddon_CustomBusVehicles_tooltip = "以逗号分隔的巴士脚本名称列表.",
+Sandbox_RVAddon_CustomNormalVehicles = "额外 车辆 (普通)",
+Sandbox_RVAddon_CustomNormalVehicles_tooltip = "以逗号分隔的车辆脚本名称列表 (例如, Base.Van,Base.StepVan,Base.VanSpiffo).",
+Sandbox_RVAddon_CustomSmallVehicles = "额外 小型车辆",
+Sandbox_RVAddon_CustomSmallVehicles_tooltip = "以逗号分隔的小型车辆脚本名称列表.",
 
 ------ 3428650803 ------
 
@@ -6142,24 +6182,10 @@ Sandbox_ResidentEvilSuspendersWeightReduction = "生化背带减重率",
 
 ------ 3282789883 ------
 
-Sandbox_Airdrop = "空投",
 Sandbox_RandomAirdrops_AirdropConsoleDebug = "调试缓存日志",
 Sandbox_RandomAirdrops_AirdropConsoleDebugCoordinates = "调试坐标日志",
 Sandbox_RandomAirdrops_AirdropConsoleDebugCoordinates_tooltip = "当空投生成时打印坐标调试信息 (禁用此功能将无法通过 server-console.txt 获知空投生成的具体时间和位置)",
 Sandbox_RandomAirdrops_AirdropConsoleDebug_tooltip = "在控制台打印空投缓存调试信息",
-Sandbox_RandomAirdrops_AirdropDisableDespawn = "禁用空投消失",
-Sandbox_RandomAirdrops_AirdropDisableDespawn_tooltip = "移除空投的游戏内小时自动消失系统",
-Sandbox_RandomAirdrops_AirdropDisableOldDespawn = "禁用旧版消失机制",
-Sandbox_RandomAirdrops_AirdropDisableOldDespawn_tooltip = "禁用服务器/游戏启动时立即清除所有空投的机制",
-Sandbox_RandomAirdrops_AirdropFrequency = "空投生成频率 (强烈建议改成1!!!)",
-Sandbox_RandomAirdrops_AirdropFrequency_tooltip = "每小时生成空投的概率 (每天最多触发一次) !!!",
-Sandbox_RandomAirdrops_AirdropRemovalTimer = "空投移除时间",
-Sandbox_RandomAirdrops_AirdropRemovalTimer_tooltip = "空投在游戏中存在的小时数 (超过后自动消失), 用于模拟抢空投, 提高紧迫性.",
-Sandbox_RandomAirdrops_AirdropTickCheck = "空投区块检查间隔",
-Sandbox_RandomAirdrops_AirdropTickCheck_tooltip = "最重要的性能参数, 影响服务器每隔多少tick检测玩家是否处于空投区域 (若玩家未渲染该区域则不会生成/保留空投) 默认即可.",
-Sandbox_RandomAirdrops_DefaultAirdropCoordinates = " (萌新不要取消)使用默认空投坐标",
-Sandbox_RandomAirdrops_DefaultAirdropCoordinates_tooltip = "启用后 - 模组将使用默认坐标表; <br>禁用后 - 将使用 Zomboid lua 文件夹中的 AirdropPosition.ini 文件. <BR>如何创建自定义生成位置 - 请阅读模组说明.",
-Sandbox_RandomAirdrops_DefaultAirdropLootTable = " (萌新不要取消)使用默认空投战利品表",
 Sandbox_RandomAirdrops_DefaultAirdropLootTable_tooltip = "启用后 - 模组将使用默认战利品表; <br>禁用后 - 将使用 Zomboid lua 文件夹中的 AirdropLootTable.ini 文件. <BR>如何创建自定义战利品表 - 请阅读模组说明.",
 
 ------ 2675128168 ------
@@ -6548,6 +6574,12 @@ Sandbox_SafeLogin.InvisibilityDuration = "移动后计时器",
 Sandbox_SafeLogin.InvisibilityDuration_tooltip = "首次移动后, 多少秒后隐身效果会被移除?",
 Sandbox_SafeLogin.MaxStillTime = "静止隐身计时器",
 Sandbox_SafeLogin.MaxStillTime_tooltip = "进入游戏后, 玩家保持静止多少秒后会被强制显形?",
+
+------ 3591562181 ------
+
+Sandbox_SafeIndoorCampfire = "安全的室内营火",
+Sandbox_SafeIndoorCampfire_Set_solidtrans = "为营火添加碰撞体积",
+Sandbox_SafeIndoorCampfire_Set_solidtrans_tooltip = "为营火添加碰撞体积以防止烧伤. 更改此选项后需要重新进入游戏.",
 
 ------ 3409143790 ------
 
@@ -7398,11 +7430,20 @@ Sandbox_STA_PryOpen_PryTimeVehicle = "撬车门动作时间",
 Sandbox_STA_PryOpen_PryTimeVehicle_tooltip = "尝试撬开车门所需的秒数.",
 Sandbox_STA_PryOpen_PryTimeWindow = "撬窗动作时间",
 Sandbox_STA_PryOpen_PryTimeWindow_tooltip = "尝试撬开建筑窗户所需的秒数.",
+Sandbox_STA_PryOpen_PryLevelGarage_tooltip = "玩家撬开车库门所需的最低力量等级.",
+Sandbox_STA_PryOpen_PryChanceMultiplierSecure_tooltip = "撬开安全门的成功率乘数 (在加成后应用).",
+Sandbox_STA_PryOpen_PryLevelVehicle_tooltip = "玩家撬开车门所需的最低力量等级.",
+Sandbox_STA_PryOpen_PryLevelTrunk_tooltip = "玩家撬开车辆后备箱所需的最低力量等级.",
+Sandbox_STA_PryOpen_PryChanceInjurySeverity01_tooltip = "手部受伤为刮伤的百分比几率.",
+Sandbox_STA_PryOpen_PryChanceInjurySeverity02_tooltip = "手部受伤为撕裂伤的百分比几率.",
+Sandbox_STA_PryOpen_PryChanceInjurySeverity03_tooltip = "手部受伤为深伤口的百分比几率.",
+Sandbox_STA_PryOpen_PryBonusSkillSneak_tooltip = "每级潜行技能减少的撬棍噪音格数.",
 Sandbox_STA_PryOpen_PryEnableAlarm = "触发车辆/建筑警报当警报触发几率 % 满足时 (否则, 警报仅在触发几率 % 满足且车辆/建筑警报原先已启用时才会触发).",
 Sandbox_STA_PryOpen_PryChanceDurability = "耐久损失率 %",
 Sandbox_STA_PryOpen_PryChanceDurability_tooltip = "尝试撬开后撬棍损失耐久度的百分比几率.",
 Sandbox_STA_PryOpen_PryBonusSkillMaintenance = "每级维护技能耐久减免",
 Sandbox_STA_PryOpen_PryBonusSkillMaintenance_tooltip = "每级保养维护减少的耐久损失几率.",
+Sandbox_STA_PryOpen_PryEnableAlarmForce_tooltip = "当“警报几率”触发时，强制启用车辆/建筑警报 (否则，警报仅在“警报几率”触发且车辆/建筑本身有警报时才会触发)。",
 
 ------ 3409836763 ------
 
@@ -7470,6 +7511,9 @@ Sandbox_TableSawSplintersPro = "木屑减重比率",
 Sandbox_TableSawTreeBranch2Pro = "树枝减重比率",
 Sandbox_TableSawTwigsPro = "小树枝减重比率",
 
+------ 3592172476 ------
+
+
 ------ 3389605231 ------
 
 Sandbox_ColorEnum_option1 = "禁用",
@@ -7504,6 +7548,70 @@ Sandbox_TheBestLockpicking_LockpickingMode = "开锁模式",
 Sandbox_TheBestLockpicking_LockpickingMode_Values_option1 = "旧版",
 Sandbox_TheBestLockpicking_LockpickingMode_Values_option2 = "新版 (可能存在错误)",
 Sandbox_TheBestLockpicking_LockpickingMode_tooltip = "选择开锁系统: 旧版 (简易) 或新版 (使用发夹)",
+
+------ 2953621037 ------
+
+Sandbox_CalmBeforeTheStorm = "风暴前的宁静",
+Sandbox_CalmPhaseDuration = "平静阶段持续时间",
+Sandbox_CalmPhaseDuration_tooltip = "在风暴阶段开始前, 丧尸集结成尸潮所花费的游戏内小时数.",
+Sandbox_CooldownPhaseDuration = "冷却阶段持续时间",
+Sandbox_CooldownPhaseDuration_tooltip = "平静阶段开始前的游戏内小时数.",
+Sandbox_DebugMinutesToUpdateConsole = "控制台输出延迟",
+Sandbox_DebugMinutesToUpdateConsole_tooltip = "每隔指定的游戏内分钟数更新一次.此选项可防止服务器主的控制台被大量信息刷屏.",
+Sandbox_EnableLogging = "启用日志记录",
+Sandbox_EnableLogging_tooltip = "允许用户在游戏聊天框中启用日志记录, 显示有关当前或未来阶段计时的各种信息.",
+Sandbox_HordeDistance = "尸潮距离",
+Sandbox_HordeDistance_tooltip = "尸潮在距离玩家多少格的位置形成.",
+Sandbox_HordeRadius = "尸潮半径",
+Sandbox_HordeRadius_tooltip = "丧尸将被召唤到尸潮位置周围多少格的半径范围内.",
+Sandbox_MaxCalmPhaseDuration = "平静阶段最长持续时间",
+Sandbox_MaxCalmPhaseDuration_tooltip = "在风暴阶段开始前, 丧尸集结成尸潮所花费的最长游戏内小时数. (警告：仅在“随机持续时间”时此数值才会生效)",
+Sandbox_MaxCooldownPhaseDuration = "冷却阶段最长持续时间",
+Sandbox_MaxCooldownPhaseDuration_tooltip = "平静阶段开始前的最长游戏内小时数. (警告：仅在勾选“随机持续时间”时值才会生效)",
+Sandbox_MaxNumChasingZombies = "每名玩家最大追逐丧尸数",
+Sandbox_MaxNumChasingZombies_tooltip = "在风暴阶段, 同时追踪单个玩家的丧尸数量上限.设为0则无上限.",
+Sandbox_MaxStormPhaseDuration = "风暴阶段最长持续时间",
+Sandbox_MaxStormPhaseDuration_tooltip = "在风暴阶段, 丧尸追猎幸存者所花费的最长游戏内小时数. (警告：仅在勾选“随机持续时间”时此数值才会生效)",
+Sandbox_MigrateToEast = "向东迁徙",
+Sandbox_MigrateToEast_tooltip = "允许丧尸向玩家东侧迁徙.",
+Sandbox_MigrateToNorth = "向北迁徙",
+Sandbox_MigrateToNorthEast = "向东北迁徙",
+Sandbox_MigrateToNorthEast_tooltip = "允许丧尸向玩家东北侧迁徙.",
+Sandbox_MigrateToNorthWest = "向西北迁徙",
+Sandbox_MigrateToNorthWest_tooltip = "允许丧尸向玩家西北侧迁徙.",
+Sandbox_MigrateToNorth_tooltip = "允许丧尸向玩家北侧迁徙.",
+Sandbox_MigrateToSouth = "向南迁徙",
+Sandbox_MigrateToSouthEast = "向东南迁徙",
+Sandbox_MigrateToSouthEast_tooltip = "允许丧尸向玩家东南侧迁徙.",
+Sandbox_MigrateToSouthWest = "向西南迁徙",
+Sandbox_MigrateToSouthWest_tooltip = "允许丧尸向玩家西南侧迁徙.",
+Sandbox_MigrateToSouth_tooltip = "允许丧尸向玩家南侧迁徙.",
+Sandbox_MigrateToWest = "向西迁徙",
+Sandbox_MigrateToWest_tooltip = "允许丧尸向玩家西侧迁徙.",
+Sandbox_MinCalmPhaseDuration = "平静阶段最短持续时间",
+Sandbox_MinCalmPhaseDuration_tooltip = "在风暴阶段开始前, 丧尸集结成尸潮所花费的最短游戏内小时数. (警告：仅在“随机持续时间”时此数值才会生效)",
+Sandbox_MinCooldownPhaseDuration = "冷却阶段最短持续时间",
+Sandbox_MinCooldownPhaseDuration_tooltip = "平静阶段开始前的最短游戏内小时数. (警告：仅在勾选“随机持续时间”时值才会生效)",
+Sandbox_MinStormPhaseDuration = "风暴阶段最短持续时间",
+Sandbox_MinStormPhaseDuration_tooltip = "在风暴阶段, 丧尸追猎幸存者所花费的最短游戏内小时数. (警告：仅在勾选“持续时间”时此数值才会生效)",
+Sandbox_MinutesBetweenCalmPhaseUpdates = "平静阶段更新频率",
+Sandbox_MinutesBetweenCalmPhaseUpdates_tooltip = "每次平静阶段更新之间的间隔分钟数.",
+Sandbox_MinutesBetweenZombieCalls = "风暴阶段更新频率",
+Sandbox_MinutesBetweenZombieCalls_tooltip = "每次风暴阶段更新之间的间隔分钟数.",
+Sandbox_PlayerPositionOffset = "尸潮分散度",
+Sandbox_PlayerPositionOffset_tooltip = "将尸潮目标位置在玩家附近进行随机偏移, 偏移值在0到设定值之间.这能让尸起来不那么集中, 行动也更分散.",
+Sandbox_RandomDurationFlag = "启用随机持续时间",
+Sandbox_RandomDurationFlag_tooltip = "如果启用, 不同阶段的持续时间将在下方设定的范围内随机取值.",
+Sandbox_SoundEffects = "启用音效",
+Sandbox_SoundEffects_tooltip = "允许在风暴阶段开始时播放音效.",
+Sandbox_SoundType = "音效类型",
+Sandbox_SoundType_option1 = "禁用",
+Sandbox_SoundType_option2 = "经典",
+Sandbox_SoundType_option3 = "默认",
+Sandbox_StormAlertMessage = "尸潮警报信息",
+Sandbox_StormAlertMessage_tooltip = "风暴阶段开始时, 将显示在玩家头顶的信息. (可选)",
+Sandbox_StormPhaseDuration = "风暴阶段持续时间",
+Sandbox_StormPhaseDuration_tooltip = "在风暴阶段, 丧尸追猎幸存者所花费的游戏内小时数.",
 
 ------ 3559704439 ------
 
@@ -7899,6 +8007,11 @@ Sandbox_TrueCrawl_AimingCritChanceBonusWhileProne_tooltip = "设置俯卧瞄准�
 Sandbox_TrueCrawl_AimingHitChanceBonusWhileProne = "俯卧命中几率加成",
 Sandbox_TrueCrawl_AimingHitChanceBonusWhileProne_tooltip = "设置俯卧瞄准时获得的命中几率加成. [默认为 50]",
 
+------ 3590632059 ------
+
+Sandbox_CBBMods_AllowTrunkOrganizerSpawn = "允许生成后备箱升级套件",
+Sandbox_CBBMods_AllowTrunkOrganizerSpawn_tooltip = "关闭此选项，后备箱升级套件将不会在游戏中生成。",
+
 ------ 3409723807 ------
 
 Sandbox_UH1BHuey = "UH-1B 休伊直升机",
@@ -8092,6 +8205,8 @@ Sandbox_VMZ_VehiCond_tooltip = "设置军用区域生成车辆部件的损坏程
 Sandbox_VRO = "车辆维修大修",
 Sandbox_VRO_EnableEngineRebuild = "发动机翻新",
 Sandbox_VRO_EnableEngineRebuild_tooltip = "切换是否可以在游戏中进行发动机翻新操作.",
+Sandbox_VRO_UseVanillaFixingRecipes = "旧修理系统。",
+Sandbox_VRO_UseVanillaFixingRecipes_tooltip = "使用原始的修理系统，允许修复到位，不使用焊接面具，任何声音或动画。",
 
 ------ 2983905789 ------
 
@@ -8551,6 +8666,12 @@ Sandbox_WashSmart = "洗涤菜单改进版",
 Sandbox_WashSmart_AllowTaintedWater = "允许使用污水清洁布料",
 Sandbox_WashSmart_AllowTaintedWater_tooltip = "启用后, 可使用污水清洁布块、绷带和布条.",
 
+------ 3591049094 ------
+
+Sandbox_SWWatchYourTrunk = "注意你的后备箱",
+Sandbox_SWWatchYourTrunk_Realistic = "真实模式",
+Sandbox_SWWatchYourTrunk_Realistic_tooltip = "在原版游戏中,只有转向会影响相关概率.开启此项后,车速和越野驾驶也将被纳入计算.",
+
 ------ 2849467715 ------
 
 Sandbox_WaterGoesBad = "水质变质",
@@ -8707,7 +8828,6 @@ Sandbox_JordanalSpawns.Desert_Camo_UnitChance_tooltip = "采用百分比计算, 
 
 ------ 3521263771 ------
 
-Sandbox_JordanalSpawns = "J&G 制服生成",
 Sandbox_JordanalSpawns.FirFighter_UnitChance_FireDept_tooltip = "此为百分比数值, 但此几率会与其他服装类型的生成共享, 因此即使设为 100, 您也不会只遇到穿着此服装的僵尸",
 Sandbox_JordanalSpawns.FireFighter_UnitChance_FireDept = "消防员单位在消防局区域内的单位生成几率 (百分比)",
 
