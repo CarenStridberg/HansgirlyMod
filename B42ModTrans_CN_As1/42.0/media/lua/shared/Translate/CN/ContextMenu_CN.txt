@@ -467,6 +467,12 @@ ContextMenu_CGUIData_Equipped = "已装备物品",
 ContextMenu_CGUIData_Hide = "隐藏",
 ContextMenu_CGUIData_Show = "显示",
 
+------ 1436878551 ------
+
+ContextMenu_Defecate = "排便",
+ContextMenu_DefecateSterilize = "消毒",
+ContextMenu_Defecated = " (已排便)",
+
 ------ 2459400130 ------
 
 ContextMenu_IdentifyAll = "识别全部",
@@ -494,7 +500,7 @@ ContextMenu_SWRechargeable_DisableFancyBagSlots = "禁用华丽背包栏位",
 ContextMenu_SWRechargeable_DisableFancyBeltSlots = "禁用华丽腰带栏位",
 ContextMenu_SWRechargeable_EnableFancyBagSlots = "启用华丽背包栏位",
 ContextMenu_SWRechargeable_EnableFancyBeltSlots = "启用华丽腰带栏位",
-ContextMenu_SWRechargeable_Full = "电池已充满",
+ContextMenu_SWRechargeable_Full = "电池已满, 无法充电",
 ContextMenu_SWRechargeable_Recharge = "充电",
 
 ------ 3473886171 ------
@@ -548,7 +554,7 @@ ContextMenu_OtherSide = "穿到另一边",
 
 ------ 3475347500 ------
 
-ContextMenu_Holes = "挖几个洞!",
+ContextMenu_Holes = "撕出几个洞!",
 
 ------ 3538760023 ------
 
@@ -589,6 +595,13 @@ ContextMenu_FR_VehicleFridgeOn = "打开冰箱",
 ContextMenu_FR_VehicleOvenNoPower = "没有电源!",
 ContextMenu_FR_VehicleOvenOff = "关闭烤箱",
 ContextMenu_FR_VehicleOvenOn = "打开烤箱",
+
+------ 3616176188 ------
+
+ContextMenu_ADD_Battery_To_Laser = "为激光模块安装电池",
+ContextMenu_ADD_Battery_To_Light = "为战术手电安装电池",
+ContextMenu_Remove_Battery_To_Laser = "从激光模块移除电池",
+ContextMenu_Remove_Battery_To_Light = "从战术手电移除电池",
 
 ------ 3429953336 ------
 
@@ -2534,7 +2547,6 @@ ContextMenu_TakePropaneFromPump = "补充丙烷罐",
 ------ 3396456841 ------
 
 ContextMenu_BodilyFunctions = "身体机能",
-ContextMenu_Defecate = "排便",
 ContextMenu_DontWipe = "不擦拭",
 ContextMenu_FlushToilet = "冲马桶",
 ContextMenu_Pee = "排尿",
@@ -2713,6 +2725,36 @@ ContextMenu_WearRight = "挂在右边",
 ContextMenu_Wearback = "背在背部",
 ContextMenu_Wearchest = "穿在胸前",
 ContextMenu_Wearup = "穿上",
+
+------ 3615135168 ------
+
+ContextMenu_LabAutopsyDone = "尸检已完成",
+ContextMenu_LabCannotAutopsyHere = "你不能在这里进行尸检.",
+ContextMenu_LabClearMorgueTable = "清理停尸台",
+ContextMenu_LabClearWater = "用氯片净化",
+ContextMenu_LabClearWaterTooltip = "需要%1单位. <LINE> <RGB:1,1,1> (你有%2)",
+ContextMenu_LabCollectBloodBlood = "采集你自己的血液",
+ContextMenu_LabCorpse = "尸体",
+ContextMenu_LabCorpseAge = "死亡时间",
+ContextMenu_LabCorpseAutopsy = "进行尸检",
+ContextMenu_LabHrs = "小时",
+ContextMenu_LabInjectVaccine = "使用实验性治疗",
+ContextMenu_LabMustHaveItems = "<RGB:0.9,0.8,0.5>所需物品:<RGB:1,1,1><LINE>",
+ContextMenu_LabMustHaveItemsAnd = "以及",
+ContextMenu_LabMustHaveItemsOr = "    或者",
+ContextMenu_LabNeedAlcoholCotton = "需要酒精棉球.",
+ContextMenu_LabNeedSpectrometer = "需要分光计.",
+ContextMenu_LabNeedSyringe = "需要注射器.",
+ContextMenu_LabNo = "否",
+ContextMenu_LabPutCorpseOnTable = "将尸体放在停尸台上",
+ContextMenu_LabPutRemainsIntoBags = "将遗骸存入垃圾袋",
+ContextMenu_LabPutRemainsIntoSack = "将遗骸存入塑料袋",
+ContextMenu_LabSomethingMissing = "缺少物品.",
+ContextMenu_LabTestInfo = "检查状态",
+ContextMenu_LabTestInfoItems = "检查物品信息",
+ContextMenu_LabWasZombie = "这是一个僵尸吗?",
+ContextMenu_LabYes = "是",
+ContextMenu_TestBlood = "进行血液测试",
 
 ------ 2879960829 ------
 
@@ -3237,6 +3279,7 @@ ContextMenu_Watch_Throw_ThroughWindow = "扔过窗户",
 
 ------ 3037854728 ------
 
+ContextMenu_OpenPlushCan = "开启毛绒玩具罐头",
 ContextMenu_Tikitown_Inject = "注射药剂",
 
 ------ 3348036710 ------
@@ -3249,6 +3292,32 @@ ContextMenu_LegsLeft = "穿戴于左腿",
 ContextMenu_LegsRight = "穿戴于右腿",
 ContextMenu_Smaller = "缩小尺寸",
 ContextMenu_UpVisor = "面罩抬起",
+
+------ 3616536783 ------
+
+ContextMenu_Backwards = "反戴",
+ContextMenu_Buttonup = "扣上扣子",
+ContextMenu_Close = "扣紧穿着",
+ContextMenu_Down = "放下帽兜",
+ContextMenu_Forward = "正戴",
+ContextMenu_High = "正常穿着",
+ContextMenu_Long = "穿长款",
+ContextMenu_Low = "低腰穿着",
+ContextMenu_Open = "敞开穿着",
+ContextMenu_Over = "穿在外面",
+ContextMenu_Ripshort = "撕短 (永久)",
+ContextMenu_Short = "穿短款",
+ContextMenu_Tuck = "塞入",
+ContextMenu_UnButton = "解开扣子",
+ContextMenu_Under = "穿在里面",
+ContextMenu_Untuck = "拉出",
+ContextMenu_Unzip = "拉开拉链",
+ContextMenu_Unzip2 = "完全拉开拉链",
+ContextMenu_Up = "戴上兜帽",
+ContextMenu_WearBoth = "双侧佩戴",
+ContextMenu_WearLeft = "左侧佩戴",
+ContextMenu_WearRight = "右侧佩戴",
+ContextMenu_Zip = "拉上拉链",
 
 ------ 3417621776 ------
 

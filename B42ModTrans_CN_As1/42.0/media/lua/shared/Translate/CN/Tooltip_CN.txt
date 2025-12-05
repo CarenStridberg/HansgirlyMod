@@ -581,17 +581,28 @@ Tooltip_Fashionmancer_JacketTartan = "16种牛仔格子风格 \"夹克\" 的DIY�
 Tooltip_Fashionmancer_Necklace = "9种吊坠和1种项链的DIY教程.",
 Tooltip_Fashionmancer_Pants = "3种裤子的DIY教程. 需要2级缝纫技能.",
 
+------ 2874163136 ------
+
+Tooltip_CJ_Magazine_ExoticFirearms = "包含关于最常用非常规枪械详细描述、图表和维护任务的指导手册。",
+Tooltip_CJ_Magazine_Handguns = "包含关于最常用手枪详细描述、图表和维护任务的指导手册。",
+Tooltip_CJ_Magazine_Machineguns = "包含关于最常用机枪详细描述、图表和维护任务的指导手册。",
+Tooltip_CJ_Magazine_MarksmanRifles = "包含关于最常用精确射手步枪详细描述、图表和维护任务的指导手册。",
+Tooltip_CJ_Magazine_Rifles = "包含关于最常用步枪详细描述、图表和维护任务的指导手册。",
+Tooltip_CJ_Magazine_Shotguns = "包含关于最常用霰弹枪详细描述、图表和维护任务的指导手册。",
+Tooltip_CJ_Magazine_SniperRifles = "包含关于最常用狙击步枪详细描述、图表和维护任务的指导手册。",
+Tooltip_CJ_Magazine_Submachineguns = "包含关于最常用冲锋枪详细描述、图表和维护任务的指导手册。",
+
 ------ 3457003463 ------
 
-Tooltip_ClamShell = "可以打开以获取珍珠",
-Tooltip_FishBoneHead = "可用于钓鱼奖杯",
-Tooltip_FishingRodMould = "「可以在锻炉中用来制作改良的钓鱼竿」",
-Tooltip_Pearl = "可用于服装和改善诱饵",
-Tooltip_SmallFishScales = "可用于护甲和胶水",
-Tooltip_StrangeFish = "[复活节彩蛋物品] 参考玩家‘把大锤扔进河里’",
-Tooltip_TribTrophy1 = "恭喜Reddit用户SeconMass4, 成为第一个发布关于我的模组的用户!",
-Tooltip_TribTrophy2 = "感谢MrAtomicDuck在他的YouTube频道介绍我的模组!",
-Tooltip_TribTrophy3 = "感谢Awpenheimer在他的YouTube频道介绍我的模组!",
+Tooltip_ClamShell = "打开可以获得珍珠",
+Tooltip_FishBoneHead = "可用于制作钓鱼奖杯",
+Tooltip_FishingRodMould = "可在锻炉中制作改良钓竿",
+Tooltip_Pearl = "可用于制作衣物和改良鱼饵",
+Tooltip_SmallFishScales = "可用于制作护甲和胶水",
+Tooltip_StrangeFish = "[彩蛋物品] 致敬“把大锤扔进河里”的玩家梗",
+Tooltip_TribTrophy1 = "恭喜Reddit用户SeconMass4, 成为第一个发布关于本模组帖子的用户!",
+Tooltip_TribTrophy2 = "感谢MrAtomicDuck在其油管频道介绍本模组!",
+Tooltip_TribTrophy3 = "感谢Awpenheimer在其油管频道介绍本模组!",
 
 ------ 3300688173 ------
 
@@ -622,11 +633,11 @@ Tooltip_Clipboard_Wall = "切换剪贴板模型为可挂在墙上模式",
 ------ 3282215361 ------
 
 Tooltip_AddLine = "铁丝不足",
+Tooltip_craft_ClotheslineDesc = "用于晾晒衣物",
 Tooltip_BuildingMenuObj_ClothesHorse = "晾衣架",
 Tooltip_BuildingMenuObj_ClothesLines = "晾衣绳",
 Tooltip_ClothesHorse = "这是给衣服骑的马!",
 Tooltip_ClothesLines = "可以把衣服晾在上面, 或者不晾",
-Tooltip_craft_ClotheslineDesc = "用于晾晒衣物",
 
 ------ 3435985650 ------
 
@@ -727,6 +738,18 @@ Tooltip_item_damnstyrofoam = "泡沫塑料需配合丙酮制作泡沫糊剂.",
 Tooltip_item_damnstyrofoamPaste = "装有泡沫糊剂的容器, 用于在模具中制作新塑料部件.",
 Tooltip_item_runFlatTire = "军用级轮胎, 永远不会爆胎, 但在耐久度低时会失去抓地力.",
 
+------ 1436878551 ------
+
+Tooltip_AntiDiarrhealPill = "每3小时按需服用1粒. <br>每6小时内服用不得超过2粒.",
+Tooltip_DefecateBurnFeces = "燃烧粪便",
+Tooltip_DefecateDefault = "使用1个碎布、纸张、纸巾、卫生纸、海绵、小册子、传单、餐巾纸、文书、邮件、信件或报纸来排便.",
+Tooltip_DefecateDriving = "驾驶时无法排便.",
+Tooltip_DefecateNeed = "你需要至少1个碎布、纸张、纸巾、卫生纸、海绵、小册子、传单、餐巾纸、文书、邮件、信件或报纸来排便.",
+Tooltip_DefecateNotPotentEnough = "效力不够强.",
+Tooltip_DefecateToDefecate = "以进行排便.",
+Tooltip_DefecateUse = "使用",
+Tooltip_DefecatedSelf = "我失禁了…",
+
 ------ 3447775367 ------
 
 Tooltip_Not_enough_drink = "饮料不足",
@@ -743,6 +766,12 @@ Tooltip_Not_enough_food = "食物不足",
 ------ 3374408921 ------
 
 Tooltip_BookTitle_Efficiency = "效率",
+
+------ 3412262177 ------
+
+Tooltip_TheStar_AmmoCount = "库存弹药",
+Tooltip_TheStar_AmmoCount_Total = "总计: %1",
+Tooltip_TheStar_BatteryCharge = "剩余电量: ~ %1 小时 %2 分钟",
 
 ------ 2674541310 ------
 
@@ -805,19 +834,19 @@ Tooltip_FPYellowLineCautionTile = "一种瓷砖覆盖层, 用于促进工作场�
 
 ------ 3444499190 ------
 
-Tooltip_driedmalt = "研磨麦芽汁",
-Tooltip_fermentatedwhiskeywort = "蒸馏后进一步酿造成威士忌, 或过筛后酿造成啤酒",
-Tooltip_fermentatingwhiskeywort = "静置发酵 24 小时后再使用",
-Tooltip_germinatingmalt = "放置 2 天后再使用",
-Tooltip_maturingbeerbarrel = "放置 3 天后成熟",
-Tooltip_maturingwhiskeybarrel = "放置 4 天后成熟",
-Tooltip_maturingwinebarrel = "放置 2 天后成熟",
-Tooltip_readybarrel = "倒入桶中储存和饮用",
-Tooltip_sproutedmalt = "在窑中烘干麦芽",
-Tooltip_vinegarjar = "从罐中取出醋",
-Tooltip_whiskeypowder = "将醋和 10 升水加入发酵罐",
-Tooltip_whiskeywort = "在炉子上煮至熟透, 煮熟后倒入装有酵母的发酵桶",
-Tooltip_yeastjar = "从罐中取出酵母",
+Tooltip_driedmalt = "可研磨成麦汁粉.",
+Tooltip_fermentatedwhiskeywort = "可蒸馏后熟成制成威士忌, 或过筛后熟成制成啤酒.",
+Tooltip_fermentatingwhiskeywort = "需静置24小时以完成发酵.",
+Tooltip_germinatingmalt = "需静置2天以完成发芽.",
+Tooltip_maturingbeerbarrel = "需静置3天以完成熟成.",
+Tooltip_maturingwhiskeybarrel = "需静置4天以完成熟成.",
+Tooltip_maturingwinebarrel = "需静置2天以完成熟成.",
+Tooltip_readybarrel = "倒入桶中即可储存和饮用.",
+Tooltip_sproutedmalt = "需在窑中烘干.",
+Tooltip_vinegarjar = "从罐中取出醋.",
+Tooltip_whiskeypowder = "与10升水一同加入发酵罐.",
+Tooltip_whiskeywort = "在炉上煮沸, 然后与酵母一同倒入发酵桶.",
+Tooltip_yeastjar = "从罐中取出酵母.",
 
 ------ 2256623447 ------
 
@@ -937,6 +966,11 @@ Tooltip_item_Wick = ""那么衬里如何呢, 威克先生?" "战术衬里."",
 ------ 3042138819 ------
 
 Tooltip_FASodaJerkMagazine = "一本包含碳酸饮料配方的杂志,包括苏打糖浆.",
+
+------ 3616176188 ------
+
+Tooltip_DoubleClickToRemove = "双击移除",
+Tooltip_GunP = "按G键重新装填<br>按G键开火",
 
 ------ 3183820077 ------
 
@@ -2236,6 +2270,82 @@ Tooltip_Zongzi = "端午节活动道具，可以兑换端午限定版机甲部�
 
 Tooltip_RepairableWindows_GlassPane = "可以放置在大窗框中.",
 
+------ 3615135168 ------
+
+Tooltip_BkChemistryCourse = "看起来像一本基础化学书, 但充满了关于实验室所用不稳定试剂的手写笔记. 绝对不是应该在市面上流通的东西.",
+Tooltip_BkLaboratoryEquipment1 = "建造实验室设备的技术指南.",
+Tooltip_BkLaboratoryEquipment2 = "建造科学装饰品的手册.",
+Tooltip_BkLaboratoryEquipment3 = "操作实验室熔炉的完整指南.",
+Tooltip_BkVirologyCourses1 = "休森博士关于诺克斯事件前观察到的血液异常的早期笔记. 教授生物材料收集和分析的基础知识.",
+Tooltip_BkVirologyCourses2 = "休森博士的机密笔记. 教授疫苗和抗病毒药物制造的高级方法.",
+Tooltip_ChAmmonia = "氨水溶液. 通常用于化学反应和强力清洁.",
+Tooltip_ChHydrochloricAcidCan = "浓盐酸. 处理时需极度小心.",
+Tooltip_ChSodiumHydroxideBag = "氢氧化钠 - 用于化学合成的基本试剂.",
+Tooltip_ChSulfuricAcidCan = "高腐蚀性硫酸. 仅供专业使用.",
+Tooltip_CmpAlbuminPills = "纯化白蛋白. 改善恢复并延长疫苗效果.",
+Tooltip_CmpChlorineTablets = "净水片.",
+Tooltip_CmpFlaskWithAmmoniumSulfate = "硫酸铵 - 用于生物沉淀.",
+Tooltip_CmpFlaskWithAntibodies = "储存在烧瓶中的纯化抗体 - 对高级合成至关重要.",
+Tooltip_CmpFlaskWithBloodCells = "浓缩血细胞悬浮液.",
+Tooltip_CmpFlaskWithBloodPlasma = "纯净血浆 - 合成和药物的基础.",
+Tooltip_CmpFlaskWithHydrogenPeroxide = "浓双氧水.",
+Tooltip_CmpFlaskWithLeukocytes = "分离出的白细胞 - 提取抗体的必要步骤.",
+Tooltip_CmpFlaskWithSodiumHypochlorite = "纯化次氯酸钠 - 用于疫苗和试剂.",
+Tooltip_CmpSyringeWithAdvancedVaccine = "高级疫苗. 提供强大的暂时抵抗力和中等治愈几率.",
+Tooltip_CmpSyringeWithBlood = "通过注射器采集的血液样本. 可以进行分析.",
+Tooltip_CmpSyringeWithCure = "完全解药. 永久消除病毒感染.",
+Tooltip_CmpSyringeWithPlainVaccine = "简易疫苗. 减缓感染进程. 健康时请勿使用.",
+Tooltip_CmpSyringeWithQualityVaccine = "优质疫苗. 减缓感染的时间更长, 并有小几率治愈.",
+Tooltip_CmpSyringeWithTaintedBlood = "凝固的血液 - 无法用于研究.",
+Tooltip_CmpTestTubeWithAntibodies = "准备用于合成解药的纯化抗体.",
+Tooltip_CmpTestTubeWithInfectedBlood = "纯化的受感染血液样本 - 重要的研究材料.",
+Tooltip_DiaryPage1 = "昨晚混乱中你匆忙撕下的一页日记.",
+Tooltip_DiaryPage2 = "昨晚混乱中你匆忙撕下的一页日记.",
+Tooltip_DiaryPage3 = "昨晚混乱中你匆忙撕下的一页日记.",
+Tooltip_DiaryPage4 = "昨晚混乱中你匆忙撕下的一页日记.",
+Tooltip_DiaryPage5 = "昨晚混乱中你匆忙撕下的一页日记.",
+Tooltip_DiaryPage6 = "一张撕下的日记页, 包含如何建立实验室的笔记 - 你最后一次尝试保存你在实习期间设法学到的一些知识.",
+Tooltip_LabCentrifuge = "实验室离心机, 用于将血液分离成血浆和细胞.",
+Tooltip_LabChemistrySet = "化学工作台, 用于合成, 混合和纯化过程.",
+Tooltip_LabChromatograph = "简易色谱仪, 用于提取抗体和分离化合物. 需要附近有一台电脑.",
+Tooltip_LabDecorCaduceus = "用作装饰品的经典医疗符号.",
+Tooltip_LabDecorSkeleton = "用于教育目的的人体解剖模型.",
+Tooltip_LabDecorVirusModel = "用作科学装饰的风格化病毒模型.",
+Tooltip_LabDecorWhiteboard = "用于记录笔记和公式的白板.",
+Tooltip_LabEasel = "用于制作海报和说明标志的画架.",
+Tooltip_LabFlask = "用于储存液体和试剂的实验室烧瓶.",
+Tooltip_LabFlaskDirty = "受污染的烧瓶. 需要消毒.",
+Tooltip_LabFlaskFilledWithBleach = "装有实验室生产漂白水的烧瓶.",
+Tooltip_LabFlaskFilledWithDisinfectant = "装有实验室制造消毒水的烧瓶.",
+Tooltip_LabFlaskWater = "装有水的烧瓶. 可用于化学反应.",
+Tooltip_LabFlaskWithPurifiedWater = "准备用于化学反应的纯净水.",
+Tooltip_LabGarbageBagWithRemains = "储存在重型袋中的尸体遗骸. 处置更安全.",
+Tooltip_LabMicroscope = "台式显微镜, 用于分析细胞并从血液样本中分离白细胞.",
+Tooltip_LabMorgueTable = "用于尸检和分离生物遗骸的尸检台.",
+Tooltip_LabMuffleFurnace = "用于熔化玻璃和金属的高温熔炉.",
+Tooltip_LabNeonSignPharmacy = "代表药店的霓虹灯牌.",
+Tooltip_LabNeonSignPizza = "代表披萨店的霓虹灯牌.",
+Tooltip_LabPlasticBagWithRemains = "储存在塑料袋中的生物研究遗骸.",
+Tooltip_LabPosterBiohazard = "警告生物危害的海报.",
+Tooltip_LabPosterHumanBrain = "人脑图解海报.",
+Tooltip_LabPosterPeriodicTable = "手绘元素周期表海报.",
+Tooltip_LabPosterSexyNurse = "主题装饰护士海报.",
+Tooltip_LabPosterWashHands = "关于手部卫生的教育海报.",
+Tooltip_LabSpectrometer = "便携式分光计, 用于检测血液中是否存在僵尸病毒.",
+Tooltip_LabSyringe = "无菌一次性注射器. 用于注射和采血.",
+Tooltip_LabSyringePack = "10支装无菌一次性注射器.",
+Tooltip_LabSyringeReusable = "可重复使用玻璃注射器. 可消毒.",
+Tooltip_LabSyringeReusableUsed = "用过的可重复使用注射器. 需要消毒.",
+Tooltip_LabSyringeUsed = "用过的注射器. 不可重复使用.",
+Tooltip_LabTestResultNegative = "血液测试结果: 阴性 (未感染).",
+Tooltip_LabTestResultPositive = "血液测试结果: 阳性 (已感染).",
+Tooltip_LabTestTube = "用于生物样本的清洁试管.",
+Tooltip_LabTestTubeDirty = "受污染的试管. 必须消毒.",
+Tooltip_LabWorkbench = "坚固的工作台, 用于组装和维护设备.",
+Tooltip_MatInfectedBlood = "新鲜的僵尸感染血液样本. 极不稳定.",
+Tooltip_MatShatteredGlass = "碎玻璃. 可以重熔成容器.",
+Tooltip_MatTaintedBlood = "凝固的, 不可用的血液样本.",
+
 ------ 3409422147 ------
 
 Tooltip_FuseCoilT1 = "减少50%维修引起的噪音, 并提高25%的维修速度<br>维修设施时消耗!",
@@ -2636,12 +2746,6 @@ Tooltip_BetLock_AlarmMag = "学习警报的杂志. 您可以检查车辆/房屋�
 Tooltip_BetLock_BobbyPin = "用于开锁的物品. 还需要螺丝刀, 并且必须从开锁杂志中学习开锁",
 Tooltip_BetLock_LockpickingMag = "学习开锁的杂志. 您可以通过发夹或撬棍打开门, 窗, 车辆.",
 
------- 3412262177 ------
-
-Tooltip_TheStar_AmmoCount = "库存弹药",
-Tooltip_TheStar_AmmoCount_Total = "总计: %1",
-Tooltip_TheStar_BatteryCharge = "剩余电量: ~ %1 小时 %2 分钟",
-
 ------ 3559704439 ------
 
 Tooltip_item_EmptyTAWInhaler = "只是个空的吸入剂瓶",
@@ -2756,6 +2860,19 @@ Tooltip_TodoCaserito.VacioCortado = "这种切块的肉可以搭配烤土豆、�
 Tooltip_TodoCaserito.Vacipan = "许多摩托车工人、出租车司机和卡车司机的最爱，尤其是在足球俱乐部或体育场。",
 Tooltip_Tortitanegra = "黑糖薄饼是一种表面有红糖的小面包。它们也在咖啡馆出售，其他品种也是如此。它们被称为 Facturas。",
 
+------ 3616536783 ------
+
+Tooltip_Biker = "踩踏强度: 7/10   耐久度: 9/10",
+Tooltip_Cowboy = "踩踏强度: 5/10   耐久度: 9/10",
+Tooltip_Goth = "踩踏强度: 8/10   耐久度: 8/10",
+Tooltip_Military = "踩踏强度: 7/10   耐久度: 10/10",
+Tooltip_Mom = "别让你妈看见你穿这个",
+Tooltip_Ornamental = "上面的刺纯属装饰",
+Tooltip_Regular = "踩踏强度: 5/10   耐久度: 8/10",
+Tooltip_Squaretoe = "踩踏强度: 9/10   耐久度: 5/10",
+Tooltip_Stiletto = "踩踏强度: 10/10   耐久度: 3/10",
+Tooltip_Stomper = "踩踏强度: 8/10   耐久度: 10/10",
+
 ------ 3446203945 ------
 
 Tooltip_item_RhinoBullbar = "安装在拖车前部, 保护引擎盖和车灯.",
@@ -2824,6 +2941,10 @@ Tooltip_FixAFlat = "修理车辆轮胎.",
 Tooltip_SalvageVehicle = "使用焊工面罩和丙烷喷灯回收车辆会将其从路径中移除.车辆回收比拆解汽车残骸花费的时间更长,消耗的丙烷更多,但会获得额外物品和更高经验值.<LINE>更高的金工技能将获取更多可用回收材料.<LINE>*提示: 先移除车辆部件并清空后备箱.",
 Tooltip_eer_RebuildEngine = "发动机的品质和状况将被修复至最大值",
 
+------ 3611718925 ------
+
+Tooltip_weapon_JungleMag = "丛林并联弹匣",
+
 ------ 2999595757 ------
 
 Tooltip_Tiles = "可以贴在抹灰的墙壁上.需要抹刀.",
@@ -2849,20 +2970,8 @@ Tooltip_WP_craft_valveDesc = "允许开关管道中的水流 ",
 Tooltip_DrinkFromFilterStrawSafe = "可安全饮用.<br>滤水吸管防护.",
 Tooltip_WaterFilterStrawTaintedWarning = "污染的水源.<br>",
 
------- 2874163136 ------
-
-Tooltip_CJ_Magazine_ExoticFirearms = "包含关于最常用非常规枪械详细描述、图表和维护任务的指导手册。",
-Tooltip_CJ_Magazine_Handguns = "包含关于最常用手枪详细描述、图表和维护任务的指导手册。",
-Tooltip_CJ_Magazine_Machineguns = "包含关于最常用机枪详细描述、图表和维护任务的指导手册。",
-Tooltip_CJ_Magazine_MarksmanRifles = "包含关于最常用精确射手步枪详细描述、图表和维护任务的指导手册。",
-Tooltip_CJ_Magazine_Rifles = "包含关于最常用步枪详细描述、图表和维护任务的指导手册。",
-Tooltip_CJ_Magazine_Shotguns = "包含关于最常用霰弹枪详细描述、图表和维护任务的指导手册。",
-Tooltip_CJ_Magazine_SniperRifles = "包含关于最常用狙击步枪详细描述、图表和维护任务的指导手册。",
-Tooltip_CJ_Magazine_Submachineguns = "包含关于最常用冲锋枪详细描述、图表和维护任务的指导手册。",
-
 ------ 3569050120 ------
 
-Tooltip_DoubleClickToRemove = "双击移除",
 Tooltip_GunP = "按 G 装填<br>按 G 开火",
 
 ------ 3420478458 ------
