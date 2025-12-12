@@ -291,6 +291,25 @@ ContextMenu_RightEar = "右耳",
 ContextMenu_ShorterVersionF = "短款 (仅女性)",
 ContextMenu_SolidLens = "更换为墨镜镜片",
 
+------ 3389707527 ------
+
+ContextMenu_CDCRR_Inhale_Sialogogue = "使用唾液吸入剂",
+ContextMenu_CDCRR_Inject_Syrette_Into_Self = "将注射器注射到自己",
+ContextMenu_CDCRR_Open_CDC_Packet = "打开 CDC 包装",
+ContextMenu_CDCRR_Open_CDC_Packet_Dangerous = "打开 CDC 包装 (危险)",
+ContextMenu_CDCRR_Open_CDC_Test_Kit = "打开测试套件包装",
+ContextMenu_CDCRR_Open_Envelope = "打开信封",
+ContextMenu_CDCRR_Open_Item_Bundle = "打开物品包",
+ContextMenu_CDCRR_Recover_Needle = "从注射器取出针头",
+ContextMenu_CDCRR_Recover_Needle_Dangerous = "从注射器取出针头 (危险)",
+ContextMenu_CDCRR_Remove_Syrette_From_Packet = "从包装中取出注射器",
+ContextMenu_CDCRR_Take_Pill = "服用药丸",
+ContextMenu_CDCRR_Take_Pill_Dangerous = "服用药丸 (危险)",
+ContextMenu_CDCRR_Unpack_Tablet = "打开药片",
+ContextMenu_CDCRR_Use_Inhalant = "使用吸入剂",
+ContextMenu_CDCRR_Use_Test_Kit = "使用 KX93185 病毒测试套件",
+ContextMenu_CDCRR_View = "查看",
+
 ------ 3470478700 ------
 
 ContextMenu_DownJacketOpen = "放下兜帽并敞开",
@@ -473,6 +492,9 @@ ContextMenu_Defecate = "排便",
 ContextMenu_DefecateSterilize = "消毒",
 ContextMenu_Defecated = " (已排便)",
 
+------ 2900366269 ------
+
+
 ------ 2459400130 ------
 
 ContextMenu_IdentifyAll = "识别全部",
@@ -611,6 +633,20 @@ ContextMenu_Gauss_NoBattery = "物品栏中没有电池",
 ContextMenu_Gauss_NoCharger = "物品栏中没有电池充电器",
 ContextMenu_Gauss_Recharging = "正在充电中",
 
+------ 3411580812 ------
+
+ContextMenu_CallElevator = "呼叫电梯",
+ContextMenu_CloseDoor = "关门",
+ContextMenu_EmergencyStop = "紧急停止",
+ContextMenu_OpenDoor = "开门",
+ContextMenu_PryDoor = "撬门",
+ContextMenu_SelectFloor = "选择楼层 ",
+ContextMenu_climbIntoElevator = "爬进电梯",
+ContextMenu_climbLadderTo = "爬梯子至 ",
+ContextMenu_currentFloor = "当前楼层 ",
+ContextMenu_resetElevator = "重置该电梯",
+ContextMenu_resetElevatorButtons = "重置电梯按钮",
+
 ------ 3183820077 ------
 
 ContextMenu_Bayo_Broken = "刺刀已损坏!",
@@ -618,8 +654,8 @@ ContextMenu_FireMode_Safe = "缺少必要零件",
 ContextMenu_Guns93Naming_12ga = " 12号鹿弹",
 ContextMenu_Guns93Naming_1911A1 = "1911A1",
 ContextMenu_Guns93Naming_1991A1 = "1991A1",
-ContextMenu_Guns93Naming_357Mag38Spc = " .357/.38Spc子弹",
-ContextMenu_Guns93Naming_45Auto = " .45 Auto子弹",
+ContextMenu_Guns93Naming_357Mag38Spc = ".357/.38Spc子弹",
+ContextMenu_Guns93Naming_45Auto = ".45 Auto子弹",
 ContextMenu_Guns93Naming_A15 = "A-15",
 ContextMenu_Guns93Naming_AKLegend = "AK-47/S传奇版",
 ContextMenu_Guns93Naming_AKS = "AKS-762",
@@ -904,10 +940,6 @@ ContextMenu_TerminalID = "按终端ID搜索安全码",
 ContextMenu_UseKeycard = "使用安全门禁卡",
 ContextMenu_Use_injector = "使用注射器",
 ContextMenu_UserID = "按用户ID搜索安全码",
-
------- 3437429771 ------
-
-ContextMenu_Inject = "注射",
 
 ------ 3404876149 ------
 
@@ -1844,7 +1876,6 @@ ContextMenu_H_PerfumeUse = "使用香水",
 ContextMenu_Harmonica = "口琴",
 ContextMenu_InPain = "太疼痛了,无法进行这个动作",
 ContextMenu_InvHarvester_Harvest = "开始收割",
-ContextMenu_InvHarvester_Refill = "添加燃料",
 ContextMenu_Inventions_Fix = "修理设备",
 ContextMenu_Inventions_Ready = "准备就绪",
 ContextMenu_Inventions_Recharging = "充电中...",
@@ -2274,6 +2305,7 @@ ContextMenu_Disco_Mode_Circles = "绕圈",
 ContextMenu_Disco_Mode_Gold = "金",
 ContextMenu_Disco_Mode_Rainbow = "彩虹",
 ContextMenu_Disco_Mode_Spots = "闪动",
+ContextMenu_InvHarvester_Refill = "添加燃料",
 
 ------ 3396622780 ------
 
@@ -2427,8 +2459,8 @@ ContextMenu_SlingStyle4 = "背面",
 
 ContextMenu_GrabByCategory = "按类别拿取",
 ContextMenu_GrabByName = "按名称拿取",
-ContextMenu_NoContainerFound = "未找到合适的容器。",
-ContextMenu_NoSelection = "未选择任何物品。",
+ContextMenu_NoContainerFound = "未找到合适的容器.",
+ContextMenu_NoSelection = "未选择任何物品.",
 ContextMenu_StoreByCategory = "按类别存放",
 ContextMenu_StoreByName = "按名称存放",
 
@@ -2733,7 +2765,7 @@ ContextMenu_LabCannotAutopsyHere = "你不能在这里进行尸检.",
 ContextMenu_LabClearMorgueTable = "清理停尸台",
 ContextMenu_LabClearWater = "用氯片净化",
 ContextMenu_LabClearWaterTooltip = "需要%1单位. <LINE> <RGB:1,1,1> (你有%2)",
-ContextMenu_LabCollectBloodBlood = "采集你自己的血液",
+ContextMenu_LabCollectBloodBlood = "收集你自己的血液",
 ContextMenu_LabCorpse = "尸体",
 ContextMenu_LabCorpseAge = "死亡时间",
 ContextMenu_LabCorpseAutopsy = "进行尸检",
@@ -2741,7 +2773,7 @@ ContextMenu_LabHrs = "小时",
 ContextMenu_LabInjectVaccine = "使用实验性治疗",
 ContextMenu_LabMustHaveItems = "<RGB:0.9,0.8,0.5>所需物品:<RGB:1,1,1><LINE>",
 ContextMenu_LabMustHaveItemsAnd = "以及",
-ContextMenu_LabMustHaveItemsOr = "    或者",
+ContextMenu_LabMustHaveItemsOr = "  或者",
 ContextMenu_LabNeedAlcoholCotton = "需要酒精棉球.",
 ContextMenu_LabNeedSpectrometer = "需要分光计.",
 ContextMenu_LabNeedSyringe = "需要注射器.",
@@ -3096,6 +3128,13 @@ ContextMenu_STA_PryOpen_Vehicle_Side_Left = "左侧",
 ContextMenu_STA_PryOpen_Vehicle_Side_Right = "右侧",
 ContextMenu_STA_PryOpen_Window = "窗户",
 
+------ 2740991142 ------
+
+ContextMenu_WithMask = "带面罩",
+ContextMenu_WithTrail = "无拖尾",
+ContextMenu_WithoutMask = "无面罩",
+ContextMenu_WithoutTrail = "带拖尾",
+
 ------ 3409836763 ------
 
 ContextMenu_Left = "左臂",
@@ -3292,6 +3331,9 @@ ContextMenu_LegsLeft = "穿戴于左腿",
 ContextMenu_LegsRight = "穿戴于右腿",
 ContextMenu_Smaller = "缩小尺寸",
 ContextMenu_UpVisor = "面罩抬起",
+
+------ 3243805556 ------
+
 
 ------ 3616536783 ------
 
