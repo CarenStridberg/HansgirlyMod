@@ -28,10 +28,15 @@ UI_CMRB_Combat_InstaKill = "近战一击必杀",
 UI_CMRB_Combat_NoDelayShots = "射击无间隔",
 UI_CMRB_Combat_NotFoundItem = "手上没有持有装备",
 UI_CMRB_Combat_RefillAmmo = "补充弹药",
+UI_CMRB_Current_CraftingCheat = "瞬间制作",
+UI_CMRB_Current_InfiniteAmmo = "无限弹药",
+UI_CMRB_Disabled = "禁用",
+UI_CMRB_Enabled = "启用",
 UI_CMRB_GPS_CurrentCoord = "当前位置",
 UI_CMRB_GPS_TargetDistance = "距离目标",
 UI_CMRB_GPS_TargetLocation = "模板位置",
 UI_CMRB_ItemSpawner_Amount = "数量",
+UI_CMRB_ItemSpawner_AmountWindow = "物品生成器数量窗口",
 UI_CMRB_ItemSpawner_Name = "名字",
 UI_CMRB_ItemSpawner_Sort = "排序方式",
 UI_CMRB_ItemSpawner_Weight = "重量",
@@ -118,7 +123,7 @@ UI_CMRB_Message_ResetLevel = "技能等级已重置.",
 UI_CMRB_Message_RevertedItem = "找到物品, 将物品还原为初始值.",
 UI_CMRB_Message_RightClickDeactivation = "右键单击可禁用活动地形模式和选择模式.",
 UI_CMRB_Message_ServerChecksModIntegrity = "模组选项中已禁用完整性检查, 但服务器使用了完整性检查 (DoLuaChecksum).",
-UI_CMRB_Message_TeleportChange = "将角色位置更改为 X: %1, Y: %2, Z: %3.",
+UI_CMRB_Message_TeleportChange = "将角色位置更改为 ",
 UI_CMRB_Message_TeleportMayUnsafe_1 = "已输入Z轴值. 如果你不在上帝模式下, 这个动作可能会导致死亡.",
 UI_CMRB_Message_TeleportMayUnsafe_2 = "如果您仍想传送, 请再次按下<传送>按钮.",
 UI_CMRB_Message_TeleportUnsafe_NoChunkData = "没有找到安全的地方, 传送被取消了.",
@@ -128,8 +133,8 @@ UI_CMRB_Message_TerrainDelete = "删除模式",
 UI_CMRB_Message_TerrainTerraforming = "地形模式",
 UI_CMRB_Message_TimeCannotChange = "无法更改时间, 因为输入的值不正确.",
 UI_CMRB_Message_TimeCannotUndo = "正如最初的开发者所希望的那样, 你不能回到世界末日开始的时候.",
-UI_CMRB_Message_TimeChange_1 = "改变世界的时间到  %1/%2/%3, ",
-UI_CMRB_Message_TimeChange_2 = "%1:%2.",
+UI_CMRB_Message_TimeChange_1 = "改变世界的时间到 ",
+UI_CMRB_Message_TimeChange_2 = ":",
 UI_CMRB_Message_UnknownError = "发生未知错误.",
 UI_CMRB_Message_VehicleColorChanged = "所选车辆的颜色值已更改.",
 UI_CMRB_Message_VehicleDeselected = "您已取消选择车辆",
@@ -187,6 +192,8 @@ UI_CMRB_Object_WindowPremaUnlock = "永久解锁目标窗户",
 UI_CMRB_Object_WindowUnlock = "解锁目标窗户",
 UI_CMRB_Options_IntegrityCheck = "完整性检查功能",
 UI_CMRB_Options_Title = "作弊菜单: RB选项",
+UI_CMRB_Select_Existing_Vehicle = "选择现有车辆",
+UI_CMRB_Selection_Mode = "选择模式",
 UI_CMRB_TeleportLocation_Country_Club = "乡村俱乐部",
 UI_CMRB_TeleportLocation_Custom = "自定义",
 UI_CMRB_TeleportLocation_Dixie = "迪克西",
@@ -213,6 +220,8 @@ UI_CMRB_TeleportWindow_Z = "Z:",
 UI_CMRB_Teleport_CustomConfirm = "确认",
 UI_CMRB_Teleport_CustomDelete = "删除",
 UI_CMRB_Teleport_CustomRename = "重命名",
+UI_CMRB_Teleport_Unsafe_NoChunkData = "未找到安全土地，正在取消传送。",
+UI_CMRB_Teleport_Unsafe_OuterBorder = "输入的值超出地图范围，正在取消传送。",
 UI_CMRB_Terrain_Asphalt = "道路 (沥青)",
 UI_CMRB_Terrain_BToggle = "切换",
 UI_CMRB_Terrain_Barricade = "路障模式 (Z键)",
@@ -229,6 +238,7 @@ UI_CMRB_Terrain_Concrete = "道路 (混凝土)",
 UI_CMRB_Terrain_DToggle = "切换",
 UI_CMRB_Terrain_Delete = "删除模式 (X键)",
 UI_CMRB_Terrain_DeleteWithCorpse = "选项: 尸体",
+UI_CMRB_Terrain_DeleteWithTerrain = "选项：包含地形",
 UI_CMRB_Terrain_DeleteWithZombie = "选项: 包括僵尸",
 UI_CMRB_Terrain_DeleteWithoutDoorWindow = "选项: 除了门窗",
 UI_CMRB_Terrain_DeleteWithoutWall = "选项: 除了墙",
@@ -251,18 +261,20 @@ UI_CMRB_Terrain_ZToggle = "切换",
 UI_CMRB_Terrain_ZombieRemoveAll = "移除所有僵尸 (已加载区块)",
 UI_CMRB_Terrain_ZombieSpawn = "僵尸生成模式 (Z键)",
 UI_CMRB_Terrain_ZombieSpawnSetAmount = "设定僵尸数量",
+UI_CMRB_Test_Object = "测试对象",
 UI_CMRB_TimeWindow_Days = "日",
 UI_CMRB_TimeWindow_Hours = "时",
 UI_CMRB_TimeWindow_Minutes = "分",
 UI_CMRB_TimeWindow_Months = "月",
 UI_CMRB_TimeWindow_Years = "年",
+UI_CMRB_Tooltip_NotSupported = "不支持此功能",
 UI_CMRB_Utility_Fly = "飞行模式 (向上/向下箭头)",
 UI_CMRB_Utility_Fly_Message = "飞行模式",
 UI_CMRB_Utility_LuaEditor = "Lua脚本/文件编辑器",
 UI_CMRB_Utility_SurvivalTime = "修改生存时间",
 UI_CMRB_Utility_SurvivalTimeEdit = "编辑生存小时数",
 UI_CMRB_Utility_SurvivalTimeInvalidInput = "无效输入 - 必须是大于等于0的数字",
-UI_CMRB_Utility_SurvivalTimeSet_1 = "生存时间已设置为 ",
+UI_CMRB_Utility_SurvivalTimeSet_1 = "生存时间设置为 ",
 UI_CMRB_Utility_SurvivalTimeSet_2 = " 小时",
 UI_CMRB_Utility_TeleportCoord = "传送窗口 (基于坐标)",
 UI_CMRB_Utility_TeleportLocation = "传送窗口 (基于位置)",
@@ -313,6 +325,7 @@ UI_CMRB_VehicleSpawner_Sports = "运动",
 UI_CMRB_VehicleSpawner_Standards = "标准",
 UI_CMRB_VehicleSpawner_Trailer = "拖车",
 UI_CMRB_VehicleSpawner_Unusable = "不可用",
+UI_CMRB_Vehicles_Selection = "车辆选择",
 UI_CMRB_Warning_IntegrityCheck = "[警告]<br>禁用此选项后, 将跳过作弊菜单: RB 的完整性检查功能.<br><br>此选项适用于想要在关闭了 DoLuaChecksum 选项的服务器 (尤其是专用服务器) 上游玩的玩家.<br>此选项不会更改服务器设置或影响单人游戏, 并且即使关闭游戏后仍会保留.",
 UI_CMRB_Warning_ServerSetting = "由于服务器设置 "DoLuaCheckSum" 被设置为禁用或没有值, <br>作弊菜单: RB被禁用以防止黑客事故.",
 UI_CMRB_Window_Set = "设置",
@@ -481,10 +494,10 @@ UI_AF_OFF = "关闭",
 UI_AF_ON = "开启",
 UI_AF_SearchPattern = "搜寻路径",
 UI_AF_Spiral = "螺旋形",
-UI_AF_discardall = "丢弃所有",
 UI_AF_focusCollect = "专注收集",
 UI_AF_forageBag = "搜寻背包",
 UI_AF_walk = "行走觅食",
+UI_AF_discardall = "丢弃所有",
 
 ------ 3392699932 ------
 
@@ -729,16 +742,16 @@ UI_BanditsCreator_Zone_Occurance_Wilderness_Tooltip = "强盗将仅在城镇外�
 
 ------ 3403180543 ------
 
-UI_Trait_Charming = "魅力十足",
-UI_Trait_CharmingDesc = "人们原谅你过错的概率更高.",
-UI_Trait_Magnetizing = "极具吸引力",
-UI_Trait_MagnetizingDesc = "人们会更愿意追随你, 且对你的目标更忠诚.",
-UI_Trait_Ugly = "样貌丑陋",
-UI_Trait_UglyDesc = "人们原谅你过错的概率更低.",
 UI_optionscreen_BWO_IntroMusic = "主界面音乐",
 UI_optionscreen_BWO_Talk = "与NPC对话",
 UI_optionscreen_BWO_WeekOne = "第一周",
 UI_variantcreation_title = "选择场景",
+UI_Trait_Magnetizing = "极具吸引力",
+UI_Trait_MagnetizingDesc = "人们会更愿意追随你, 且对你的目标更忠诚.",
+UI_Trait_Charming = "魅力十足",
+UI_Trait_CharmingDesc = "人们原谅你过错的概率更高.",
+UI_Trait_Ugly = "样貌丑陋",
+UI_Trait_UglyDesc = "人们原谅你过错的概率更低.",
 
 ------ 3268487204 ------
 
@@ -1245,6 +1258,64 @@ UI_M14Clip_30 = "M14 30发扩容弹匣",
 
 ------ 3617485838 ------
 
+UI_ContextCleaner_Debug_Name = "调试模式",
+UI_ContextCleaner_Debug_Tooltip = "启用控制台日志用于错误追踪",
+UI_ContextCleaner_EnableMod_Name = "启用模组",
+UI_ContextCleaner_EnableMod_Tooltip = "启用或禁用 Context Cleaner 模组",
+UI_ContextCleaner_HideCommandConsole_Name = "隐藏Lua控制台",
+UI_ContextCleaner_HideCommandConsole_Tooltip = "启动时隐藏调试Lua/命令控制台 – 可以通过默认控制台快捷键在游戏中切换 (按键绑定 - 调试)",
+UI_ContextCleaner_HideDefaultDebug_Name = "隐藏调试菜单",
+UI_ContextCleaner_HideDefaultDebug_Tooltip = "隐藏游戏调试模式上下文菜单条目",
+UI_ContextCleaner_HideListMode_Default = "选择名称匹配模式",
+UI_ContextCleaner_HideListMode_Name = "世界隐藏列表模式",
+UI_ContextCleaner_HideList_Name = "世界隐藏列表",
+UI_ContextCleaner_HideList_Tooltip = "分号分隔的列表 (例如：“ContextTitle1;ContextTitle2;”)",
+UI_ContextCleaner_InventoryHideListMode_Default = "选择名称匹配模式",
+UI_ContextCleaner_InventoryHideListMode_Name = "物品栏隐藏列表模式",
+UI_ContextCleaner_InventoryHideList_Name = "物品栏隐藏列表",
+UI_ContextCleaner_InventoryHideList_Tooltip = "分号分隔的列表 (例如：“ContextTitle1;ContextTitle2;”)",
+UI_ContextCleaner_InventoryMoveListMode_Default = "选择名称匹配模式",
+UI_ContextCleaner_InventoryMoveListMode_Name = "物品栏移动列表模式",
+UI_ContextCleaner_InventoryMoveList_Name = "物品栏移动列表",
+UI_ContextCleaner_InventoryMoveList_Tooltip = "分号分隔的列表 (例如：“ContextTitle1;ContextTitle2;”)",
+UI_ContextCleaner_InventorySubmenuTitle_Default = "实用菜单",
+UI_ContextCleaner_InventorySubmenuTitle_Name = "物品栏子菜单标题",
+UI_ContextCleaner_InventorySubmenuTitle_Tooltip = "物品栏上下文菜单中 Context Cleaner 子菜单的名称",
+UI_ContextCleaner_MenusDisabled = "隐藏菜单已禁用",
+UI_ContextCleaner_MenusEnabled = "隐藏菜单已启用",
+UI_ContextCleaner_Mod_Name = "上下文清理器",
+UI_ContextCleaner_Mode_Exact = "精确",
+UI_ContextCleaner_Mode_Pattern = "模式",
+UI_ContextCleaner_Mode_Wildcard = "通配符",
+UI_ContextCleaner_MoveListMode_Default = "选择名称匹配模式",
+UI_ContextCleaner_MoveListMode_Name = "世界移动列表模式",
+UI_ContextCleaner_MoveList_Name = "世界移动列表",
+UI_ContextCleaner_MoveList_Tooltip = "分号分隔的列表 (例如：“ContextTitle1;ContextTitle2;”)",
+UI_ContextCleaner_ShowToggleMessages_Name = "显示消息",
+UI_ContextCleaner_ShowToggleMessages_Tooltip = "切换隐藏列表时角色会说出一句话",
+UI_ContextCleaner_StartHiddenOn_Name = "启动时隐藏",
+UI_ContextCleaner_StartHiddenOn_Tooltip = "启动时启用隐藏和调试菜单隐藏",
+UI_ContextCleaner_Title_BehaviorOptions = "行为选项",
+UI_ContextCleaner_Title_DebugAdvanced = "调试与计时 (高级)",
+UI_ContextCleaner_Title_GeneralSettings = "常规设置",
+UI_ContextCleaner_Title_InventoryMenu = "物品栏上下文菜单",
+UI_ContextCleaner_Title_Keybind = "按键绑定",
+UI_ContextCleaner_Title_WatermarkConsole = "水印和控制台",
+UI_ContextCleaner_Title_WorldMenu = "世界上下文菜单",
+UI_ContextCleaner_ToggleKey_Name = "切换菜单隐藏",
+UI_ContextCleaner_ToggleKey_Tooltip = "切换隐藏开关",
+UI_ContextCleaner_WatchdogTicks_Name = "监控器计数",
+UI_ContextCleaner_WatchdogTicks_Tooltip = "加载后重复上下文菜单处理的Tick次数。仅在某些模组加载过晚时需要增加。",
+UI_ContextCleaner_WatermarkMode_Default = "全部显示",
+UI_ContextCleaner_WatermarkMode_HideAll = "全部隐藏",
+UI_ContextCleaner_WatermarkMode_HideCheats = "仅隐藏作弊",
+UI_ContextCleaner_WatermarkMode_HideVersion = "仅隐藏版本",
+UI_ContextCleaner_WatermarkMode_Name = "水印显示",
+UI_ContextCleaner_WatermarkMode_ShowAll = "全部显示",
+UI_ContextCleaner_WatermarkMode_Tooltip = "隐藏版本水印、调试作弊显示、两者或都不隐藏",
+UI_ContextCleaner_WorldSubmenuTitle_Default = "实用菜单",
+UI_ContextCleaner_WorldSubmenuTitle_Name = "世界子菜单标题",
+UI_ContextCleaner_WorldSubmenuTitle_Tooltip = "世界上下文菜单中 Context Cleaner 子菜单的名称",
 
 ------ 3555407625 ------
 
@@ -1588,16 +1659,16 @@ UI_profdesc_farmer = "知识: <br>- 制作杀虫剂 (原料: 香烟、散装烟�
 UI_profdesc_fireofficer = "搜寻加成:<br>受天气影响减少5%<br>受黑暗影响减少10%<br>+20% 找到柴火的几率<br>+10% 找到垃圾的几率<br>",
 UI_profdesc_fisherman = "知识:<br>- 制作鱼竿<br>- 修复鱼竿<br>- 取出铁丝<br>- 制作渔网<br>- 制作鱼饵<br><br>特性:<br>+1.00 视觉半径<br>受天气影响减少 40%<br>黑暗影响减少 10%<br>+50% 几率找到昆虫或鱼饵<br>",
 UI_profdesc_fitnessInstructor = "搜寻加成:<br>+25% 的机会找到垃圾食品<br>+15% 寻找药用植物的机会<br>+5% 找到医疗用品, 野生植物和野生草本植物的机会<br>",
-UI_profdesc_mechanics = "熟悉肯塔基道路上所有车型的维护和修理.<br><br>知识:<br>- 基础技工<br>- 中级技工<br>- 高级技工<br><br>特性:<br>+33% 几率找到垃圾和杂物<br>",
 UI_profdesc_nurse = "搜寻加成:<br>+40% 找到医疗用品的机会<br>+10% 寻找药用植物的机会<br>",
 UI_profdesc_policeofficer = "搜寻加成:<br>受天气影响减少5%<br>受黑暗影响减少10%<br>+10% 找到垃圾, 废旧物品, 废旧武器和弹药的机会<br>",
 UI_profdesc_rancher = "知识: - 制作带刺铁丝网",
 UI_profdesc_repairman = "知识: <br>- 带刺铁丝网武器<br>- 螺栓球棒<br>- 制作刹车武器<br>- 制作水桶大锤<br>- 强化武器<br>- 制作园艺叉头武器<br>- 制作水壶大锤<br>- 道钉棒球棒<br>- 制作道钉短棍<br>- 制作道钉铁管<br>- 制作道钉长柄武器<br>- 制作道钉武器<br>- 制作耙头武器<br>- 制作锯片木板<br>- 制作锯片短棍<br>- 制作锯片长柄武器<br>- 制作锯片木板<br>- 制作锯片桌腿<br>- 制作锯片武器<br>- 金属板武器<br>- 制作铲头短棍<br>- 制作螺丝刀<br><br>搜寻加成: <br>+33% 发现垃圾和废品的几率",
 UI_profdesc_securityguard = "搜寻加成:<br>受天气影响减少5%<br>受黑暗影响减少10%<br>+10% 找到垃圾, 废旧物品, 废旧武器和弹药的机会<br>",
-UI_profdesc_smither = "可以建造石炉和加工金属.<br>",
-UI_profdesc_tailorProfession = "初始配方: <br>- 编织: 蒙面头套 - 防寒帽 - 茶杯垫 - 护腿袜套 - 围巾 - 袜子 - 毛衣 背心 - 羊毛帽<br>- 缝制毛皮:  靴子 - 裤子 - 外套 - 连帽衫 - 夹克 - 长袍 - 帽子 - 睡袋 - 钱包 - 腰包<br>- 缝制皮革:  护裆 - 护颈 - 工具卷 - 手套 - 水袋 - 绑腿 - 护臂 - 裤子<br>- 制作油布: 胸挂 - 背心 - 连衣裙<br>- 缝制皮革背包<br>- 组装框架背包和高级框架背包<br>- 制作垃圾袋背心和连衣裙<br>- 编织麻绳鞋<br>- 缝制枪套和双枪套<br>- 制作靴子<br>- 缝制腰带<br>- 缝制凉鞋<br>- 缝制弹药带和霰弹弹药带<br>- 缝制毛皮大衣和夹克<br>- 缝制护肘<br>- 缝制护膝<br>- 缝制布挎包<br>- 缝制及膝连衣裙和长连衣裙<br>- 缝制防寒内衣和防寒打底裤<br>- 缝制衬衫和无袖衬衫<br>- 缝制及膝裙和长裙<br>- 缝制长裤<br>",
 UI_profdesc_veteran = "搜寻加成:<br>+1.75 视觉半径<br>33% 受天气影响减少<br>15% 受黑暗影响减少<br>+50% 找到弹药的机会<br>+20% 寻找药用植物的机会<br>+10% 寻找野生植物和野菜的机会<br>+5% 寻找动物和森林稀有植物的机会<br>",
 UI_trait_nutritionist2desc = "可以看到任何食物的营养价值.<br><br>搜寻加成:<br>+0.2 视野半径<br>+5% 的机会找到垃圾食品, 药用植物, 野生植物和野生草本植物<br>",
+UI_profdesc_mechanics = "熟悉肯塔基道路上所有车型的维护和修理.<br><br>知识:<br>- 基础技工<br>- 中级技工<br>- 高级技工<br><br>特性:<br>+33% 几率找到垃圾和杂物<br>",
+UI_profdesc_smither = "可以建造石炉和加工金属.<br>",
+UI_profdesc_tailorProfession = "初始配方: <br>- 编织: 蒙面头套 - 防寒帽 - 茶杯垫 - 护腿袜套 - 围巾 - 袜子 - 毛衣 背心 - 羊毛帽<br>- 缝制毛皮:  靴子 - 裤子 - 外套 - 连帽衫 - 夹克 - 长袍 - 帽子 - 睡袋 - 钱包 - 腰包<br>- 缝制皮革:  护裆 - 护颈 - 工具卷 - 手套 - 水袋 - 绑腿 - 护臂 - 裤子<br>- 制作油布: 胸挂 - 背心 - 连衣裙<br>- 缝制皮革背包<br>- 组装框架背包和高级框架背包<br>- 制作垃圾袋背心和连衣裙<br>- 编织麻绳鞋<br>- 缝制枪套和双枪套<br>- 制作靴子<br>- 缝制腰带<br>- 缝制凉鞋<br>- 缝制弹药带和霰弹弹药带<br>- 缝制毛皮大衣和夹克<br>- 缝制护肘<br>- 缝制护膝<br>- 缝制布挎包<br>- 缝制及膝连衣裙和长连衣裙<br>- 缝制防寒内衣和防寒打底裤<br>- 缝制衬衫和无袖衬衫<br>- 缝制及膝裙和长裙<br>- 缝制长裤<br>",
 
 ------ 3406694220 ------
 
@@ -2022,10 +2093,10 @@ UI_ClothingType_FSShirt = "衬衫*",
 
 ------ 3411888105 ------
 
-UI_ClothingType_KIU0 = "KinkItUp! 槽位0",
-UI_ClothingType_KIU1 = "KinkItUp! 槽位1",
-UI_ClothingType_KIU2 = "KinkItUp! 槽位2",
 UI_ClothingType_KIU3 = "KinkItUp! 槽位3",
+UI_ClothingType_KIU2 = "KinkItUp! 槽位2",
+UI_ClothingType_KIU1 = "KinkItUp! 槽位1",
+UI_ClothingType_KIU0 = "KinkItUp! 槽位0",
 UI_ClothingType_KIUA = "KinkItUp! 槽位A",
 UI_ClothingType_KIUB = "KinkItUp! 槽位B",
 UI_ClothingType_KIUC = "KinkItUp! 槽位C",
@@ -2042,9 +2113,8 @@ UI_CraftCat_FrockinSplendor = "Frockin华丽",
 
 ------ 3538760023 ------
 
-UI_ClothingType_BathRobeCoat = "浴袍外套*",
-UI_ClothingType_FSJacketSuit = "西装夹克*",
 UI_ClothingType_JacketSuitSlim = "修身西装夹克*",
+UI_ClothingType_BathRobeCoat = "浴袍外套*",
 
 ------ 3042138819 ------
 
@@ -2478,6 +2548,9 @@ UI_Reset_All_Colletcted_tooltip = "当前加载的角色将忘记所有已收集
 UI_Track_Collected_Flyers = "追踪已收集传单",
 UI_Track_Everything_Is_Collected = "追踪已收集的所有物品",
 UI_Track_Known_Flyers = "追踪已知传单",
+
+------ 3434453874 ------
+
 
 ------ 3569031613 ------
 
@@ -4026,24 +4099,6 @@ UI_trait_LSwordMasterdesc = "长刀艺术的传奇大师. 学习制作稀有、�
 UI_trait_RSwordMaster = "稀有剑术大师",
 UI_trait_RSwordMasterdesc = "长刀艺术的稀有大师. 学习制作稀有武士刀的配方. <LINE> 长刀 +1. <LINE> 灵活 +1.",
 
------- 3580577925 ------
-
-UI_trait_ESpearMaster = "史诗长矛大师",
-UI_trait_ESpearMasterdesc = "长矛技艺方面的史诗级大师.<LINE> +2 长矛",
-UI_trait_LSpearMaster = "传奇长矛大师",
-UI_trait_LSpearMasterdesc = "在长矛技艺方面的传奇大师.学习打造传奇薙刀的配方.<LINE> +3 长矛",
-UI_trait_RSpearMaster = "稀有长矛大师",
-UI_trait_RSpearMasterdesc = "在长矛技艺方面的稀有大师.<LINE> +1 长矛",
-
------- 3575320927 ------
-
-UI_trait_EKnifeMaster = "史诗匕首大师",
-UI_trait_EKnifeMasterdesc = "短刀技艺的史诗大师. <LINE> +2 短刀. <LINE> +2 灵活.",
-UI_trait_LKnifeMaster = "传奇匕首大师",
-UI_trait_LKnifeMasterdesc = "短刀技艺的传奇大师.学习制作传奇战术匕首和刀鞘的配方.<LINE> 短刀 +3.<LINE> 灵活 +3.",
-UI_trait_RKnifeMaster = "稀有匕首大师",
-UI_trait_RKnifeMasterdesc = "短刀技艺的稀有大师.<LINE> 短刀 +1.<LINE> 灵活 +1.",
-
 ------ 3531611692 ------
 
 UI_LTSProneMessage_ICantDoThis = "我在卧倒状态下无法这么做.",
@@ -4327,9 +4382,6 @@ UI_ElectricWeapon_No_Battery = "没有电力供应!",
 UI_ElectricWeapon_Repaired = "电路已修复.",
 UI_optionscreen_binding_ElectricWeapon = "Mad Crafted",
 UI_optionscreen_binding_ElectricWeapon_ToggleMode = "切换电击模式按键设置",
-
------- 3620552991 ------
-
 
 ------ 2650547917 ------
 
@@ -4862,6 +4914,10 @@ UI_options_MTA_speedOption = "挤奶速度",
 UI_options_MTA_speedOption_skillTemplate = "+%1% / 级 (最大: %2x)",
 UI_options_MTA_speedOption_tooltip = "基于技能的选项 (%) 随动物护理等级提升, 固定倍率 (x) 始终生效.",
 
+------ 2866258937 ------
+
+UI_MiniHealth_Enable = "启用迷你健康面板",
+
 ------ 3388844542 ------
 
 UI_ImportPreset_Info = "<H1> <RGB:1,1,1> 您即将导入此预设 <LINE> <TEXT> <IMAGECENTRE:media/ui/mdbImport%1.png> <LINE> <CENTRE> <SIZE:large> <RGB:0,1,1>祝您自定义极简显示栏愉快! <LINE><LINE> ",
@@ -5192,6 +5248,19 @@ UI_trait_moredesc_zombiesbehindvisibleearlier = "后方丧尸提前可见",
 UI_trait_moredesc_zombiesbehindvisiblelater = "后方丧尸可见延迟",
 UI_trait_moredesc_zombificationspeed = "%1% 尸变速度",
 
+------ 3623919908 ------
+
+UI_trait_moredesc_motionsickness_alloccupants = "晕车影响所有乘客，驾驶员进程慢 50%",
+UI_trait_moredesc_motionsickness_forwardbackward = "晕车在前进和后退时都会发生，根据速度呈指数增加",
+UI_trait_moredesc_motionsickness_offroad = "越野时 %1% 晕车进程",
+UI_trait_moredesc_motionsickness_skidsturns = "打滑或急转弯时效果加倍",
+UI_trait_moredesc_motionsicknessprogression = "%1% 晕车进程",
+UI_profdesc_chef = "了解如何制作蛋糕面糊,馅饼面团和面包面团",
+UI_profdesc_farmer = "了解如何制作除粉喷雾和除虫喷雾来治疗植物病害",
+UI_profdesc_fisherman = "了解如何制作和修理鱼竿,如何收线,以及如何制作渔网",
+UI_trait_moredesc_slightlyincreasedropeclimbingspeed = "绳索攀爬速度略微增加",
+UI_trait_moredesc_tirednessrecoveryratewhilesleeping = "睡眠时 %1% 疲劳恢复率",
+
 ------ 3494474677 ------
 
 UI_MII_Options = "更多物品信息",
@@ -5231,7 +5300,7 @@ UI_MoreTraits_Options_MartialDamage_ToolTip = "如果你拥有武术家特质, �
 UI_MoreTraits_Options_ProwessGunsAmmo = "擅长枪械节省弹药提示",
 UI_MoreTraits_Options_ProwessGunsAmmo_ToolTip = "如果你拥有擅长: 枪械特质, 将会在防止你消耗弹药时弹出提示.",
 UI_MoreTraits_Options_ScroungerAnnounce = "拾荒者搜索提示",
-UI_MoreTraits_Options_ScroungerAnnounce_ToolTip = "如果你拥有拾荒者特质, 你的角色会大声说出其找到的物品.",
+UI_MoreTraits_Options_ScroungerAnnounce_ToolTip = "如果你拥有拾荒者或粗心特质, 你的角色会大声说出其找到的物品.",
 UI_MoreTraits_Options_ScroungerHighlight = "拾荒者高亮容器",
 UI_MoreTraits_Options_ScroungerHighlightTime = "拾荒者高亮容器: 时间",
 UI_MoreTraits_Options_ScroungerHighlightTime_ToolTip = "容器不再高亮需要经过的游戏内分钟",
@@ -5333,7 +5402,7 @@ UI_trait_idealweight = "理想体重",
 UI_trait_idealweightdesc = "你喜欢保持体重受控. <br>当体重低于78时, 卡路里获得为1.5倍<br>当体重高于82时, 卡路里获得为0.75倍",
 UI_trait_immunocompromised = "免疫功能低下",
 UI_trait_immunocompromiseddesc = "你的免疫系统扛不住感染. <br>你的伤口容易发生感染. <br>你有25%更高的几率僵尸感染. <br>提示: 即使你关闭了僵尸病毒传播, 该特质依旧可以使你被僵尸感染.",
-UI_trait_incomprehensive = "不细致",
+UI_trait_incomprehensive = "粗心",
 UI_trait_incomprehensivedesc = "你不是那么的仔细. <br>当搜寻容器的时候, 倾向于找到更少物品.",
 UI_trait_indefatigable = "不死鸟",
 UI_trait_indefatigablecooldown = "*不死鸟不再处于冷却中*",
@@ -5342,7 +5411,7 @@ UI_trait_ingenuitive = "匠心独运",
 UI_trait_ingenuitivedesc = "你解决问题有一套. <br>你自动拥有所有需要杂志或者专业知识才可以掌握的合成配方. <br> (这包括由mod增加的配方)",
 UI_trait_injured = "受伤",
 UI_trait_injureddesc = "你开始游戏时受了中等程度的伤害. <br>提示: 你不会开始于受僵尸感染, 且你的伤口是已包扎的.",
-UI_trait_leadfoot = "灌铅重踏",
+UI_trait_leadfoot = "战争践踏",
 UI_trait_leadfootdesc = "你的脚步总是很沉重, 而现在终于可以歇歇脚了——在僵尸身上. <br>你的踩踏更加强力.",
 UI_trait_martial = "武术家",
 UI_trait_martialdesc = "你曾练习武术, 并精于自我防卫. <br>+1体格<br>+1短棍<br>你的空手攻击会造成伤害. <br>伤害由短棍技能决定.",
@@ -6323,6 +6392,8 @@ UI_BF_options_ShowMoodles = "显示膀胱/肠道状态图标",
 UI_BF_options_ShowMoodles_tooltip = "是否显示基础的排尿/排便状态图标.",
 UI_BF_options_ShowSoiledMoodles = "显示尿裤子/拉裤子状态图标",
 UI_BF_options_ShowSoiledMoodles_tooltip = "是否显示尿裤子/拉裤子对应的状态图标.",
+UI_BodilyFunctions = "排泄功能",
+UI_BodilyFunctionsPanel = "身体机能面板, 可查看所有详细数值.",
 UI_BathroomFunctions_options_MoodleType = "膀胱/肠道状态图标类型 (未实装)",
 UI_BathroomFunctions_options_MoodleType_1 = "基于充盈度",
 UI_BathroomFunctions_options_MoodleType_2 = "基于需求感",
@@ -6339,8 +6410,6 @@ UI_BathroomFunctions_options_ShowMoodles = "显示膀胱/肠道状态图标",
 UI_BathroomFunctions_options_ShowMoodles_tooltip = "是否显示基础的排尿/排便状态图标.",
 UI_BathroomFunctions_options_ShowSoiledMoodles = "显示尿裤子/拉裤子状态图标",
 UI_BathroomFunctions_options_ShowSoiledMoodles_tooltip = "是否显示尿裤子/拉裤子对应的状态图标.",
-UI_BodilyFunctions = "排泄功能",
-UI_BodilyFunctionsPanel = "身体机能面板, 可查看所有详细数值.",
 
 ------ 3388468313 ------
 
@@ -6414,6 +6483,12 @@ UI_rasProfessions_rasWasteCollector = "垃圾收集工",
 UI_rasProfessions_rasWasteCollector_descr = "装备: 垃圾袋",
 UI_rasProfessions_repairman_descr = "装备: 螺丝刀",
 UI_rasProfessions_securityguard_descr = "装备: 警棍",
+
+------ 3600401184 ------
+
+IGUI_RCHeatSettingHigh = "高",
+IGUI_RCHeatSettingLow = "低",
+IGUI_RCHeatSettingMedium = "中",
 
 ------ 3516166810 ------
 
@@ -6511,8 +6586,12 @@ UI_REH_Status_Style = "样式",
 ------ 3391149570 ------
 
 
+------ 3409472393 ------
+
+
 ------ 3621388762 ------
 
+UI_CraftCat_Crafting = "制作",
 
 ------ 3587939112 ------
 
@@ -7765,7 +7844,6 @@ UI_WCIC_SeeAllRecipes_tooltip = "使用物品栏的不合适的实体直接制�
 
 ------ 3479667649 ------
 
-UI_CraftCat_Willowbrook Bastion = "柳溪镇",
 
 ------ 2987772693 ------
 
@@ -8388,8 +8466,38 @@ UI_nML_integrateMoodleFramework_tooltip = "使用'朴素状态栏'的贴图来�
 ------ 3567084868 ------
 
 UI_btn_sort_apply = "排序并应用",
+UI_mainscreen_btn_configs = "配置",
+UI_modinfopanel_AM = "上午",
+UI_modinfopanel_Author = "作者",
+UI_modinfopanel_Changelog = "更新日志",
+UI_modinfopanel_Dependencies = "依赖项",
+UI_modinfopanel_IncompatibleWith = "不兼容",
+UI_modinfopanel_LastUpdate = "最后更新",
+UI_modinfopanel_ModID = "Mod ID",
+UI_modinfopanel_Month_Short_1 = "1",
+UI_modinfopanel_Month_Short_10 = "10",
+UI_modinfopanel_Month_Short_11 = "11",
+UI_modinfopanel_Month_Short_12 = "12",
+UI_modinfopanel_Month_Short_2 = "2",
+UI_modinfopanel_Month_Short_3 = "3",
+UI_modinfopanel_Month_Short_4 = "4",
+UI_modinfopanel_Month_Short_5 = "5",
+UI_modinfopanel_Month_Short_6 = "6",
+UI_modinfopanel_Month_Short_7 = "7",
+UI_modinfopanel_Month_Short_8 = "8",
+UI_modinfopanel_Month_Short_9 = "9",
+UI_modinfopanel_PM = "下午",
+UI_modinfopanel_Status = "状态",
+UI_modinfopanel_TimeFormat_OtherYears = "{year} 年 {month} 月 {day} 日 {ampm} {hour12}:{min}",
+UI_modinfopanel_TimeFormat_ThisYear = "{month} 月 {day} 日 {ampm} {hour12}:{min}",
+UI_modinfopanel_TimeFormat_Today = "今天 {ampm} {hour12}:{min}",
+UI_modinfopanel_TimeFormat_Yesterday = "昨天 {ampm} {hour12}:{min}",
+UI_modinfopanel_Version = "版本",
+UI_modinfopanel_WorkshopID = "Workshop ID",
+UI_modinfopanel_ZomboidVersion = "游戏版本",
 UI_modlistpanel_sortBy = "排序方式:",
 UI_modlistpanel_sortBy_date = "添加日期",
+UI_modlistpanel_sortBy_dateUpdated = "更新日期",
 UI_modlistpanel_sortBy_name = "名称 (A-Z)",
 UI_modoptions_title = "模组配置",
 UI_modselector_btn_disable = "禁用",
@@ -8401,8 +8509,11 @@ UI_modselector_btn_unfavorite = "取消收藏",
 UI_modselector_disableWarningText = "禁用此模组也将同时禁用以下模组:",
 UI_modselector_disableWarningTitle = "警告!",
 UI_modselector_modOptions = "配置",
+UI_modselector_separator = "/",
 UI_modselector_showDisabledMods = "显示已禁用模组",
 UI_modselector_showHiddenMods = "显示隐藏模组",
+UI_modselector_status_installed = "最新",
+UI_modselector_status_needsUpdate = "有可用更新！",
 
 ------ 3416584592 ------
 
