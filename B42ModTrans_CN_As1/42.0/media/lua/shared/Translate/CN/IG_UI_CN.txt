@@ -36,6 +36,9 @@ IGUI_VehicleName04vwTouran = "'04款大众途安",
 IGUI_VehiclePartTOU04Roofrack = "车顶行李架",
 IGUI_VehiclePartTOU04Trunk = "后备箱",
 
+------ 3006496838 ------
+
+
 ------ 2809058492 ------
 
 IGUI_VehicleName77caprice = "雪佛兰随想曲",
@@ -3980,6 +3983,9 @@ IGUI_ItemCat_WepPart = "武器-零件",
 IGUI_ItemCat_WepRange = "武器-远程",
 IGUI_ItemCat_WepShield = "武器-盾牌",
 
+------ 3461415167 ------
+
+
 ------ 3439783176 ------
 
 IGUI_Face_Alfred = "阿尔弗雷德",
@@ -5869,6 +5875,13 @@ IGUI_VehiclePartToolboxLidRight = "右侧工具箱盖",
 IGUI_VehiclePartWindowBackLeft = "左后车窗",
 IGUI_VehiclePartWindowBackRight = "右后车窗",
 
+------ 3488113291 ------
+
+IGUI_HotbarAttachment_Sling = "武器背带",
+IGUI_HotbarAttachment_SlingAlt = "武器背带",
+IGUI_HotbarAttachment_SlingAlt2 = "武器背带",
+IGUI_HotbarAttachment_SlingAlt3 = "武器背带",
+
 ------ 3572846242 ------
 
 IGUI_DST_Agriculture_val_GrowingSeasons = "了解所有作物的生长季节",
@@ -6219,9 +6232,6 @@ IGUI_NoDream9 = "梦里发生的事我全都不记得了.",
 IGUI_perks_Driving = "驾驶",
 IGUI_perks_Driving_Description = "你的驾驶, 操控, 速度以及在碰撞中规避伤害的能力.",
 IGUI_perks_Vehicle = "车辆",
-
------- 2900366269 ------
-
 
 ------ 2459400130 ------
 
@@ -9272,6 +9282,9 @@ IGUI_PSC_Player = "玩家",
 IGUI_PSC_Vehicle = "载具",
 IGUI_PSC_VehicleType = "载具类型",
 
+------ 3624308198 ------
+
+
 ------ 2847184718 ------
 
 IGUI_ProxInv_Context_ForceSelectOff = "启用强制选择",
@@ -10630,6 +10643,9 @@ IGUI_perks_Lightfoot = "轻巧",
 IGUI_perks_PlantScavenging = "搜寻",
 IGUI_perks_Sneak = "潜行",
 
+------ 3459638181 ------
+
+
 ------ 3498347699 ------
 
 IGUI_PlayerText_SWScream = "啊啊啊啊啊啊啊!",
@@ -11608,10 +11624,10 @@ IGUI_ContainerTitle_TrainingCarTarget = "训练目标罐",
 
 ------ 3211693903 ------
 
-IGUI_perks_Traits = "特质点数",
 IGUI_perks_Traits2 = "特质点数*",
 IGUI_perks_Traits3 = "特质点数**",
 IGUI_perks_TraitsPurchaseSystem = "*",
+IGUI_perks_Traits = "特质点数",
 
 ------ 3599514194 ------
 
